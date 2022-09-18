@@ -1,0 +1,567 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" contentStyleType="text/css" height="1435px" preserveAspectRatio="none" style="width:2158px;height:1435px;background:#FFFFFF;" version="1.1" viewBox="0 0 2158 1435" width="2158px" zoomAndPan="magnify"><defs/><g><!--MD5=[73ad001b98dd01dedc7aab92789b3152]
+class Promocion--><g id="elem_Promocion"><rect codeLine="5" fill="#FFFFFF" height="123.7813" id="Promocion" rx="2.5" ry="2.5" style="stroke:#000000;stroke-width:1.0;" width="249" x="12" y="889"/><text fill="#000000" font-family="Verdana" font-size="14" lengthAdjust="spacing" textLength="77" x="98" y="906.9951">Promocion</text><line style="stroke:#000000;stroke-width:1.0;" x1="13" x2="260" y1="915.2969" y2="915.2969"/><ellipse cx="23" cy="928.9453" fill="none" rx="3" ry="3" style="stroke:#000000;stroke-width:1.0;"/><text fill="#000000" font-family="Verdana" font-size="14" lengthAdjust="spacing" textLength="42" x="30" y="932.292">id: Int</text><ellipse cx="23" cy="945.2422" fill="none" rx="3" ry="3" style="stroke:#000000;stroke-width:1.0;"/><text fill="#000000" font-family="Verdana" font-size="14" lengthAdjust="spacing" textLength="153" x="30" y="948.5889">rebajaEnPrecio: Float</text><ellipse cx="23" cy="961.5391" fill="none" rx="3" ry="3" style="stroke:#000000;stroke-width:1.0;"/><text fill="#000000" font-family="Verdana" font-size="14" lengthAdjust="spacing" textLength="158" x="30" y="964.8857">fechaInicio: DateTime</text><ellipse cx="23" cy="977.8359" fill="none" rx="3" ry="3" style="stroke:#000000;stroke-width:1.0;"/><text fill="#000000" font-family="Verdana" font-size="14" lengthAdjust="spacing" textLength="141" x="30" y="981.1826">fechaFin: DateTime</text><ellipse cx="23" cy="994.1328" fill="none" rx="3" ry="3" style="stroke:#000000;stroke-width:1.0;"/><text fill="#000000" font-family="Verdana" font-size="14" lengthAdjust="spacing" textLength="225" x="30" y="997.4795">tipoPromocion: TipoPromocion</text><line style="stroke:#000000;stroke-width:1.0;" x1="13" x2="260" y1="1004.7813" y2="1004.7813"/></g><!--MD5=[c79cfdbf7ac56cfcaa01083d741fdb61]
+class TipoPromocion--><g id="elem_TipoPromocion"><rect codeLine="13" fill="#FFFFFF" height="137.75" id="TipoPromocion" rx="2.5" ry="2.5" style="stroke:#000000;stroke-width:1.0;" width="187" x="1485" y="20"/><text fill="#000000" font-family="Verdana" font-size="12" font-style="italic" lengthAdjust="spacing" textLength="92" x="1532.5" y="36.1387">«Enumeration»</text><text fill="#000000" font-family="Verdana" font-size="14" lengthAdjust="spacing" textLength="109" x="1524" y="51.9639">TipoPromocion</text><line style="stroke:#000000;stroke-width:1.0;" x1="1486" x2="1671" y1="60.2656" y2="60.2656"/><text fill="#000000" font-family="Verdana" font-size="14" lengthAdjust="spacing" textLength="129" x="1491" y="77.2607">PagueLleveUnidad</text><text fill="#000000" font-family="Verdana" font-size="14" lengthAdjust="spacing" textLength="155" x="1491" y="93.5576">DescuentoPorcentaje</text><text fill="#000000" font-family="Verdana" font-size="14" lengthAdjust="spacing" textLength="145" x="1491" y="109.8545">PagueLleveCantidad</text><text fill="#000000" font-family="Verdana" font-size="14" lengthAdjust="spacing" textLength="175" x="1491" y="126.1514">Pague1LleveDescuento2</text><text fill="#000000" font-family="Verdana" font-size="14" lengthAdjust="spacing" textLength="52" x="1491" y="142.4482">Combo</text><line style="stroke:#000000;stroke-width:1.0;" x1="1486" x2="1671" y1="149.75" y2="149.75"/></g><!--MD5=[e08ef14289e56909525bb38662047afb]
+class Contenedor--><g id="elem_Contenedor"><rect codeLine="21" fill="#FFFFFF" height="140.0781" id="Contenedor" rx="2.5" ry="2.5" style="stroke:#000000;stroke-width:1.0;" width="267" x="1223" y="489"/><text fill="#000000" font-family="Verdana" font-size="14" lengthAdjust="spacing" textLength="86" x="1313.5" y="506.9951">Contenedor</text><line style="stroke:#000000;stroke-width:1.0;" x1="1224" x2="1489" y1="515.2969" y2="515.2969"/><ellipse cx="1234" cy="528.9453" fill="none" rx="3" ry="3" style="stroke:#000000;stroke-width:1.0;"/><text fill="#000000" font-family="Verdana" font-size="14" lengthAdjust="spacing" textLength="42" x="1241" y="532.292">id: Int</text><ellipse cx="1234" cy="545.2422" fill="none" rx="3" ry="3" style="stroke:#000000;stroke-width:1.0;"/><text fill="#000000" font-family="Verdana" font-size="14" lengthAdjust="spacing" textLength="243" x="1241" y="548.5889">tipoContenedor: TipoContenedor</text><ellipse cx="1234" cy="561.5391" fill="none" rx="3" ry="3" style="stroke:#000000;stroke-width:1.0;"/><text fill="#000000" font-family="Verdana" font-size="14" lengthAdjust="spacing" textLength="239" x="1241" y="564.8857">tipoProducto: CategoriaProducto</text><ellipse cx="1234" cy="577.8359" fill="none" rx="3" ry="3" style="stroke:#000000;stroke-width:1.0;"/><text fill="#000000" font-family="Verdana" font-size="14" lengthAdjust="spacing" textLength="234" x="1241" y="581.1826">capacidadMaximaVolumen: Float</text><ellipse cx="1234" cy="594.1328" fill="none" rx="3" ry="3" style="stroke:#000000;stroke-width:1.0;"/><text fill="#000000" font-family="Verdana" font-size="14" lengthAdjust="spacing" textLength="205" x="1241" y="597.4795">capacidadMaximaPeso: Float</text><ellipse cx="1234" cy="610.4297" fill="none" rx="3" ry="3" style="stroke:#000000;stroke-width:1.0;"/><text fill="#000000" font-family="Verdana" font-size="14" lengthAdjust="spacing" textLength="194" x="1241" y="613.7764">nivelAbastecimiento: Float</text><line style="stroke:#000000;stroke-width:1.0;" x1="1224" x2="1489" y1="621.0781" y2="621.0781"/></g><!--MD5=[0ccab583f27dab48d43ec9cfb5626142]
+class TipoContenedor--><g id="elem_TipoContenedor"><rect codeLine="30" fill="#FFFFFF" height="105.1563" id="TipoContenedor" rx="2.5" ry="2.5" style="stroke:#000000;stroke-width:1.0;" width="124" x="1707.5" y="36.5"/><text fill="#000000" font-family="Verdana" font-size="12" font-style="italic" lengthAdjust="spacing" textLength="92" x="1723.5" y="52.6387">«Enumeration»</text><text fill="#000000" font-family="Verdana" font-size="14" lengthAdjust="spacing" textLength="118" x="1710.5" y="68.4639">TipoContenedor</text><line style="stroke:#000000;stroke-width:1.0;" x1="1708.5" x2="1830.5" y1="76.7656" y2="76.7656"/><text fill="#000000" font-family="Verdana" font-size="14" lengthAdjust="spacing" textLength="54" x="1713.5" y="93.7607">Bodega</text><text fill="#000000" font-family="Verdana" font-size="14" lengthAdjust="spacing" textLength="87" x="1713.5" y="110.0576">LocalVentas</text><text fill="#000000" font-family="Verdana" font-size="14" lengthAdjust="spacing" textLength="56" x="1713.5" y="126.3545">Estante</text><line style="stroke:#000000;stroke-width:1.0;" x1="1708.5" x2="1830.5" y1="133.6563" y2="133.6563"/></g><!--MD5=[35a64b983c79880384a2fd9b61f0c24b]
+class Usuario--><g id="elem_Usuario"><rect codeLine="36" fill="#FFFFFF" height="188.9688" id="Usuario" rx="2.5" ry="2.5" style="stroke:#000000;stroke-width:1.0;" width="204" x="1122.5" y="1240"/><text fill="#000000" font-family="Verdana" font-size="14" lengthAdjust="spacing" textLength="51" x="1199" y="1257.9951">Usuario</text><line style="stroke:#000000;stroke-width:1.0;" x1="1123.5" x2="1325.5" y1="1266.2969" y2="1266.2969"/><ellipse cx="1133.5" cy="1279.9453" fill="none" rx="3" ry="3" style="stroke:#000000;stroke-width:1.0;"/><text fill="#000000" font-family="Verdana" font-size="14" lengthAdjust="spacing" textLength="168" x="1140.5" y="1283.292">numeroDocumento: Int</text><ellipse cx="1133.5" cy="1296.2422" fill="none" rx="3" ry="3" style="stroke:#000000;stroke-width:1.0;"/><text fill="#000000" font-family="Verdana" font-size="14" lengthAdjust="spacing" textLength="110" x="1140.5" y="1299.5889">nombre: String</text><ellipse cx="1133.5" cy="1312.5391" fill="none" rx="3" ry="3" style="stroke:#000000;stroke-width:1.0;"/><text fill="#000000" font-family="Verdana" font-size="14" lengthAdjust="spacing" textLength="175" x="1140.5" y="1315.8857">tipoCliente: TipoCliente</text><ellipse cx="1133.5" cy="1328.8359" fill="none" rx="3" ry="3" style="stroke:#000000;stroke-width:1.0;"/><text fill="#000000" font-family="Verdana" font-size="14" lengthAdjust="spacing" textLength="167" x="1140.5" y="1332.1826">tipoDocumento: String</text><ellipse cx="1133.5" cy="1345.1328" fill="none" rx="3" ry="3" style="stroke:#000000;stroke-width:1.0;"/><text fill="#000000" font-family="Verdana" font-size="14" lengthAdjust="spacing" textLength="146" x="1140.5" y="1348.4795">palabraClave: String</text><ellipse cx="1133.5" cy="1361.4297" fill="none" rx="3" ry="3" style="stroke:#000000;stroke-width:1.0;"/><text fill="#000000" font-family="Verdana" font-size="14" lengthAdjust="spacing" textLength="100" x="1140.5" y="1364.7764">correo: String</text><ellipse cx="1133.5" cy="1377.7266" fill="none" rx="3" ry="3" style="stroke:#000000;stroke-width:1.0;"/><text fill="#000000" font-family="Verdana" font-size="14" lengthAdjust="spacing" textLength="111" x="1140.5" y="1381.0732">rol: TipoUsuario</text><ellipse cx="1133.5" cy="1394.0234" fill="none" rx="3" ry="3" style="stroke:#000000;stroke-width:1.0;"/><text fill="#000000" font-family="Verdana" font-size="14" lengthAdjust="spacing" textLength="119" x="1140.5" y="1397.3701">direccion: String</text><ellipse cx="1133.5" cy="1410.3203" fill="none" rx="3" ry="3" style="stroke:#000000;stroke-width:1.0;"/><text fill="#000000" font-family="Verdana" font-size="14" lengthAdjust="spacing" textLength="180" x="1140.5" y="1413.667">puntosAcumulados: Float</text><line style="stroke:#000000;stroke-width:1.0;" x1="1123.5" x2="1325.5" y1="1420.9688" y2="1420.9688"/></g><!--MD5=[0d5fd63bdf7f1f8e42d3ba3638845c17]
+class TipoCliente--><g id="elem_TipoCliente"><rect codeLine="48" fill="#FFFFFF" height="88.8594" id="TipoCliente" rx="2.5" ry="2.5" style="stroke:#000000;stroke-width:1.0;" width="120" x="1866.5" y="44.5"/><text fill="#000000" font-family="Verdana" font-size="12" font-style="italic" lengthAdjust="spacing" textLength="92" x="1880.5" y="60.6387">«Enumeration»</text><text fill="#000000" font-family="Verdana" font-size="14" lengthAdjust="spacing" textLength="84" x="1884.5" y="76.4639">TipoCliente</text><line style="stroke:#000000;stroke-width:1.0;" x1="1867.5" x2="1985.5" y1="84.7656" y2="84.7656"/><text fill="#000000" font-family="Verdana" font-size="14" lengthAdjust="spacing" textLength="108" x="1872.5" y="101.7607">PersonaNatural</text><text fill="#000000" font-family="Verdana" font-size="14" lengthAdjust="spacing" textLength="63" x="1872.5" y="118.0576">Empresa</text><line style="stroke:#000000;stroke-width:1.0;" x1="1867.5" x2="1985.5" y1="125.3594" y2="125.3594"/></g><!--MD5=[5bde30f362ff54d577f059879898dbb2]
+class TipoUsuario--><g id="elem_TipoUsuario"><rect codeLine="53" fill="#FFFFFF" height="154.0469" id="TipoUsuario" rx="2.5" ry="2.5" style="stroke:#000000;stroke-width:1.0;" width="130" x="2021.5" y="12"/><text fill="#000000" font-family="Verdana" font-size="12" font-style="italic" lengthAdjust="spacing" textLength="92" x="2040.5" y="28.1387">«Enumeration»</text><text fill="#000000" font-family="Verdana" font-size="14" lengthAdjust="spacing" textLength="83" x="2045" y="43.9639">TipoUsuario</text><line style="stroke:#000000;stroke-width:1.0;" x1="2022.5" x2="2150.5" y1="52.2656" y2="52.2656"/><text fill="#000000" font-family="Verdana" font-size="14" lengthAdjust="spacing" textLength="102" x="2027.5" y="69.2607">Administrador</text><text fill="#000000" font-family="Verdana" font-size="14" lengthAdjust="spacing" textLength="116" x="2027.5" y="85.5576">GerenteGeneral</text><text fill="#000000" font-family="Verdana" font-size="14" lengthAdjust="spacing" textLength="118" x="2027.5" y="101.8545">GerenteSucursal</text><text fill="#000000" font-family="Verdana" font-size="14" lengthAdjust="spacing" textLength="68" x="2027.5" y="118.1514">Operador</text><text fill="#000000" font-family="Verdana" font-size="14" lengthAdjust="spacing" textLength="46" x="2027.5" y="134.4482">Cajero</text><text fill="#000000" font-family="Verdana" font-size="14" lengthAdjust="spacing" textLength="52" x="2027.5" y="150.7451">Cliente</text><line style="stroke:#000000;stroke-width:1.0;" x1="2022.5" x2="2150.5" y1="158.0469" y2="158.0469"/></g><!--MD5=[a26d7a8585b446db7fc8ab4626d8ca8a]
+class Pedido--><g id="elem_Pedido"><rect codeLine="62" fill="#FFFFFF" height="156.375" id="Pedido" rx="2.5" ry="2.5" style="stroke:#000000;stroke-width:1.0;" width="237" x="905" y="249.5"/><text fill="#000000" font-family="Verdana" font-size="14" lengthAdjust="spacing" textLength="49" x="999" y="267.4951">Pedido</text><line style="stroke:#000000;stroke-width:1.0;" x1="906" x2="1141" y1="275.7969" y2="275.7969"/><ellipse cx="916" cy="289.4453" fill="none" rx="3" ry="3" style="stroke:#000000;stroke-width:1.0;"/><text fill="#000000" font-family="Verdana" font-size="14" lengthAdjust="spacing" textLength="42" x="923" y="292.792">id: Int</text><ellipse cx="916" cy="305.7422" fill="none" rx="3" ry="3" style="stroke:#000000;stroke-width:1.0;"/><text fill="#000000" font-family="Verdana" font-size="14" lengthAdjust="spacing" textLength="165" x="923" y="309.0889">cantidadRecompra: Int</text><ellipse cx="916" cy="322.0391" fill="none" rx="3" ry="3" style="stroke:#000000;stroke-width:1.0;"/><text fill="#000000" font-family="Verdana" font-size="14" lengthAdjust="spacing" textLength="213" x="923" y="325.3857">precioCompraProducto: Float</text><ellipse cx="916" cy="338.3359" fill="none" rx="3" ry="3" style="stroke:#000000;stroke-width:1.0;"/><text fill="#000000" font-family="Verdana" font-size="14" lengthAdjust="spacing" textLength="177" x="923" y="341.6826">precioTotalPedido: Float</text><ellipse cx="916" cy="354.6328" fill="none" rx="3" ry="3" style="stroke:#000000;stroke-width:1.0;"/><text fill="#000000" font-family="Verdana" font-size="14" lengthAdjust="spacing" textLength="207" x="923" y="357.9795">fechaEsperadaEntrega: Date</text><ellipse cx="916" cy="370.9297" fill="none" rx="3" ry="3" style="stroke:#000000;stroke-width:1.0;"/><text fill="#000000" font-family="Verdana" font-size="14" lengthAdjust="spacing" textLength="141" x="923" y="374.2764">fechaEntrega: Date</text><ellipse cx="916" cy="387.2266" fill="none" rx="3" ry="3" style="stroke:#000000;stroke-width:1.0;"/><text fill="#000000" font-family="Verdana" font-size="14" lengthAdjust="spacing" textLength="156" x="923" y="390.5732">estado: EstadoPedido</text><line style="stroke:#000000;stroke-width:1.0;" x1="906" x2="1141" y1="397.875" y2="397.875"/></g><!--MD5=[29160f60cdbd3edf870b6d731eb51118]
+class ReviewPedido--><g id="elem_ReviewPedido"><rect codeLine="72" fill="#FFFFFF" height="91.1875" id="ReviewPedido" rx="2.5" ry="2.5" style="stroke:#000000;stroke-width:1.0;" width="301" x="1177" y="282"/><text fill="#000000" font-family="Verdana" font-size="14" lengthAdjust="spacing" textLength="100" x="1277.5" y="299.9951">ReviewPedido</text><line style="stroke:#000000;stroke-width:1.0;" x1="1178" x2="1477" y1="308.2969" y2="308.2969"/><ellipse cx="1188" cy="321.9453" fill="none" rx="3" ry="3" style="stroke:#000000;stroke-width:1.0;"/><text fill="#000000" font-family="Verdana" font-size="14" lengthAdjust="spacing" textLength="42" x="1195" y="325.292">id: Int</text><ellipse cx="1188" cy="338.2422" fill="none" rx="3" ry="3" style="stroke:#000000;stroke-width:1.0;"/><text fill="#000000" font-family="Verdana" font-size="14" lengthAdjust="spacing" textLength="258" x="1195" y="341.5889">porcentajeCalificacionCalidad: Float</text><ellipse cx="1188" cy="354.5391" fill="none" rx="3" ry="3" style="stroke:#000000;stroke-width:1.0;"/><text fill="#000000" font-family="Verdana" font-size="14" lengthAdjust="spacing" textLength="277" x="1195" y="357.8857">comentariosCalificacionCalidad: String</text><line style="stroke:#000000;stroke-width:1.0;" x1="1178" x2="1477" y1="365.1875" y2="365.1875"/></g><!--MD5=[9710b5b6cae2118c08e46a4110ebbfcb]
+class EstadoPedido--><g id="elem_EstadoPedido"><rect codeLine="78" fill="#FFFFFF" height="105.1563" id="EstadoPedido" rx="2.5" ry="2.5" style="stroke:#000000;stroke-width:1.0;" width="107" x="1525" y="275"/><text fill="#000000" font-family="Verdana" font-size="12" font-style="italic" lengthAdjust="spacing" textLength="92" x="1532.5" y="291.1387">«Enumeration»</text><text fill="#000000" font-family="Verdana" font-size="14" lengthAdjust="spacing" textLength="98" x="1529.5" y="306.9639">EstadoPedido</text><line style="stroke:#000000;stroke-width:1.0;" x1="1526" x2="1631" y1="315.2656" y2="315.2656"/><text fill="#000000" font-family="Verdana" font-size="14" lengthAdjust="spacing" textLength="61" x="1531" y="332.2607">CREADO</text><text fill="#000000" font-family="Verdana" font-size="14" lengthAdjust="spacing" textLength="95" x="1531" y="348.5576">EN_PROCESO</text><text fill="#000000" font-family="Verdana" font-size="14" lengthAdjust="spacing" textLength="90" x="1531" y="364.8545">ENTREGADO</text><line style="stroke:#000000;stroke-width:1.0;" x1="1526" x2="1631" y1="372.1563" y2="372.1563"/></g><!--MD5=[6eb21cbdc4d58042377df8925372ace8]
+class Sucursal--><g id="elem_Sucursal"><rect codeLine="84" fill="#FFFFFF" height="140.0781" id="Sucursal" rx="2.5" ry="2.5" style="stroke:#000000;stroke-width:1.0;" width="212" x="975.5" y="489"/><text fill="#000000" font-family="Verdana" font-size="14" lengthAdjust="spacing" textLength="58" x="1052.5" y="506.9951">Sucursal</text><line style="stroke:#000000;stroke-width:1.0;" x1="976.5" x2="1186.5" y1="515.2969" y2="515.2969"/><ellipse cx="986.5" cy="528.9453" fill="none" rx="3" ry="3" style="stroke:#000000;stroke-width:1.0;"/><text fill="#000000" font-family="Verdana" font-size="14" lengthAdjust="spacing" textLength="42" x="993.5" y="532.292">id: Int</text><ellipse cx="986.5" cy="545.2422" fill="none" rx="3" ry="3" style="stroke:#000000;stroke-width:1.0;"/><text fill="#000000" font-family="Verdana" font-size="14" lengthAdjust="spacing" textLength="99" x="993.5" y="548.5889">ciudad: String</text><ellipse cx="986.5" cy="561.5391" fill="none" rx="3" ry="3" style="stroke:#000000;stroke-width:1.0;"/><text fill="#000000" font-family="Verdana" font-size="14" lengthAdjust="spacing" textLength="119" x="993.5" y="564.8857">direccion: String</text><ellipse cx="986.5" cy="577.8359" fill="none" rx="3" ry="3" style="stroke:#000000;stroke-width:1.0;"/><text fill="#000000" font-family="Verdana" font-size="14" lengthAdjust="spacing" textLength="110" x="993.5" y="581.1826">nombre: String</text><ellipse cx="986.5" cy="594.1328" fill="none" rx="3" ry="3" style="stroke:#000000;stroke-width:1.0;"/><text fill="#000000" font-family="Verdana" font-size="14" lengthAdjust="spacing" textLength="183" x="993.5" y="597.4795">sizeSucursal: SizeSucursal</text><ellipse cx="986.5" cy="610.4297" fill="none" rx="3" ry="3" style="stroke:#000000;stroke-width:1.0;"/><text fill="#000000" font-family="Verdana" font-size="14" lengthAdjust="spacing" textLength="188" x="993.5" y="613.7764">segmentoObjetivo: String</text><line style="stroke:#000000;stroke-width:1.0;" x1="976.5" x2="1186.5" y1="621.0781" y2="621.0781"/></g><!--MD5=[fe3c8c64c57ccc94a368a17a03d58a9e]
+class SizeSucursal--><g id="elem_SizeSucursal"><rect codeLine="93" fill="#FFFFFF" height="105.1563" id="SizeSucursal" rx="2.5" ry="2.5" style="stroke:#000000;stroke-width:1.0;" width="94" x="1667.5" y="275"/><text fill="#000000" font-family="Verdana" font-size="12" font-style="italic" lengthAdjust="spacing" textLength="92" x="1668.5" y="291.1387">«Enumeration»</text><text fill="#000000" font-family="Verdana" font-size="14" lengthAdjust="spacing" textLength="88" x="1670.5" y="306.9639">SizeSucursal</text><line style="stroke:#000000;stroke-width:1.0;" x1="1668.5" x2="1760.5" y1="315.2656" y2="315.2656"/><text fill="#000000" font-family="Verdana" font-size="14" lengthAdjust="spacing" textLength="39" x="1673.5" y="332.2607">Small</text><text fill="#000000" font-family="Verdana" font-size="14" lengthAdjust="spacing" textLength="56" x="1673.5" y="348.5576">Medium</text><text fill="#000000" font-family="Verdana" font-size="14" lengthAdjust="spacing" textLength="23" x="1673.5" y="364.8545">Big</text><line style="stroke:#000000;stroke-width:1.0;" x1="1668.5" x2="1760.5" y1="372.1563" y2="372.1563"/></g><!--MD5=[9884e166d189446fe4825863c8acf943]
+class Producto--><g id="elem_Producto"><rect codeLine="99" fill="#FFFFFF" height="140.0781" id="Producto" rx="2.5" ry="2.5" style="stroke:#000000;stroke-width:1.0;" width="236" x="768.5" y="689"/><text fill="#000000" font-family="Verdana" font-size="14" lengthAdjust="spacing" textLength="65" x="854" y="706.9951">Producto</text><line style="stroke:#000000;stroke-width:1.0;" x1="769.5" x2="1003.5" y1="715.2969" y2="715.2969"/><ellipse cx="779.5" cy="728.9453" fill="none" rx="3" ry="3" style="stroke:#000000;stroke-width:1.0;"/><text fill="#000000" font-family="Verdana" font-size="14" lengthAdjust="spacing" textLength="137" x="786.5" y="732.292">codigoBarras: Long</text><ellipse cx="779.5" cy="745.2422" fill="none" rx="3" ry="3" style="stroke:#000000;stroke-width:1.0;"/><text fill="#000000" font-family="Verdana" font-size="14" lengthAdjust="spacing" textLength="110" x="786.5" y="748.5889">nombre: String</text><ellipse cx="779.5" cy="761.5391" fill="none" rx="3" ry="3" style="stroke:#000000;stroke-width:1.0;"/><text fill="#000000" font-family="Verdana" font-size="14" lengthAdjust="spacing" textLength="97" x="786.5" y="764.8857">marca: String</text><ellipse cx="779.5" cy="777.8359" fill="none" rx="3" ry="3" style="stroke:#000000;stroke-width:1.0;"/><text fill="#000000" font-family="Verdana" font-size="14" lengthAdjust="spacing" textLength="212" x="786.5" y="781.1826">categoria: CategoriaProducto</text><ellipse cx="779.5" cy="794.1328" fill="none" rx="3" ry="3" style="stroke:#000000;stroke-width:1.0;"/><text fill="#000000" font-family="Verdana" font-size="14" lengthAdjust="spacing" textLength="148" x="786.5" y="797.4795">tipoProducto: String</text><ellipse cx="779.5" cy="810.4297" fill="none" rx="3" ry="3" style="stroke:#000000;stroke-width:1.0;"/><text fill="#000000" font-family="Verdana" font-size="14" lengthAdjust="spacing" textLength="212" x="786.5" y="813.7764">fechaVencimiento: DateTime</text><line style="stroke:#000000;stroke-width:1.0;" x1="769.5" x2="1003.5" y1="821.0781" y2="821.0781"/></g><!--MD5=[ad67a95beafbda9846e154578289ea1b]
+class DetallesProducto--><g id="elem_DetallesProducto"><rect codeLine="108" fill="#FFFFFF" height="123.7813" id="DetallesProducto" rx="2.5" ry="2.5" style="stroke:#000000;stroke-width:1.0;" width="238" x="296.5" y="889"/><text fill="#000000" font-family="Verdana" font-size="14" lengthAdjust="spacing" textLength="124" x="353.5" y="906.9951">DetallesProducto</text><line style="stroke:#000000;stroke-width:1.0;" x1="297.5" x2="533.5" y1="915.2969" y2="915.2969"/><ellipse cx="307.5" cy="928.9453" fill="none" rx="3" ry="3" style="stroke:#000000;stroke-width:1.0;"/><text fill="#000000" font-family="Verdana" font-size="14" lengthAdjust="spacing" textLength="42" x="314.5" y="932.292">id: Int</text><ellipse cx="307.5" cy="945.2422" fill="none" rx="3" ry="3" style="stroke:#000000;stroke-width:1.0;"/><text fill="#000000" font-family="Verdana" font-size="14" lengthAdjust="spacing" textLength="91" x="314.5" y="948.5889">precio: Float</text><ellipse cx="307.5" cy="961.5391" fill="none" rx="3" ry="3" style="stroke:#000000;stroke-width:1.0;"/><text fill="#000000" font-family="Verdana" font-size="14" lengthAdjust="spacing" textLength="214" x="314.5" y="964.8857">precioPorUnidadMedida: Float</text><ellipse cx="307.5" cy="977.8359" fill="none" rx="3" ry="3" style="stroke:#000000;stroke-width:1.0;"/><text fill="#000000" font-family="Verdana" font-size="14" lengthAdjust="spacing" textLength="148" x="314.5" y="981.1826">presentacion: String</text><ellipse cx="307.5" cy="994.1328" fill="none" rx="3" ry="3" style="stroke:#000000;stroke-width:1.0;"/><text fill="#000000" font-family="Verdana" font-size="14" lengthAdjust="spacing" textLength="201" x="314.5" y="997.4795">cantidadPresentacion: Float</text><line style="stroke:#000000;stroke-width:1.0;" x1="297.5" x2="533.5" y1="1004.7813" y2="1004.7813"/></g><!--MD5=[0a6572d1c025de8280eeb1a11a779c64]
+class MedicionProducto--><g id="elem_MedicionProducto"><rect codeLine="116" fill="#FFFFFF" height="123.7813" id="MedicionProducto" rx="2.5" ry="2.5" style="stroke:#000000;stroke-width:1.0;" width="333" x="570" y="889"/><text fill="#000000" font-family="Verdana" font-size="14" lengthAdjust="spacing" textLength="129" x="672" y="906.9951">MedicionProducto</text><line style="stroke:#000000;stroke-width:1.0;" x1="571" x2="902" y1="915.2969" y2="915.2969"/><ellipse cx="581" cy="928.9453" fill="none" rx="3" ry="3" style="stroke:#000000;stroke-width:1.0;"/><text fill="#000000" font-family="Verdana" font-size="14" lengthAdjust="spacing" textLength="42" x="588" y="932.292">id: Int</text><ellipse cx="581" cy="945.2422" fill="none" rx="3" ry="3" style="stroke:#000000;stroke-width:1.0;"/><text fill="#000000" font-family="Verdana" font-size="14" lengthAdjust="spacing" textLength="98" x="588" y="948.5889">medida: Float</text><ellipse cx="581" cy="961.5391" fill="none" rx="3" ry="3" style="stroke:#000000;stroke-width:1.0;"/><text fill="#000000" font-family="Verdana" font-size="14" lengthAdjust="spacing" textLength="206" x="588" y="964.8857">unidadMedida: UnidadMedida</text><ellipse cx="581" cy="977.8359" fill="none" rx="3" ry="3" style="stroke:#000000;stroke-width:1.0;"/><text fill="#000000" font-family="Verdana" font-size="14" lengthAdjust="spacing" textLength="223" x="588" y="981.1826">especificacionEmpacado: Float</text><ellipse cx="581" cy="994.1328" fill="none" rx="3" ry="3" style="stroke:#000000;stroke-width:1.0;"/><text fill="#000000" font-family="Verdana" font-size="14" lengthAdjust="spacing" textLength="309" x="588" y="997.4795">unidadEspecificacionEmpacado: Empacado</text><line style="stroke:#000000;stroke-width:1.0;" x1="571" x2="902" y1="1004.7813" y2="1004.7813"/></g><!--MD5=[e4f0c6b385268414e9688906e5c57b0a]
+class AlmacenamientoProducto--><g id="elem_AlmacenamientoProducto"><rect codeLine="124" fill="#FFFFFF" height="107.4844" id="AlmacenamientoProducto" rx="2.5" ry="2.5" style="stroke:#000000;stroke-width:1.0;" width="197" x="938" y="897.5"/><text fill="#000000" font-family="Verdana" font-size="14" lengthAdjust="spacing" textLength="187" x="943" y="915.4951">AlmacenamientoProducto</text><line style="stroke:#000000;stroke-width:1.0;" x1="939" x2="1134" y1="923.7969" y2="923.7969"/><ellipse cx="949" cy="937.4453" fill="none" rx="3" ry="3" style="stroke:#000000;stroke-width:1.0;"/><text fill="#000000" font-family="Verdana" font-size="14" lengthAdjust="spacing" textLength="42" x="956" y="940.792">id: Int</text><ellipse cx="949" cy="953.7422" fill="none" rx="3" ry="3" style="stroke:#000000;stroke-width:1.0;"/><text fill="#000000" font-family="Verdana" font-size="14" lengthAdjust="spacing" textLength="173" x="956" y="957.0889">idContenedorActual: Int</text><ellipse cx="949" cy="970.0391" fill="none" rx="3" ry="3" style="stroke:#000000;stroke-width:1.0;"/><text fill="#000000" font-family="Verdana" font-size="14" lengthAdjust="spacing" textLength="170" x="956" y="973.3857">existenciasActuales: Int</text><ellipse cx="949" cy="986.3359" fill="none" rx="3" ry="3" style="stroke:#000000;stroke-width:1.0;"/><text fill="#000000" font-family="Verdana" font-size="14" lengthAdjust="spacing" textLength="124" x="956" y="989.6826">nivelReorden: Int</text><line style="stroke:#000000;stroke-width:1.0;" x1="939" x2="1134" y1="996.9844" y2="996.9844"/></g><!--MD5=[3f1975c4735cc2f0fb3c698f5bac06ec]
+class UnidadMedida--><g id="elem_UnidadMedida"><rect codeLine="131" fill="#FFFFFF" height="88.8594" id="UnidadMedida" rx="2.5" ry="2.5" style="stroke:#000000;stroke-width:1.0;" width="105" x="1797" y="283"/><text fill="#000000" font-family="Verdana" font-size="12" font-style="italic" lengthAdjust="spacing" textLength="92" x="1803.5" y="299.1387">«Enumeration»</text><text fill="#000000" font-family="Verdana" font-size="14" lengthAdjust="spacing" textLength="99" x="1800" y="314.9639">UnidadMedida</text><line style="stroke:#000000;stroke-width:1.0;" x1="1798" x2="1901" y1="323.2656" y2="323.2656"/><text fill="#000000" font-family="Verdana" font-size="14" lengthAdjust="spacing" textLength="15" x="1803" y="340.2607">gr</text><text fill="#000000" font-family="Verdana" font-size="14" lengthAdjust="spacing" textLength="18" x="1803" y="356.5576">ml</text><line style="stroke:#000000;stroke-width:1.0;" x1="1798" x2="1901" y1="363.8594" y2="363.8594"/></g><!--MD5=[6ea4a700438ae1cbd4ff2aeb5c928caf]
+class CategoriaProducto--><g id="elem_CategoriaProducto"><rect codeLine="136" fill="#FFFFFF" height="202.9375" id="CategoriaProducto" rx="2.5" ry="2.5" style="stroke:#000000;stroke-width:1.0;" width="141" x="1937" y="226"/><text fill="#000000" font-family="Verdana" font-size="12" font-style="italic" lengthAdjust="spacing" textLength="92" x="1961.5" y="242.1387">«Enumeration»</text><text fill="#000000" font-family="Verdana" font-size="14" lengthAdjust="spacing" textLength="135" x="1940" y="257.9639">CategoriaProducto</text><line style="stroke:#000000;stroke-width:1.0;" x1="1938" x2="2077" y1="266.2656" y2="266.2656"/><text fill="#000000" font-family="Verdana" font-size="14" lengthAdjust="spacing" textLength="83" x="1943" y="283.2607">Perecedero</text><text fill="#000000" font-family="Verdana" font-size="14" lengthAdjust="spacing" textLength="103" x="1943" y="299.5576">Noperecedero</text><text fill="#000000" font-family="Verdana" font-size="14" lengthAdjust="spacing" textLength="35" x="1943" y="315.8545">Aseo</text><text fill="#000000" font-family="Verdana" font-size="14" lengthAdjust="spacing" textLength="65" x="1943" y="332.1514">Abarrote</text><text fill="#000000" font-family="Verdana" font-size="14" lengthAdjust="spacing" textLength="76" x="1943" y="348.4482">Congelado</text><text fill="#000000" font-family="Verdana" font-size="14" lengthAdjust="spacing" textLength="93" x="1943" y="364.7451">PrendaVestir</text><text fill="#000000" font-family="Verdana" font-size="14" lengthAdjust="spacing" textLength="52" x="1943" y="381.042">Mueble</text><text fill="#000000" font-family="Verdana" font-size="14" lengthAdjust="spacing" textLength="90" x="1943" y="397.3389">Herramienta</text><text fill="#000000" font-family="Verdana" font-size="14" lengthAdjust="spacing" textLength="128" x="1943" y="413.6357">Electrodomestico</text><line style="stroke:#000000;stroke-width:1.0;" x1="1938" x2="2077" y1="420.9375" y2="420.9375"/></g><!--MD5=[f08cf03e1a66f5056fa81c31d758a46d]
+class Empacado--><g id="elem_Empacado"><rect codeLine="148" fill="#FFFFFF" height="88.8594" id="Empacado" rx="2.5" ry="2.5" style="stroke:#000000;stroke-width:1.0;" width="106" x="1525.5" y="514.5"/><text fill="#000000" font-family="Verdana" font-size="12" font-style="italic" lengthAdjust="spacing" textLength="92" x="1532.5" y="530.6387">«Enumeration»</text><text fill="#000000" font-family="Verdana" font-size="14" lengthAdjust="spacing" textLength="75" x="1541" y="546.4639">Empacado</text><line style="stroke:#000000;stroke-width:1.0;" x1="1526.5" x2="1630.5" y1="554.7656" y2="554.7656"/><text fill="#000000" font-family="Verdana" font-size="14" lengthAdjust="spacing" textLength="94" x="1531.5" y="571.7607">volumenCm3</text><text fill="#000000" font-family="Verdana" font-size="14" lengthAdjust="spacing" textLength="52" x="1531.5" y="588.0576">pesoGr</text><line style="stroke:#000000;stroke-width:1.0;" x1="1526.5" x2="1630.5" y1="595.3594" y2="595.3594"/></g><!--MD5=[21174dace72aba80a8f72654e0d803f1]
+class Proveedor--><g id="elem_Proveedor"><rect codeLine="153" fill="#FFFFFF" height="91.1875" id="Proveedor" rx="2.5" ry="2.5" style="stroke:#000000;stroke-width:1.0;" width="218" x="914.5" y="43.5"/><text fill="#000000" font-family="Verdana" font-size="14" lengthAdjust="spacing" textLength="74" x="986.5" y="61.4951">Proveedor</text><line style="stroke:#000000;stroke-width:1.0;" x1="915.5" x2="1131.5" y1="69.7969" y2="69.7969"/><ellipse cx="925.5" cy="83.4453" fill="none" rx="3" ry="3" style="stroke:#000000;stroke-width:1.0;"/><text fill="#000000" font-family="Verdana" font-size="14" lengthAdjust="spacing" textLength="49" x="932.5" y="86.792">nit: Int</text><ellipse cx="925.5" cy="99.7422" fill="none" rx="3" ry="3" style="stroke:#000000;stroke-width:1.0;"/><text fill="#000000" font-family="Verdana" font-size="14" lengthAdjust="spacing" textLength="110" x="932.5" y="103.0889">nombre: String</text><ellipse cx="925.5" cy="116.0391" fill="none" rx="3" ry="3" style="stroke:#000000;stroke-width:1.0;"/><text fill="#000000" font-family="Verdana" font-size="14" lengthAdjust="spacing" textLength="194" x="932.5" y="119.3857">calificacionPromedio: Float</text><line style="stroke:#000000;stroke-width:1.0;" x1="915.5" x2="1131.5" y1="126.6875" y2="126.6875"/></g><!--MD5=[57c2e996059519ec12a1a51bd5c8dbcd]
+class Compra--><g id="elem_Compra"><rect codeLine="159" fill="#FFFFFF" height="107.4844" id="Compra" rx="2.5" ry="2.5" style="stroke:#000000;stroke-width:1.0;" width="245" x="1014" y="1073"/><text fill="#000000" font-family="Verdana" font-size="14" lengthAdjust="spacing" textLength="57" x="1108" y="1090.9951">Compra</text><line style="stroke:#000000;stroke-width:1.0;" x1="1015" x2="1258" y1="1099.2969" y2="1099.2969"/><ellipse cx="1025" cy="1112.9453" fill="none" rx="3" ry="3" style="stroke:#000000;stroke-width:1.0;"/><text fill="#000000" font-family="Verdana" font-size="14" lengthAdjust="spacing" textLength="42" x="1032" y="1116.292">id: Int</text><ellipse cx="1025" cy="1129.2422" fill="none" rx="3" ry="3" style="stroke:#000000;stroke-width:1.0;"/><text fill="#000000" font-family="Verdana" font-size="14" lengthAdjust="spacing" textLength="174" x="1032" y="1132.5889">valorCompraTotal: Float</text><ellipse cx="1025" cy="1145.5391" fill="none" rx="3" ry="3" style="stroke:#000000;stroke-width:1.0;"/><text fill="#000000" font-family="Verdana" font-size="14" lengthAdjust="spacing" textLength="205" x="1032" y="1148.8857">urlFacturaElectronica: String</text><ellipse cx="1025" cy="1161.8359" fill="none" rx="3" ry="3" style="stroke:#000000;stroke-width:1.0;"/><text fill="#000000" font-family="Verdana" font-size="14" lengthAdjust="spacing" textLength="221" x="1032" y="1165.1826">EstadoCompra: EstadoCompra</text><line style="stroke:#000000;stroke-width:1.0;" x1="1015" x2="1258" y1="1172.4844" y2="1172.4844"/></g><!--MD5=[56fcc45de186ac7f600d9b4fe8208ffc]
+class EstadoCompra--><g id="elem_EstadoCompra"><rect codeLine="166" fill="#FFFFFF" height="105.1563" id="EstadoCompra" rx="2.5" ry="2.5" style="stroke:#000000;stroke-width:1.0;" width="112" x="1666.5" y="506.5"/><text fill="#000000" font-family="Verdana" font-size="12" font-style="italic" lengthAdjust="spacing" textLength="92" x="1676.5" y="522.6387">«Enumeration»</text><text fill="#000000" font-family="Verdana" font-size="14" lengthAdjust="spacing" textLength="106" x="1669.5" y="538.4639">EstadoCompra</text><line style="stroke:#000000;stroke-width:1.0;" x1="1667.5" x2="1777.5" y1="546.7656" y2="546.7656"/><text fill="#000000" font-family="Verdana" font-size="14" lengthAdjust="spacing" textLength="60" x="1672.5" y="563.7607">CREADA</text><text fill="#000000" font-family="Verdana" font-size="14" lengthAdjust="spacing" textLength="61" x="1672.5" y="580.0576">PAGADA</text><text fill="#000000" font-family="Verdana" font-size="14" lengthAdjust="spacing" textLength="88" x="1672.5" y="596.3545">CANCELADA</text><line style="stroke:#000000;stroke-width:1.0;" x1="1667.5" x2="1777.5" y1="603.6563" y2="603.6563"/></g><!--MD5=[0e4dd778371fcb17daeb58df2cb8e624]
+reverse link Compra to Usuario--><g id="link_Compra_Usuario"><path codeLine="172" d="M1190.75,1185.065 C1190.75,1185.065 1190.75,1239.953 1190.75,1239.953 " fill="none" id="Compra-backto-Usuario" style="stroke:#000000;stroke-width:1.0;"/><polygon fill="#000000" points="1190.75,1180.065,1186.75,1189.065,1190.75,1185.065,1194.75,1189.065,1190.75,1180.065" style="stroke:#000000;stroke-width:1.0;"/><text fill="#000000" font-family="Verdana" font-size="13" lengthAdjust="spacing" textLength="7" x="1190.8867" y="1200.6944">*</text><text fill="#000000" font-family="Verdana" font-size="13" lengthAdjust="spacing" textLength="8" x="1179.7418" y="1228.8946">1</text></g><!--MD5=[bbe8869b890bd885944d08acff635389]
+reverse link Producto to Compra--><g id="link_Producto_Compra"><path codeLine="173" d="M920.5,834.084 C920.5,834.084 920.5,1127 920.5,1127 C920.5,1127 965.233,1127 1013.98,1127 " fill="none" id="Producto-backto-Compra" style="stroke:#000000;stroke-width:1.0;"/><polygon fill="#000000" points="920.5,829.084,916.5,838.084,920.5,834.084,924.5,838.084,920.5,829.084" style="stroke:#000000;stroke-width:1.0;"/><text fill="#000000" font-family="Verdana" font-size="13" lengthAdjust="spacing" textLength="7" x="916.6453" y="849.1546">*</text><text fill="#000000" font-family="Verdana" font-size="13" lengthAdjust="spacing" textLength="8" x="997.8791" y="1123.6072">1</text></g><!--MD5=[9769c0612c9085eb08f57f650e7bab75]
+link Sucursal to Usuario--><g id="link_Sucursal_Usuario"><path codeLine="174" d="M1161.25,629.267 C1161.25,645.944 1161.25,659 1161.25,659 C1161.25,659 1292.75,659 1292.75,659 C1292.75,659 1292.75,1234.863 1292.75,1234.863 " fill="none" id="Sucursal-to-Usuario" style="stroke:#000000;stroke-width:1.0;"/><polygon fill="#000000" points="1292.75,1239.863,1296.75,1230.863,1292.75,1234.863,1288.75,1230.863,1292.75,1239.863" style="stroke:#000000;stroke-width:1.0;"/><text fill="#000000" font-family="Verdana" font-size="13" lengthAdjust="spacing" textLength="8" x="1161.0617" y="649.3564">1</text><text fill="#000000" font-family="Verdana" font-size="13" lengthAdjust="spacing" textLength="7" x="1290.9098" y="1228.7974">*</text></g><!--MD5=[9e6ae6d88e7cb93f590543a4e0f99da8]
+reverse link Pedido to Sucursal--><g id="link_Pedido_Sucursal"><path codeLine="175" d="M1058.75,410.55 C1058.75,410.55 1058.75,488.676 1058.75,488.676 " fill="none" id="Pedido-backto-Sucursal" style="stroke:#000000;stroke-width:1.0;"/><polygon fill="#000000" points="1058.75,405.55,1054.75,414.55,1058.75,410.55,1062.75,414.55,1058.75,405.55" style="stroke:#000000;stroke-width:1.0;"/><text fill="#000000" font-family="Verdana" font-size="13" lengthAdjust="spacing" textLength="7" x="1054.8754" y="426.0263">*</text><text fill="#000000" font-family="Verdana" font-size="13" lengthAdjust="spacing" textLength="8" x="1047.9914" y="477.7201">1</text></g><!--MD5=[c2f30bf27d3eb668ef7b40262bf62bd2]
+link Sucursal to Producto--><g id="link_Sucursal_Producto"><path codeLine="176" d="M990,629.231 C990,629.231 990,683.938 990,683.938 " fill="none" id="Sucursal-to-Producto" style="stroke:#000000;stroke-width:1.0;"/><polygon fill="#000000" points="990,688.938,994,679.938,990,683.938,986,679.938,990,688.938" style="stroke:#000000;stroke-width:1.0;"/><text fill="#000000" font-family="Verdana" font-size="13" lengthAdjust="spacing" textLength="8" x="972.1516" y="649.3167">1</text><text fill="#000000" font-family="Verdana" font-size="13" lengthAdjust="spacing" textLength="7" x="993.3125" y="678.0091">*</text></g><!--MD5=[e278a7a8ce89160271b0626bd4327bf4]
+link Sucursal to Contenedor--><g id="link_Sucursal_Contenedor"><path codeLine="177" d="M1187.82,559 C1187.82,559 1217.86,559 1217.86,559 " fill="none" id="Sucursal-to-Contenedor" style="stroke:#000000;stroke-width:1.0;"/><polygon fill="#000000" points="1222.86,559,1213.86,555,1217.86,559,1213.86,563,1222.86,559" style="stroke:#000000;stroke-width:1.0;"/><text fill="#000000" font-family="Verdana" font-size="13" lengthAdjust="spacing" textLength="8" x="1195.5769" y="555.5415">1</text><text fill="#000000" font-family="Verdana" font-size="13" lengthAdjust="spacing" textLength="7" x="1207.9316" y="555.6349">*</text></g><!--MD5=[061f3819b261ea184107bbebc7caa6fd]
+link Producto to Promocion--><g id="link_Producto_Promocion"><path codeLine="178" d="M768.487,736 C557.277,736 136.5,736 136.5,736 C136.5,736 136.5,883.813 136.5,883.813 " fill="none" id="Producto-to-Promocion" style="stroke:#000000;stroke-width:1.0;"/><polygon fill="#000000" points="136.5,888.813,140.5,879.813,136.5,883.813,132.5,879.813,136.5,888.813" style="stroke:#000000;stroke-width:1.0;"/><text fill="#000000" font-family="Verdana" font-size="13" lengthAdjust="spacing" textLength="8" x="752.6705" y="731.1147">1</text><text fill="#000000" font-family="Verdana" font-size="13" lengthAdjust="spacing" textLength="7" x="129.0953" y="877.8427">*</text></g><!--MD5=[895c6a9c7edcfe30406a80a89cf63d7c]
+reverse link Proveedor to Pedido--><g id="link_Proveedor_Pedido"><path codeLine="179" d="M1023.5,139.7 C1023.5,139.7 1023.5,249.09 1023.5,249.09 " fill="none" id="Proveedor-backto-Pedido" style="stroke:#000000;stroke-width:1.0;"/><polygon fill="#000000" points="1023.5,134.7,1019.5,143.7,1023.5,139.7,1027.5,143.7,1023.5,134.7" style="stroke:#000000;stroke-width:1.0;"/><text fill="#000000" font-family="Verdana" font-size="13" lengthAdjust="spacing" textLength="23" x="998.7391" y="154.909">1..*</text><text fill="#000000" font-family="Verdana" font-size="13" lengthAdjust="spacing" textLength="7" x="1016.1883" y="238.4948">*</text></g><!--MD5=[86c43c1250d13da34a3d936b94688e66]
+link Pedido to Producto--><g id="link_Pedido_Producto"><path codeLine="180" d="M940.25,405.64 C940.25,405.64 940.25,683.934 940.25,683.934 " fill="none" id="Pedido-to-Producto" style="stroke:#000000;stroke-width:1.0;"/><polygon fill="#000000" points="940.25,688.934,944.25,679.934,940.25,683.934,936.25,679.934,940.25,688.934" style="stroke:#000000;stroke-width:1.0;"/><text fill="#000000" font-family="Verdana" font-size="13" lengthAdjust="spacing" textLength="66" x="873.25" y="540.8549">a comprar</text><text fill="#000000" font-family="Verdana" font-size="13" lengthAdjust="spacing" textLength="8" x="923.934" y="425.8579">1</text><text fill="#000000" font-family="Verdana" font-size="13" lengthAdjust="spacing" textLength="23" x="921.607" y="678.0047">1..*</text></g><!--MD5=[4bf4352068d9b2f35bcdfe0982e80620]
+link Proveedor to Producto--><g id="link_Proveedor_Producto"><path codeLine="181" d="M914.326,89 C873.459,89 836.75,89 836.75,89 C836.75,89 836.75,683.88 836.75,683.88 " fill="none" id="Proveedor-to-Producto" style="stroke:#000000;stroke-width:1.0;"/><polygon fill="#000000" points="836.75,688.88,840.75,679.88,836.75,683.88,832.75,679.88,836.75,688.88" style="stroke:#000000;stroke-width:1.0;"/><text fill="#000000" font-family="Verdana" font-size="13" lengthAdjust="spacing" textLength="59" x="776.75" y="343.7169">provistos</text><text fill="#000000" font-family="Verdana" font-size="13" lengthAdjust="spacing" textLength="23" x="883.5953" y="85.5847">1..*</text><text fill="#000000" font-family="Verdana" font-size="13" lengthAdjust="spacing" textLength="7" x="824.2586" y="677.9452">*</text></g><!--MD5=[f99555503c3d8e91190c0ebdfa212855]
+link Producto to DetallesProducto--><g id="link_Producto_DetallesProducto"><path codeLine="182" d="M768.255,783 C628.735,783 415.5,783 415.5,783 C415.5,783 415.5,883.92 415.5,883.92 " fill="none" id="Producto-to-DetallesProducto" style="stroke:#000000;stroke-width:1.0;"/><polygon fill="#000000" points="415.5,888.92,419.5,879.92,415.5,883.92,411.5,879.92,415.5,888.92" style="stroke:#000000;stroke-width:1.0;"/><text fill="#000000" font-family="Verdana" font-size="13" lengthAdjust="spacing" textLength="81" x="459.417" y="779.0669">info_detalles</text><text fill="#000000" font-family="Verdana" font-size="13" lengthAdjust="spacing" textLength="8" x="752.4237" y="781.1257">1</text><text fill="#000000" font-family="Verdana" font-size="13" lengthAdjust="spacing" textLength="8" x="407.0375" y="877.962">1</text></g><!--MD5=[05ec83b6bea79690415af5fdd7459ee6]
+link Producto to AlmacenamientoProducto--><g id="link_Producto_AlmacenamientoProducto"><path codeLine="183" d="M971.25,829.131 C971.25,829.131 971.25,892.299 971.25,892.299 " fill="none" id="Producto-to-AlmacenamientoProducto" style="stroke:#000000;stroke-width:1.0;"/><polygon fill="#000000" points="971.25,897.299,975.25,888.299,971.25,892.299,967.25,888.299,971.25,897.299" style="stroke:#000000;stroke-width:1.0;"/><text fill="#000000" font-family="Verdana" font-size="13" lengthAdjust="spacing" textLength="139" x="972.25" y="856.7819">info_almacenamiento</text><text fill="#000000" font-family="Verdana" font-size="13" lengthAdjust="spacing" textLength="8" x="971.5773" y="849.2064">1</text><text fill="#000000" font-family="Verdana" font-size="13" lengthAdjust="spacing" textLength="8" x="954.3773" y="886.502">1</text></g><!--MD5=[e9ee2da3d76826dd4e1658d90983c61c]
+link Producto to MedicionProducto--><g id="link_Producto_MedicionProducto"><path codeLine="184" d="M835.75,829.131 C835.75,829.131 835.75,883.992 835.75,883.992 " fill="none" id="Producto-to-MedicionProducto" style="stroke:#000000;stroke-width:1.0;"/><polygon fill="#000000" points="835.75,888.992,839.75,879.992,835.75,883.992,831.75,879.992,835.75,888.992" style="stroke:#000000;stroke-width:1.0;"/><text fill="#000000" font-family="Verdana" font-size="13" lengthAdjust="spacing" textLength="89" x="745.75" y="869.6289">info_medición</text><text fill="#000000" font-family="Verdana" font-size="13" lengthAdjust="spacing" textLength="8" x="822.1039" y="849.2064">1</text><text fill="#000000" font-family="Verdana" font-size="13" lengthAdjust="spacing" textLength="8" x="838.7633" y="878.0424">1</text></g><!--MD5=[c49e134ee12caf3f03c1e8dbee7b77d9]
+link Pedido to ReviewPedido--><g id="link_Pedido_ReviewPedido"><path codeLine="185" d="M1142.34,328 C1142.34,328 1171.82,328 1171.82,328 " fill="none" id="Pedido-to-ReviewPedido" style="stroke:#000000;stroke-width:1.0;"/><polygon fill="#000000" points="1176.82,328,1167.82,324,1171.82,328,1167.82,332,1176.82,328" style="stroke:#000000;stroke-width:1.0;"/><text fill="#000000" font-family="Verdana" font-size="13" lengthAdjust="spacing" textLength="8" x="1149.8256" y="324.633">1</text><text fill="#000000" font-family="Verdana" font-size="13" lengthAdjust="spacing" textLength="8" x="1160.8443" y="324.7045">1</text></g><!--MD5=[ce6b41bede93de381d864b86a402bb05]
+link Proveedor to ReviewPedido--><g id="link_Proveedor_ReviewPedido"><path codeLine="186" d="M1132.82,89 C1219.98,89 1327.5,89 1327.5,89 C1327.5,89 1327.5,276.8 1327.5,276.8 " fill="none" id="Proveedor-to-ReviewPedido" style="stroke:#000000;stroke-width:1.0;"/><polygon fill="#000000" points="1327.5,281.8,1331.5,272.8,1327.5,276.8,1323.5,272.8,1327.5,281.8" style="stroke:#000000;stroke-width:1.0;"/><text fill="#000000" font-family="Verdana" font-size="13" lengthAdjust="spacing" textLength="8" x="1140.4337" y="85.5612">1</text><text fill="#000000" font-family="Verdana" font-size="13" lengthAdjust="spacing" textLength="7" x="1319.9859" y="271.0491">*</text></g><!--MD5=[d1d5b0c39911ff4645b4d0735001c87c]
+@startuml
+!theme plain
+skinparam linetype ortho
+hide circle
+
+class Promocion {
+  + id: Int
+  + rebajaEnPrecio: Float
+  + fechaInicio: DateTime
+  + fechaFin: DateTime
+  + tipoPromocion: TipoPromocion
+}
+
+enum TipoPromocion <<Enumeration>> {
+  PagueLleveUnidad
+  DescuentoPorcentaje
+  PagueLleveCantidad
+  Pague1LleveDescuento2
+  Combo
+}
+
+class Contenedor {
+  + id: Int
+  + tipoContenedor: TipoContenedor
+  + tipoProducto: CategoriaProducto
+  + capacidadMaximaVolumen: Float
+  + capacidadMaximaPeso: Float
+  + nivelAbastecimiento: Float
+}
+
+enum TipoContenedor <<Enumeration>> {
+  Bodega
+  LocalVentas
+  Estante
+}
+
+class Usuario {
+  + numeroDocumento: Int
+  + nombre: String
+  + tipoCliente: TipoCliente
+  + tipoDocumento: String
+  + palabraClave: String
+  + correo: String
+  + rol: TipoUsuario
+  + direccion: String
+  + puntosAcumulados: Float
+}
+
+enum TipoCliente <<Enumeration>> {
+  PersonaNatural
+  Empresa
+}
+
+enum TipoUsuario <<Enumeration>> {
+  Administrador
+  GerenteGeneral
+  GerenteSucursal
+  Operador
+  Cajero
+  Cliente
+}
+
+class Pedido {
+  + id: Int
+  + cantidadRecompra: Int
+  + precioCompraProducto: Float
+  + precioTotalPedido: Float
+  + fechaEsperadaEntrega: Date
+  + fechaEntrega: Date
+  + estado: EstadoPedido
+}
+
+class ReviewPedido {
+  + id: Int
+  + porcentajeCalificacionCalidad: Float
+  + comentariosCalificacionCalidad: String
+}
+
+enum EstadoPedido <<Enumeration>> {
+  CREADO
+  EN_PROCESO
+  ENTREGADO
+}
+
+class Sucursal {
+  + id: Int
+  + ciudad: String
+  + direccion: String
+  + nombre: String
+  + sizeSucursal: SizeSucursal
+  + segmentoObjetivo: String
+}
+
+enum SizeSucursal <<Enumeration>> {
+  Small
+  Medium
+  Big
+}
+
+class Producto {
+  + codigoBarras: Long
+  + nombre: String
+  + marca: String
+  + categoria: CategoriaProducto
+  + tipoProducto: String
+  + fechaVencimiento: DateTime
+}
+
+class DetallesProducto {
+  + id: Int
+  + precio: Float
+  + precioPorUnidadMedida: Float
+  + presentacion: String
+  + cantidadPresentacion: Float
+}
+
+class MedicionProducto {
+  + id: Int
+  + medida: Float
+  + unidadMedida: UnidadMedida
+  + especificacionEmpacado: Float
+  + unidadEspecificacionEmpacado: Empacado
+}
+
+class AlmacenamientoProducto {
+  + id: Int
+  + idContenedorActual: Int
+  + existenciasActuales: Int
+  + nivelReorden: Int
+}
+
+enum UnidadMedida <<Enumeration>> {
+  gr
+  ml
+}
+
+enum CategoriaProducto <<Enumeration>> {
+  Perecedero
+  Noperecedero
+  Aseo
+  Abarrote
+  Congelado
+  PrendaVestir
+  Mueble
+  Herramienta
+  Electrodomestico
+}
+
+enum Empacado <<Enumeration>> {
+  volumenCm3
+  pesoGr
+}
+
+class Proveedor {
+  + nit: Int
+  + nombre: String
+  + calificacionPromedio: Float
+}
+
+class Compra {
+  + id: Int
+  + valorCompraTotal: Float
+  + urlFacturaElectronica: String
+  + EstadoCompra: EstadoCompra
+}
+
+enum EstadoCompra <<Enumeration>> {
+  CREADA
+  PAGADA
+  CANCELADA
+}
+
+Compra "*" <- - "1" Usuario
+Producto "*" <- - - "1" Compra
+Sucursal "1" - -> "*" Usuario
+Pedido "*" <- - "1" Sucursal
+Sucursal "1" - -> "*" Producto
+Sucursal "1" -> "*" Contenedor
+Producto "1" - -> "*" Promocion
+Proveedor "1..*" <- - "*" Pedido
+Pedido "1" - -> "1..*" Producto: a comprar
+Proveedor "1..*" -right-> "*" Producto: provistos
+Producto "1" - -> "1" DetallesProducto: info_detalles
+Producto "1" - -> "1" AlmacenamientoProducto: info_almacenamiento 
+Producto "1" - -> "1" MedicionProducto: info_medición
+Pedido "1" -> "1" ReviewPedido
+Proveedor "1" - -> "*" ReviewPedido
+@enduml
+
+@startuml
+
+
+
+
+
+
+
+<style>
+  root {
+    BackgroundColor white
+    FontColor black
+    FontName Verdana
+    HyperLinkColor blue
+    LineColor black
+    LineThickness 1
+    Margin 5
+  }
+  caption {
+    LineThickness 0
+  }
+  footer {
+    LineThickness 0
+  }
+  header {
+    LineThickness 0
+  }
+  node {
+    MaximumWidth 300
+  }
+  title {
+    FontSize 22
+    LineThickness 0
+  }
+</style>
+
+skinparam ArrowLollipopColor black
+skinparam BackgroundColor white
+skinparam DefaultFontName Verdana
+skinparam DefaultMonospacedFontName Courier
+skinparam LifelineStrategy nosolid
+skinparam ParticipantPadding 10
+skinparam SequenceLifeLineBorderColor black
+skinparam Shadowing false
+skinparam UseBetaStyle true
+
+skinparam Activity {
+  BackgroundColor white
+  BarColor black
+  BorderColor black
+  FontColor black
+  FontName Verdana
+}
+skinparam Boundary {
+  FontColor black
+}
+skinparam Box {
+  Padding 5
+}
+skinparam CircledCharacter {
+  FontColor black
+  FontName Courier
+  Radius 9
+}
+skinparam Class {
+  BackgroundColor white
+  BorderColor black
+  FontColor black
+  FontName Verdana
+}
+skinparam ClassAttribute {
+  FontColor black
+  FontName Verdana
+}
+skinparam ClassStereotype {
+  FontColor black
+  FontName Verdana
+}
+skinparam Footer {
+  FontColor black
+  FontName Verdana
+}
+skinparam Header {
+  FontColor black
+  FontName Verdana
+}
+skinparam Hyperlink {
+  Color blue
+}
+skinparam IconPackage {
+  Color black
+  BackgroundColor white
+}
+skinparam IconPrivate {
+  Color black
+  BackgroundColor white
+}
+skinparam IconProtected {
+  Color black
+  BackgroundColor white
+}
+skinparam IconPublic {
+  Color black
+  BackgroundColor white
+}
+skinparam Note {
+  FontColor black
+  FontName Verdana
+}
+skinparam Object {
+  BorderColor black
+}
+skinparam Package {
+  BorderColor black
+  FontColor black
+  FontName Verdana
+}
+skinparam State {
+  BackgroundColor white
+  BorderColor black
+}
+skinparam StereotypeA {
+  BackgroundColor white
+  BorderColor black
+}
+skinparam StereotypeC {
+  BackgroundColor white
+  BorderColor black
+}
+skinparam StereotypeE {
+  BackgroundColor white
+  BorderColor black
+}
+skinparam StereotypeI {
+  BackgroundColor white
+  BorderColor black
+}
+skinparam StereotypeN {
+  BackgroundColor white
+  BorderColor black
+}
+skinparam UseCaseStereoType {
+  FontColor black
+  FontName Verdana
+}
+skinparam linetype ortho
+hide circle
+
+class Promocion {
+  + id: Int
+  + rebajaEnPrecio: Float
+  + fechaInicio: DateTime
+  + fechaFin: DateTime
+  + tipoPromocion: TipoPromocion
+}
+
+enum TipoPromocion <<Enumeration>> {
+  PagueLleveUnidad
+  DescuentoPorcentaje
+  PagueLleveCantidad
+  Pague1LleveDescuento2
+  Combo
+}
+
+class Contenedor {
+  + id: Int
+  + tipoContenedor: TipoContenedor
+  + tipoProducto: CategoriaProducto
+  + capacidadMaximaVolumen: Float
+  + capacidadMaximaPeso: Float
+  + nivelAbastecimiento: Float
+}
+
+enum TipoContenedor <<Enumeration>> {
+  Bodega
+  LocalVentas
+  Estante
+}
+
+class Usuario {
+  + numeroDocumento: Int
+  + nombre: String
+  + tipoCliente: TipoCliente
+  + tipoDocumento: String
+  + palabraClave: String
+  + correo: String
+  + rol: TipoUsuario
+  + direccion: String
+  + puntosAcumulados: Float
+}
+
+enum TipoCliente <<Enumeration>> {
+  PersonaNatural
+  Empresa
+}
+
+enum TipoUsuario <<Enumeration>> {
+  Administrador
+  GerenteGeneral
+  GerenteSucursal
+  Operador
+  Cajero
+  Cliente
+}
+
+class Pedido {
+  + id: Int
+  + cantidadRecompra: Int
+  + precioCompraProducto: Float
+  + precioTotalPedido: Float
+  + fechaEsperadaEntrega: Date
+  + fechaEntrega: Date
+  + estado: EstadoPedido
+}
+
+class ReviewPedido {
+  + id: Int
+  + porcentajeCalificacionCalidad: Float
+  + comentariosCalificacionCalidad: String
+}
+
+enum EstadoPedido <<Enumeration>> {
+  CREADO
+  EN_PROCESO
+  ENTREGADO
+}
+
+class Sucursal {
+  + id: Int
+  + ciudad: String
+  + direccion: String
+  + nombre: String
+  + sizeSucursal: SizeSucursal
+  + segmentoObjetivo: String
+}
+
+enum SizeSucursal <<Enumeration>> {
+  Small
+  Medium
+  Big
+}
+
+class Producto {
+  + codigoBarras: Long
+  + nombre: String
+  + marca: String
+  + categoria: CategoriaProducto
+  + tipoProducto: String
+  + fechaVencimiento: DateTime
+}
+
+class DetallesProducto {
+  + id: Int
+  + precio: Float
+  + precioPorUnidadMedida: Float
+  + presentacion: String
+  + cantidadPresentacion: Float
+}
+
+class MedicionProducto {
+  + id: Int
+  + medida: Float
+  + unidadMedida: UnidadMedida
+  + especificacionEmpacado: Float
+  + unidadEspecificacionEmpacado: Empacado
+}
+
+class AlmacenamientoProducto {
+  + id: Int
+  + idContenedorActual: Int
+  + existenciasActuales: Int
+  + nivelReorden: Int
+}
+
+enum UnidadMedida <<Enumeration>> {
+  gr
+  ml
+}
+
+enum CategoriaProducto <<Enumeration>> {
+  Perecedero
+  Noperecedero
+  Aseo
+  Abarrote
+  Congelado
+  PrendaVestir
+  Mueble
+  Herramienta
+  Electrodomestico
+}
+
+enum Empacado <<Enumeration>> {
+  volumenCm3
+  pesoGr
+}
+
+class Proveedor {
+  + nit: Int
+  + nombre: String
+  + calificacionPromedio: Float
+}
+
+class Compra {
+  + id: Int
+  + valorCompraTotal: Float
+  + urlFacturaElectronica: String
+  + EstadoCompra: EstadoCompra
+}
+
+enum EstadoCompra <<Enumeration>> {
+  CREADA
+  PAGADA
+  CANCELADA
+}
+
+Compra "*" <- - "1" Usuario
+Producto "*" <- - - "1" Compra
+Sucursal "1" - -> "*" Usuario
+Pedido "*" <- - "1" Sucursal
+Sucursal "1" - -> "*" Producto
+Sucursal "1" -> "*" Contenedor
+Producto "1" - -> "*" Promocion
+Proveedor "1..*" <- - "*" Pedido
+Pedido "1" - -> "1..*" Producto: a comprar
+Proveedor "1..*" -right-> "*" Producto: provistos
+Producto "1" - -> "1" DetallesProducto: info_detalles
+Producto "1" - -> "1" AlmacenamientoProducto: info_almacenamiento 
+Producto "1" - -> "1" MedicionProducto: info_medición
+Pedido "1" -> "1" ReviewPedido
+Proveedor "1" - -> "*" ReviewPedido
+@enduml
+
+PlantUML version 1.2022.8beta7(Unknown compile time)
+(GPL source distribution)
+Java Runtime: Java(TM) SE Runtime Environment
+JVM: Java HotSpot(TM) 64-Bit Server VM
+Default Encoding: UTF-8
+Language: en
+Country: US
+--></g></svg>
