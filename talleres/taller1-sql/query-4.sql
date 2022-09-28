@@ -1,0 +1,23 @@
+ALTER SESSION SET CURRENT_SCHEMA = PARRANDEROS;
+
+SELECT *
+FROM (
+        SELECT CIUDAD, COUNT(ID_BEBEDOR) AS NUM_BEBEDORES_APTOS
+        FROM BEBEDORES
+            INNER JOIN (
+                SELECT ID_BEBEDOR, COUNT(*)
+                FROM GUSTAN
+                    INNER JOIN BEBEDORES
+                    ON GUSTAN.ID_BEBEDOR = BEBEDORES.ID
+                    INNER JOIN BEBIDAS
+                    ON GUSTAN.ID_BEBIDA = BEBIDAS.ID
+                WHERE BEBIDAS.GRADO_ALCOHOL > 25
+                    AND BEBEDORES.PRESUPUESTO = 'Alto'
+                GROUP BY ID_BEBEDOR
+                HAVING COUNT(*) > 4
+            ) BEBEDORES_APTOS
+            ON BEBEDORES_APTOS.ID_BEBEDOR = ID
+        GROUP BY CIUDAD
+        ORDER BY NUM_BEBEDORES_APTOS DESC
+    )
+WHERE ROWNUM = 1;
