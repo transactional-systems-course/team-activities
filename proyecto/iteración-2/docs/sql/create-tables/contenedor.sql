@@ -1,6 +1,6 @@
 CREATE TABLE CONTENEDOR (
     ID NUMBER,
-    TIPO_CONTENEDOR VARCHAR(255) CHECK (TIPO_CONTENEDOR IN ('Perecedero', 'NoPerecedero', 'Aseo', 'Abarrote', 'Congelado', 'PrendaVestir', 'Mueble', 'Herramienta', 'Electrodomestico')),
+    TIPO_CONTENEDOR VARCHAR2(255) CHECK (TIPO_CONTENEDOR IN ('Perecedero', 'NoPerecedero', 'Aseo', 'Abarrote', 'Congelado', 'PrendaVestir', 'Mueble', 'Herramienta', 'Electrodomestico')),
     CAPACIDAD_MAXIMA_VOLUMEN NUMBER NOT NULL,
     CAPACIDAD_DISPONIBLE_VOLUMEN NUMBER CHECK(CAPACIDAD_DISPONIBLE_VOLUMEN BETWEEN 0 AND CAPACIDAD_MAXIMA_VOLUMEN),
     CAPACIDAD_MAXIMA_PESO NUMBER NOT NULL,
