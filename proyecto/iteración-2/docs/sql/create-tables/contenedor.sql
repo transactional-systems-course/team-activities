@@ -1,6 +1,7 @@
 CREATE TABLE CONTENEDOR (
     ID NUMBER PRIMARY KEY,
-    TIPO_CONTENEDOR VARCHAR2(255) CHECK (TIPO_CONTENEDOR IN ('Perecedero', 'NoPerecedero', 'Aseo', 'Abarrote', 'Congelado', 'PrendaVestir', 'Mueble', 'Herramienta', 'Electrodomestico')),
+    TIPO_CONTENEDOR VARCHAR2(255) CHECK (TIPO_CONTENEDOR IN ('Bodega', 'LocalVentas', 'Estante')),
+    TIPO_PRODUCTO VARCHAR2(255) CHECK (TIPO_PRODUCTO IN ('Perecedero', 'NoPerecedero', 'Aseo', 'Abarrote', 'Congelado', 'PrendaVestir', 'Mueble', 'Herramienta', 'Electrodomestico')),
     CAPACIDAD_MAXIMA_VOLUMEN NUMBER NOT NULL,
     CAPACIDAD_MAXIMA_PESO NUMBER NOT NULL,
     NIVEL_ABASTECIMIENTO NUMBER,
