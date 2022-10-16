@@ -7,12 +7,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    1,
+    1001,
     'Estante',
-    'Electrodomestico',
-    629.06,
-    724.99,
-    68,
+    'Aseo',
+    33.29,
+    57.64,
+    12,
     1
 );
 
@@ -25,12 +25,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    2,
+    1002,
     'Estante',
-    'Abarrote',
-    299.68,
-    951.06,
-    5,
+    'Mueble',
+    461.45,
+    280.88,
+    85,
     2
 );
 
@@ -43,12 +43,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    3,
+    1003,
     'Estante',
     'Abarrote',
-    709.64,
-    681.04,
-    56,
+    488.05,
+    448.47,
+    61,
     3
 );
 
@@ -61,12 +61,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    4,
+    1004,
     'Estante',
-    'Congelado',
-    205.62,
-    502.71,
-    39,
+    'Herramienta',
+    10.16,
+    549.57,
+    51,
     4
 );
 
@@ -79,12 +79,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    5,
+    1005,
     'Estante',
-    'Perecedero',
-    751.13,
-    367.28,
-    7,
+    'Abarrote',
+    244.76,
+    158.61,
+    91,
     5
 );
 
@@ -97,12 +97,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    6,
+    1006,
     'Estante',
-    'Perecedero',
-    799.34,
-    768.13,
-    1,
+    'NoPerecedero',
+    822.19,
+    52.92,
+    85,
     6
 );
 
@@ -115,12 +115,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    7,
+    1007,
     'Estante',
-    'Mueble',
-    254.36,
-    431.08,
-    88,
+    'Aseo',
+    632.57,
+    497.42,
+    84,
     7
 );
 
@@ -133,12 +133,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    8,
+    1008,
     'Estante',
-    'Herramienta',
-    580.76,
-    16.38,
-    11,
+    'PrendaVestir',
+    208.22,
+    115.89,
+    56,
     8
 );
 
@@ -151,12 +151,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    9,
+    1009,
     'Estante',
-    'Abarrote',
-    598.21,
-    382.85,
-    60,
+    'PrendaVestir',
+    704.33,
+    952.89,
+    21,
     9
 );
 
@@ -169,12 +169,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    10,
+    1010,
     'Estante',
-    'Aseo',
-    631.14,
-    607.23,
-    88,
+    'Mueble',
+    279.66,
+    756.63,
+    64,
     10
 );
 
@@ -187,12 +187,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    11,
+    1011,
     'Estante',
-    'PrendaVestir',
-    973.42,
-    964.31,
-    56,
+    'Mueble',
+    291.31,
+    603.16,
+    45,
     11
 );
 
@@ -205,12 +205,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    12,
+    1012,
     'Estante',
-    'Mueble',
-    563.34,
-    356.25,
-    76,
+    'Perecedero',
+    465.67,
+    698.55,
+    33,
     12
 );
 
@@ -223,12 +223,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    13,
+    1013,
     'Estante',
-    'Electrodomestico',
-    419.24,
-    778.17,
-    30,
+    'NoPerecedero',
+    432.78,
+    314.89,
+    3,
     13
 );
 
@@ -241,12 +241,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    14,
+    1014,
     'Estante',
-    'Herramienta',
-    119.09,
-    210.59,
-    64,
+    'Mueble',
+    472.46,
+    104.4,
+    5,
     14
 );
 
@@ -259,12 +259,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    15,
+    1015,
     'Estante',
-    'Abarrote',
-    229.31,
-    447.56,
-    65,
+    'Mueble',
+    597.24,
+    916.42,
+    1,
     15
 );
 
@@ -277,12 +277,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    16,
+    1016,
     'Estante',
-    'Electrodomestico',
-    252.25,
-    788.8,
-    49,
+    'Perecedero',
+    999.21,
+    372.5,
+    63,
     16
 );
 
@@ -295,12 +295,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    17,
+    1017,
     'Estante',
-    'Electrodomestico',
-    318.68,
-    488.0,
-    37,
+    'NoPerecedero',
+    260.84,
+    889.73,
+    72,
     17
 );
 
@@ -313,12 +313,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    18,
+    1018,
     'Estante',
-    'Aseo',
-    301.72,
-    126.6,
-    10,
+    'Abarrote',
+    42.64,
+    102.23,
+    11,
     18
 );
 
@@ -331,12 +331,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    19,
+    1019,
     'Estante',
-    'Aseo',
-    784.8,
-    565.23,
-    39,
+    'Perecedero',
+    257.02,
+    256.27,
+    14,
     19
 );
 
@@ -349,12 +349,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    20,
+    1020,
     'Estante',
-    'Herramienta',
-    683.43,
-    669.9,
-    80,
+    'NoPerecedero',
+    70.5,
+    977.92,
+    47,
     20
 );
 
@@ -367,12 +367,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    21,
+    1021,
     'Estante',
-    'PrendaVestir',
-    798.9,
-    810.3,
-    63,
+    'Aseo',
+    859.9,
+    687.77,
+    10,
     21
 );
 
@@ -385,12 +385,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    22,
+    1022,
     'Estante',
-    'PrendaVestir',
-    895.52,
-    237.17,
-    27,
+    'Mueble',
+    475.77,
+    88.48,
+    65,
     22
 );
 
@@ -403,12 +403,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    23,
+    1023,
     'Estante',
-    'Herramienta',
-    226.12,
-    850.15,
-    20,
+    'Abarrote',
+    528.94,
+    946.43,
+    27,
     23
 );
 
@@ -421,12 +421,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    24,
+    1024,
     'Estante',
-    'Herramienta',
-    659.33,
-    731.66,
-    50,
+    'PrendaVestir',
+    585.36,
+    875.45,
+    52,
     24
 );
 
@@ -439,12 +439,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    25,
+    1025,
     'Estante',
-    'Perecedero',
-    691.02,
-    574.48,
-    57,
+    'Aseo',
+    725.93,
+    747.74,
+    24,
     25
 );
 
@@ -457,12 +457,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    26,
+    1026,
     'Estante',
-    'NoPerecedero',
-    816.61,
-    248.11,
-    81,
+    'Mueble',
+    185.72,
+    166.38,
+    58,
     26
 );
 
@@ -475,12 +475,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    27,
+    1027,
     'Estante',
-    'Electrodomestico',
-    599.11,
-    716.61,
-    92,
+    'Abarrote',
+    43.64,
+    545.1,
+    16,
     27
 );
 
@@ -493,12 +493,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    28,
+    1028,
     'Estante',
-    'NoPerecedero',
-    616.59,
-    178.08,
-    70,
+    'Congelado',
+    17.28,
+    553.08,
+    76,
     28
 );
 
@@ -511,12 +511,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    29,
+    1029,
     'Estante',
-    'Abarrote',
-    559.69,
-    70.48,
-    55,
+    'Aseo',
+    452.12,
+    155.15,
+    12,
     29
 );
 
@@ -529,12 +529,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    30,
+    1030,
     'Estante',
-    'NoPerecedero',
-    262.81,
-    619.63,
-    42,
+    'Abarrote',
+    881.92,
+    716.23,
+    10,
     30
 );
 
@@ -547,12 +547,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    31,
+    1031,
     'Estante',
-    'NoPerecedero',
-    819.95,
-    507.04,
-    52,
+    'Mueble',
+    765.47,
+    129.75,
+    37,
     31
 );
 
@@ -565,12 +565,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    32,
+    1032,
     'Estante',
-    'Herramienta',
-    381.84,
-    356.77,
-    25,
+    'Perecedero',
+    789.97,
+    430.41,
+    80,
     32
 );
 
@@ -583,12 +583,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    33,
+    1033,
     'Estante',
-    'NoPerecedero',
-    539.88,
-    568.04,
-    83,
+    'Aseo',
+    994.18,
+    727.38,
+    82,
     33
 );
 
@@ -601,12 +601,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    34,
+    1034,
     'Estante',
-    'Abarrote',
-    955.39,
-    323.41,
-    43,
+    'Aseo',
+    842.78,
+    251.75,
+    32,
     34
 );
 
@@ -619,12 +619,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    35,
+    1035,
     'Estante',
-    'Aseo',
-    902.31,
-    508.68,
-    97,
+    'Mueble',
+    565.93,
+    667.72,
+    21,
     35
 );
 
@@ -637,12 +637,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    36,
+    1036,
     'Estante',
-    'Herramienta',
-    389.45,
-    136.94,
-    97,
+    'Aseo',
+    768.8,
+    332.86,
+    25,
     36
 );
 
@@ -655,12 +655,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    37,
+    1037,
     'Estante',
-    'PrendaVestir',
-    61.17,
-    113.38,
-    36,
+    'Perecedero',
+    240.73,
+    576.56,
+    58,
     37
 );
 
@@ -673,12 +673,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    38,
+    1038,
     'Estante',
-    'Aseo',
-    485.62,
-    110.96,
-    80,
+    'Congelado',
+    901.18,
+    423.48,
+    66,
     38
 );
 
@@ -691,12 +691,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    39,
+    1039,
     'Estante',
-    'Abarrote',
-    414.13,
-    724.23,
-    31,
+    'NoPerecedero',
+    991.48,
+    367.77,
+    40,
     39
 );
 
@@ -709,12 +709,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    40,
+    1040,
     'Estante',
-    'Abarrote',
-    431.75,
-    374.72,
-    12,
+    'Herramienta',
+    310.96,
+    38.87,
+    49,
     40
 );
 
@@ -727,12 +727,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    41,
+    1041,
     'Estante',
-    'Mueble',
-    316.61,
-    238.56,
-    4,
+    'Congelado',
+    950.08,
+    681.42,
+    100,
     41
 );
 
@@ -745,12 +745,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    42,
+    1042,
     'Estante',
-    'Herramienta',
-    752.36,
-    497.15,
-    89,
+    'Abarrote',
+    378.79,
+    31.25,
+    70,
     42
 );
 
@@ -763,12 +763,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    43,
+    1043,
     'Estante',
-    'Electrodomestico',
-    139.52,
-    891.25,
-    95,
+    'Congelado',
+    750.12,
+    83.01,
+    38,
     43
 );
 
@@ -781,12 +781,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    44,
+    1044,
     'Estante',
     'PrendaVestir',
-    239.14,
-    151.67,
-    29,
+    839.26,
+    46.15,
+    3,
     44
 );
 
@@ -799,12 +799,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    45,
+    1045,
     'Estante',
-    'Aseo',
-    44.99,
-    931.68,
-    89,
+    'Mueble',
+    410.78,
+    868.19,
+    4,
     45
 );
 
@@ -817,12 +817,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    46,
+    1046,
     'Estante',
-    'Congelado',
-    351.61,
-    150.63,
-    75,
+    'Herramienta',
+    614.99,
+    89.44,
+    83,
     46
 );
 
@@ -835,12 +835,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    47,
+    1047,
     'Estante',
-    'PrendaVestir',
-    90.56,
-    356.06,
-    30,
+    'Perecedero',
+    444.83,
+    656.89,
+    79,
     47
 );
 
@@ -853,12 +853,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    48,
+    1048,
     'Estante',
-    'NoPerecedero',
-    773.64,
-    226.16,
-    19,
+    'Electrodomestico',
+    746.62,
+    390.71,
+    61,
     48
 );
 
@@ -871,12 +871,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    49,
+    1049,
     'Estante',
-    'Electrodomestico',
-    455.58,
-    780.26,
-    73,
+    'Mueble',
+    184.95,
+    722.36,
+    68,
     49
 );
 
@@ -889,12 +889,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    50,
+    1050,
     'Estante',
-    'Mueble',
-    801.77,
-    916.9,
-    45,
+    'Herramienta',
+    602.72,
+    635.8,
+    65,
     50
 );
 
@@ -907,12 +907,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    51,
+    1051,
     'Estante',
-    'NoPerecedero',
-    602.96,
-    263.7,
-    63,
+    'Congelado',
+    70.15,
+    428.01,
+    21,
     51
 );
 
@@ -925,12 +925,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    52,
+    1052,
     'Estante',
-    'NoPerecedero',
-    168.53,
-    240.13,
-    50,
+    'Electrodomestico',
+    80.1,
+    515.41,
+    17,
     52
 );
 
@@ -943,12 +943,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    53,
+    1053,
     'Estante',
-    'Congelado',
-    106.37,
-    274.38,
-    100,
+    'Perecedero',
+    70.29,
+    776.58,
+    41,
     53
 );
 
@@ -961,12 +961,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    54,
+    1054,
     'Estante',
     'Aseo',
-    678.03,
-    721.78,
-    57,
+    533.11,
+    638.35,
+    3,
     54
 );
 
@@ -979,12 +979,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    55,
+    1055,
     'Estante',
-    'NoPerecedero',
-    537.82,
-    423.42,
-    48,
+    'Mueble',
+    521.87,
+    276.76,
+    56,
     55
 );
 
@@ -997,12 +997,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    56,
+    1056,
     'Estante',
     'Mueble',
-    479.97,
-    193.75,
-    51,
+    741.84,
+    708.62,
+    32,
     56
 );
 
@@ -1015,12 +1015,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    57,
+    1057,
     'Estante',
-    'NoPerecedero',
-    380.55,
-    617.62,
-    35,
+    'PrendaVestir',
+    539.66,
+    91.8,
+    79,
     57
 );
 
@@ -1033,12 +1033,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    58,
+    1058,
     'Estante',
-    'NoPerecedero',
-    457.21,
-    527.96,
-    20,
+    'Congelado',
+    693.38,
+    872.99,
+    32,
     58
 );
 
@@ -1051,12 +1051,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    59,
+    1059,
     'Estante',
-    'Aseo',
-    260.72,
-    494.32,
-    89,
+    'NoPerecedero',
+    296.1,
+    196.75,
+    88,
     59
 );
 
@@ -1069,12 +1069,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    60,
+    1060,
     'Estante',
-    'Aseo',
-    729.13,
-    207.39,
-    56,
+    'NoPerecedero',
+    730.24,
+    578.1,
+    39,
     60
 );
 
@@ -1087,12 +1087,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    61,
+    1061,
     'Estante',
-    'Aseo',
-    455.69,
-    58.81,
-    41,
+    'Congelado',
+    546.68,
+    355.36,
+    94,
     61
 );
 
@@ -1105,12 +1105,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    62,
+    1062,
     'Estante',
-    'NoPerecedero',
-    655.72,
-    14.12,
-    23,
+    'Perecedero',
+    909.93,
+    366.55,
+    97,
     62
 );
 
@@ -1123,12 +1123,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    63,
+    1063,
     'Estante',
-    'Herramienta',
-    178.55,
-    721.06,
-    70,
+    'Perecedero',
+    908.02,
+    363.52,
+    36,
     63
 );
 
@@ -1141,12 +1141,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    64,
+    1064,
     'Estante',
-    'Electrodomestico',
-    458.56,
-    53.94,
-    80,
+    'PrendaVestir',
+    570.64,
+    834.43,
+    72,
     64
 );
 
@@ -1159,12 +1159,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    65,
+    1065,
     'Estante',
-    'PrendaVestir',
-    797.63,
-    897.95,
-    97,
+    'Herramienta',
+    804.19,
+    702.97,
+    58,
     65
 );
 
@@ -1177,12 +1177,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    66,
+    1066,
     'Estante',
-    'NoPerecedero',
-    339.19,
-    633.15,
-    12,
+    'PrendaVestir',
+    567.44,
+    785.37,
+    36,
     66
 );
 
@@ -1195,12 +1195,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    67,
+    1067,
     'Estante',
-    'Aseo',
-    620.97,
-    965.3,
-    36,
+    'Electrodomestico',
+    796.09,
+    189.33,
+    77,
     67
 );
 
@@ -1213,12 +1213,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    68,
+    1068,
     'Estante',
-    'NoPerecedero',
-    211.9,
-    887.93,
-    1,
+    'Abarrote',
+    997.04,
+    270.63,
+    48,
     68
 );
 
@@ -1231,12 +1231,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    69,
+    1069,
     'Estante',
-    'Aseo',
-    525.72,
-    866.47,
-    47,
+    'Congelado',
+    397.42,
+    26.82,
+    73,
     69
 );
 
@@ -1249,12 +1249,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    70,
+    1070,
     'Estante',
-    'Electrodomestico',
-    921.97,
-    313.21,
-    77,
+    'Aseo',
+    623.29,
+    475.04,
+    49,
     70
 );
 
@@ -1267,12 +1267,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    71,
+    1071,
     'Estante',
-    'Perecedero',
-    492.88,
-    311.94,
-    24,
+    'Aseo',
+    688.15,
+    101.2,
+    76,
     71
 );
 
@@ -1285,12 +1285,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    72,
+    1072,
     'Estante',
-    'Congelado',
-    66.87,
-    267.31,
-    87,
+    'Mueble',
+    54.08,
+    409.53,
+    94,
     72
 );
 
@@ -1303,12 +1303,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    73,
+    1073,
     'Estante',
-    'Electrodomestico',
-    203.02,
-    345.29,
-    67,
+    'Abarrote',
+    849.26,
+    246.94,
+    2,
     73
 );
 
@@ -1321,12 +1321,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    74,
+    1074,
     'Estante',
-    'Perecedero',
-    600.5,
-    520.22,
-    91,
+    'PrendaVestir',
+    978.11,
+    903.51,
+    6,
     74
 );
 
@@ -1339,12 +1339,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    75,
+    1075,
     'Estante',
-    'Mueble',
-    406.32,
-    270.66,
-    54,
+    'Perecedero',
+    235.81,
+    230.37,
+    28,
     75
 );
 
@@ -1357,12 +1357,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    76,
+    1076,
     'Estante',
-    'Congelado',
-    916.04,
-    508.15,
-    16,
+    'Aseo',
+    992.82,
+    583.41,
+    70,
     76
 );
 
@@ -1375,12 +1375,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    77,
+    1077,
     'Estante',
-    'Abarrote',
-    939.93,
-    675.38,
-    26,
+    'Aseo',
+    996.93,
+    907.63,
+    44,
     77
 );
 
@@ -1393,12 +1393,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    78,
+    1078,
     'Estante',
     'Mueble',
-    769.66,
-    714.45,
-    97,
+    993.3,
+    41.74,
+    52,
     78
 );
 
@@ -1411,12 +1411,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    79,
+    1079,
     'Estante',
-    'Herramienta',
-    476.57,
-    775.7,
-    27,
+    'NoPerecedero',
+    138.01,
+    342.93,
+    57,
     79
 );
 
@@ -1429,12 +1429,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    80,
+    1080,
     'Estante',
-    'Electrodomestico',
-    751.67,
-    401.59,
-    99,
+    'PrendaVestir',
+    702.69,
+    715.17,
+    48,
     80
 );
 
@@ -1447,12 +1447,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    81,
+    1081,
     'Estante',
-    'Aseo',
-    301.61,
-    97.56,
-    47,
+    'NoPerecedero',
+    321.0,
+    807.0,
+    12,
     81
 );
 
@@ -1465,12 +1465,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    82,
+    1082,
     'Estante',
-    'NoPerecedero',
-    908.7,
-    972.77,
-    22,
+    'Congelado',
+    859.8,
+    666.97,
+    51,
     82
 );
 
@@ -1483,12 +1483,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    83,
+    1083,
     'Estante',
-    'Perecedero',
-    723.04,
-    506.98,
-    67,
+    'Abarrote',
+    895.18,
+    559.89,
+    15,
     83
 );
 
@@ -1501,12 +1501,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    84,
+    1084,
     'Estante',
-    'Herramienta',
-    144.87,
-    354.59,
-    45,
+    'Perecedero',
+    6.76,
+    968.17,
+    42,
     84
 );
 
@@ -1519,12 +1519,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    85,
+    1085,
     'Estante',
-    'Aseo',
-    292.15,
-    244.98,
-    48,
+    'Mueble',
+    561.87,
+    877.46,
+    46,
     85
 );
 
@@ -1537,12 +1537,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    86,
+    1086,
     'Estante',
-    'PrendaVestir',
-    746.77,
-    876.57,
-    77,
+    'Herramienta',
+    169.25,
+    350.49,
+    58,
     86
 );
 
@@ -1555,11 +1555,11 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    87,
+    1087,
     'Estante',
-    'Perecedero',
-    532.92,
-    651.41,
+    'Aseo',
+    88.68,
+    875.13,
     50,
     87
 );
@@ -1573,12 +1573,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    88,
+    1088,
     'Estante',
-    'Perecedero',
-    3.76,
-    9.14,
-    97,
+    'NoPerecedero',
+    579.74,
+    81.93,
+    56,
     88
 );
 
@@ -1591,12 +1591,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    89,
+    1089,
     'Estante',
-    'Mueble',
-    846.32,
-    377.83,
-    89,
+    'Electrodomestico',
+    648.83,
+    551.09,
+    17,
     89
 );
 
@@ -1609,12 +1609,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    90,
+    1090,
     'Estante',
-    'Mueble',
-    700.35,
-    406.33,
-    57,
+    'Congelado',
+    627.66,
+    811.36,
+    2,
     90
 );
 
@@ -1627,12 +1627,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    91,
+    1091,
     'Estante',
-    'Herramienta',
-    794.65,
-    399.84,
-    67,
+    'Aseo',
+    707.07,
+    131.25,
+    93,
     91
 );
 
@@ -1645,12 +1645,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    92,
+    1092,
     'Estante',
-    'Mueble',
-    211.1,
-    174.78,
-    31,
+    'PrendaVestir',
+    932.4,
+    872.05,
+    84,
     92
 );
 
@@ -1663,12 +1663,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    93,
+    1093,
     'Estante',
-    'NoPerecedero',
-    462.38,
-    48.98,
-    4,
+    'Congelado',
+    547.53,
+    205.3,
+    34,
     93
 );
 
@@ -1681,12 +1681,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    94,
+    1094,
     'Estante',
-    'Aseo',
-    817.81,
-    77.73,
-    98,
+    'Herramienta',
+    66.24,
+    506.98,
+    15,
     94
 );
 
@@ -1699,12 +1699,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    95,
+    1095,
     'Estante',
-    'Congelado',
-    166.12,
-    378.82,
-    93,
+    'Aseo',
+    326.32,
+    584.14,
+    8,
     95
 );
 
@@ -1717,12 +1717,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    96,
+    1096,
     'Estante',
-    'Perecedero',
-    557.84,
-    998.12,
-    53,
+    'Aseo',
+    54.68,
+    968.07,
+    84,
     96
 );
 
@@ -1735,12 +1735,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    97,
+    1097,
     'Estante',
-    'Mueble',
-    636.2,
-    318.42,
-    97,
+    'NoPerecedero',
+    436.16,
+    879.9,
+    5,
     97
 );
 
@@ -1753,12 +1753,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    98,
+    1098,
     'Estante',
     'PrendaVestir',
-    103.17,
-    281.63,
-    65,
+    670.6,
+    624.73,
+    33,
     98
 );
 
@@ -1771,12 +1771,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    99,
+    1099,
     'Estante',
-    'Mueble',
-    364.06,
-    916.11,
-    77,
+    'PrendaVestir',
+    33.55,
+    372.75,
+    81,
     99
 );
 
@@ -1789,12 +1789,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    100,
+    1100,
     'Estante',
-    'Abarrote',
-    630.31,
-    38.61,
-    48,
+    'Congelado',
+    476.5,
+    345.32,
+    64,
     100
 );
 
@@ -1807,12 +1807,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    101,
+    1101,
     'Estante',
-    'Congelado',
-    908.2,
-    353.65,
-    77,
+    'Herramienta',
+    587.99,
+    245.13,
+    99,
     101
 );
 
@@ -1825,12 +1825,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    102,
+    1102,
     'Estante',
     'Mueble',
-    41.06,
-    848.12,
-    54,
+    754.71,
+    3.18,
+    40,
     102
 );
 
@@ -1843,12 +1843,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    103,
+    1103,
     'Estante',
-    'Abarrote',
-    632.47,
-    260.67,
-    96,
+    'Congelado',
+    334.68,
+    306.25,
+    88,
     103
 );
 
@@ -1861,12 +1861,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    104,
+    1104,
     'Estante',
     'Perecedero',
-    900.94,
-    469.64,
-    30,
+    140.0,
+    711.06,
+    39,
     104
 );
 
@@ -1879,12 +1879,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    105,
+    1105,
     'Estante',
-    'PrendaVestir',
-    399.83,
-    190.42,
-    84,
+    'Mueble',
+    868.39,
+    823.74,
+    12,
     105
 );
 
@@ -1897,12 +1897,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    106,
+    1106,
     'Estante',
-    'PrendaVestir',
-    297.22,
-    120.48,
-    75,
+    'NoPerecedero',
+    48.02,
+    872.25,
+    48,
     106
 );
 
@@ -1915,12 +1915,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    107,
+    1107,
     'Estante',
-    'Herramienta',
-    293.95,
-    220.6,
-    14,
+    'Aseo',
+    799.22,
+    659.66,
+    73,
     107
 );
 
@@ -1933,12 +1933,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    108,
+    1108,
     'Estante',
     'Perecedero',
-    202.04,
-    329.06,
-    40,
+    917.97,
+    628.86,
+    64,
     108
 );
 
@@ -1951,12 +1951,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    109,
+    1109,
     'Estante',
-    'Abarrote',
-    60.85,
-    749.55,
-    52,
+    'Perecedero',
+    878.12,
+    739.74,
+    23,
     109
 );
 
@@ -1969,12 +1969,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    110,
+    1110,
     'Estante',
-    'Congelado',
-    136.68,
-    791.4,
-    65,
+    'Herramienta',
+    974.75,
+    219.64,
+    83,
     110
 );
 
@@ -1987,12 +1987,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    111,
+    1111,
     'Estante',
-    'Mueble',
-    579.86,
-    248.4,
-    79,
+    'Aseo',
+    207.49,
+    358.93,
+    66,
     111
 );
 
@@ -2005,12 +2005,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    112,
+    1112,
     'Estante',
-    'PrendaVestir',
-    873.51,
-    867.85,
-    14,
+    'Abarrote',
+    385.54,
+    104.09,
+    44,
     112
 );
 
@@ -2023,12 +2023,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    113,
+    1113,
     'Estante',
-    'PrendaVestir',
-    716.37,
-    892.3,
-    76,
+    'Aseo',
+    131.48,
+    514.4,
+    64,
     113
 );
 
@@ -2041,12 +2041,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    114,
+    1114,
     'Estante',
-    'NoPerecedero',
-    968.78,
-    10.79,
-    6,
+    'Electrodomestico',
+    608.14,
+    178.1,
+    3,
     114
 );
 
@@ -2059,12 +2059,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    115,
+    1115,
     'Estante',
     'Congelado',
-    368.63,
-    528.22,
-    46,
+    176.18,
+    763.47,
+    4,
     115
 );
 
@@ -2077,12 +2077,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    116,
+    1116,
     'Estante',
-    'Congelado',
-    465.4,
-    349.55,
-    16,
+    'Herramienta',
+    964.35,
+    393.43,
+    10,
     116
 );
 
@@ -2095,12 +2095,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    117,
+    1117,
     'Estante',
-    'Congelado',
-    219.07,
-    576.58,
-    74,
+    'PrendaVestir',
+    298.32,
+    28.31,
+    96,
     117
 );
 
@@ -2113,12 +2113,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    118,
+    1118,
     'Estante',
-    'NoPerecedero',
-    416.58,
-    773.69,
-    79,
+    'Aseo',
+    260.45,
+    705.18,
+    93,
     118
 );
 
@@ -2131,12 +2131,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    119,
+    1119,
     'Estante',
     'Mueble',
-    396.54,
-    354.92,
-    17,
+    812.98,
+    865.93,
+    85,
     119
 );
 
@@ -2149,12 +2149,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    120,
+    1120,
     'Estante',
-    'Abarrote',
-    221.08,
-    392.6,
-    97,
+    'Mueble',
+    575.05,
+    345.28,
+    76,
     120
 );
 
@@ -2167,12 +2167,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    121,
+    1121,
     'Estante',
-    'Aseo',
-    532.14,
-    407.73,
-    1,
+    'Abarrote',
+    661.73,
+    838.52,
+    40,
     121
 );
 
@@ -2185,12 +2185,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    122,
+    1122,
     'Estante',
-    'Congelado',
-    538.09,
-    587.81,
-    87,
+    'Aseo',
+    72.95,
+    61.98,
+    47,
     122
 );
 
@@ -2203,12 +2203,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    123,
+    1123,
     'Estante',
-    'Abarrote',
-    140.13,
-    997.86,
-    92,
+    'Mueble',
+    844.71,
+    679.56,
+    25,
     123
 );
 
@@ -2221,12 +2221,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    124,
+    1124,
     'Estante',
-    'Herramienta',
-    699.3,
-    623.4,
-    53,
+    'Congelado',
+    104.36,
+    768.86,
+    2,
     124
 );
 
@@ -2239,12 +2239,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    125,
+    1125,
     'Estante',
-    'NoPerecedero',
-    647.31,
-    355.68,
-    39,
+    'Aseo',
+    585.44,
+    487.55,
+    30,
     125
 );
 
@@ -2257,12 +2257,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    126,
+    1126,
     'Estante',
-    'Electrodomestico',
-    16.76,
-    343.52,
-    38,
+    'Abarrote',
+    267.57,
+    168.94,
+    26,
     126
 );
 
@@ -2275,12 +2275,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    127,
+    1127,
     'Estante',
-    'Aseo',
-    367.9,
-    15.37,
-    15,
+    'Abarrote',
+    756.45,
+    145.26,
+    82,
     127
 );
 
@@ -2293,12 +2293,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    128,
+    1128,
     'Estante',
-    'Abarrote',
-    446.14,
-    267.15,
-    69,
+    'NoPerecedero',
+    201.95,
+    188.32,
+    54,
     128
 );
 
@@ -2311,12 +2311,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    129,
+    1129,
     'Estante',
-    'PrendaVestir',
-    742.85,
-    214.97,
-    43,
+    'Herramienta',
+    455.74,
+    362.42,
+    98,
     129
 );
 
@@ -2329,12 +2329,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    130,
+    1130,
     'Estante',
-    'Abarrote',
-    605.71,
-    157.5,
-    18,
+    'NoPerecedero',
+    894.14,
+    893.93,
+    72,
     130
 );
 
@@ -2347,12 +2347,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    131,
+    1131,
     'Estante',
-    'NoPerecedero',
-    321.49,
-    612.24,
-    66,
+    'PrendaVestir',
+    671.68,
+    646.56,
+    38,
     131
 );
 
@@ -2365,12 +2365,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    132,
+    1132,
     'Estante',
-    'Congelado',
-    422.92,
-    370.85,
-    4,
+    'PrendaVestir',
+    93.68,
+    251.72,
+    8,
     132
 );
 
@@ -2383,12 +2383,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    133,
+    1133,
     'Estante',
-    'Abarrote',
-    102.55,
-    200.18,
-    6,
+    'Congelado',
+    963.92,
+    87.11,
+    60,
     133
 );
 
@@ -2401,12 +2401,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    134,
+    1134,
     'Estante',
-    'Aseo',
-    412.68,
-    103.77,
-    14,
+    'Congelado',
+    35.77,
+    161.02,
+    5,
     134
 );
 
@@ -2419,12 +2419,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    135,
+    1135,
     'Estante',
-    'Herramienta',
-    904.32,
-    195.63,
-    57,
+    'Congelado',
+    954.85,
+    566.75,
+    41,
     135
 );
 
@@ -2437,12 +2437,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    136,
+    1136,
     'Estante',
-    'Electrodomestico',
-    739.76,
-    310.61,
-    37,
+    'Herramienta',
+    78.37,
+    477.77,
+    99,
     136
 );
 
@@ -2455,12 +2455,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    137,
+    1137,
     'Estante',
-    'Electrodomestico',
-    251.63,
-    47.24,
-    47,
+    'Congelado',
+    601.79,
+    151.47,
+    76,
     137
 );
 
@@ -2473,12 +2473,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    138,
+    1138,
     'Estante',
-    'Perecedero',
-    364.05,
-    408.91,
-    57,
+    'PrendaVestir',
+    85.48,
+    634.3,
+    48,
     138
 );
 
@@ -2491,12 +2491,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    139,
+    1139,
     'Estante',
-    'Perecedero',
-    932.11,
-    100.09,
-    45,
+    'Herramienta',
+    992.24,
+    99.14,
+    100,
     139
 );
 
@@ -2509,12 +2509,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    140,
+    1140,
     'Estante',
-    'Aseo',
-    91.1,
-    426.39,
-    21,
+    'NoPerecedero',
+    727.02,
+    193.61,
+    34,
     140
 );
 
@@ -2527,12 +2527,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    141,
+    1141,
     'Estante',
-    'Electrodomestico',
-    338.55,
-    157.49,
-    8,
+    'Perecedero',
+    467.59,
+    139.0,
+    100,
     141
 );
 
@@ -2545,12 +2545,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    142,
+    1142,
     'Estante',
-    'PrendaVestir',
-    233.76,
-    404.36,
-    78,
+    'Perecedero',
+    737.91,
+    675.35,
+    30,
     142
 );
 
@@ -2563,12 +2563,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    143,
+    1143,
     'Estante',
-    'Abarrote',
-    420.46,
-    446.26,
-    97,
+    'Congelado',
+    676.47,
+    151.51,
+    45,
     143
 );
 
@@ -2581,12 +2581,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    144,
+    1144,
     'Estante',
-    'Perecedero',
-    612.84,
-    437.51,
-    24,
+    'Electrodomestico',
+    560.39,
+    872.91,
+    58,
     144
 );
 
@@ -2599,12 +2599,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    145,
+    1145,
     'Estante',
-    'Perecedero',
-    776.35,
-    454.69,
-    17,
+    'Electrodomestico',
+    822.11,
+    934.35,
+    45,
     145
 );
 
@@ -2617,12 +2617,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    146,
+    1146,
     'Estante',
-    'Aseo',
-    8.34,
-    618.46,
-    82,
+    'Perecedero',
+    703.78,
+    887.44,
+    94,
     146
 );
 
@@ -2635,12 +2635,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    147,
+    1147,
     'Estante',
-    'Abarrote',
-    608.5,
-    243.88,
-    34,
+    'Perecedero',
+    325.97,
+    36.11,
+    22,
     147
 );
 
@@ -2653,12 +2653,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    148,
+    1148,
     'Estante',
-    'Abarrote',
-    178.02,
-    214.26,
-    85,
+    'Congelado',
+    523.35,
+    584.18,
+    66,
     148
 );
 
@@ -2671,12 +2671,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    149,
+    1149,
     'Estante',
-    'Electrodomestico',
-    487.99,
-    375.47,
-    95,
+    'NoPerecedero',
+    996.9,
+    115.71,
+    25,
     149
 );
 
@@ -2689,12 +2689,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    150,
+    1150,
     'Estante',
-    'Perecedero',
-    686.96,
-    828.13,
-    59,
+    'NoPerecedero',
+    666.53,
+    944.58,
+    62,
     150
 );
 
@@ -2707,12 +2707,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    151,
+    1151,
     'Estante',
     'Congelado',
-    470.7,
-    523.35,
-    77,
+    350.42,
+    202.31,
+    89,
     151
 );
 
@@ -2725,12 +2725,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    152,
+    1152,
     'Estante',
-    'Congelado',
-    401.58,
-    507.29,
-    69,
+    'NoPerecedero',
+    772.89,
+    476.3,
+    21,
     152
 );
 
@@ -2743,12 +2743,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    153,
+    1153,
     'Estante',
-    'Perecedero',
-    183.33,
-    404.98,
-    43,
+    'Abarrote',
+    107.54,
+    163.38,
+    39,
     153
 );
 
@@ -2761,12 +2761,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    154,
+    1154,
     'Estante',
-    'Perecedero',
-    618.01,
-    405.61,
-    43,
+    'Mueble',
+    912.36,
+    633.97,
+    74,
     154
 );
 
@@ -2779,12 +2779,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    155,
+    1155,
     'Estante',
-    'Mueble',
-    832.52,
-    590.13,
-    40,
+    'Perecedero',
+    162.58,
+    159.14,
+    84,
     155
 );
 
@@ -2797,12 +2797,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    156,
+    1156,
     'Estante',
-    'NoPerecedero',
-    796.89,
-    702.19,
-    32,
+    'Abarrote',
+    716.85,
+    714.47,
+    59,
     156
 );
 
@@ -2815,12 +2815,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    157,
+    1157,
     'Estante',
-    'Abarrote',
-    573.93,
-    321.58,
-    34,
+    'Herramienta',
+    9.69,
+    564.99,
+    14,
     157
 );
 
@@ -2833,12 +2833,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    158,
+    1158,
     'Estante',
-    'Perecedero',
-    671.17,
-    608.88,
-    91,
+    'Electrodomestico',
+    203.44,
+    929.91,
+    23,
     158
 );
 
@@ -2851,12 +2851,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    159,
+    1159,
     'Estante',
-    'Herramienta',
-    543.46,
-    596.66,
-    72,
+    'Aseo',
+    375.76,
+    511.7,
+    19,
     159
 );
 
@@ -2869,12 +2869,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    160,
+    1160,
     'Estante',
-    'Electrodomestico',
-    15.18,
-    932.95,
-    6,
+    'NoPerecedero',
+    212.54,
+    496.58,
+    100,
     160
 );
 
@@ -2887,12 +2887,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    161,
+    1161,
     'Estante',
-    'Congelado',
-    632.07,
-    360.71,
-    6,
+    'Aseo',
+    254.11,
+    811.38,
+    27,
     161
 );
 
@@ -2905,12 +2905,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    162,
+    1162,
     'Estante',
-    'Congelado',
-    4.62,
-    81.69,
-    72,
+    'Mueble',
+    670.56,
+    723.79,
+    64,
     162
 );
 
@@ -2923,12 +2923,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    163,
+    1163,
     'Estante',
-    'Herramienta',
-    47.0,
-    336.3,
-    44,
+    'Mueble',
+    872.17,
+    822.55,
+    9,
     163
 );
 
@@ -2941,12 +2941,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    164,
+    1164,
     'Estante',
-    'Perecedero',
-    610.23,
-    296.87,
-    99,
+    'Electrodomestico',
+    674.14,
+    765.91,
+    27,
     164
 );
 
@@ -2959,12 +2959,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    165,
+    1165,
     'Estante',
-    'Herramienta',
-    411.12,
-    933.56,
-    97,
+    'NoPerecedero',
+    296.39,
+    593.34,
+    89,
     165
 );
 
@@ -2977,12 +2977,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    166,
+    1166,
     'Estante',
-    'Congelado',
-    20.45,
-    606.76,
-    96,
+    'Aseo',
+    776.96,
+    940.54,
+    14,
     166
 );
 
@@ -2995,12 +2995,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    167,
+    1167,
     'Estante',
-    'Congelado',
-    294.46,
-    150.04,
-    78,
+    'Electrodomestico',
+    158.99,
+    539.94,
+    53,
     167
 );
 
@@ -3013,12 +3013,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    168,
+    1168,
     'Estante',
-    'Aseo',
-    13.5,
-    353.15,
-    67,
+    'PrendaVestir',
+    578.58,
+    392.81,
+    32,
     168
 );
 
@@ -3031,12 +3031,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    169,
+    1169,
     'Estante',
-    'Mueble',
-    260.34,
-    250.51,
-    22,
+    'PrendaVestir',
+    751.59,
+    335.55,
+    49,
     169
 );
 
@@ -3049,12 +3049,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    170,
+    1170,
     'Estante',
-    'PrendaVestir',
-    377.25,
-    182.71,
-    5,
+    'Perecedero',
+    690.03,
+    248.99,
+    76,
     170
 );
 
@@ -3067,12 +3067,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    171,
+    1171,
     'Estante',
     'Abarrote',
-    67.28,
-    125.69,
-    36,
+    300.12,
+    593.87,
+    22,
     171
 );
 
@@ -3085,12 +3085,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    172,
+    1172,
     'Estante',
     'Herramienta',
-    111.37,
-    804.24,
-    93,
+    897.84,
+    475.0,
+    77,
     172
 );
 
@@ -3103,12 +3103,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    173,
+    1173,
     'Estante',
-    'Herramienta',
-    213.42,
-    214.88,
-    4,
+    'Abarrote',
+    7.65,
+    763.56,
+    83,
     173
 );
 
@@ -3121,12 +3121,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    174,
+    1174,
     'Estante',
-    'Perecedero',
-    462.27,
-    185.03,
-    83,
+    'Mueble',
+    715.93,
+    982.55,
+    74,
     174
 );
 
@@ -3139,12 +3139,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    175,
+    1175,
     'Estante',
-    'Congelado',
-    123.44,
-    174.56,
-    64,
+    'Electrodomestico',
+    392.09,
+    30.66,
+    66,
     175
 );
 
@@ -3157,12 +3157,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    176,
+    1176,
     'Estante',
-    'Electrodomestico',
-    95.6,
-    729.87,
-    72,
+    'Abarrote',
+    722.98,
+    787.56,
+    76,
     176
 );
 
@@ -3175,12 +3175,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    177,
+    1177,
     'Estante',
-    'NoPerecedero',
-    682.34,
-    221.84,
-    31,
+    'Congelado',
+    987.07,
+    966.2,
+    43,
     177
 );
 
@@ -3193,12 +3193,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    178,
+    1178,
     'Estante',
-    'Aseo',
-    655.33,
-    602.53,
-    46,
+    'Mueble',
+    141.07,
+    336.32,
+    60,
     178
 );
 
@@ -3211,12 +3211,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    179,
+    1179,
     'Estante',
-    'Abarrote',
-    904.57,
-    1.77,
-    35,
+    'Perecedero',
+    774.79,
+    818.64,
+    62,
     179
 );
 
@@ -3229,12 +3229,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    180,
+    1180,
     'Estante',
-    'PrendaVestir',
-    853.51,
-    827.03,
-    35,
+    'Abarrote',
+    204.21,
+    635.94,
+    13,
     180
 );
 
@@ -3247,12 +3247,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    181,
+    1181,
     'Estante',
-    'Electrodomestico',
-    707.2,
-    4.21,
-    60,
+    'Herramienta',
+    155.25,
+    647.43,
+    8,
     181
 );
 
@@ -3265,12 +3265,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    182,
+    1182,
     'Estante',
-    'Aseo',
-    983.15,
-    990.6,
-    25,
+    'Mueble',
+    872.61,
+    947.22,
+    55,
     182
 );
 
@@ -3283,12 +3283,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    183,
+    1183,
     'Estante',
-    'Abarrote',
-    278.84,
-    295.59,
-    24,
+    'Mueble',
+    140.29,
+    679.61,
+    84,
     183
 );
 
@@ -3301,12 +3301,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    184,
+    1184,
     'Estante',
-    'PrendaVestir',
-    845.13,
-    557.77,
-    40,
+    'Electrodomestico',
+    85.6,
+    204.25,
+    16,
     184
 );
 
@@ -3319,12 +3319,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    185,
+    1185,
     'Estante',
-    'Mueble',
-    740.3,
-    658.98,
-    49,
+    'PrendaVestir',
+    924.37,
+    205.27,
+    96,
     185
 );
 
@@ -3337,12 +3337,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    186,
+    1186,
     'Estante',
-    'NoPerecedero',
-    601.48,
-    674.63,
-    32,
+    'Herramienta',
+    455.0,
+    741.95,
+    10,
     186
 );
 
@@ -3355,12 +3355,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    187,
+    1187,
     'Estante',
-    'Congelado',
-    892.12,
-    508.89,
-    33,
+    'Electrodomestico',
+    559.0,
+    933.54,
+    49,
     187
 );
 
@@ -3373,12 +3373,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    188,
+    1188,
     'Estante',
-    'Mueble',
-    628.86,
-    24.55,
-    94,
+    'Electrodomestico',
+    701.26,
+    494.56,
+    26,
     188
 );
 
@@ -3391,12 +3391,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    189,
+    1189,
     'Estante',
-    'Abarrote',
-    19.86,
-    62.79,
-    60,
+    'Herramienta',
+    581.82,
+    521.34,
+    5,
     189
 );
 
@@ -3409,12 +3409,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    190,
+    1190,
     'Estante',
-    'Perecedero',
-    383.16,
-    406.93,
-    3,
+    'Congelado',
+    339.1,
+    25.71,
+    95,
     190
 );
 
@@ -3427,12 +3427,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    191,
+    1191,
     'Estante',
-    'Herramienta',
-    510.06,
-    784.99,
-    68,
+    'Congelado',
+    876.03,
+    1.73,
+    53,
     191
 );
 
@@ -3445,12 +3445,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    192,
+    1192,
     'Estante',
     'Perecedero',
-    133.72,
-    415.02,
-    12,
+    87.8,
+    88.02,
+    86,
     192
 );
 
@@ -3463,12 +3463,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    193,
+    1193,
     'Estante',
-    'Herramienta',
-    63.49,
-    455.46,
-    67,
+    'Congelado',
+    836.52,
+    866.92,
+    40,
     193
 );
 
@@ -3481,12 +3481,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    194,
+    1194,
     'Estante',
-    'Herramienta',
-    341.21,
-    659.81,
-    64,
+    'Aseo',
+    325.96,
+    552.76,
+    31,
     194
 );
 
@@ -3499,12 +3499,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    195,
+    1195,
     'Estante',
-    'PrendaVestir',
-    105.88,
-    842.79,
-    9,
+    'Herramienta',
+    751.02,
+    486.72,
+    60,
     195
 );
 
@@ -3517,12 +3517,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    196,
+    1196,
     'Estante',
-    'Abarrote',
-    439.6,
-    681.67,
-    3,
+    'Aseo',
+    80.49,
+    71.97,
+    97,
     196
 );
 
@@ -3535,12 +3535,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    197,
+    1197,
     'Estante',
-    'Electrodomestico',
-    362.45,
-    834.2,
-    21,
+    'NoPerecedero',
+    193.08,
+    742.62,
+    30,
     197
 );
 
@@ -3553,12 +3553,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    198,
+    1198,
     'Estante',
-    'PrendaVestir',
-    218.87,
-    43.06,
-    99,
+    'Electrodomestico',
+    923.24,
+    602.98,
+    79,
     198
 );
 
@@ -3571,12 +3571,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    199,
+    1199,
     'Estante',
-    'PrendaVestir',
-    605.66,
-    964.17,
-    38,
+    'Herramienta',
+    632.1,
+    652.92,
+    66,
     199
 );
 
@@ -3589,11 +3589,11 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    200,
+    1200,
     'Estante',
     'Aseo',
-    624.57,
-    371.47,
+    462.1,
+    738.4,
     20,
     200
 );
@@ -3607,12 +3607,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    201,
+    1201,
     'Estante',
-    'Aseo',
-    962.11,
-    272.1,
-    94,
+    'Perecedero',
+    223.25,
+    98.32,
+    9,
     201
 );
 
@@ -3625,12 +3625,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    202,
+    1202,
     'Estante',
-    'Perecedero',
-    400.91,
-    321.18,
-    80,
+    'Aseo',
+    649.78,
+    777.41,
+    92,
     202
 );
 
@@ -3643,12 +3643,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    203,
+    1203,
     'Estante',
-    'NoPerecedero',
-    810.63,
-    244.48,
-    5,
+    'Herramienta',
+    940.66,
+    442.97,
+    9,
     203
 );
 
@@ -3661,12 +3661,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    204,
+    1204,
     'Estante',
-    'Herramienta',
-    471.46,
-    979.9,
-    12,
+    'Perecedero',
+    352.21,
+    78.98,
+    97,
     204
 );
 
@@ -3679,12 +3679,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    205,
+    1205,
     'Estante',
-    'Herramienta',
-    87.0,
-    775.57,
-    18,
+    'Abarrote',
+    827.39,
+    413.44,
+    49,
     205
 );
 
@@ -3697,12 +3697,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    206,
+    1206,
     'Estante',
-    'PrendaVestir',
-    938.02,
-    515.09,
-    68,
+    'Herramienta',
+    294.06,
+    951.34,
+    58,
     206
 );
 
@@ -3715,12 +3715,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    207,
+    1207,
     'Estante',
-    'NoPerecedero',
-    438.67,
-    716.52,
-    55,
+    'Congelado',
+    420.99,
+    523.13,
+    11,
     207
 );
 
@@ -3733,12 +3733,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    208,
+    1208,
     'Estante',
-    'Abarrote',
-    668.79,
-    978.51,
-    39,
+    'Herramienta',
+    863.53,
+    130.08,
+    21,
     208
 );
 
@@ -3751,12 +3751,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    209,
+    1209,
     'Estante',
-    'Congelado',
-    580.94,
-    144.19,
-    30,
+    'NoPerecedero',
+    743.04,
+    407.62,
+    71,
     209
 );
 
@@ -3769,12 +3769,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    210,
+    1210,
     'Estante',
-    'PrendaVestir',
-    161.95,
-    984.84,
-    83,
+    'Abarrote',
+    121.57,
+    935.54,
+    32,
     210
 );
 
@@ -3787,12 +3787,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    211,
+    1211,
     'Estante',
-    'PrendaVestir',
-    149.82,
-    277.14,
-    13,
+    'Abarrote',
+    456.57,
+    221.1,
+    23,
     211
 );
 
@@ -3805,12 +3805,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    212,
+    1212,
     'Estante',
     'NoPerecedero',
-    97.99,
-    697.95,
-    91,
+    497.38,
+    94.36,
+    35,
     212
 );
 
@@ -3823,12 +3823,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    213,
+    1213,
     'Estante',
-    'Congelado',
-    791.86,
-    625.9,
-    86,
+    'NoPerecedero',
+    103.78,
+    469.12,
+    87,
     213
 );
 
@@ -3841,12 +3841,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    214,
+    1214,
     'Estante',
-    'Mueble',
-    621.8,
-    173.6,
-    52,
+    'Aseo',
+    187.78,
+    86.24,
+    27,
     214
 );
 
@@ -3859,12 +3859,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    215,
+    1215,
     'Estante',
     'Electrodomestico',
-    88.57,
-    797.7,
-    78,
+    669.81,
+    811.54,
+    34,
     215
 );
 
@@ -3877,12 +3877,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    216,
+    1216,
     'Estante',
-    'PrendaVestir',
-    770.67,
-    807.8,
-    17,
+    'Abarrote',
+    229.47,
+    355.12,
+    63,
     216
 );
 
@@ -3895,12 +3895,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    217,
+    1217,
     'Estante',
-    'Electrodomestico',
-    745.46,
-    549.63,
-    22,
+    'Perecedero',
+    505.22,
+    933.38,
+    73,
     217
 );
 
@@ -3913,12 +3913,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    218,
+    1218,
     'Estante',
-    'PrendaVestir',
-    920.03,
-    845.58,
-    43,
+    'Aseo',
+    250.72,
+    649.15,
+    78,
     218
 );
 
@@ -3931,12 +3931,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    219,
+    1219,
     'Estante',
-    'Electrodomestico',
-    351.02,
-    351.47,
-    75,
+    'NoPerecedero',
+    111.71,
+    687.62,
+    47,
     219
 );
 
@@ -3949,12 +3949,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    220,
+    1220,
     'Estante',
     'Abarrote',
-    307.34,
-    49.08,
-    84,
+    552.47,
+    617.85,
+    67,
     220
 );
 
@@ -3967,12 +3967,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    221,
+    1221,
     'Estante',
-    'Aseo',
-    125.53,
-    418.7,
-    81,
+    'PrendaVestir',
+    515.66,
+    124.02,
+    47,
     221
 );
 
@@ -3985,12 +3985,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    222,
+    1222,
     'Estante',
-    'Aseo',
-    462.68,
-    576.48,
-    37,
+    'PrendaVestir',
+    461.66,
+    240.25,
+    2,
     222
 );
 
@@ -4003,12 +4003,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    223,
+    1223,
     'Estante',
-    'Perecedero',
-    403.67,
-    52.34,
-    49,
+    'Herramienta',
+    997.96,
+    937.29,
+    5,
     223
 );
 
@@ -4021,12 +4021,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    224,
+    1224,
     'Estante',
-    'NoPerecedero',
-    158.83,
-    912.46,
-    52,
+    'Electrodomestico',
+    762.82,
+    158.23,
+    18,
     224
 );
 
@@ -4039,12 +4039,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    225,
+    1225,
     'Estante',
-    'Herramienta',
-    101.67,
-    167.16,
-    35,
+    'NoPerecedero',
+    166.01,
+    324.97,
+    92,
     225
 );
 
@@ -4057,12 +4057,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    226,
+    1226,
     'Estante',
     'Congelado',
-    559.92,
-    378.64,
-    34,
+    592.73,
+    862.16,
+    52,
     226
 );
 
@@ -4075,12 +4075,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    227,
+    1227,
     'Estante',
-    'Perecedero',
-    524.7,
-    284.03,
-    46,
+    'Congelado',
+    513.4,
+    808.76,
+    40,
     227
 );
 
@@ -4093,12 +4093,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    228,
+    1228,
     'Estante',
-    'Abarrote',
-    300.85,
-    349.33,
-    25,
+    'Herramienta',
+    41.8,
+    230.75,
+    90,
     228
 );
 
@@ -4111,12 +4111,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    229,
+    1229,
     'Estante',
-    'Aseo',
-    793.98,
-    189.29,
-    61,
+    'Abarrote',
+    659.57,
+    847.23,
+    72,
     229
 );
 
@@ -4129,12 +4129,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    230,
+    1230,
     'Estante',
-    'Abarrote',
-    51.58,
-    374.38,
-    83,
+    'Perecedero',
+    490.69,
+    52.2,
+    54,
     230
 );
 
@@ -4147,12 +4147,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    231,
+    1231,
     'Estante',
-    'NoPerecedero',
-    127.09,
-    601.23,
-    26,
+    'PrendaVestir',
+    626.14,
+    205.75,
+    23,
     231
 );
 
@@ -4165,12 +4165,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    232,
+    1232,
     'Estante',
-    'PrendaVestir',
-    435.25,
-    577.65,
-    95,
+    'Herramienta',
+    7.65,
+    740.82,
+    10,
     232
 );
 
@@ -4183,12 +4183,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    233,
+    1233,
     'Estante',
-    'Aseo',
-    260.03,
-    862.35,
-    32,
+    'Abarrote',
+    742.53,
+    769.62,
+    72,
     233
 );
 
@@ -4201,12 +4201,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    234,
+    1234,
     'Estante',
-    'Aseo',
-    263.9,
-    318.55,
-    44,
+    'NoPerecedero',
+    716.85,
+    408.61,
+    42,
     234
 );
 
@@ -4219,12 +4219,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    235,
+    1235,
     'Estante',
-    'Perecedero',
-    808.83,
-    851.66,
-    17,
+    'NoPerecedero',
+    153.56,
+    815.4,
+    34,
     235
 );
 
@@ -4237,12 +4237,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    236,
+    1236,
     'Estante',
     'PrendaVestir',
-    415.6,
-    280.53,
-    73,
+    73.6,
+    731.5,
+    49,
     236
 );
 
@@ -4255,12 +4255,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    237,
+    1237,
     'Estante',
-    'Aseo',
-    495.77,
-    506.59,
-    51,
+    'PrendaVestir',
+    249.75,
+    720.33,
+    43,
     237
 );
 
@@ -4273,12 +4273,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    238,
+    1238,
     'Estante',
-    'Herramienta',
-    847.51,
-    575.43,
-    59,
+    'Abarrote',
+    447.15,
+    598.05,
+    19,
     238
 );
 
@@ -4291,12 +4291,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    239,
+    1239,
     'Estante',
-    'Abarrote',
-    508.62,
-    417.97,
-    57,
+    'Perecedero',
+    906.54,
+    25.7,
+    36,
     239
 );
 
@@ -4309,12 +4309,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    240,
+    1240,
     'Estante',
-    'NoPerecedero',
-    881.9,
-    21.39,
-    92,
+    'Congelado',
+    77.8,
+    556.42,
+    37,
     240
 );
 
@@ -4327,12 +4327,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    241,
+    1241,
     'Estante',
-    'Herramienta',
-    533.96,
-    709.79,
-    18,
+    'Abarrote',
+    200.63,
+    293.78,
+    23,
     241
 );
 
@@ -4345,12 +4345,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    242,
+    1242,
     'Estante',
-    'Herramienta',
-    446.94,
-    741.11,
-    70,
+    'Perecedero',
+    734.94,
+    194.58,
+    47,
     242
 );
 
@@ -4363,12 +4363,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    243,
+    1243,
     'Estante',
-    'Abarrote',
-    364.52,
-    613.94,
-    32,
+    'NoPerecedero',
+    130.13,
+    292.22,
+    18,
     243
 );
 
@@ -4381,12 +4381,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    244,
+    1244,
     'Estante',
-    'NoPerecedero',
-    1.68,
-    307.16,
-    27,
+    'Electrodomestico',
+    830.99,
+    833.24,
+    46,
     244
 );
 
@@ -4399,12 +4399,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    245,
+    1245,
     'Estante',
-    'Mueble',
-    260.12,
-    908.06,
-    43,
+    'Abarrote',
+    102.26,
+    6.93,
+    99,
     245
 );
 
@@ -4417,12 +4417,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    246,
+    1246,
     'Estante',
-    'Abarrote',
-    639.25,
-    772.99,
-    94,
+    'PrendaVestir',
+    453.47,
+    642.35,
+    24,
     246
 );
 
@@ -4435,12 +4435,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    247,
+    1247,
     'Estante',
-    'Herramienta',
-    221.22,
-    513.68,
-    52,
+    'Congelado',
+    554.15,
+    264.34,
+    54,
     247
 );
 
@@ -4453,12 +4453,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    248,
+    1248,
     'Estante',
-    'Congelado',
-    672.48,
-    564.51,
-    6,
+    'PrendaVestir',
+    403.17,
+    896.58,
+    98,
     248
 );
 
@@ -4471,12 +4471,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    249,
+    1249,
     'Estante',
-    'Mueble',
-    690.55,
-    542.18,
-    92,
+    'Congelado',
+    62.12,
+    173.51,
+    90,
     249
 );
 
@@ -4489,12 +4489,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    250,
+    1250,
     'Estante',
-    'Mueble',
-    126.41,
-    28.66,
-    24,
+    'Perecedero',
+    214.11,
+    335.34,
+    41,
     250
 );
 
@@ -4507,11 +4507,11 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    251,
+    1251,
     'Estante',
-    'Aseo',
-    880.81,
-    438.0,
+    'Congelado',
+    556.41,
+    676.85,
     84,
     251
 );
@@ -4525,12 +4525,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    252,
+    1252,
     'Estante',
-    'Abarrote',
-    147.93,
-    787.23,
-    41,
+    'Herramienta',
+    5.51,
+    670.27,
+    13,
     252
 );
 
@@ -4543,12 +4543,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    253,
+    1253,
     'Estante',
-    'Congelado',
-    775.74,
-    214.92,
-    74,
+    'Herramienta',
+    608.84,
+    95.32,
+    92,
     253
 );
 
@@ -4561,12 +4561,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    254,
+    1254,
     'Estante',
-    'Electrodomestico',
-    432.67,
-    514.07,
-    58,
+    'Herramienta',
+    649.41,
+    974.08,
+    17,
     254
 );
 
@@ -4579,12 +4579,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    255,
+    1255,
     'Estante',
-    'Aseo',
-    551.95,
-    446.25,
-    24,
+    'Perecedero',
+    419.15,
+    300.87,
+    38,
     255
 );
 
@@ -4597,12 +4597,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    256,
+    1256,
     'Estante',
-    'Aseo',
-    363.82,
-    178.72,
-    85,
+    'Mueble',
+    601.67,
+    534.79,
+    3,
     256
 );
 
@@ -4615,12 +4615,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    257,
+    1257,
     'Estante',
-    'Herramienta',
-    940.94,
-    847.5,
-    25,
+    'PrendaVestir',
+    221.55,
+    997.83,
+    28,
     257
 );
 
@@ -4633,12 +4633,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    258,
+    1258,
     'Estante',
-    'Herramienta',
-    43.74,
-    716.0,
-    1,
+    'Perecedero',
+    324.3,
+    219.21,
+    18,
     258
 );
 
@@ -4651,12 +4651,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    259,
+    1259,
     'Estante',
-    'Congelado',
-    754.1,
-    389.4,
-    60,
+    'Electrodomestico',
+    140.86,
+    73.04,
+    13,
     259
 );
 
@@ -4669,12 +4669,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    260,
+    1260,
     'Estante',
-    'Abarrote',
-    536.87,
-    482.42,
-    12,
+    'NoPerecedero',
+    990.91,
+    982.41,
+    65,
     260
 );
 
@@ -4687,12 +4687,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    261,
+    1261,
     'Estante',
-    'Herramienta',
-    855.95,
-    712.76,
-    61,
+    'Mueble',
+    316.6,
+    175.62,
+    7,
     261
 );
 
@@ -4705,12 +4705,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    262,
+    1262,
     'Estante',
-    'Aseo',
-    336.64,
-    95.9,
-    58,
+    'Electrodomestico',
+    976.29,
+    100.54,
+    9,
     262
 );
 
@@ -4723,12 +4723,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    263,
+    1263,
     'Estante',
     'Mueble',
-    195.37,
-    894.95,
-    76,
+    534.05,
+    624.67,
+    5,
     263
 );
 
@@ -4741,12 +4741,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    264,
+    1264,
     'Estante',
-    'NoPerecedero',
-    617.67,
-    858.09,
-    22,
+    'Congelado',
+    238.03,
+    278.37,
+    10,
     264
 );
 
@@ -4759,12 +4759,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    265,
+    1265,
     'Estante',
     'NoPerecedero',
-    491.69,
-    934.24,
-    37,
+    721.2,
+    738.14,
+    56,
     265
 );
 
@@ -4777,12 +4777,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    266,
+    1266,
     'Estante',
-    'Herramienta',
-    255.55,
-    658.98,
-    97,
+    'NoPerecedero',
+    838.26,
+    524.25,
+    79,
     266
 );
 
@@ -4795,12 +4795,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    267,
+    1267,
     'Estante',
     'Aseo',
-    864.4,
-    544.42,
-    100,
+    207.03,
+    432.14,
+    26,
     267
 );
 
@@ -4813,12 +4813,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    268,
+    1268,
     'Estante',
-    'PrendaVestir',
-    420.36,
-    41.16,
-    78,
+    'NoPerecedero',
+    304.79,
+    299.76,
+    18,
     268
 );
 
@@ -4831,12 +4831,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    269,
+    1269,
     'Estante',
-    'Herramienta',
-    434.25,
-    810.43,
-    8,
+    'Mueble',
+    473.35,
+    681.31,
+    91,
     269
 );
 
@@ -4849,12 +4849,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    270,
+    1270,
     'Estante',
-    'Congelado',
-    843.84,
-    317.5,
-    98,
+    'PrendaVestir',
+    975.29,
+    420.53,
+    37,
     270
 );
 
@@ -4867,12 +4867,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    271,
+    1271,
     'Estante',
-    'Aseo',
-    176.55,
-    552.61,
-    95,
+    'NoPerecedero',
+    623.45,
+    194.35,
+    32,
     271
 );
 
@@ -4885,12 +4885,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    272,
+    1272,
     'Estante',
-    'Mueble',
-    902.99,
-    503.01,
-    37,
+    'Perecedero',
+    209.62,
+    236.0,
+    22,
     272
 );
 
@@ -4903,12 +4903,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    273,
+    1273,
     'Estante',
-    'Herramienta',
-    279.97,
-    690.39,
-    30,
+    'Electrodomestico',
+    630.21,
+    714.24,
+    9,
     273
 );
 
@@ -4921,12 +4921,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    274,
+    1274,
     'Estante',
-    'Congelado',
-    589.61,
-    9.48,
-    53,
+    'Electrodomestico',
+    319.41,
+    683.36,
+    20,
     274
 );
 
@@ -4939,12 +4939,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    275,
+    1275,
     'Estante',
-    'PrendaVestir',
-    188.14,
-    853.95,
-    24,
+    'Herramienta',
+    943.53,
+    274.01,
+    6,
     275
 );
 
@@ -4957,12 +4957,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    276,
+    1276,
     'Estante',
-    'Perecedero',
-    310.21,
-    811.55,
-    15,
+    'Aseo',
+    456.34,
+    683.0,
+    82,
     276
 );
 
@@ -4975,12 +4975,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    277,
+    1277,
     'Estante',
-    'Perecedero',
-    461.33,
-    130.14,
-    89,
+    'Aseo',
+    882.42,
+    987.41,
+    45,
     277
 );
 
@@ -4993,11 +4993,11 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    278,
+    1278,
     'Estante',
-    'Herramienta',
-    167.8,
-    927.77,
+    'PrendaVestir',
+    33.16,
+    391.51,
     7,
     278
 );
@@ -5011,12 +5011,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    279,
+    1279,
     'Estante',
-    'Abarrote',
-    940.87,
-    432.84,
-    97,
+    'Mueble',
+    716.65,
+    868.52,
+    60,
     279
 );
 
@@ -5029,12 +5029,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    280,
+    1280,
     'Estante',
-    'Aseo',
-    572.19,
-    682.62,
-    92,
+    'PrendaVestir',
+    726.18,
+    938.58,
+    48,
     280
 );
 
@@ -5047,12 +5047,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    281,
+    1281,
     'Estante',
-    'Herramienta',
-    605.41,
-    803.23,
-    60,
+    'NoPerecedero',
+    98.24,
+    681.48,
+    15,
     281
 );
 
@@ -5065,12 +5065,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    282,
+    1282,
     'Estante',
-    'Aseo',
-    967.99,
-    905.62,
-    9,
+    'Herramienta',
+    625.86,
+    679.55,
+    40,
     282
 );
 
@@ -5083,12 +5083,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    283,
+    1283,
     'Estante',
     'NoPerecedero',
-    568.06,
-    775.66,
-    46,
+    465.11,
+    733.51,
+    16,
     283
 );
 
@@ -5101,12 +5101,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    284,
+    1284,
     'Estante',
-    'PrendaVestir',
-    10.35,
-    575.53,
-    84,
+    'Abarrote',
+    449.04,
+    723.7,
+    67,
     284
 );
 
@@ -5119,12 +5119,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    285,
+    1285,
     'Estante',
-    'PrendaVestir',
-    311.26,
-    846.8,
-    61,
+    'Abarrote',
+    251.67,
+    156.62,
+    32,
     285
 );
 
@@ -5137,12 +5137,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    286,
+    1286,
     'Estante',
-    'Herramienta',
-    748.12,
-    281.88,
-    96,
+    'Aseo',
+    378.93,
+    923.0,
+    23,
     286
 );
 
@@ -5155,12 +5155,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    287,
+    1287,
     'Estante',
-    'Congelado',
-    363.17,
-    43.76,
-    5,
+    'NoPerecedero',
+    50.29,
+    563.77,
+    47,
     287
 );
 
@@ -5173,12 +5173,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    288,
+    1288,
     'Estante',
-    'Aseo',
-    299.61,
-    933.05,
-    73,
+    'Perecedero',
+    102.6,
+    449.86,
+    17,
     288
 );
 
@@ -5191,12 +5191,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    289,
+    1289,
     'Estante',
-    'PrendaVestir',
-    599.38,
-    945.13,
-    51,
+    'Herramienta',
+    786.73,
+    691.72,
+    91,
     289
 );
 
@@ -5209,12 +5209,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    290,
+    1290,
     'Estante',
-    'Congelado',
-    646.05,
-    539.72,
-    85,
+    'Abarrote',
+    161.37,
+    562.13,
+    50,
     290
 );
 
@@ -5227,12 +5227,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    291,
+    1291,
     'Estante',
-    'PrendaVestir',
-    47.97,
-    35.88,
-    75,
+    'Congelado',
+    583.36,
+    357.5,
+    38,
     291
 );
 
@@ -5245,12 +5245,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    292,
+    1292,
     'Estante',
-    'Perecedero',
-    546.23,
-    320.74,
-    64,
+    'Electrodomestico',
+    776.71,
+    396.17,
+    20,
     292
 );
 
@@ -5263,12 +5263,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    293,
+    1293,
     'Estante',
-    'Abarrote',
-    272.0,
-    411.55,
-    94,
+    'Perecedero',
+    509.2,
+    628.86,
+    86,
     293
 );
 
@@ -5281,12 +5281,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    294,
+    1294,
     'Estante',
-    'Mueble',
-    898.34,
-    982.66,
-    14,
+    'Abarrote',
+    460.52,
+    81.49,
+    88,
     294
 );
 
@@ -5299,12 +5299,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    295,
+    1295,
     'Estante',
-    'PrendaVestir',
-    75.15,
-    836.0,
-    10,
+    'Congelado',
+    247.9,
+    212.62,
+    91,
     295
 );
 
@@ -5317,12 +5317,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    296,
+    1296,
     'Estante',
-    'Perecedero',
-    415.07,
-    769.38,
-    23,
+    'NoPerecedero',
+    76.9,
+    800.21,
+    98,
     296
 );
 
@@ -5335,12 +5335,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    297,
+    1297,
     'Estante',
-    'NoPerecedero',
-    928.28,
-    205.94,
-    88,
+    'Congelado',
+    155.45,
+    428.22,
+    58,
     297
 );
 
@@ -5353,12 +5353,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    298,
+    1298,
     'Estante',
-    'Electrodomestico',
-    249.95,
-    897.56,
-    14,
+    'Congelado',
+    599.41,
+    264.88,
+    91,
     298
 );
 
@@ -5371,12 +5371,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    299,
+    1299,
     'Estante',
     'PrendaVestir',
-    95.42,
-    541.5,
-    98,
+    599.18,
+    4.06,
+    58,
     299
 );
 
@@ -5389,12 +5389,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    300,
+    1300,
     'Estante',
-    'Herramienta',
-    727.55,
-    121.08,
-    54,
+    'PrendaVestir',
+    440.67,
+    870.31,
+    69,
     300
 );
 
@@ -5407,12 +5407,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    301,
+    1301,
     'Estante',
-    'Mueble',
-    257.38,
-    402.51,
-    10,
+    'Abarrote',
+    898.91,
+    307.39,
+    68,
     301
 );
 
@@ -5425,12 +5425,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    302,
+    1302,
     'Estante',
-    'Congelado',
-    214.44,
-    699.44,
-    4,
+    'Abarrote',
+    332.62,
+    524.34,
+    45,
     302
 );
 
@@ -5443,12 +5443,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    303,
+    1303,
     'Estante',
-    'Abarrote',
-    135.75,
-    238.75,
-    45,
+    'Herramienta',
+    860.82,
+    689.69,
+    14,
     303
 );
 
@@ -5461,12 +5461,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    304,
+    1304,
     'Estante',
     'Electrodomestico',
-    993.56,
-    204.95,
-    20,
+    757.57,
+    762.59,
+    9,
     304
 );
 
@@ -5479,12 +5479,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    305,
+    1305,
     'Estante',
-    'Abarrote',
-    837.31,
-    59.15,
-    88,
+    'PrendaVestir',
+    306.51,
+    262.4,
+    63,
     305
 );
 
@@ -5497,12 +5497,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    306,
+    1306,
     'Estante',
     'Perecedero',
-    436.95,
-    709.41,
-    61,
+    368.46,
+    780.05,
+    81,
     306
 );
 
@@ -5515,12 +5515,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    307,
+    1307,
     'Estante',
-    'Mueble',
-    647.94,
-    458.01,
-    37,
+    'Aseo',
+    780.24,
+    779.76,
+    44,
     307
 );
 
@@ -5533,12 +5533,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    308,
+    1308,
     'Estante',
-    'Abarrote',
-    50.72,
-    198.99,
-    20,
+    'Electrodomestico',
+    605.92,
+    603.15,
+    51,
     308
 );
 
@@ -5551,12 +5551,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    309,
+    1309,
     'Estante',
     'Mueble',
-    807.97,
-    601.69,
-    29,
+    704.44,
+    278.73,
+    17,
     309
 );
 
@@ -5569,12 +5569,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    310,
+    1310,
     'Estante',
-    'Aseo',
-    828.36,
-    328.99,
-    10,
+    'PrendaVestir',
+    459.84,
+    751.12,
+    94,
     310
 );
 
@@ -5587,12 +5587,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    311,
+    1311,
     'Estante',
-    'Electrodomestico',
-    520.81,
-    616.86,
-    42,
+    'PrendaVestir',
+    644.6,
+    440.31,
+    2,
     311
 );
 
@@ -5605,12 +5605,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    312,
+    1312,
     'Estante',
-    'Abarrote',
-    789.66,
-    365.5,
-    59,
+    'NoPerecedero',
+    186.21,
+    973.35,
+    27,
     312
 );
 
@@ -5623,12 +5623,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    313,
+    1313,
     'Estante',
-    'Congelado',
-    27.73,
-    966.8,
-    14,
+    'Abarrote',
+    470.34,
+    730.74,
+    31,
     313
 );
 
@@ -5641,12 +5641,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    314,
+    1314,
     'Estante',
-    'Electrodomestico',
-    81.34,
-    585.07,
-    91,
+    'Perecedero',
+    649.37,
+    873.66,
+    23,
     314
 );
 
@@ -5659,12 +5659,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    315,
+    1315,
     'Estante',
-    'NoPerecedero',
-    63.72,
-    69.03,
-    26,
+    'Abarrote',
+    247.0,
+    292.87,
+    55,
     315
 );
 
@@ -5677,12 +5677,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    316,
+    1316,
     'Estante',
-    'Herramienta',
-    591.18,
-    299.06,
-    19,
+    'PrendaVestir',
+    929.96,
+    804.41,
+    79,
     316
 );
 
@@ -5695,12 +5695,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    317,
+    1317,
     'Estante',
-    'Perecedero',
-    651.97,
-    468.72,
-    94,
+    'Congelado',
+    629.07,
+    330.51,
+    37,
     317
 );
 
@@ -5713,12 +5713,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    318,
+    1318,
     'Estante',
-    'PrendaVestir',
-    820.88,
-    592.2,
-    67,
+    'Aseo',
+    163.26,
+    674.68,
+    34,
     318
 );
 
@@ -5731,12 +5731,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    319,
+    1319,
     'Estante',
-    'PrendaVestir',
-    469.64,
-    714.33,
-    15,
+    'Perecedero',
+    934.74,
+    514.76,
+    25,
     319
 );
 
@@ -5749,12 +5749,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    320,
+    1320,
     'Estante',
-    'Abarrote',
-    576.65,
-    852.65,
-    81,
+    'NoPerecedero',
+    19.31,
+    943.68,
+    22,
     320
 );
 
@@ -5767,12 +5767,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    321,
+    1321,
     'Estante',
-    'Herramienta',
-    965.01,
-    812.08,
-    66,
+    'PrendaVestir',
+    394.15,
+    877.93,
+    40,
     321
 );
 
@@ -5785,12 +5785,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    322,
+    1322,
     'Estante',
-    'Herramienta',
-    951.1,
-    617.68,
-    25,
+    'Congelado',
+    995.9,
+    931.89,
+    41,
     322
 );
 
@@ -5803,12 +5803,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    323,
+    1323,
     'Estante',
-    'Electrodomestico',
-    705.99,
-    702.95,
-    73,
+    'Perecedero',
+    724.01,
+    680.86,
+    17,
     323
 );
 
@@ -5821,12 +5821,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    324,
+    1324,
     'Estante',
-    'Congelado',
-    870.3,
-    685.62,
-    52,
+    'NoPerecedero',
+    10.03,
+    803.75,
+    92,
     324
 );
 
@@ -5839,12 +5839,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    325,
+    1325,
     'Estante',
-    'Mueble',
-    221.49,
-    401.85,
-    58,
+    'PrendaVestir',
+    801.83,
+    684.01,
+    4,
     325
 );
 
@@ -5857,12 +5857,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    326,
+    1326,
     'Estante',
-    'Aseo',
-    491.16,
-    982.65,
-    42,
+    'Mueble',
+    298.37,
+    233.49,
+    24,
     326
 );
 
@@ -5875,12 +5875,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    327,
+    1327,
     'Estante',
-    'PrendaVestir',
-    534.16,
-    359.4,
-    28,
+    'Herramienta',
+    482.4,
+    516.1,
+    8,
     327
 );
 
@@ -5893,12 +5893,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    328,
+    1328,
     'Estante',
-    'Electrodomestico',
-    489.47,
-    139.2,
-    31,
+    'Perecedero',
+    309.49,
+    786.44,
+    5,
     328
 );
 
@@ -5911,12 +5911,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    329,
+    1329,
     'Estante',
-    'Perecedero',
-    455.51,
-    725.2,
-    12,
+    'NoPerecedero',
+    306.39,
+    206.91,
+    80,
     329
 );
 
@@ -5929,12 +5929,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    330,
+    1330,
     'Estante',
     'NoPerecedero',
-    625.49,
-    205.16,
-    1,
+    329.64,
+    384.3,
+    9,
     330
 );
 
@@ -5947,12 +5947,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    331,
+    1331,
     'Estante',
-    'Herramienta',
-    867.81,
-    167.25,
-    63,
+    'Aseo',
+    476.49,
+    445.32,
+    51,
     331
 );
 
@@ -5965,12 +5965,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    332,
+    1332,
     'Estante',
-    'NoPerecedero',
-    850.42,
-    673.28,
-    45,
+    'Mueble',
+    258.91,
+    687.33,
+    31,
     332
 );
 
@@ -5983,12 +5983,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    333,
+    1333,
     'Estante',
-    'Mueble',
-    834.99,
-    722.81,
-    11,
+    'PrendaVestir',
+    8.8,
+    144.89,
+    2,
     333
 );
 
@@ -6001,12 +6001,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    334,
+    1334,
     'Estante',
-    'Mueble',
-    342.29,
-    482.13,
-    43,
+    'Perecedero',
+    714.96,
+    194.63,
+    28,
     334
 );
 
@@ -6019,12 +6019,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    335,
+    1335,
     'Estante',
-    'Herramienta',
-    144.36,
-    473.46,
-    73,
+    'Electrodomestico',
+    339.09,
+    906.88,
+    6,
     335
 );
 
@@ -6037,12 +6037,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    336,
+    1336,
     'Estante',
-    'NoPerecedero',
-    910.36,
-    264.93,
-    60,
+    'PrendaVestir',
+    502.5,
+    242.48,
+    64,
     336
 );
 
@@ -6055,12 +6055,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    337,
+    1337,
     'Estante',
-    'NoPerecedero',
-    213.96,
-    906.68,
-    55,
+    'Mueble',
+    583.29,
+    360.69,
+    38,
     337
 );
 
@@ -6073,12 +6073,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    338,
+    1338,
     'Estante',
-    'Abarrote',
-    860.85,
-    695.98,
-    58,
+    'NoPerecedero',
+    242.63,
+    372.25,
+    54,
     338
 );
 
@@ -6091,12 +6091,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    339,
+    1339,
     'Estante',
-    'NoPerecedero',
-    670.61,
-    996.54,
-    73,
+    'Herramienta',
+    362.32,
+    335.74,
+    55,
     339
 );
 
@@ -6109,12 +6109,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    340,
+    1340,
     'Estante',
-    'Electrodomestico',
-    387.99,
-    965.45,
-    4,
+    'Aseo',
+    352.78,
+    985.96,
+    100,
     340
 );
 
@@ -6127,12 +6127,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    341,
+    1341,
     'Estante',
     'Mueble',
-    19.91,
-    857.05,
-    79,
+    397.61,
+    580.29,
+    56,
     341
 );
 
@@ -6145,12 +6145,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    342,
+    1342,
     'Estante',
-    'Electrodomestico',
-    31.83,
-    599.46,
-    33,
+    'Abarrote',
+    720.02,
+    567.72,
+    40,
     342
 );
 
@@ -6163,12 +6163,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    343,
+    1343,
     'Estante',
-    'NoPerecedero',
-    525.98,
-    692.22,
-    15,
+    'Herramienta',
+    329.84,
+    914.4,
+    48,
     343
 );
 
@@ -6181,12 +6181,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    344,
+    1344,
     'Estante',
-    'Mueble',
-    540.24,
-    916.3,
-    58,
+    'Electrodomestico',
+    300.7,
+    938.82,
+    45,
     344
 );
 
@@ -6199,12 +6199,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    345,
+    1345,
     'Estante',
-    'PrendaVestir',
-    571.07,
-    982.9,
-    22,
+    'Herramienta',
+    50.32,
+    855.83,
+    57,
     345
 );
 
@@ -6217,12 +6217,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    346,
+    1346,
     'Estante',
-    'Herramienta',
-    623.84,
-    42.28,
-    21,
+    'Congelado',
+    801.0,
+    472.6,
+    9,
     346
 );
 
@@ -6235,12 +6235,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    347,
+    1347,
     'Estante',
-    'Aseo',
-    59.87,
-    119.09,
-    83,
+    'Perecedero',
+    876.02,
+    487.53,
+    73,
     347
 );
 
@@ -6253,12 +6253,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    348,
+    1348,
     'Estante',
-    'NoPerecedero',
-    945.17,
-    168.9,
-    22,
+    'PrendaVestir',
+    12.06,
+    204.92,
+    56,
     348
 );
 
@@ -6271,12 +6271,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    349,
+    1349,
     'Estante',
-    'Congelado',
-    165.02,
-    857.09,
-    3,
+    'Perecedero',
+    561.61,
+    839.8,
+    60,
     349
 );
 
@@ -6289,12 +6289,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    350,
+    1350,
     'Estante',
-    'Mueble',
-    432.75,
-    616.25,
-    7,
+    'Electrodomestico',
+    644.5,
+    733.34,
+    51,
     350
 );
 
@@ -6307,12 +6307,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    351,
+    1351,
     'Estante',
-    'NoPerecedero',
-    611.41,
-    159.75,
-    8,
+    'Aseo',
+    902.67,
+    891.02,
+    33,
     351
 );
 
@@ -6325,12 +6325,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    352,
+    1352,
     'Estante',
     'Abarrote',
-    388.83,
-    740.38,
-    39,
+    664.99,
+    840.62,
+    61,
     352
 );
 
@@ -6343,12 +6343,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    353,
+    1353,
     'Estante',
-    'Aseo',
-    16.24,
-    839.36,
-    76,
+    'Congelado',
+    493.56,
+    586.69,
+    18,
     353
 );
 
@@ -6361,12 +6361,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    354,
+    1354,
     'Estante',
-    'Electrodomestico',
-    938.85,
-    662.57,
-    5,
+    'Abarrote',
+    986.53,
+    49.18,
+    65,
     354
 );
 
@@ -6379,12 +6379,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    355,
+    1355,
     'Estante',
-    'Congelado',
-    108.15,
-    976.21,
-    4,
+    'Herramienta',
+    425.19,
+    380.41,
+    13,
     355
 );
 
@@ -6397,12 +6397,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    356,
+    1356,
     'Estante',
-    'Aseo',
-    751.85,
-    144.85,
-    51,
+    'Herramienta',
+    564.38,
+    138.82,
+    20,
     356
 );
 
@@ -6415,12 +6415,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    357,
+    1357,
     'Estante',
-    'PrendaVestir',
-    808.77,
-    355.62,
-    21,
+    'Electrodomestico',
+    511.41,
+    104.27,
+    73,
     357
 );
 
@@ -6433,12 +6433,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    358,
+    1358,
     'Estante',
-    'Mueble',
-    513.26,
-    544.58,
-    73,
+    'NoPerecedero',
+    392.6,
+    90.1,
+    98,
     358
 );
 
@@ -6451,12 +6451,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    359,
+    1359,
     'Estante',
-    'Herramienta',
-    775.54,
-    262.55,
-    46,
+    'Mueble',
+    414.96,
+    780.73,
+    15,
     359
 );
 
@@ -6469,12 +6469,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    360,
+    1360,
     'Estante',
-    'Aseo',
-    326.69,
-    102.33,
-    48,
+    'Abarrote',
+    370.18,
+    276.84,
+    19,
     360
 );
 
@@ -6487,12 +6487,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    361,
+    1361,
     'Estante',
     'Perecedero',
-    578.14,
-    452.68,
-    70,
+    620.56,
+    124.49,
+    56,
     361
 );
 
@@ -6505,12 +6505,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    362,
+    1362,
     'Estante',
-    'Congelado',
-    407.09,
-    841.24,
-    57,
+    'NoPerecedero',
+    611.58,
+    29.81,
+    6,
     362
 );
 
@@ -6523,12 +6523,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    363,
+    1363,
     'Estante',
-    'NoPerecedero',
-    554.1,
-    561.04,
-    55,
+    'Congelado',
+    644.3,
+    849.08,
+    99,
     363
 );
 
@@ -6541,12 +6541,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    364,
+    1364,
     'Estante',
-    'Aseo',
-    550.77,
-    941.99,
-    86,
+    'Congelado',
+    328.6,
+    759.58,
+    44,
     364
 );
 
@@ -6559,11 +6559,11 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    365,
+    1365,
     'Estante',
     'Electrodomestico',
-    64.62,
-    895.09,
+    408.17,
+    561.49,
     44,
     365
 );
@@ -6577,12 +6577,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    366,
+    1366,
     'Estante',
-    'Electrodomestico',
-    663.19,
-    9.88,
-    33,
+    'Mueble',
+    336.59,
+    624.04,
+    25,
     366
 );
 
@@ -6595,12 +6595,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    367,
+    1367,
     'Estante',
-    'NoPerecedero',
-    295.68,
-    817.39,
-    25,
+    'Perecedero',
+    538.97,
+    619.35,
+    60,
     367
 );
 
@@ -6613,12 +6613,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    368,
+    1368,
     'Estante',
-    'Herramienta',
-    517.56,
-    500.85,
-    30,
+    'Mueble',
+    910.0,
+    421.81,
+    36,
     368
 );
 
@@ -6631,12 +6631,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    369,
+    1369,
     'Estante',
     'Abarrote',
-    449.43,
-    635.69,
-    81,
+    383.79,
+    363.04,
+    98,
     369
 );
 
@@ -6649,12 +6649,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    370,
+    1370,
     'Estante',
-    'Electrodomestico',
-    827.89,
-    413.92,
-    98,
+    'Herramienta',
+    243.11,
+    130.67,
+    25,
     370
 );
 
@@ -6667,12 +6667,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    371,
+    1371,
     'Estante',
-    'Congelado',
-    29.69,
-    857.56,
-    21,
+    'Aseo',
+    585.58,
+    383.08,
+    26,
     371
 );
 
@@ -6685,12 +6685,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    372,
+    1372,
     'Estante',
-    'Abarrote',
-    789.22,
-    441.02,
-    32,
+    'NoPerecedero',
+    671.21,
+    955.29,
+    57,
     372
 );
 
@@ -6703,12 +6703,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    373,
+    1373,
     'Estante',
-    'Perecedero',
-    270.9,
-    294.53,
-    56,
+    'PrendaVestir',
+    946.64,
+    570.42,
+    64,
     373
 );
 
@@ -6721,12 +6721,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    374,
+    1374,
     'Estante',
-    'Aseo',
-    555.49,
-    775.48,
-    69,
+    'PrendaVestir',
+    38.0,
+    764.44,
+    65,
     374
 );
 
@@ -6739,12 +6739,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    375,
+    1375,
     'Estante',
-    'NoPerecedero',
-    173.76,
-    568.67,
-    76,
+    'Electrodomestico',
+    318.82,
+    568.27,
+    32,
     375
 );
 
@@ -6757,12 +6757,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    376,
+    1376,
     'Estante',
-    'Abarrote',
-    695.93,
-    943.78,
-    39,
+    'Aseo',
+    712.92,
+    551.71,
+    83,
     376
 );
 
@@ -6775,12 +6775,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    377,
+    1377,
     'Estante',
-    'Electrodomestico',
-    772.51,
-    203.54,
-    42,
+    'NoPerecedero',
+    798.49,
+    429.21,
+    60,
     377
 );
 
@@ -6793,12 +6793,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    378,
+    1378,
     'Estante',
-    'Herramienta',
-    557.35,
-    188.02,
-    66,
+    'Mueble',
+    947.96,
+    695.89,
+    37,
     378
 );
 
@@ -6811,12 +6811,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    379,
+    1379,
     'Estante',
-    'PrendaVestir',
-    69.7,
-    844.78,
-    42,
+    'Abarrote',
+    740.41,
+    892.65,
+    55,
     379
 );
 
@@ -6829,12 +6829,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    380,
+    1380,
     'Estante',
-    'Aseo',
-    403.96,
-    530.8,
-    49,
+    'Perecedero',
+    701.72,
+    323.42,
+    46,
     380
 );
 
@@ -6847,12 +6847,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    381,
+    1381,
     'Estante',
-    'Congelado',
-    224.9,
-    649.55,
-    14,
+    'NoPerecedero',
+    721.99,
+    114.35,
+    6,
     381
 );
 
@@ -6865,12 +6865,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    382,
+    1382,
     'Estante',
-    'PrendaVestir',
-    595.18,
-    651.55,
-    36,
+    'Perecedero',
+    428.3,
+    258.9,
+    51,
     382
 );
 
@@ -6883,12 +6883,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    383,
+    1383,
     'Estante',
-    'NoPerecedero',
-    446.07,
-    436.77,
-    98,
+    'Electrodomestico',
+    179.03,
+    789.28,
+    9,
     383
 );
 
@@ -6901,12 +6901,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    384,
+    1384,
     'Estante',
-    'NoPerecedero',
-    557.01,
-    764.81,
-    2,
+    'Congelado',
+    764.62,
+    479.03,
+    10,
     384
 );
 
@@ -6919,12 +6919,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    385,
+    1385,
     'Estante',
-    'PrendaVestir',
-    428.09,
-    293.23,
-    49,
+    'Aseo',
+    469.65,
+    640.25,
+    71,
     385
 );
 
@@ -6937,12 +6937,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    386,
+    1386,
     'Estante',
-    'Aseo',
-    70.82,
-    789.95,
-    42,
+    'PrendaVestir',
+    71.22,
+    832.48,
+    85,
     386
 );
 
@@ -6955,12 +6955,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    387,
+    1387,
     'Estante',
-    'PrendaVestir',
-    66.38,
-    850.59,
-    69,
+    'Perecedero',
+    775.9,
+    169.57,
+    67,
     387
 );
 
@@ -6973,12 +6973,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    388,
+    1388,
     'Estante',
-    'Mueble',
-    220.42,
-    626.53,
-    26,
+    'Aseo',
+    804.51,
+    390.48,
+    75,
     388
 );
 
@@ -6991,11 +6991,11 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    389,
+    1389,
     'Estante',
     'NoPerecedero',
-    426.14,
-    987.38,
+    915.23,
+    318.82,
     48,
     389
 );
@@ -7009,12 +7009,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    390,
+    1390,
     'Estante',
-    'Herramienta',
-    253.76,
-    430.37,
-    7,
+    'Mueble',
+    222.3,
+    6.07,
+    78,
     390
 );
 
@@ -7027,12 +7027,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    391,
+    1391,
     'Estante',
-    'Abarrote',
-    669.33,
-    69.13,
-    63,
+    'Aseo',
+    257.35,
+    892.14,
+    82,
     391
 );
 
@@ -7045,12 +7045,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    392,
+    1392,
     'Estante',
-    'Perecedero',
-    90.88,
-    504.53,
-    90,
+    'Abarrote',
+    215.19,
+    84.68,
+    44,
     392
 );
 
@@ -7063,12 +7063,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    393,
+    1393,
     'Estante',
-    'Aseo',
-    963.7,
-    975.98,
-    91,
+    'Congelado',
+    225.78,
+    536.57,
+    50,
     393
 );
 
@@ -7081,12 +7081,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    394,
+    1394,
     'Estante',
-    'NoPerecedero',
-    752.95,
-    232.5,
-    71,
+    'Abarrote',
+    687.54,
+    883.12,
+    76,
     394
 );
 
@@ -7099,12 +7099,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    395,
+    1395,
     'Estante',
-    'Aseo',
-    846.77,
-    726.06,
-    80,
+    'NoPerecedero',
+    745.98,
+    331.5,
+    72,
     395
 );
 
@@ -7117,12 +7117,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    396,
+    1396,
     'Estante',
-    'Perecedero',
-    560.73,
-    100.91,
-    33,
+    'Aseo',
+    543.36,
+    19.8,
+    81,
     396
 );
 
@@ -7135,12 +7135,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    397,
+    1397,
     'Estante',
-    'Aseo',
-    566.89,
-    696.57,
-    69,
+    'Mueble',
+    733.26,
+    246.61,
+    61,
     397
 );
 
@@ -7153,12 +7153,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    398,
+    1398,
     'Estante',
-    'Congelado',
-    942.62,
-    162.18,
-    86,
+    'Abarrote',
+    274.84,
+    936.08,
+    48,
     398
 );
 
@@ -7171,12 +7171,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    399,
+    1399,
     'Estante',
     'Congelado',
-    121.87,
-    419.71,
-    67,
+    969.57,
+    38.15,
+    8,
     399
 );
 
@@ -7189,12 +7189,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    400,
+    1400,
     'Estante',
-    'NoPerecedero',
-    342.01,
-    496.66,
-    30,
+    'PrendaVestir',
+    995.08,
+    644.54,
+    88,
     400
 );
 
@@ -7207,12 +7207,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    401,
+    1401,
     'Estante',
-    'Abarrote',
-    95.31,
-    59.01,
-    94,
+    'Electrodomestico',
+    350.76,
+    106.31,
+    6,
     401
 );
 
@@ -7225,12 +7225,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    402,
+    1402,
     'Estante',
-    'Mueble',
-    35.98,
-    344.05,
-    63,
+    'NoPerecedero',
+    292.38,
+    181.19,
+    99,
     402
 );
 
@@ -7243,12 +7243,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    403,
+    1403,
     'Estante',
     'PrendaVestir',
-    343.36,
-    480.43,
-    13,
+    587.95,
+    107.8,
+    28,
     403
 );
 
@@ -7261,12 +7261,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    404,
+    1404,
     'Estante',
     'Aseo',
-    471.0,
-    854.52,
-    38,
+    833.59,
+    127.01,
+    46,
     404
 );
 
@@ -7279,12 +7279,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    405,
+    1405,
     'Estante',
-    'Herramienta',
-    822.92,
-    889.1,
-    76,
+    'Abarrote',
+    935.23,
+    870.38,
+    29,
     405
 );
 
@@ -7297,12 +7297,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    406,
+    1406,
     'Estante',
-    'Mueble',
-    876.36,
-    535.14,
-    57,
+    'PrendaVestir',
+    764.48,
+    62.59,
+    80,
     406
 );
 
@@ -7315,12 +7315,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    407,
+    1407,
     'Estante',
-    'Mueble',
-    121.73,
-    802.19,
-    6,
+    'Perecedero',
+    497.56,
+    881.55,
+    45,
     407
 );
 
@@ -7333,12 +7333,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    408,
+    1408,
     'Estante',
-    'Herramienta',
-    152.37,
-    800.63,
-    52,
+    'Electrodomestico',
+    67.05,
+    196.58,
+    48,
     408
 );
 
@@ -7351,12 +7351,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    409,
+    1409,
     'Estante',
-    'Aseo',
-    56.81,
-    484.71,
-    96,
+    'Herramienta',
+    498.92,
+    745.97,
+    100,
     409
 );
 
@@ -7369,12 +7369,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    410,
+    1410,
     'Estante',
     'Perecedero',
-    543.55,
-    611.33,
-    61,
+    800.54,
+    41.5,
+    96,
     410
 );
 
@@ -7387,12 +7387,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    411,
+    1411,
     'Estante',
-    'Electrodomestico',
-    808.17,
-    485.46,
-    56,
+    'NoPerecedero',
+    275.12,
+    334.55,
+    12,
     411
 );
 
@@ -7405,12 +7405,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    412,
+    1412,
     'Estante',
-    'Mueble',
-    623.07,
-    814.14,
-    21,
+    'Abarrote',
+    475.6,
+    270.5,
+    96,
     412
 );
 
@@ -7423,12 +7423,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    413,
+    1413,
     'Estante',
     'Congelado',
-    454.23,
-    670.85,
-    6,
+    498.87,
+    236.13,
+    12,
     413
 );
 
@@ -7441,12 +7441,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    414,
+    1414,
     'Estante',
-    'Electrodomestico',
-    733.15,
-    978.3,
-    78,
+    'Mueble',
+    413.83,
+    578.58,
+    7,
     414
 );
 
@@ -7459,12 +7459,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    415,
+    1415,
     'Estante',
-    'PrendaVestir',
-    589.63,
-    448.07,
-    28,
+    'Congelado',
+    677.92,
+    469.63,
+    63,
     415
 );
 
@@ -7477,12 +7477,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    416,
+    1416,
     'Estante',
-    'Electrodomestico',
-    532.64,
-    301.2,
-    24,
+    'Congelado',
+    950.27,
+    260.2,
+    94,
     416
 );
 
@@ -7495,12 +7495,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    417,
+    1417,
     'Estante',
-    'PrendaVestir',
-    945.41,
-    383.29,
-    49,
+    'Electrodomestico',
+    601.78,
+    536.66,
+    84,
     417
 );
 
@@ -7513,12 +7513,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    418,
+    1418,
     'Estante',
-    'Abarrote',
-    342.09,
-    833.17,
-    68,
+    'Perecedero',
+    313.15,
+    722.73,
+    43,
     418
 );
 
@@ -7531,12 +7531,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    419,
+    1419,
     'Estante',
-    'Congelado',
-    860.3,
-    974.3,
-    24,
+    'Herramienta',
+    858.51,
+    845.03,
+    44,
     419
 );
 
@@ -7549,12 +7549,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    420,
+    1420,
     'Estante',
-    'Congelado',
-    911.93,
-    430.59,
-    35,
+    'Aseo',
+    915.05,
+    410.85,
+    92,
     420
 );
 
@@ -7567,12 +7567,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    421,
+    1421,
     'Estante',
-    'Congelado',
-    426.39,
-    533.87,
-    70,
+    'Perecedero',
+    675.92,
+    421.69,
+    23,
     421
 );
 
@@ -7585,12 +7585,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    422,
+    1422,
     'Estante',
     'Aseo',
-    122.03,
-    545.34,
-    16,
+    335.67,
+    689.16,
+    54,
     422
 );
 
@@ -7603,12 +7603,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    423,
+    1423,
     'Estante',
-    'NoPerecedero',
-    558.7,
-    400.59,
-    86,
+    'Mueble',
+    787.6,
+    100.81,
+    85,
     423
 );
 
@@ -7621,12 +7621,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    424,
+    1424,
     'Estante',
-    'Perecedero',
-    759.66,
-    427.21,
-    97,
+    'Mueble',
+    61.52,
+    411.69,
+    34,
     424
 );
 
@@ -7639,12 +7639,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    425,
+    1425,
     'Estante',
-    'Electrodomestico',
-    226.22,
-    349.54,
-    99,
+    'Perecedero',
+    541.37,
+    265.59,
+    14,
     425
 );
 
@@ -7657,12 +7657,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    426,
+    1426,
     'Estante',
-    'Herramienta',
-    463.03,
-    395.28,
-    35,
+    'PrendaVestir',
+    721.18,
+    681.82,
+    71,
     426
 );
 
@@ -7675,12 +7675,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    427,
+    1427,
     'Estante',
-    'Congelado',
-    358.13,
-    759.26,
-    57,
+    'Mueble',
+    181.44,
+    814.25,
+    11,
     427
 );
 
@@ -7693,12 +7693,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    428,
+    1428,
     'Estante',
-    'NoPerecedero',
-    582.16,
-    766.55,
-    98,
+    'Abarrote',
+    609.76,
+    949.02,
+    24,
     428
 );
 
@@ -7711,12 +7711,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    429,
+    1429,
     'Estante',
-    'PrendaVestir',
-    162.75,
-    992.17,
-    1,
+    'Abarrote',
+    466.36,
+    763.32,
+    29,
     429
 );
 
@@ -7729,12 +7729,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    430,
+    1430,
     'Estante',
-    'Herramienta',
-    473.83,
-    419.04,
-    59,
+    'Mueble',
+    171.66,
+    791.99,
+    12,
     430
 );
 
@@ -7747,12 +7747,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    431,
+    1431,
     'Estante',
-    'Abarrote',
-    530.91,
-    912.77,
-    98,
+    'Herramienta',
+    983.9,
+    873.1,
+    94,
     431
 );
 
@@ -7765,12 +7765,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    432,
+    1432,
     'Estante',
-    'Mueble',
-    741.5,
-    982.29,
-    88,
+    'NoPerecedero',
+    432.27,
+    416.91,
+    52,
     432
 );
 
@@ -7783,12 +7783,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    433,
+    1433,
     'Estante',
-    'NoPerecedero',
-    288.58,
-    511.11,
-    84,
+    'Electrodomestico',
+    252.72,
+    374.94,
+    10,
     433
 );
 
@@ -7801,12 +7801,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    434,
+    1434,
     'Estante',
-    'Aseo',
-    942.56,
-    871.72,
-    80,
+    'Electrodomestico',
+    766.3,
+    283.02,
+    93,
     434
 );
 
@@ -7819,12 +7819,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    435,
+    1435,
     'Estante',
     'Aseo',
-    527.16,
-    89.03,
-    57,
+    990.15,
+    115.25,
+    65,
     435
 );
 
@@ -7837,12 +7837,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    436,
+    1436,
     'Estante',
-    'Mueble',
-    559.25,
-    778.99,
-    79,
+    'NoPerecedero',
+    464.78,
+    122.99,
+    20,
     436
 );
 
@@ -7855,12 +7855,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    437,
+    1437,
     'Estante',
-    'Abarrote',
-    347.88,
-    945.74,
-    20,
+    'Electrodomestico',
+    689.5,
+    316.48,
+    13,
     437
 );
 
@@ -7873,12 +7873,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    438,
+    1438,
     'Estante',
-    'Mueble',
-    695.28,
-    276.48,
-    26,
+    'Congelado',
+    835.59,
+    345.72,
+    33,
     438
 );
 
@@ -7891,12 +7891,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    439,
+    1439,
     'Estante',
-    'Herramienta',
-    151.78,
-    230.91,
-    81,
+    'Abarrote',
+    569.41,
+    927.98,
+    50,
     439
 );
 
@@ -7909,12 +7909,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    440,
+    1440,
     'Estante',
-    'PrendaVestir',
-    10.08,
-    621.48,
-    9,
+    'Abarrote',
+    30.47,
+    3.97,
+    47,
     440
 );
 
@@ -7927,12 +7927,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    441,
+    1441,
     'Estante',
-    'PrendaVestir',
-    114.61,
-    687.94,
-    67,
+    'Congelado',
+    994.99,
+    532.76,
+    51,
     441
 );
 
@@ -7945,12 +7945,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    442,
+    1442,
     'Estante',
-    'Electrodomestico',
-    909.13,
-    429.68,
-    26,
+    'Congelado',
+    471.39,
+    537.06,
+    6,
     442
 );
 
@@ -7963,12 +7963,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    443,
+    1443,
     'Estante',
-    'Herramienta',
-    38.04,
-    892.69,
-    11,
+    'Abarrote',
+    66.36,
+    158.93,
+    41,
     443
 );
 
@@ -7981,12 +7981,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    444,
+    1444,
     'Estante',
     'PrendaVestir',
-    770.41,
-    659.01,
-    72,
+    505.67,
+    898.6,
+    73,
     444
 );
 
@@ -7999,12 +7999,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    445,
+    1445,
     'Estante',
-    'Congelado',
-    602.57,
-    221.3,
-    7,
+    'Aseo',
+    504.7,
+    609.59,
+    62,
     445
 );
 
@@ -8017,12 +8017,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    446,
+    1446,
     'Estante',
-    'Aseo',
-    935.56,
-    641.87,
-    49,
+    'PrendaVestir',
+    646.68,
+    77.4,
+    12,
     446
 );
 
@@ -8035,12 +8035,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    447,
+    1447,
     'Estante',
-    'PrendaVestir',
-    786.57,
-    531.2,
-    88,
+    'Electrodomestico',
+    704.24,
+    349.12,
+    91,
     447
 );
 
@@ -8053,12 +8053,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    448,
+    1448,
     'Estante',
-    'Abarrote',
-    75.63,
-    422.72,
-    61,
+    'Aseo',
+    398.26,
+    529.98,
+    96,
     448
 );
 
@@ -8071,12 +8071,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    449,
+    1449,
     'Estante',
-    'Electrodomestico',
-    672.8,
-    362.23,
-    87,
+    'Perecedero',
+    360.8,
+    428.88,
+    59,
     449
 );
 
@@ -8089,12 +8089,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    450,
+    1450,
     'Estante',
-    'NoPerecedero',
-    425.17,
-    4.72,
-    19,
+    'Electrodomestico',
+    514.76,
+    350.02,
+    83,
     450
 );
 
@@ -8107,12 +8107,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    451,
+    1451,
     'Estante',
-    'NoPerecedero',
-    178.65,
-    467.55,
-    11,
+    'Congelado',
+    378.61,
+    987.87,
+    78,
     451
 );
 
@@ -8125,12 +8125,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    452,
+    1452,
     'Estante',
-    'Mueble',
-    502.89,
-    521.0,
-    95,
+    'NoPerecedero',
+    820.33,
+    27.49,
+    93,
     452
 );
 
@@ -8143,12 +8143,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    453,
+    1453,
     'Estante',
-    'NoPerecedero',
-    827.17,
-    159.7,
-    86,
+    'Abarrote',
+    477.72,
+    934.18,
+    72,
     453
 );
 
@@ -8161,12 +8161,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    454,
+    1454,
     'Estante',
     'Perecedero',
-    830.48,
-    674.96,
-    22,
+    905.49,
+    579.61,
+    63,
     454
 );
 
@@ -8179,12 +8179,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    455,
+    1455,
     'Estante',
-    'Congelado',
-    510.51,
-    931.43,
-    60,
+    'PrendaVestir',
+    257.05,
+    66.77,
+    46,
     455
 );
 
@@ -8197,12 +8197,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    456,
+    1456,
     'Estante',
-    'Abarrote',
-    273.97,
-    358.66,
-    5,
+    'PrendaVestir',
+    231.16,
+    308.64,
+    71,
     456
 );
 
@@ -8215,12 +8215,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    457,
+    1457,
     'Estante',
-    'Mueble',
-    271.03,
-    440.69,
-    39,
+    'Abarrote',
+    332.53,
+    982.15,
+    100,
     457
 );
 
@@ -8233,12 +8233,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    458,
+    1458,
     'Estante',
-    'Herramienta',
-    723.39,
-    515.34,
-    3,
+    'PrendaVestir',
+    366.84,
+    806.8,
+    19,
     458
 );
 
@@ -8251,12 +8251,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    459,
+    1459,
     'Estante',
     'Abarrote',
-    465.57,
-    970.86,
-    11,
+    492.13,
+    712.23,
+    77,
     459
 );
 
@@ -8269,12 +8269,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    460,
+    1460,
     'Estante',
-    'Aseo',
-    952.82,
-    860.87,
-    48,
+    'Mueble',
+    59.11,
+    897.27,
+    30,
     460
 );
 
@@ -8287,12 +8287,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    461,
+    1461,
     'Estante',
-    'Congelado',
-    92.83,
-    566.05,
-    79,
+    'PrendaVestir',
+    937.34,
+    404.98,
+    81,
     461
 );
 
@@ -8305,12 +8305,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    462,
+    1462,
     'Estante',
-    'Congelado',
-    175.14,
-    606.0,
-    2,
+    'Herramienta',
+    241.6,
+    702.63,
+    89,
     462
 );
 
@@ -8323,12 +8323,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    463,
+    1463,
     'Estante',
-    'Herramienta',
-    941.51,
-    206.13,
-    35,
+    'Mueble',
+    268.12,
+    316.41,
+    93,
     463
 );
 
@@ -8341,12 +8341,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    464,
+    1464,
     'Estante',
-    'Herramienta',
-    395.58,
-    47.04,
-    31,
+    'Abarrote',
+    873.02,
+    491.52,
+    41,
     464
 );
 
@@ -8359,12 +8359,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    465,
+    1465,
     'Estante',
-    'Herramienta',
-    133.11,
-    318.5,
-    48,
+    'Aseo',
+    480.07,
+    360.85,
+    12,
     465
 );
 
@@ -8377,12 +8377,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    466,
+    1466,
     'Estante',
-    'PrendaVestir',
-    108.07,
-    13.57,
-    74,
+    'Perecedero',
+    923.48,
+    362.82,
+    75,
     466
 );
 
@@ -8395,12 +8395,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    467,
+    1467,
     'Estante',
-    'Electrodomestico',
-    840.86,
-    931.44,
-    71,
+    'Perecedero',
+    497.21,
+    561.76,
+    63,
     467
 );
 
@@ -8413,12 +8413,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    468,
+    1468,
     'Estante',
-    'Electrodomestico',
-    662.73,
-    561.75,
-    43,
+    'Mueble',
+    74.29,
+    339.73,
+    47,
     468
 );
 
@@ -8431,12 +8431,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    469,
+    1469,
     'Estante',
-    'Electrodomestico',
-    608.77,
-    22.83,
-    4,
+    'Congelado',
+    587.86,
+    138.92,
+    38,
     469
 );
 
@@ -8449,12 +8449,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    470,
+    1470,
     'Estante',
-    'PrendaVestir',
-    596.85,
-    784.28,
-    32,
+    'Abarrote',
+    119.91,
+    675.99,
+    67,
     470
 );
 
@@ -8467,12 +8467,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    471,
+    1471,
     'Estante',
-    'Perecedero',
-    352.68,
-    929.0,
-    88,
+    'PrendaVestir',
+    435.94,
+    341.68,
+    96,
     471
 );
 
@@ -8485,11 +8485,11 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    472,
+    1472,
     'Estante',
-    'NoPerecedero',
-    157.54,
-    477.5,
+    'Aseo',
+    87.35,
+    718.15,
     13,
     472
 );
@@ -8503,12 +8503,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    473,
+    1473,
     'Estante',
-    'Congelado',
-    677.0,
-    115.82,
-    22,
+    'Herramienta',
+    762.95,
+    968.34,
+    12,
     473
 );
 
@@ -8521,12 +8521,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    474,
+    1474,
     'Estante',
-    'NoPerecedero',
-    324.31,
-    616.75,
-    47,
+    'PrendaVestir',
+    460.37,
+    600.99,
+    65,
     474
 );
 
@@ -8539,12 +8539,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    475,
+    1475,
     'Estante',
-    'Herramienta',
-    442.5,
-    678.92,
-    8,
+    'NoPerecedero',
+    327.68,
+    962.64,
+    15,
     475
 );
 
@@ -8557,12 +8557,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    476,
+    1476,
     'Estante',
-    'Herramienta',
-    286.83,
-    309.54,
-    25,
+    'PrendaVestir',
+    115.21,
+    815.3,
+    71,
     476
 );
 
@@ -8575,12 +8575,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    477,
+    1477,
     'Estante',
-    'NoPerecedero',
-    53.79,
-    210.04,
-    95,
+    'Congelado',
+    825.6,
+    490.55,
+    91,
     477
 );
 
@@ -8593,12 +8593,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    478,
+    1478,
     'Estante',
-    'Perecedero',
-    899.48,
-    449.57,
-    22,
+    'Mueble',
+    32.02,
+    894.12,
+    4,
     478
 );
 
@@ -8611,12 +8611,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    479,
+    1479,
     'Estante',
-    'Congelado',
-    840.5,
-    104.34,
-    86,
+    'NoPerecedero',
+    310.14,
+    68.17,
+    93,
     479
 );
 
@@ -8629,12 +8629,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    480,
+    1480,
     'Estante',
-    'Mueble',
-    37.63,
-    730.66,
-    92,
+    'NoPerecedero',
+    818.39,
+    399.47,
+    5,
     480
 );
 
@@ -8647,12 +8647,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    481,
+    1481,
     'Estante',
-    'Congelado',
-    210.59,
-    855.62,
-    83,
+    'Herramienta',
+    358.39,
+    70.21,
+    58,
     481
 );
 
@@ -8665,12 +8665,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    482,
+    1482,
     'Estante',
-    'Congelado',
-    392.68,
-    91.64,
-    61,
+    'Perecedero',
+    554.39,
+    763.74,
+    19,
     482
 );
 
@@ -8683,12 +8683,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    483,
+    1483,
     'Estante',
-    'Electrodomestico',
-    72.69,
-    24.07,
-    88,
+    'Perecedero',
+    888.92,
+    219.98,
+    38,
     483
 );
 
@@ -8701,12 +8701,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    484,
+    1484,
     'Estante',
-    'PrendaVestir',
-    47.57,
-    830.34,
-    59,
+    'Abarrote',
+    87.0,
+    23.15,
+    8,
     484
 );
 
@@ -8719,12 +8719,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    485,
+    1485,
     'Estante',
-    'Congelado',
-    818.51,
-    753.2,
-    75,
+    'PrendaVestir',
+    492.86,
+    791.62,
+    43,
     485
 );
 
@@ -8737,12 +8737,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    486,
+    1486,
     'Estante',
     'Congelado',
-    824.99,
-    808.77,
-    91,
+    210.8,
+    305.35,
+    9,
     486
 );
 
@@ -8755,12 +8755,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    487,
+    1487,
     'Estante',
-    'Abarrote',
-    836.02,
-    266.96,
-    10,
+    'Electrodomestico',
+    328.01,
+    541.98,
+    69,
     487
 );
 
@@ -8773,12 +8773,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    488,
+    1488,
     'Estante',
-    'Congelado',
-    551.83,
-    446.54,
-    26,
+    'Perecedero',
+    626.87,
+    607.53,
+    58,
     488
 );
 
@@ -8791,12 +8791,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    489,
+    1489,
     'Estante',
-    'Aseo',
-    647.98,
-    655.44,
-    61,
+    'Herramienta',
+    89.69,
+    972.29,
+    2,
     489
 );
 
@@ -8809,12 +8809,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    490,
+    1490,
     'Estante',
-    'Mueble',
-    404.74,
-    909.3,
-    8,
+    'Congelado',
+    957.78,
+    349.19,
+    19,
     490
 );
 
@@ -8827,12 +8827,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    491,
+    1491,
     'Estante',
     'Herramienta',
-    145.32,
-    19.02,
-    92,
+    188.2,
+    143.46,
+    25,
     491
 );
 
@@ -8845,12 +8845,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    492,
+    1492,
     'Estante',
-    'Mueble',
-    419.46,
-    772.38,
-    69,
+    'Electrodomestico',
+    93.66,
+    815.76,
+    70,
     492
 );
 
@@ -8863,12 +8863,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    493,
+    1493,
     'Estante',
     'PrendaVestir',
-    46.15,
-    785.24,
-    7,
+    251.23,
+    730.62,
+    94,
     493
 );
 
@@ -8881,12 +8881,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    494,
+    1494,
     'Estante',
-    'Mueble',
-    907.22,
-    227.06,
-    40,
+    'Abarrote',
+    150.01,
+    954.29,
+    53,
     494
 );
 
@@ -8899,12 +8899,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    495,
+    1495,
     'Estante',
-    'PrendaVestir',
-    614.11,
-    755.16,
-    45,
+    'Herramienta',
+    522.41,
+    473.89,
+    59,
     495
 );
 
@@ -8917,12 +8917,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    496,
+    1496,
     'Estante',
-    'Congelado',
-    954.89,
-    291.3,
-    61,
+    'Herramienta',
+    95.75,
+    348.12,
+    35,
     496
 );
 
@@ -8935,12 +8935,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    497,
+    1497,
     'Estante',
-    'Electrodomestico',
-    734.63,
-    307.89,
-    95,
+    'Congelado',
+    233.69,
+    716.01,
+    42,
     497
 );
 
@@ -8953,12 +8953,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    498,
+    1498,
     'Estante',
-    'Herramienta',
-    443.08,
-    802.25,
-    15,
+    'Abarrote',
+    784.4,
+    826.92,
+    53,
     498
 );
 
@@ -8971,12 +8971,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    499,
+    1499,
     'Estante',
-    'Electrodomestico',
-    471.2,
-    4.06,
-    73,
+    'Congelado',
+    594.41,
+    422.3,
+    79,
     499
 );
 
@@ -8989,12 +8989,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    500,
+    1500,
     'Estante',
-    'PrendaVestir',
-    614.89,
-    903.78,
-    8,
+    'NoPerecedero',
+    822.89,
+    944.58,
+    45,
     500
 );
 
@@ -9007,12 +9007,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    501,
+    1501,
     'Estante',
-    'Abarrote',
-    437.61,
-    108.56,
-    37,
+    'Perecedero',
+    381.83,
+    453.03,
+    39,
     501
 );
 
@@ -9025,12 +9025,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    502,
+    1502,
     'Estante',
     'Perecedero',
-    338.96,
-    354.57,
-    67,
+    805.17,
+    940.12,
+    89,
     502
 );
 
@@ -9043,12 +9043,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    503,
+    1503,
     'Estante',
-    'NoPerecedero',
-    145.67,
-    377.22,
-    55,
+    'PrendaVestir',
+    94.69,
+    611.89,
+    70,
     503
 );
 
@@ -9061,12 +9061,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    504,
+    1504,
     'Estante',
-    'Abarrote',
-    517.72,
-    602.22,
-    93,
+    'Electrodomestico',
+    703.09,
+    979.18,
+    60,
     504
 );
 
@@ -9079,12 +9079,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    505,
+    1505,
     'Estante',
-    'Perecedero',
-    11.85,
-    379.12,
-    39,
+    'Electrodomestico',
+    734.27,
+    758.79,
+    47,
     505
 );
 
@@ -9097,12 +9097,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    506,
+    1506,
     'Estante',
-    'NoPerecedero',
-    755.45,
-    350.66,
-    83,
+    'Perecedero',
+    364.67,
+    89.15,
+    61,
     506
 );
 
@@ -9115,12 +9115,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    507,
+    1507,
     'Estante',
-    'Aseo',
-    643.54,
-    349.91,
-    5,
+    'Mueble',
+    5.51,
+    739.61,
+    95,
     507
 );
 
@@ -9133,12 +9133,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    508,
+    1508,
     'Estante',
     'Abarrote',
-    799.28,
-    51.75,
-    67,
+    146.89,
+    627.88,
+    54,
     508
 );
 
@@ -9151,12 +9151,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    509,
+    1509,
     'Estante',
-    'Congelado',
-    412.67,
-    718.79,
-    67,
+    'Herramienta',
+    327.28,
+    321.68,
+    41,
     509
 );
 
@@ -9169,12 +9169,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    510,
+    1510,
     'Estante',
-    'PrendaVestir',
-    55.02,
-    72.72,
-    76,
+    'Mueble',
+    885.85,
+    247.28,
+    41,
     510
 );
 
@@ -9187,12 +9187,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    511,
+    1511,
     'Estante',
-    'Aseo',
-    789.03,
-    863.43,
-    60,
+    'Abarrote',
+    6.66,
+    422.0,
+    54,
     511
 );
 
@@ -9205,12 +9205,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    512,
+    1512,
     'Estante',
     'PrendaVestir',
-    181.74,
-    988.8,
-    51,
+    856.28,
+    761.37,
+    49,
     512
 );
 
@@ -9223,12 +9223,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    513,
+    1513,
     'Estante',
-    'Abarrote',
-    757.18,
-    338.53,
-    50,
+    'PrendaVestir',
+    391.52,
+    93.57,
+    61,
     513
 );
 
@@ -9241,12 +9241,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    514,
+    1514,
     'Estante',
-    'Herramienta',
-    645.63,
-    757.63,
-    76,
+    'Mueble',
+    927.47,
+    976.24,
+    45,
     514
 );
 
@@ -9259,12 +9259,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    515,
+    1515,
     'Estante',
-    'NoPerecedero',
-    272.67,
-    663.93,
-    18,
+    'Perecedero',
+    515.8,
+    32.35,
+    73,
     515
 );
 
@@ -9277,12 +9277,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    516,
+    1516,
     'Estante',
-    'Mueble',
-    428.59,
-    924.45,
-    71,
+    'PrendaVestir',
+    595.39,
+    510.24,
+    84,
     516
 );
 
@@ -9295,12 +9295,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    517,
+    1517,
     'Estante',
     'Mueble',
-    423.97,
-    513.63,
-    90,
+    984.53,
+    921.83,
+    2,
     517
 );
 
@@ -9313,12 +9313,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    518,
+    1518,
     'Estante',
-    'Electrodomestico',
-    915.55,
-    750.26,
-    87,
+    'PrendaVestir',
+    534.2,
+    713.67,
+    28,
     518
 );
 
@@ -9331,12 +9331,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    519,
+    1519,
     'Estante',
     'Perecedero',
-    884.88,
-    747.94,
-    53,
+    564.18,
+    84.43,
+    47,
     519
 );
 
@@ -9349,12 +9349,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    520,
+    1520,
     'Estante',
-    'Mueble',
-    671.65,
-    826.69,
-    86,
+    'Abarrote',
+    103.37,
+    698.56,
+    26,
     520
 );
 
@@ -9367,12 +9367,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    521,
+    1521,
     'Estante',
-    'Abarrote',
-    641.54,
-    860.31,
-    40,
+    'Herramienta',
+    545.37,
+    877.52,
+    53,
     521
 );
 
@@ -9385,12 +9385,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    522,
+    1522,
     'Estante',
-    'Perecedero',
-    644.08,
-    730.32,
-    97,
+    'Congelado',
+    109.76,
+    952.87,
+    31,
     522
 );
 
@@ -9403,12 +9403,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    523,
+    1523,
     'Estante',
-    'Congelado',
-    320.16,
-    923.66,
-    5,
+    'Mueble',
+    546.34,
+    308.61,
+    57,
     523
 );
 
@@ -9421,12 +9421,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    524,
+    1524,
     'Estante',
-    'Congelado',
-    913.29,
-    724.72,
-    11,
+    'Herramienta',
+    406.23,
+    964.46,
+    58,
     524
 );
 
@@ -9439,12 +9439,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    525,
+    1525,
     'Estante',
-    'Mueble',
-    6.69,
-    809.71,
-    72,
+    'PrendaVestir',
+    587.47,
+    143.01,
+    70,
     525
 );
 
@@ -9457,12 +9457,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    526,
+    1526,
     'Estante',
-    'PrendaVestir',
-    238.14,
-    883.85,
-    54,
+    'Perecedero',
+    510.05,
+    339.26,
+    84,
     526
 );
 
@@ -9475,12 +9475,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    527,
+    1527,
     'Estante',
-    'PrendaVestir',
-    502.76,
-    54.29,
-    96,
+    'NoPerecedero',
+    969.61,
+    234.58,
+    93,
     527
 );
 
@@ -9493,12 +9493,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    528,
+    1528,
     'Estante',
-    'Herramienta',
-    667.22,
-    784.49,
-    43,
+    'Electrodomestico',
+    92.31,
+    66.5,
+    15,
     528
 );
 
@@ -9511,12 +9511,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    529,
+    1529,
     'Estante',
-    'Perecedero',
-    251.09,
-    80.07,
-    92,
+    'NoPerecedero',
+    971.86,
+    62.09,
+    24,
     529
 );
 
@@ -9529,12 +9529,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    530,
+    1530,
     'Estante',
-    'Perecedero',
-    912.9,
-    851.57,
-    6,
+    'Electrodomestico',
+    848.77,
+    387.76,
+    26,
     530
 );
 
@@ -9547,12 +9547,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    531,
+    1531,
     'Estante',
-    'Electrodomestico',
-    721.23,
-    395.26,
-    65,
+    'NoPerecedero',
+    790.2,
+    293.25,
+    87,
     531
 );
 
@@ -9565,12 +9565,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    532,
+    1532,
     'Estante',
-    'Abarrote',
-    577.18,
-    484.29,
-    54,
+    'Congelado',
+    920.63,
+    364.55,
+    78,
     532
 );
 
@@ -9583,12 +9583,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    533,
+    1533,
     'Estante',
-    'Perecedero',
-    484.34,
-    817.41,
-    71,
+    'Electrodomestico',
+    825.32,
+    616.64,
+    12,
     533
 );
 
@@ -9601,12 +9601,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    534,
+    1534,
     'Estante',
-    'Congelado',
-    647.91,
-    332.1,
-    13,
+    'Electrodomestico',
+    364.77,
+    639.8,
+    51,
     534
 );
 
@@ -9619,12 +9619,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    535,
+    1535,
     'Estante',
-    'Electrodomestico',
-    232.11,
-    988.54,
-    25,
+    'PrendaVestir',
+    811.16,
+    715.31,
+    54,
     535
 );
 
@@ -9637,12 +9637,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    536,
+    1536,
     'Estante',
-    'Aseo',
-    197.95,
-    112.79,
-    63,
+    'NoPerecedero',
+    509.56,
+    618.15,
+    57,
     536
 );
 
@@ -9655,12 +9655,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    537,
+    1537,
     'Estante',
-    'Abarrote',
-    412.41,
-    512.21,
-    66,
+    'Congelado',
+    752.43,
+    286.45,
+    26,
     537
 );
 
@@ -9673,12 +9673,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    538,
+    1538,
     'Estante',
-    'Herramienta',
-    10.85,
-    843.62,
-    36,
+    'Mueble',
+    416.96,
+    752.55,
+    19,
     538
 );
 
@@ -9691,12 +9691,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    539,
+    1539,
     'Estante',
-    'Aseo',
-    725.78,
-    716.82,
-    41,
+    'Congelado',
+    679.73,
+    426.19,
+    29,
     539
 );
 
@@ -9709,12 +9709,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    540,
+    1540,
     'Estante',
-    'NoPerecedero',
-    174.26,
-    2.07,
-    72,
+    'Abarrote',
+    876.81,
+    859.46,
+    83,
     540
 );
 
@@ -9727,12 +9727,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    541,
+    1541,
     'Estante',
-    'Perecedero',
-    780.55,
-    113.96,
-    88,
+    'PrendaVestir',
+    705.02,
+    524.81,
+    16,
     541
 );
 
@@ -9745,12 +9745,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    542,
+    1542,
     'Estante',
-    'Mueble',
-    930.42,
-    365.27,
-    9,
+    'Abarrote',
+    570.44,
+    541.73,
+    85,
     542
 );
 
@@ -9763,12 +9763,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    543,
+    1543,
     'Estante',
-    'Mueble',
-    491.08,
-    775.47,
-    82,
+    'Aseo',
+    419.32,
+    349.25,
+    67,
     543
 );
 
@@ -9781,12 +9781,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    544,
+    1544,
     'Estante',
-    'PrendaVestir',
-    850.05,
-    600.32,
-    25,
+    'Perecedero',
+    211.26,
+    851.38,
+    21,
     544
 );
 
@@ -9799,12 +9799,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    545,
+    1545,
     'Estante',
-    'Herramienta',
-    529.24,
-    670.11,
-    4,
+    'PrendaVestir',
+    277.71,
+    630.91,
+    15,
     545
 );
 
@@ -9817,12 +9817,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    546,
+    1546,
     'Estante',
-    'PrendaVestir',
-    194.54,
-    99.21,
-    82,
+    'Mueble',
+    77.47,
+    557.56,
+    71,
     546
 );
 
@@ -9835,12 +9835,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    547,
+    1547,
     'Estante',
     'Congelado',
-    377.67,
-    416.86,
-    45,
+    903.86,
+    952.73,
+    99,
     547
 );
 
@@ -9853,12 +9853,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    548,
+    1548,
     'Estante',
-    'PrendaVestir',
-    13.82,
-    605.62,
-    96,
+    'Perecedero',
+    864.11,
+    433.98,
+    41,
     548
 );
 
@@ -9871,12 +9871,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    549,
+    1549,
     'Estante',
     'Abarrote',
-    851.01,
-    619.31,
-    17,
+    123.11,
+    163.47,
+    82,
     549
 );
 
@@ -9889,12 +9889,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    550,
+    1550,
     'Estante',
-    'Aseo',
-    597.44,
-    649.24,
-    82,
+    'Mueble',
+    230.12,
+    64.61,
+    62,
     550
 );
 
@@ -9907,12 +9907,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    551,
+    1551,
     'Estante',
-    'Mueble',
-    599.74,
-    744.75,
-    58,
+    'Abarrote',
+    442.2,
+    100.8,
+    95,
     551
 );
 
@@ -9925,12 +9925,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    552,
+    1552,
     'Estante',
-    'Perecedero',
-    87.18,
-    343.22,
-    66,
+    'Mueble',
+    767.81,
+    919.39,
+    8,
     552
 );
 
@@ -9943,12 +9943,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    553,
+    1553,
     'Estante',
-    'PrendaVestir',
-    115.45,
-    357.17,
-    32,
+    'Herramienta',
+    259.99,
+    954.96,
+    41,
     553
 );
 
@@ -9961,12 +9961,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    554,
+    1554,
     'Estante',
-    'Abarrote',
-    465.89,
-    577.65,
-    16,
+    'PrendaVestir',
+    484.96,
+    248.93,
+    50,
     554
 );
 
@@ -9979,12 +9979,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    555,
+    1555,
     'Estante',
     'Electrodomestico',
-    184.39,
-    4.84,
-    72,
+    226.04,
+    652.82,
+    9,
     555
 );
 
@@ -9997,12 +9997,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    556,
+    1556,
     'Estante',
-    'Congelado',
-    65.82,
-    503.78,
-    69,
+    'NoPerecedero',
+    208.06,
+    272.43,
+    52,
     556
 );
 
@@ -10015,12 +10015,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    557,
+    1557,
     'Estante',
-    'Aseo',
-    970.21,
-    599.02,
-    23,
+    'Mueble',
+    115.8,
+    952.42,
+    99,
     557
 );
 
@@ -10033,12 +10033,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    558,
+    1558,
     'Estante',
-    'Electrodomestico',
-    548.81,
-    335.93,
-    100,
+    'Congelado',
+    865.49,
+    831.15,
+    4,
     558
 );
 
@@ -10051,12 +10051,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    559,
+    1559,
     'Estante',
-    'NoPerecedero',
-    723.57,
-    271.01,
-    86,
+    'PrendaVestir',
+    742.38,
+    988.99,
+    40,
     559
 );
 
@@ -10069,12 +10069,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    560,
+    1560,
     'Estante',
-    'NoPerecedero',
-    62.76,
-    599.31,
-    61,
+    'Electrodomestico',
+    458.75,
+    193.01,
+    68,
     560
 );
 
@@ -10087,12 +10087,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    561,
+    1561,
     'Estante',
-    'PrendaVestir',
-    50.89,
-    762.38,
-    81,
+    'Mueble',
+    690.72,
+    350.84,
+    62,
     561
 );
 
@@ -10105,12 +10105,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    562,
+    1562,
     'Estante',
-    'Abarrote',
-    131.95,
-    317.98,
-    85,
+    'Electrodomestico',
+    35.59,
+    141.4,
+    25,
     562
 );
 
@@ -10123,12 +10123,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    563,
+    1563,
     'Estante',
-    'Mueble',
-    534.02,
-    239.61,
-    93,
+    'Herramienta',
+    846.01,
+    277.68,
+    42,
     563
 );
 
@@ -10141,12 +10141,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    564,
+    1564,
     'Estante',
     'Abarrote',
-    980.0,
-    340.08,
-    50,
+    858.92,
+    773.4,
+    25,
     564
 );
 
@@ -10159,12 +10159,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    565,
+    1565,
     'Estante',
-    'PrendaVestir',
-    176.8,
-    789.41,
-    13,
+    'Aseo',
+    38.92,
+    367.01,
+    33,
     565
 );
 
@@ -10177,12 +10177,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    566,
+    1566,
     'Estante',
-    'Aseo',
-    463.1,
-    10.52,
-    5,
+    'Perecedero',
+    634.34,
+    746.52,
+    90,
     566
 );
 
@@ -10195,12 +10195,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    567,
+    1567,
     'Estante',
-    'PrendaVestir',
-    979.06,
-    23.63,
-    42,
+    'Electrodomestico',
+    427.05,
+    939.18,
+    41,
     567
 );
 
@@ -10213,12 +10213,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    568,
+    1568,
     'Estante',
-    'Aseo',
-    879.08,
-    231.28,
-    85,
+    'Abarrote',
+    261.48,
+    77.22,
+    5,
     568
 );
 
@@ -10231,12 +10231,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    569,
+    1569,
     'Estante',
     'Herramienta',
-    754.37,
-    92.36,
-    66,
+    812.77,
+    562.72,
+    1,
     569
 );
 
@@ -10249,12 +10249,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    570,
+    1570,
     'Estante',
-    'Herramienta',
-    82.9,
-    734.94,
-    83,
+    'NoPerecedero',
+    353.33,
+    304.93,
+    38,
     570
 );
 
@@ -10267,12 +10267,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    571,
+    1571,
     'Estante',
-    'Perecedero',
-    933.43,
-    614.53,
-    65,
+    'Mueble',
+    150.76,
+    245.52,
+    76,
     571
 );
 
@@ -10285,12 +10285,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    572,
+    1572,
     'Estante',
-    'Herramienta',
-    362.88,
-    718.98,
-    23,
+    'Aseo',
+    657.57,
+    870.72,
+    69,
     572
 );
 
@@ -10303,12 +10303,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    573,
+    1573,
     'Estante',
-    'Herramienta',
-    499.27,
-    68.94,
-    3,
+    'Mueble',
+    566.64,
+    374.24,
+    38,
     573
 );
 
@@ -10321,12 +10321,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    574,
+    1574,
     'Estante',
-    'Perecedero',
-    567.42,
-    80.99,
-    79,
+    'Abarrote',
+    631.18,
+    101.36,
+    20,
     574
 );
 
@@ -10339,12 +10339,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    575,
+    1575,
     'Estante',
-    'Perecedero',
-    61.72,
-    655.02,
-    30,
+    'Abarrote',
+    111.59,
+    742.3,
+    27,
     575
 );
 
@@ -10357,12 +10357,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    576,
+    1576,
     'Estante',
-    'Electrodomestico',
-    728.17,
-    355.76,
-    47,
+    'Perecedero',
+    411.59,
+    518.08,
+    82,
     576
 );
 
@@ -10375,12 +10375,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    577,
+    1577,
     'Estante',
-    'NoPerecedero',
-    103.03,
-    397.85,
-    23,
+    'PrendaVestir',
+    881.11,
+    771.41,
+    2,
     577
 );
 
@@ -10393,12 +10393,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    578,
+    1578,
     'Estante',
-    'NoPerecedero',
-    520.8,
-    462.46,
-    28,
+    'PrendaVestir',
+    621.27,
+    37.6,
+    68,
     578
 );
 
@@ -10411,12 +10411,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    579,
+    1579,
     'Estante',
     'Mueble',
-    498.28,
-    530.52,
-    60,
+    91.29,
+    770.17,
+    100,
     579
 );
 
@@ -10429,12 +10429,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    580,
+    1580,
     'Estante',
     'NoPerecedero',
-    823.3,
-    595.03,
-    79,
+    928.61,
+    266.89,
+    81,
     580
 );
 
@@ -10447,12 +10447,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    581,
+    1581,
     'Estante',
-    'Electrodomestico',
-    493.87,
-    796.76,
-    71,
+    'Congelado',
+    668.47,
+    628.77,
+    6,
     581
 );
 
@@ -10465,12 +10465,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    582,
+    1582,
     'Estante',
-    'Mueble',
-    952.21,
-    256.92,
-    27,
+    'Congelado',
+    217.68,
+    423.65,
+    38,
     582
 );
 
@@ -10483,12 +10483,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    583,
+    1583,
     'Estante',
-    'Abarrote',
-    51.12,
-    61.69,
-    99,
+    'Mueble',
+    985.06,
+    20.05,
+    60,
     583
 );
 
@@ -10501,12 +10501,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    584,
+    1584,
     'Estante',
-    'Electrodomestico',
-    336.73,
-    761.23,
-    63,
+    'PrendaVestir',
+    773.8,
+    741.95,
+    28,
     584
 );
 
@@ -10519,12 +10519,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    585,
+    1585,
     'Estante',
-    'Abarrote',
-    755.08,
-    888.62,
-    57,
+    'Congelado',
+    188.48,
+    162.24,
+    47,
     585
 );
 
@@ -10537,12 +10537,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    586,
+    1586,
     'Estante',
-    'Congelado',
-    955.08,
-    599.93,
-    50,
+    'Mueble',
+    243.04,
+    282.94,
+    82,
     586
 );
 
@@ -10555,12 +10555,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    587,
+    1587,
     'Estante',
-    'Electrodomestico',
-    337.66,
-    673.74,
-    55,
+    'Congelado',
+    768.47,
+    666.8,
+    6,
     587
 );
 
@@ -10573,12 +10573,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    588,
+    1588,
     'Estante',
-    'NoPerecedero',
-    304.68,
-    454.5,
-    64,
+    'Perecedero',
+    344.38,
+    421.41,
+    22,
     588
 );
 
@@ -10591,12 +10591,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    589,
+    1589,
     'Estante',
-    'NoPerecedero',
-    452.59,
-    145.99,
-    26,
+    'Electrodomestico',
+    623.44,
+    774.14,
+    34,
     589
 );
 
@@ -10609,12 +10609,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    590,
+    1590,
     'Estante',
-    'Congelado',
-    888.82,
-    402.05,
-    16,
+    'Perecedero',
+    969.04,
+    368.36,
+    2,
     590
 );
 
@@ -10627,12 +10627,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    591,
+    1591,
     'Estante',
-    'NoPerecedero',
-    170.48,
-    35.28,
-    71,
+    'Herramienta',
+    576.03,
+    402.42,
+    11,
     591
 );
 
@@ -10645,12 +10645,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    592,
+    1592,
     'Estante',
-    'Aseo',
-    991.85,
-    960.54,
-    54,
+    'PrendaVestir',
+    708.34,
+    539.89,
+    78,
     592
 );
 
@@ -10663,12 +10663,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    593,
+    1593,
     'Estante',
-    'NoPerecedero',
-    839.25,
-    804.14,
-    70,
+    'Herramienta',
+    76.74,
+    870.65,
+    17,
     593
 );
 
@@ -10681,12 +10681,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    594,
+    1594,
     'Estante',
-    'Perecedero',
-    72.08,
-    958.65,
-    5,
+    'Mueble',
+    574.94,
+    793.47,
+    42,
     594
 );
 
@@ -10699,12 +10699,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    595,
+    1595,
     'Estante',
     'Abarrote',
-    222.9,
-    446.12,
-    61,
+    972.64,
+    248.72,
+    1,
     595
 );
 
@@ -10717,12 +10717,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    596,
+    1596,
     'Estante',
-    'Abarrote',
-    190.9,
-    976.94,
-    84,
+    'Congelado',
+    459.71,
+    710.45,
+    59,
     596
 );
 
@@ -10735,12 +10735,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    597,
+    1597,
     'Estante',
-    'NoPerecedero',
-    480.13,
-    84.51,
-    76,
+    'Mueble',
+    693.77,
+    131.08,
+    77,
     597
 );
 
@@ -10753,12 +10753,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    598,
+    1598,
     'Estante',
-    'Abarrote',
-    839.92,
-    727.22,
-    61,
+    'Mueble',
+    205.0,
+    866.14,
+    8,
     598
 );
 
@@ -10771,12 +10771,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    599,
+    1599,
     'Estante',
-    'Aseo',
-    418.83,
-    855.15,
-    64,
+    'Perecedero',
+    178.71,
+    886.54,
+    75,
     599
 );
 
@@ -10789,12 +10789,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    600,
+    1600,
     'Estante',
-    'Congelado',
-    514.29,
-    824.98,
-    6,
+    'Mueble',
+    75.82,
+    69.98,
+    56,
     600
 );
 
@@ -10807,12 +10807,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    601,
+    1601,
     'Estante',
-    'Aseo',
-    128.81,
-    453.62,
-    51,
+    'NoPerecedero',
+    60.89,
+    333.58,
+    78,
     601
 );
 
@@ -10825,12 +10825,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    602,
+    1602,
     'Estante',
     'Aseo',
-    928.38,
-    653.28,
-    100,
+    491.44,
+    452.68,
+    81,
     602
 );
 
@@ -10843,12 +10843,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    603,
+    1603,
     'Estante',
-    'Perecedero',
-    917.69,
-    294.18,
-    61,
+    'Congelado',
+    499.71,
+    973.81,
+    29,
     603
 );
 
@@ -10861,12 +10861,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    604,
+    1604,
     'Estante',
     'NoPerecedero',
-    206.73,
-    574.41,
-    7,
+    596.15,
+    258.33,
+    98,
     604
 );
 
@@ -10879,12 +10879,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    605,
+    1605,
     'Estante',
-    'Perecedero',
-    630.67,
-    268.32,
-    2,
+    'Electrodomestico',
+    440.98,
+    77.91,
+    78,
     605
 );
 
@@ -10897,12 +10897,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    606,
+    1606,
     'Estante',
-    'Abarrote',
-    147.37,
-    938.04,
-    16,
+    'Herramienta',
+    715.16,
+    774.21,
+    25,
     606
 );
 
@@ -10915,12 +10915,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    607,
+    1607,
     'Estante',
-    'PrendaVestir',
-    468.86,
-    187.7,
-    67,
+    'Mueble',
+    284.15,
+    665.09,
+    33,
     607
 );
 
@@ -10933,12 +10933,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    608,
+    1608,
     'Estante',
-    'Perecedero',
-    538.25,
-    871.81,
-    46,
+    'NoPerecedero',
+    913.02,
+    217.37,
+    20,
     608
 );
 
@@ -10951,12 +10951,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    609,
+    1609,
     'Estante',
-    'Electrodomestico',
-    317.18,
-    27.46,
-    91,
+    'Aseo',
+    669.9,
+    488.04,
+    12,
     609
 );
 
@@ -10969,12 +10969,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    610,
+    1610,
     'Estante',
     'Electrodomestico',
-    761.15,
-    985.36,
-    55,
+    468.17,
+    92.74,
+    51,
     610
 );
 
@@ -10987,12 +10987,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    611,
+    1611,
     'Estante',
     'Electrodomestico',
-    454.81,
-    410.03,
-    83,
+    55.21,
+    719.2,
+    94,
     611
 );
 
@@ -11005,12 +11005,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    612,
+    1612,
     'Estante',
-    'Abarrote',
-    700.57,
-    173.0,
-    91,
+    'PrendaVestir',
+    599.53,
+    805.82,
+    53,
     612
 );
 
@@ -11023,12 +11023,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    613,
+    1613,
     'Estante',
-    'Electrodomestico',
-    648.51,
-    846.43,
-    9,
+    'Perecedero',
+    593.63,
+    482.81,
+    62,
     613
 );
 
@@ -11041,12 +11041,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    614,
+    1614,
     'Estante',
     'Perecedero',
-    91.96,
-    517.08,
-    12,
+    490.0,
+    647.75,
+    68,
     614
 );
 
@@ -11059,12 +11059,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    615,
+    1615,
     'Estante',
-    'NoPerecedero',
-    505.17,
-    906.53,
-    11,
+    'Aseo',
+    441.59,
+    943.26,
+    75,
     615
 );
 
@@ -11077,12 +11077,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    616,
+    1616,
     'Estante',
-    'Abarrote',
-    523.89,
-    994.65,
-    18,
+    'Mueble',
+    40.3,
+    274.23,
+    19,
     616
 );
 
@@ -11095,12 +11095,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    617,
+    1617,
     'Estante',
-    'PrendaVestir',
-    681.78,
-    259.73,
-    30,
+    'NoPerecedero',
+    43.59,
+    398.92,
+    84,
     617
 );
 
@@ -11113,12 +11113,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    618,
+    1618,
     'Estante',
-    'Herramienta',
-    644.75,
-    444.28,
-    48,
+    'PrendaVestir',
+    700.57,
+    681.69,
+    84,
     618
 );
 
@@ -11131,12 +11131,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    619,
+    1619,
     'Estante',
-    'Mueble',
-    499.13,
-    123.01,
-    85,
+    'PrendaVestir',
+    106.93,
+    826.81,
+    49,
     619
 );
 
@@ -11149,12 +11149,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    620,
+    1620,
     'Estante',
     'NoPerecedero',
-    502.45,
-    155.52,
-    17,
+    955.77,
+    337.12,
+    61,
     620
 );
 
@@ -11167,12 +11167,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    621,
+    1621,
     'Estante',
-    'NoPerecedero',
-    924.68,
-    162.44,
-    37,
+    'Perecedero',
+    261.1,
+    990.76,
+    24,
     621
 );
 
@@ -11185,12 +11185,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    622,
+    1622,
     'Estante',
-    'Abarrote',
-    71.81,
-    633.48,
-    11,
+    'Perecedero',
+    599.83,
+    321.25,
+    2,
     622
 );
 
@@ -11203,12 +11203,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    623,
+    1623,
     'Estante',
-    'Herramienta',
-    694.61,
-    544.12,
-    89,
+    'PrendaVestir',
+    166.32,
+    314.6,
+    33,
     623
 );
 
@@ -11221,12 +11221,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    624,
+    1624,
     'Estante',
-    'Mueble',
-    844.95,
-    79.6,
-    27,
+    'Electrodomestico',
+    841.31,
+    84.41,
+    18,
     624
 );
 
@@ -11239,12 +11239,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    625,
+    1625,
     'Estante',
-    'Perecedero',
-    444.01,
-    169.07,
-    90,
+    'NoPerecedero',
+    876.77,
+    13.59,
+    92,
     625
 );
 
@@ -11257,12 +11257,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    626,
+    1626,
     'Estante',
-    'NoPerecedero',
-    627.07,
-    769.57,
-    80,
+    'Mueble',
+    754.03,
+    271.48,
+    1,
     626
 );
 
@@ -11275,12 +11275,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    627,
+    1627,
     'Estante',
-    'Congelado',
-    761.89,
-    562.68,
-    47,
+    'Abarrote',
+    994.81,
+    632.91,
+    43,
     627
 );
 
@@ -11293,12 +11293,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    628,
+    1628,
     'Estante',
-    'Electrodomestico',
-    121.22,
-    275.07,
-    47,
+    'Congelado',
+    84.26,
+    423.27,
+    54,
     628
 );
 
@@ -11311,12 +11311,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    629,
+    1629,
     'Estante',
-    'Congelado',
-    630.5,
-    576.17,
-    34,
+    'Abarrote',
+    879.83,
+    493.81,
+    32,
     629
 );
 
@@ -11329,12 +11329,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    630,
+    1630,
     'Estante',
-    'Mueble',
-    795.68,
-    749.13,
-    33,
+    'Congelado',
+    302.03,
+    165.61,
+    21,
     630
 );
 
@@ -11347,12 +11347,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    631,
+    1631,
     'Estante',
-    'Electrodomestico',
-    103.66,
-    725.95,
-    54,
+    'Herramienta',
+    659.74,
+    896.24,
+    5,
     631
 );
 
@@ -11365,12 +11365,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    632,
+    1632,
     'Estante',
-    'Congelado',
-    507.24,
-    628.3,
-    25,
+    'Abarrote',
+    164.48,
+    664.74,
+    13,
     632
 );
 
@@ -11383,12 +11383,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    633,
+    1633,
     'Estante',
-    'Congelado',
-    117.84,
-    942.03,
-    48,
+    'Electrodomestico',
+    516.35,
+    834.67,
+    33,
     633
 );
 
@@ -11401,12 +11401,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    634,
+    1634,
     'Estante',
-    'Mueble',
-    346.86,
-    533.61,
-    74,
+    'Congelado',
+    251.35,
+    928.14,
+    37,
     634
 );
 
@@ -11419,12 +11419,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    635,
+    1635,
     'Estante',
-    'Abarrote',
-    362.24,
-    911.57,
-    48,
+    'PrendaVestir',
+    641.17,
+    792.57,
+    92,
     635
 );
 
@@ -11437,12 +11437,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    636,
+    1636,
     'Estante',
-    'Herramienta',
-    871.93,
-    427.68,
-    55,
+    'NoPerecedero',
+    599.77,
+    40.01,
+    9,
     636
 );
 
@@ -11455,12 +11455,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    637,
+    1637,
     'Estante',
-    'NoPerecedero',
-    62.99,
-    697.72,
-    1,
+    'PrendaVestir',
+    209.3,
+    219.85,
+    32,
     637
 );
 
@@ -11473,12 +11473,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    638,
+    1638,
     'Estante',
-    'Abarrote',
-    750.19,
-    454.37,
-    21,
+    'Perecedero',
+    334.43,
+    859.27,
+    47,
     638
 );
 
@@ -11491,12 +11491,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    639,
+    1639,
     'Estante',
-    'Mueble',
-    859.97,
-    556.04,
-    24,
+    'Perecedero',
+    104.06,
+    906.63,
+    38,
     639
 );
 
@@ -11509,12 +11509,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    640,
+    1640,
     'Estante',
-    'Perecedero',
-    959.11,
-    370.08,
-    52,
+    'Congelado',
+    692.88,
+    462.36,
+    49,
     640
 );
 
@@ -11527,12 +11527,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    641,
+    1641,
     'Estante',
-    'Mueble',
-    299.21,
-    575.39,
-    36,
+    'Electrodomestico',
+    168.39,
+    109.2,
+    60,
     641
 );
 
@@ -11545,12 +11545,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    642,
+    1642,
     'Estante',
-    'Herramienta',
-    77.37,
-    634.29,
-    91,
+    'Electrodomestico',
+    821.51,
+    193.42,
+    77,
     642
 );
 
@@ -11563,12 +11563,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    643,
+    1643,
     'Estante',
-    'Perecedero',
-    447.51,
-    539.3,
-    29,
+    'PrendaVestir',
+    849.61,
+    670.58,
+    3,
     643
 );
 
@@ -11581,12 +11581,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    644,
+    1644,
     'Estante',
-    'Mueble',
-    966.62,
-    428.29,
-    6,
+    'PrendaVestir',
+    241.39,
+    517.8,
+    23,
     644
 );
 
@@ -11599,12 +11599,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    645,
+    1645,
     'Estante',
-    'Abarrote',
-    425.49,
-    266.17,
-    41,
+    'Herramienta',
+    718.51,
+    461.35,
+    8,
     645
 );
 
@@ -11617,12 +11617,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    646,
+    1646,
     'Estante',
-    'Abarrote',
-    360.68,
-    344.6,
-    51,
+    'Mueble',
+    551.35,
+    680.14,
+    33,
     646
 );
 
@@ -11635,12 +11635,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    647,
+    1647,
     'Estante',
     'Abarrote',
-    76.94,
-    635.93,
-    20,
+    103.79,
+    212.67,
+    87,
     647
 );
 
@@ -11653,12 +11653,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    648,
+    1648,
     'Estante',
-    'Perecedero',
-    722.09,
-    941.95,
-    80,
+    'Herramienta',
+    760.88,
+    41.63,
+    2,
     648
 );
 
@@ -11671,12 +11671,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    649,
+    1649,
     'Estante',
-    'Abarrote',
-    352.96,
-    989.02,
-    5,
+    'Aseo',
+    76.85,
+    171.57,
+    39,
     649
 );
 
@@ -11689,12 +11689,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    650,
+    1650,
     'Estante',
-    'Abarrote',
-    29.74,
-    507.01,
-    81,
+    'PrendaVestir',
+    200.58,
+    239.11,
+    100,
     650
 );
 
@@ -11707,12 +11707,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    651,
+    1651,
     'Estante',
-    'Abarrote',
-    553.32,
-    98.88,
-    65,
+    'Mueble',
+    368.21,
+    506.72,
+    42,
     651
 );
 
@@ -11725,12 +11725,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    652,
+    1652,
     'Estante',
-    'NoPerecedero',
-    35.53,
-    681.0,
-    45,
+    'Perecedero',
+    77.02,
+    883.41,
+    34,
     652
 );
 
@@ -11743,12 +11743,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    653,
+    1653,
     'Estante',
-    'Herramienta',
-    977.85,
-    304.7,
-    55,
+    'Electrodomestico',
+    490.49,
+    527.15,
+    72,
     653
 );
 
@@ -11761,12 +11761,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    654,
+    1654,
     'Estante',
-    'PrendaVestir',
-    652.12,
-    642.1,
-    36,
+    'NoPerecedero',
+    487.14,
+    835.12,
+    82,
     654
 );
 
@@ -11779,12 +11779,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    655,
+    1655,
     'Estante',
-    'Mueble',
-    502.72,
-    453.91,
-    93,
+    'Congelado',
+    239.74,
+    142.9,
+    94,
     655
 );
 
@@ -11797,12 +11797,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    656,
+    1656,
     'Estante',
-    'PrendaVestir',
-    176.97,
-    795.89,
-    64,
+    'Herramienta',
+    54.22,
+    165.7,
+    24,
     656
 );
 
@@ -11815,12 +11815,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    657,
+    1657,
     'Estante',
-    'Mueble',
-    735.03,
-    850.11,
-    71,
+    'PrendaVestir',
+    662.64,
+    658.54,
+    45,
     657
 );
 
@@ -11833,12 +11833,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    658,
+    1658,
     'Estante',
-    'Aseo',
-    92.0,
-    291.52,
-    95,
+    'Herramienta',
+    215.15,
+    301.21,
+    1,
     658
 );
 
@@ -11851,12 +11851,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    659,
+    1659,
     'Estante',
     'NoPerecedero',
-    292.0,
-    596.97,
-    58,
+    292.63,
+    633.03,
+    28,
     659
 );
 
@@ -11869,12 +11869,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    660,
+    1660,
     'Estante',
     'Aseo',
-    881.34,
-    832.24,
-    84,
+    855.58,
+    190.6,
+    23,
     660
 );
 
@@ -11887,12 +11887,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    661,
+    1661,
     'Estante',
-    'Mueble',
-    781.49,
-    596.42,
-    60,
+    'Electrodomestico',
+    334.52,
+    29.35,
+    34,
     661
 );
 
@@ -11905,12 +11905,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    662,
+    1662,
     'Estante',
     'Herramienta',
-    52.28,
-    102.07,
-    52,
+    944.03,
+    522.09,
+    25,
     662
 );
 
@@ -11923,12 +11923,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    663,
+    1663,
     'Estante',
-    'Electrodomestico',
-    641.75,
-    76.63,
-    60,
+    'Aseo',
+    907.78,
+    812.73,
+    46,
     663
 );
 
@@ -11941,12 +11941,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    664,
+    1664,
     'Estante',
-    'Herramienta',
-    395.06,
-    496.13,
-    16,
+    'PrendaVestir',
+    953.93,
+    377.74,
+    64,
     664
 );
 
@@ -11959,12 +11959,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    665,
+    1665,
     'Estante',
-    'NoPerecedero',
-    822.32,
-    383.71,
-    21,
+    'Herramienta',
+    660.09,
+    36.1,
+    3,
     665
 );
 
@@ -11977,12 +11977,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    666,
+    1666,
     'Estante',
-    'NoPerecedero',
-    488.02,
-    167.24,
-    32,
+    'Congelado',
+    279.6,
+    35.05,
+    90,
     666
 );
 
@@ -11995,12 +11995,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    667,
+    1667,
     'Estante',
-    'NoPerecedero',
-    571.29,
-    130.48,
-    82,
+    'Electrodomestico',
+    852.77,
+    200.3,
+    21,
     667
 );
 
@@ -12013,12 +12013,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    668,
+    1668,
     'Estante',
-    'Congelado',
-    578.72,
-    505.91,
-    90,
+    'Perecedero',
+    155.55,
+    44.92,
+    19,
     668
 );
 
@@ -12031,12 +12031,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    669,
+    1669,
     'Estante',
-    'Herramienta',
-    381.19,
-    62.31,
-    41,
+    'Congelado',
+    972.77,
+    186.02,
+    98,
     669
 );
 
@@ -12049,12 +12049,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    670,
+    1670,
     'Estante',
-    'NoPerecedero',
-    388.09,
-    226.63,
-    53,
+    'Herramienta',
+    58.18,
+    951.64,
+    82,
     670
 );
 
@@ -12067,12 +12067,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    671,
+    1671,
     'Estante',
-    'Congelado',
-    625.71,
-    860.81,
-    62,
+    'Herramienta',
+    880.39,
+    315.42,
+    75,
     671
 );
 
@@ -12085,12 +12085,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    672,
+    1672,
     'Estante',
-    'PrendaVestir',
-    386.08,
-    513.83,
-    35,
+    'Aseo',
+    995.1,
+    394.59,
+    73,
     672
 );
 
@@ -12103,12 +12103,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    673,
+    1673,
     'Estante',
-    'Mueble',
-    685.61,
-    325.38,
-    88,
+    'Herramienta',
+    526.21,
+    249.43,
+    41,
     673
 );
 
@@ -12121,12 +12121,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    674,
+    1674,
     'Estante',
-    'Aseo',
-    12.63,
-    896.33,
-    36,
+    'Electrodomestico',
+    313.57,
+    938.33,
+    11,
     674
 );
 
@@ -12139,12 +12139,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    675,
+    1675,
     'Estante',
     'NoPerecedero',
-    950.23,
-    127.16,
-    1,
+    777.79,
+    621.88,
+    3,
     675
 );
 
@@ -12157,12 +12157,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    676,
+    1676,
     'Estante',
-    'Perecedero',
-    907.02,
-    109.65,
-    72,
+    'Electrodomestico',
+    662.32,
+    20.89,
+    22,
     676
 );
 
@@ -12175,12 +12175,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    677,
+    1677,
     'Estante',
-    'Mueble',
-    532.1,
-    817.76,
-    72,
+    'Congelado',
+    936.79,
+    922.78,
+    20,
     677
 );
 
@@ -12193,12 +12193,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    678,
+    1678,
     'Estante',
-    'Abarrote',
-    436.08,
-    561.94,
-    90,
+    'Perecedero',
+    18.98,
+    633.3,
+    54,
     678
 );
 
@@ -12211,12 +12211,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    679,
+    1679,
     'Estante',
-    'Herramienta',
-    582.74,
-    267.83,
-    72,
+    'Congelado',
+    252.9,
+    733.39,
+    79,
     679
 );
 
@@ -12229,12 +12229,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    680,
+    1680,
     'Estante',
     'NoPerecedero',
-    10.47,
-    921.13,
-    99,
+    818.65,
+    66.2,
+    5,
     680
 );
 
@@ -12247,12 +12247,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    681,
+    1681,
     'Estante',
-    'NoPerecedero',
-    362.72,
-    419.73,
-    14,
+    'Perecedero',
+    126.01,
+    727.52,
+    81,
     681
 );
 
@@ -12265,12 +12265,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    682,
+    1682,
     'Estante',
-    'Mueble',
-    910.83,
-    869.38,
-    90,
+    'PrendaVestir',
+    203.03,
+    457.63,
+    97,
     682
 );
 
@@ -12283,12 +12283,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    683,
+    1683,
     'Estante',
-    'Aseo',
-    166.16,
-    161.14,
-    79,
+    'Perecedero',
+    352.72,
+    197.36,
+    66,
     683
 );
 
@@ -12301,12 +12301,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    684,
+    1684,
     'Estante',
-    'Electrodomestico',
-    975.3,
-    868.71,
-    90,
+    'Herramienta',
+    348.93,
+    830.34,
+    31,
     684
 );
 
@@ -12319,12 +12319,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    685,
+    1685,
     'Estante',
-    'Perecedero',
-    156.09,
-    254.88,
-    9,
+    'Herramienta',
+    497.36,
+    897.73,
+    59,
     685
 );
 
@@ -12337,11 +12337,11 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    686,
+    1686,
     'Estante',
-    'Mueble',
-    747.16,
-    890.07,
+    'Abarrote',
+    66.28,
+    808.22,
     83,
     686
 );
@@ -12355,12 +12355,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    687,
+    1687,
     'Estante',
-    'Abarrote',
-    677.56,
-    690.25,
-    32,
+    'PrendaVestir',
+    930.45,
+    548.12,
+    35,
     687
 );
 
@@ -12373,12 +12373,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    688,
+    1688,
     'Estante',
-    'Perecedero',
-    631.18,
-    882.22,
-    51,
+    'NoPerecedero',
+    174.29,
+    989.31,
+    16,
     688
 );
 
@@ -12391,12 +12391,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    689,
+    1689,
     'Estante',
-    'Perecedero',
-    654.5,
-    207.43,
-    31,
+    'Herramienta',
+    182.67,
+    335.57,
+    84,
     689
 );
 
@@ -12409,12 +12409,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    690,
+    1690,
     'Estante',
-    'Abarrote',
-    574.79,
-    99.07,
-    44,
+    'Aseo',
+    734.12,
+    126.58,
+    54,
     690
 );
 
@@ -12427,12 +12427,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    691,
+    1691,
     'Estante',
-    'NoPerecedero',
-    972.17,
-    850.73,
-    21,
+    'Herramienta',
+    879.1,
+    558.15,
+    39,
     691
 );
 
@@ -12445,12 +12445,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    692,
+    1692,
     'Estante',
-    'Perecedero',
-    69.79,
-    725.05,
-    20,
+    'Aseo',
+    105.55,
+    265.55,
+    52,
     692
 );
 
@@ -12463,12 +12463,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    693,
+    1693,
     'Estante',
-    'Herramienta',
-    472.19,
-    485.57,
-    79,
+    'PrendaVestir',
+    502.86,
+    682.4,
+    36,
     693
 );
 
@@ -12481,12 +12481,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    694,
+    1694,
     'Estante',
-    'Abarrote',
-    358.44,
-    707.07,
-    76,
+    'Aseo',
+    764.85,
+    552.12,
+    3,
     694
 );
 
@@ -12499,12 +12499,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    695,
+    1695,
     'Estante',
-    'Herramienta',
-    540.04,
-    737.18,
-    68,
+    'Mueble',
+    971.51,
+    319.52,
+    37,
     695
 );
 
@@ -12517,12 +12517,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    696,
+    1696,
     'Estante',
-    'Aseo',
-    968.99,
-    112.09,
-    57,
+    'NoPerecedero',
+    691.51,
+    681.31,
+    11,
     696
 );
 
@@ -12535,12 +12535,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    697,
+    1697,
     'Estante',
-    'Abarrote',
-    892.61,
-    736.25,
-    90,
+    'Mueble',
+    741.06,
+    17.74,
+    20,
     697
 );
 
@@ -12553,12 +12553,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    698,
+    1698,
     'Estante',
-    'Herramienta',
-    657.79,
-    41.29,
-    10,
+    'Mueble',
+    773.34,
+    689.25,
+    7,
     698
 );
 
@@ -12571,12 +12571,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    699,
+    1699,
     'Estante',
-    'Perecedero',
-    662.67,
-    933.72,
-    55,
+    'Herramienta',
+    529.98,
+    327.9,
+    66,
     699
 );
 
@@ -12589,12 +12589,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    700,
+    1700,
     'Estante',
     'Herramienta',
-    600.75,
-    432.23,
-    92,
+    207.13,
+    654.73,
+    29,
     700
 );
 
@@ -12607,12 +12607,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    701,
+    1701,
     'Estante',
-    'PrendaVestir',
-    179.46,
-    231.54,
-    70,
+    'Electrodomestico',
+    689.08,
+    312.81,
+    82,
     701
 );
 
@@ -12625,12 +12625,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    702,
+    1702,
     'Estante',
-    'Congelado',
-    627.15,
-    884.74,
-    85,
+    'Electrodomestico',
+    504.88,
+    477.69,
+    71,
     702
 );
 
@@ -12643,12 +12643,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    703,
+    1703,
     'Estante',
-    'Mueble',
-    110.21,
-    492.66,
-    14,
+    'NoPerecedero',
+    725.79,
+    848.73,
+    44,
     703
 );
 
@@ -12661,12 +12661,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    704,
+    1704,
     'Estante',
-    'PrendaVestir',
-    944.25,
-    138.63,
-    74,
+    'Congelado',
+    536.81,
+    65.74,
+    79,
     704
 );
 
@@ -12679,12 +12679,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    705,
+    1705,
     'Estante',
-    'NoPerecedero',
-    564.26,
-    916.07,
-    99,
+    'Congelado',
+    672.52,
+    894.45,
+    61,
     705
 );
 
@@ -12697,12 +12697,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    706,
+    1706,
     'Estante',
-    'PrendaVestir',
-    592.61,
-    653.47,
-    14,
+    'Herramienta',
+    370.21,
+    378.69,
+    7,
     706
 );
 
@@ -12715,12 +12715,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    707,
+    1707,
     'Estante',
-    'Perecedero',
-    35.33,
-    439.76,
-    68,
+    'Abarrote',
+    280.08,
+    356.15,
+    87,
     707
 );
 
@@ -12733,12 +12733,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    708,
+    1708,
     'Estante',
-    'Congelado',
-    552.05,
-    959.78,
-    26,
+    'Mueble',
+    546.42,
+    233.63,
+    63,
     708
 );
 
@@ -12751,12 +12751,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    709,
+    1709,
     'Estante',
-    'Mueble',
-    193.0,
-    526.72,
-    19,
+    'Congelado',
+    949.87,
+    822.44,
+    1,
     709
 );
 
@@ -12769,12 +12769,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    710,
+    1710,
     'Estante',
     'Electrodomestico',
-    201.18,
-    99.46,
-    33,
+    418.78,
+    655.79,
+    62,
     710
 );
 
@@ -12787,12 +12787,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    711,
+    1711,
     'Estante',
-    'Herramienta',
-    486.03,
-    780.43,
-    82,
+    'Congelado',
+    685.84,
+    270.2,
+    25,
     711
 );
 
@@ -12805,12 +12805,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    712,
+    1712,
     'Estante',
-    'Abarrote',
-    405.97,
-    645.64,
-    22,
+    'Mueble',
+    381.4,
+    128.26,
+    61,
     712
 );
 
@@ -12823,12 +12823,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    713,
+    1713,
     'Estante',
-    'Electrodomestico',
-    754.0,
-    591.31,
-    15,
+    'Abarrote',
+    133.17,
+    921.0,
+    84,
     713
 );
 
@@ -12841,12 +12841,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    714,
+    1714,
     'Estante',
-    'Aseo',
-    700.49,
-    429.27,
-    61,
+    'PrendaVestir',
+    567.47,
+    822.52,
+    35,
     714
 );
 
@@ -12859,12 +12859,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    715,
+    1715,
     'Estante',
-    'Abarrote',
-    274.42,
-    743.0,
-    46,
+    'Aseo',
+    176.93,
+    116.89,
+    91,
     715
 );
 
@@ -12877,12 +12877,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    716,
+    1716,
     'Estante',
-    'Herramienta',
-    347.19,
-    846.46,
-    95,
+    'Congelado',
+    821.19,
+    171.63,
+    77,
     716
 );
 
@@ -12895,12 +12895,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    717,
+    1717,
     'Estante',
-    'Aseo',
-    204.29,
-    767.1,
-    2,
+    'NoPerecedero',
+    794.94,
+    519.59,
+    87,
     717
 );
 
@@ -12913,12 +12913,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    718,
+    1718,
     'Estante',
-    'NoPerecedero',
-    89.24,
-    267.03,
-    68,
+    'Congelado',
+    853.2,
+    492.29,
+    23,
     718
 );
 
@@ -12931,12 +12931,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    719,
+    1719,
     'Estante',
-    'Mueble',
-    176.9,
-    603.9,
-    60,
+    'Congelado',
+    204.23,
+    252.11,
+    91,
     719
 );
 
@@ -12949,12 +12949,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    720,
+    1720,
     'Estante',
-    'Herramienta',
-    659.72,
-    573.36,
-    9,
+    'Aseo',
+    563.21,
+    71.63,
+    67,
     720
 );
 
@@ -12967,12 +12967,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    721,
+    1721,
     'Estante',
-    'Congelado',
-    22.61,
-    803.98,
-    13,
+    'Aseo',
+    759.35,
+    462.24,
+    17,
     721
 );
 
@@ -12985,12 +12985,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    722,
+    1722,
     'Estante',
-    'Abarrote',
-    719.56,
-    788.18,
-    22,
+    'Electrodomestico',
+    932.34,
+    115.2,
+    47,
     722
 );
 
@@ -13003,12 +13003,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    723,
+    1723,
     'Estante',
-    'Abarrote',
-    74.94,
-    800.33,
-    80,
+    'PrendaVestir',
+    914.1,
+    286.95,
+    76,
     723
 );
 
@@ -13021,12 +13021,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    724,
+    1724,
     'Estante',
-    'PrendaVestir',
-    357.22,
-    459.97,
-    71,
+    'Mueble',
+    476.17,
+    396.97,
+    89,
     724
 );
 
@@ -13039,12 +13039,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    725,
+    1725,
     'Estante',
-    'NoPerecedero',
-    570.8,
-    930.8,
-    22,
+    'Congelado',
+    12.98,
+    387.21,
+    6,
     725
 );
 
@@ -13057,12 +13057,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    726,
+    1726,
     'Estante',
-    'Mueble',
-    806.72,
-    884.26,
-    13,
+    'Electrodomestico',
+    113.19,
+    143.2,
+    24,
     726
 );
 
@@ -13075,12 +13075,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    727,
+    1727,
     'Estante',
-    'Perecedero',
-    442.9,
-    52.42,
-    9,
+    'Electrodomestico',
+    234.19,
+    40.6,
+    15,
     727
 );
 
@@ -13093,12 +13093,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    728,
+    1728,
     'Estante',
-    'PrendaVestir',
-    365.2,
-    119.61,
-    25,
+    'Perecedero',
+    736.61,
+    463.08,
+    49,
     728
 );
 
@@ -13111,12 +13111,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    729,
+    1729,
     'Estante',
-    'Aseo',
-    10.75,
-    12.84,
-    29,
+    'PrendaVestir',
+    659.6,
+    228.49,
+    36,
     729
 );
 
@@ -13129,12 +13129,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    730,
+    1730,
     'Estante',
-    'Abarrote',
-    87.92,
-    494.92,
-    56,
+    'Aseo',
+    524.8,
+    35.04,
+    83,
     730
 );
 
@@ -13147,12 +13147,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    731,
+    1731,
     'Estante',
-    'Mueble',
-    227.7,
-    975.71,
-    17,
+    'PrendaVestir',
+    522.1,
+    314.77,
+    32,
     731
 );
 
@@ -13165,12 +13165,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    732,
+    1732,
     'Estante',
-    'NoPerecedero',
-    894.62,
-    758.25,
-    53,
+    'Electrodomestico',
+    246.46,
+    656.09,
+    73,
     732
 );
 
@@ -13183,12 +13183,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    733,
+    1733,
     'Estante',
-    'Mueble',
-    761.03,
-    115.63,
-    83,
+    'Aseo',
+    142.64,
+    466.95,
+    26,
     733
 );
 
@@ -13201,12 +13201,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    734,
+    1734,
     'Estante',
     'Mueble',
-    173.61,
-    842.84,
-    86,
+    457.14,
+    769.18,
+    18,
     734
 );
 
@@ -13219,12 +13219,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    735,
+    1735,
     'Estante',
-    'Electrodomestico',
-    597.98,
-    243.8,
-    75,
+    'Abarrote',
+    729.93,
+    369.96,
+    62,
     735
 );
 
@@ -13237,12 +13237,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    736,
+    1736,
     'Estante',
-    'Aseo',
-    822.33,
-    192.86,
-    61,
+    'Congelado',
+    443.66,
+    611.48,
+    3,
     736
 );
 
@@ -13255,12 +13255,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    737,
+    1737,
     'Estante',
-    'Electrodomestico',
-    515.21,
-    480.19,
-    97,
+    'PrendaVestir',
+    369.1,
+    384.06,
+    54,
     737
 );
 
@@ -13273,12 +13273,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    738,
+    1738,
     'Estante',
-    'PrendaVestir',
-    714.6,
-    405.29,
-    30,
+    'Herramienta',
+    919.21,
+    444.59,
+    97,
     738
 );
 
@@ -13291,12 +13291,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    739,
+    1739,
     'Estante',
     'Perecedero',
-    188.43,
-    661.1,
-    6,
+    625.54,
+    218.28,
+    60,
     739
 );
 
@@ -13309,11 +13309,11 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    740,
+    1740,
     'Estante',
-    'Abarrote',
-    194.53,
-    895.55,
+    'Aseo',
+    552.39,
+    763.01,
     30,
     740
 );
@@ -13327,12 +13327,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    741,
+    1741,
     'Estante',
-    'Aseo',
-    145.69,
-    378.76,
-    77,
+    'Congelado',
+    36.84,
+    63.29,
+    5,
     741
 );
 
@@ -13345,12 +13345,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    742,
+    1742,
     'Estante',
-    'Perecedero',
-    377.33,
-    113.47,
-    46,
+    'Aseo',
+    202.48,
+    839.9,
+    67,
     742
 );
 
@@ -13363,12 +13363,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    743,
+    1743,
     'Estante',
-    'PrendaVestir',
-    146.07,
-    3.51,
-    42,
+    'NoPerecedero',
+    777.44,
+    747.68,
+    87,
     743
 );
 
@@ -13381,12 +13381,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    744,
+    1744,
     'Estante',
-    'Electrodomestico',
-    147.42,
-    672.51,
-    26,
+    'Congelado',
+    213.86,
+    616.42,
+    3,
     744
 );
 
@@ -13399,12 +13399,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    745,
+    1745,
     'Estante',
-    'Aseo',
-    416.83,
-    781.57,
-    61,
+    'Congelado',
+    313.06,
+    679.24,
+    4,
     745
 );
 
@@ -13417,12 +13417,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    746,
+    1746,
     'Estante',
-    'Abarrote',
-    243.92,
-    592.16,
-    20,
+    'NoPerecedero',
+    405.34,
+    432.54,
+    77,
     746
 );
 
@@ -13435,12 +13435,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    747,
+    1747,
     'Estante',
-    'Herramienta',
-    996.35,
-    182.47,
-    26,
+    'Congelado',
+    227.6,
+    530.9,
+    64,
     747
 );
 
@@ -13453,12 +13453,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    748,
+    1748,
     'Estante',
-    'NoPerecedero',
-    375.93,
-    397.5,
-    22,
+    'Perecedero',
+    752.61,
+    918.68,
+    43,
     748
 );
 
@@ -13471,12 +13471,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    749,
+    1749,
     'Estante',
-    'Herramienta',
-    148.99,
-    13.83,
-    35,
+    'Electrodomestico',
+    117.14,
+    482.67,
+    56,
     749
 );
 
@@ -13489,11 +13489,11 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    750,
+    1750,
     'Estante',
-    'Herramienta',
-    379.35,
-    648.94,
+    'Aseo',
+    545.62,
+    646.08,
     86,
     750
 );
@@ -13507,12 +13507,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    751,
+    1751,
     'Estante',
     'Mueble',
-    702.26,
-    111.12,
-    92,
+    549.71,
+    953.23,
+    27,
     751
 );
 
@@ -13525,12 +13525,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    752,
+    1752,
     'Estante',
-    'NoPerecedero',
-    593.23,
-    808.11,
-    97,
+    'Perecedero',
+    684.22,
+    969.34,
+    76,
     752
 );
 
@@ -13543,12 +13543,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    753,
+    1753,
     'Estante',
-    'NoPerecedero',
-    861.49,
-    111.93,
-    11,
+    'PrendaVestir',
+    153.15,
+    483.87,
+    28,
     753
 );
 
@@ -13561,12 +13561,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    754,
+    1754,
     'Estante',
-    'Electrodomestico',
-    257.25,
-    128.03,
-    63,
+    'Aseo',
+    664.03,
+    358.86,
+    76,
     754
 );
 
@@ -13579,12 +13579,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    755,
+    1755,
     'Estante',
-    'Electrodomestico',
-    147.75,
-    532.52,
-    53,
+    'Herramienta',
+    945.25,
+    233.84,
+    78,
     755
 );
 
@@ -13597,12 +13597,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    756,
+    1756,
     'Estante',
-    'Herramienta',
-    382.28,
-    77.44,
-    52,
+    'Mueble',
+    154.66,
+    940.66,
+    65,
     756
 );
 
@@ -13615,12 +13615,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    757,
+    1757,
     'Estante',
-    'Mueble',
-    489.51,
-    33.51,
-    6,
+    'Congelado',
+    858.91,
+    649.0,
+    49,
     757
 );
 
@@ -13633,12 +13633,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    758,
+    1758,
     'Estante',
-    'Aseo',
-    330.69,
-    285.87,
-    74,
+    'Congelado',
+    278.97,
+    868.14,
+    69,
     758
 );
 
@@ -13651,12 +13651,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    759,
+    1759,
     'Estante',
-    'Congelado',
-    766.65,
-    628.38,
-    33,
+    'Mueble',
+    439.29,
+    286.47,
+    89,
     759
 );
 
@@ -13669,12 +13669,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    760,
+    1760,
     'Estante',
-    'Herramienta',
-    853.6,
-    645.81,
-    58,
+    'Aseo',
+    952.15,
+    735.46,
+    88,
     760
 );
 
@@ -13687,12 +13687,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    761,
+    1761,
     'Estante',
-    'PrendaVestir',
-    415.3,
-    36.36,
-    84,
+    'Abarrote',
+    620.32,
+    353.17,
+    58,
     761
 );
 
@@ -13705,12 +13705,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    762,
+    1762,
     'Estante',
-    'Electrodomestico',
-    191.51,
-    344.26,
-    46,
+    'Mueble',
+    263.03,
+    312.33,
+    38,
     762
 );
 
@@ -13723,12 +13723,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    763,
+    1763,
     'Estante',
-    'NoPerecedero',
-    759.6,
-    315.37,
-    49,
+    'Abarrote',
+    814.46,
+    774.48,
+    53,
     763
 );
 
@@ -13741,12 +13741,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    764,
+    1764,
     'Estante',
-    'Abarrote',
-    183.54,
-    77.37,
-    4,
+    'PrendaVestir',
+    932.32,
+    996.37,
+    86,
     764
 );
 
@@ -13759,12 +13759,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    765,
+    1765,
     'Estante',
-    'Electrodomestico',
-    640.79,
-    95.07,
-    4,
+    'Perecedero',
+    511.53,
+    161.78,
+    82,
     765
 );
 
@@ -13777,12 +13777,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    766,
+    1766,
     'Estante',
-    'NoPerecedero',
-    299.02,
-    111.44,
-    2,
+    'Herramienta',
+    40.83,
+    222.75,
+    18,
     766
 );
 
@@ -13795,12 +13795,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    767,
+    1767,
     'Estante',
-    'PrendaVestir',
-    381.15,
-    821.7,
-    80,
+    'Perecedero',
+    566.17,
+    756.45,
+    4,
     767
 );
 
@@ -13813,12 +13813,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    768,
+    1768,
     'Estante',
     'Abarrote',
-    231.47,
-    409.61,
-    74,
+    741.59,
+    477.16,
+    44,
     768
 );
 
@@ -13831,12 +13831,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    769,
+    1769,
     'Estante',
-    'Abarrote',
-    143.34,
-    624.28,
-    68,
+    'Congelado',
+    558.15,
+    341.0,
+    76,
     769
 );
 
@@ -13849,12 +13849,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    770,
+    1770,
     'Estante',
-    'NoPerecedero',
-    902.1,
-    475.07,
-    24,
+    'Congelado',
+    871.41,
+    51.57,
+    41,
     770
 );
 
@@ -13867,12 +13867,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    771,
+    1771,
     'Estante',
-    'PrendaVestir',
-    34.39,
-    654.65,
-    64,
+    'Congelado',
+    963.51,
+    765.02,
+    50,
     771
 );
 
@@ -13885,12 +13885,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    772,
+    1772,
     'Estante',
-    'Perecedero',
-    811.2,
-    895.08,
-    85,
+    'PrendaVestir',
+    917.09,
+    523.6,
+    8,
     772
 );
 
@@ -13903,12 +13903,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    773,
+    1773,
     'Estante',
-    'NoPerecedero',
-    143.96,
-    910.58,
-    46,
+    'Mueble',
+    22.68,
+    973.56,
+    12,
     773
 );
 
@@ -13921,12 +13921,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    774,
+    1774,
     'Estante',
-    'Congelado',
-    861.79,
-    260.79,
-    50,
+    'Electrodomestico',
+    746.1,
+    504.75,
+    45,
     774
 );
 
@@ -13939,12 +13939,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    775,
+    1775,
     'Estante',
-    'Mueble',
-    409.5,
-    887.13,
-    17,
+    'Perecedero',
+    723.78,
+    663.85,
+    56,
     775
 );
 
@@ -13957,12 +13957,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    776,
+    1776,
     'Estante',
     'Mueble',
-    138.98,
-    467.38,
-    88,
+    837.39,
+    867.29,
+    71,
     776
 );
 
@@ -13975,12 +13975,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    777,
+    1777,
     'Estante',
-    'Herramienta',
-    237.52,
-    915.73,
-    75,
+    'Aseo',
+    71.36,
+    635.81,
+    76,
     777
 );
 
@@ -13993,12 +13993,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    778,
+    1778,
     'Estante',
-    'Abarrote',
-    683.2,
-    79.37,
-    6,
+    'Perecedero',
+    246.42,
+    667.14,
+    31,
     778
 );
 
@@ -14011,12 +14011,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    779,
+    1779,
     'Estante',
-    'Abarrote',
-    49.56,
-    808.86,
-    90,
+    'Aseo',
+    423.61,
+    580.43,
+    26,
     779
 );
 
@@ -14029,12 +14029,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    780,
+    1780,
     'Estante',
-    'Aseo',
-    881.42,
-    557.0,
-    43,
+    'Electrodomestico',
+    703.78,
+    173.27,
+    42,
     780
 );
 
@@ -14047,12 +14047,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    781,
+    1781,
     'Estante',
-    'NoPerecedero',
-    753.2,
-    362.25,
-    20,
+    'PrendaVestir',
+    947.44,
+    595.76,
+    78,
     781
 );
 
@@ -14065,12 +14065,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    782,
+    1782,
     'Estante',
-    'Electrodomestico',
-    49.16,
-    124.21,
-    73,
+    'Herramienta',
+    317.82,
+    335.02,
+    69,
     782
 );
 
@@ -14083,12 +14083,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    783,
+    1783,
     'Estante',
-    'Congelado',
-    366.58,
-    5.34,
-    87,
+    'NoPerecedero',
+    126.95,
+    382.24,
+    6,
     783
 );
 
@@ -14101,12 +14101,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    784,
+    1784,
     'Estante',
-    'NoPerecedero',
-    238.32,
-    204.88,
-    56,
+    'Perecedero',
+    905.46,
+    939.94,
+    42,
     784
 );
 
@@ -14119,12 +14119,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    785,
+    1785,
     'Estante',
-    'PrendaVestir',
-    413.37,
-    88.25,
-    22,
+    'Perecedero',
+    286.55,
+    813.27,
+    52,
     785
 );
 
@@ -14137,12 +14137,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    786,
+    1786,
     'Estante',
-    'Herramienta',
-    131.03,
-    235.71,
-    51,
+    'Perecedero',
+    555.69,
+    309.97,
+    85,
     786
 );
 
@@ -14155,12 +14155,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    787,
+    1787,
     'Estante',
-    'Abarrote',
-    419.38,
-    225.44,
-    62,
+    'Perecedero',
+    560.33,
+    906.18,
+    56,
     787
 );
 
@@ -14173,12 +14173,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    788,
+    1788,
     'Estante',
-    'Electrodomestico',
-    796.0,
-    395.7,
-    66,
+    'Herramienta',
+    894.47,
+    826.8,
+    52,
     788
 );
 
@@ -14191,12 +14191,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    789,
+    1789,
     'Estante',
-    'Perecedero',
-    867.94,
-    886.55,
-    9,
+    'Congelado',
+    256.05,
+    343.64,
+    80,
     789
 );
 
@@ -14209,12 +14209,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    790,
+    1790,
     'Estante',
-    'NoPerecedero',
-    962.93,
-    959.87,
-    70,
+    'Abarrote',
+    329.47,
+    547.39,
+    72,
     790
 );
 
@@ -14227,12 +14227,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    791,
+    1791,
     'Estante',
-    'Perecedero',
-    925.44,
-    204.03,
-    31,
+    'PrendaVestir',
+    510.69,
+    585.33,
+    44,
     791
 );
 
@@ -14245,12 +14245,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    792,
+    1792,
     'Estante',
-    'Abarrote',
-    237.56,
-    349.75,
-    61,
+    'Perecedero',
+    247.39,
+    242.9,
+    52,
     792
 );
 
@@ -14263,12 +14263,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    793,
+    1793,
     'Estante',
-    'Congelado',
-    807.62,
-    31.9,
-    39,
+    'PrendaVestir',
+    743.79,
+    961.81,
+    31,
     793
 );
 
@@ -14281,12 +14281,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    794,
+    1794,
     'Estante',
-    'Mueble',
-    782.76,
-    508.15,
-    13,
+    'Abarrote',
+    648.5,
+    428.24,
+    27,
     794
 );
 
@@ -14299,12 +14299,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    795,
+    1795,
     'Estante',
-    'Aseo',
-    511.3,
-    459.73,
-    81,
+    'Herramienta',
+    769.51,
+    806.04,
+    49,
     795
 );
 
@@ -14317,12 +14317,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    796,
+    1796,
     'Estante',
-    'PrendaVestir',
-    10.8,
-    82.66,
-    79,
+    'Mueble',
+    656.63,
+    131.26,
+    98,
     796
 );
 
@@ -14335,12 +14335,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    797,
+    1797,
     'Estante',
-    'Congelado',
-    295.0,
-    96.12,
-    34,
+    'Mueble',
+    618.97,
+    269.92,
+    93,
     797
 );
 
@@ -14353,12 +14353,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    798,
+    1798,
     'Estante',
-    'Abarrote',
-    978.84,
-    971.95,
-    50,
+    'Congelado',
+    226.77,
+    748.63,
+    30,
     798
 );
 
@@ -14371,12 +14371,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    799,
+    1799,
     'Estante',
-    'Mueble',
-    137.58,
-    135.91,
-    83,
+    'Perecedero',
+    75.29,
+    343.9,
+    82,
     799
 );
 
@@ -14389,12 +14389,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    800,
+    1800,
     'Estante',
-    'Congelado',
-    691.3,
-    746.29,
-    92,
+    'Electrodomestico',
+    124.24,
+    218.38,
+    31,
     800
 );
 
@@ -14407,12 +14407,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    801,
+    1801,
     'Estante',
     'Abarrote',
-    270.11,
-    334.83,
-    21,
+    138.69,
+    919.03,
+    91,
     801
 );
 
@@ -14425,12 +14425,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    802,
+    1802,
     'Estante',
-    'Abarrote',
-    169.25,
-    323.43,
-    88,
+    'Herramienta',
+    369.69,
+    789.51,
+    38,
     802
 );
 
@@ -14443,12 +14443,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    803,
+    1803,
     'Estante',
-    'Herramienta',
-    694.99,
-    577.35,
-    55,
+    'Congelado',
+    414.76,
+    383.16,
+    25,
     803
 );
 
@@ -14461,12 +14461,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    804,
+    1804,
     'Estante',
-    'Aseo',
-    124.96,
-    955.82,
-    92,
+    'Mueble',
+    21.51,
+    573.02,
+    23,
     804
 );
 
@@ -14479,12 +14479,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    805,
+    1805,
     'Estante',
-    'PrendaVestir',
-    24.22,
-    552.09,
-    98,
+    'Aseo',
+    912.08,
+    150.74,
+    15,
     805
 );
 
@@ -14497,12 +14497,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    806,
+    1806,
     'Estante',
-    'Herramienta',
-    224.54,
-    313.66,
-    100,
+    'NoPerecedero',
+    727.32,
+    988.76,
+    72,
     806
 );
 
@@ -14515,12 +14515,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    807,
+    1807,
     'Estante',
-    'PrendaVestir',
-    571.14,
-    833.38,
-    53,
+    'NoPerecedero',
+    795.7,
+    72.4,
+    91,
     807
 );
 
@@ -14533,12 +14533,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    808,
+    1808,
     'Estante',
-    'Abarrote',
-    510.9,
-    819.38,
-    53,
+    'Electrodomestico',
+    708.23,
+    247.25,
+    92,
     808
 );
 
@@ -14551,12 +14551,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    809,
+    1809,
     'Estante',
-    'PrendaVestir',
-    423.9,
-    356.99,
-    61,
+    'Electrodomestico',
+    542.51,
+    393.23,
+    64,
     809
 );
 
@@ -14569,12 +14569,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    810,
+    1810,
     'Estante',
-    'Electrodomestico',
-    730.47,
-    809.66,
-    1,
+    'Congelado',
+    982.86,
+    340.92,
+    100,
     810
 );
 
@@ -14587,12 +14587,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    811,
+    1811,
     'Estante',
-    'NoPerecedero',
-    551.88,
-    126.13,
-    28,
+    'Electrodomestico',
+    873.79,
+    578.55,
+    40,
     811
 );
 
@@ -14605,12 +14605,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    812,
+    1812,
     'Estante',
-    'NoPerecedero',
-    395.54,
-    715.55,
-    91,
+    'Perecedero',
+    871.94,
+    635.91,
+    44,
     812
 );
 
@@ -14623,12 +14623,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    813,
+    1813,
     'Estante',
     'NoPerecedero',
-    817.35,
-    64.67,
-    4,
+    830.45,
+    513.89,
+    30,
     813
 );
 
@@ -14641,12 +14641,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    814,
+    1814,
     'Estante',
-    'Mueble',
-    275.66,
-    122.93,
-    68,
+    'Congelado',
+    524.45,
+    426.72,
+    74,
     814
 );
 
@@ -14659,12 +14659,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    815,
+    1815,
     'Estante',
-    'Perecedero',
-    469.79,
-    444.43,
-    21,
+    'PrendaVestir',
+    385.89,
+    960.31,
+    16,
     815
 );
 
@@ -14677,12 +14677,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    816,
+    1816,
     'Estante',
-    'Abarrote',
-    578.66,
-    438.1,
-    33,
+    'NoPerecedero',
+    956.03,
+    738.07,
+    75,
     816
 );
 
@@ -14695,12 +14695,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    817,
+    1817,
     'Estante',
-    'Herramienta',
-    82.42,
-    227.69,
-    82,
+    'NoPerecedero',
+    772.13,
+    695.42,
+    35,
     817
 );
 
@@ -14713,12 +14713,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    818,
+    1818,
     'Estante',
-    'Perecedero',
-    679.37,
-    842.58,
-    45,
+    'Herramienta',
+    59.49,
+    437.6,
+    49,
     818
 );
 
@@ -14731,12 +14731,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    819,
+    1819,
     'Estante',
-    'Aseo',
-    864.77,
-    712.79,
-    39,
+    'NoPerecedero',
+    626.43,
+    123.33,
+    27,
     819
 );
 
@@ -14749,12 +14749,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    820,
+    1820,
     'Estante',
-    'Perecedero',
-    659.13,
-    677.96,
-    6,
+    'Abarrote',
+    979.97,
+    598.53,
+    16,
     820
 );
 
@@ -14767,12 +14767,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    821,
+    1821,
     'Estante',
-    'Abarrote',
-    135.43,
-    543.55,
-    26,
+    'Perecedero',
+    146.56,
+    811.86,
+    11,
     821
 );
 
@@ -14785,12 +14785,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    822,
+    1822,
     'Estante',
-    'PrendaVestir',
-    51.03,
-    406.53,
-    58,
+    'Electrodomestico',
+    811.61,
+    774.03,
+    73,
     822
 );
 
@@ -14803,12 +14803,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    823,
+    1823,
     'Estante',
-    'Abarrote',
-    362.79,
-    235.61,
-    69,
+    'Electrodomestico',
+    97.35,
+    579.06,
+    53,
     823
 );
 
@@ -14821,12 +14821,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    824,
+    1824,
     'Estante',
     'NoPerecedero',
-    763.27,
-    178.55,
-    30,
+    40.35,
+    505.37,
+    78,
     824
 );
 
@@ -14839,12 +14839,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    825,
+    1825,
     'Estante',
-    'Congelado',
-    561.65,
-    597.76,
-    92,
+    'Perecedero',
+    844.81,
+    932.7,
+    36,
     825
 );
 
@@ -14857,12 +14857,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    826,
+    1826,
     'Estante',
-    'PrendaVestir',
-    580.86,
-    279.31,
-    73,
+    'Herramienta',
+    142.06,
+    960.53,
+    32,
     826
 );
 
@@ -14875,12 +14875,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    827,
+    1827,
     'Estante',
-    'Herramienta',
-    594.87,
-    162.03,
-    97,
+    'Aseo',
+    574.62,
+    875.71,
+    5,
     827
 );
 
@@ -14893,12 +14893,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    828,
+    1828,
     'Estante',
-    'PrendaVestir',
-    924.61,
-    739.51,
-    41,
+    'NoPerecedero',
+    301.43,
+    116.32,
+    9,
     828
 );
 
@@ -14911,12 +14911,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    829,
+    1829,
     'Estante',
-    'Aseo',
-    892.02,
-    767.7,
-    54,
+    'Abarrote',
+    343.25,
+    993.39,
+    69,
     829
 );
 
@@ -14929,12 +14929,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    830,
+    1830,
     'Estante',
-    'Mueble',
-    308.12,
-    300.72,
-    35,
+    'Perecedero',
+    829.19,
+    431.3,
+    85,
     830
 );
 
@@ -14947,12 +14947,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    831,
+    1831,
     'Estante',
-    'Abarrote',
-    417.94,
-    378.56,
-    59,
+    'Perecedero',
+    696.4,
+    907.49,
+    83,
     831
 );
 
@@ -14965,12 +14965,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    832,
+    1832,
     'Estante',
-    'Congelado',
-    412.23,
-    256.79,
-    11,
+    'Electrodomestico',
+    443.88,
+    331.84,
+    21,
     832
 );
 
@@ -14983,12 +14983,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    833,
+    1833,
     'Estante',
-    'PrendaVestir',
-    84.26,
-    748.42,
-    37,
+    'Electrodomestico',
+    346.65,
+    723.3,
+    56,
     833
 );
 
@@ -15001,12 +15001,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    834,
+    1834,
     'Estante',
-    'Mueble',
-    228.86,
-    654.14,
-    39,
+    'Perecedero',
+    857.36,
+    890.63,
+    68,
     834
 );
 
@@ -15019,12 +15019,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    835,
+    1835,
     'Estante',
-    'Perecedero',
-    225.88,
-    541.82,
-    32,
+    'Herramienta',
+    798.62,
+    830.09,
+    51,
     835
 );
 
@@ -15037,12 +15037,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    836,
+    1836,
     'Estante',
-    'NoPerecedero',
-    102.24,
-    53.74,
-    33,
+    'Abarrote',
+    78.2,
+    961.09,
+    70,
     836
 );
 
@@ -15055,12 +15055,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    837,
+    1837,
     'Estante',
-    'Abarrote',
-    777.76,
-    274.0,
-    27,
+    'Herramienta',
+    704.37,
+    908.12,
+    18,
     837
 );
 
@@ -15073,12 +15073,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    838,
+    1838,
     'Estante',
-    'NoPerecedero',
-    334.09,
-    914.38,
-    30,
+    'Herramienta',
+    571.46,
+    868.77,
+    49,
     838
 );
 
@@ -15091,12 +15091,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    839,
+    1839,
     'Estante',
-    'Aseo',
-    374.83,
-    240.63,
-    32,
+    'Congelado',
+    636.78,
+    326.81,
+    69,
     839
 );
 
@@ -15109,12 +15109,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    840,
+    1840,
     'Estante',
-    'NoPerecedero',
-    692.45,
-    461.46,
-    61,
+    'Congelado',
+    875.17,
+    590.1,
+    2,
     840
 );
 
@@ -15127,12 +15127,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    841,
+    1841,
     'Estante',
-    'Aseo',
-    720.43,
-    725.44,
-    88,
+    'Abarrote',
+    659.43,
+    602.92,
+    59,
     841
 );
 
@@ -15145,12 +15145,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    842,
+    1842,
     'Estante',
-    'Aseo',
-    711.02,
-    249.94,
-    99,
+    'Abarrote',
+    496.08,
+    794.21,
+    78,
     842
 );
 
@@ -15163,11 +15163,11 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    843,
+    1843,
     'Estante',
-    'PrendaVestir',
-    409.17,
-    317.89,
+    'Mueble',
+    798.99,
+    667.05,
     99,
     843
 );
@@ -15181,12 +15181,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    844,
+    1844,
     'Estante',
-    'Abarrote',
-    378.13,
-    840.48,
-    92,
+    'Electrodomestico',
+    621.12,
+    589.11,
+    80,
     844
 );
 
@@ -15199,12 +15199,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    845,
+    1845,
     'Estante',
-    'Mueble',
-    25.66,
-    530.74,
-    78,
+    'Perecedero',
+    372.79,
+    40.0,
+    90,
     845
 );
 
@@ -15217,12 +15217,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    846,
+    1846,
     'Estante',
-    'Herramienta',
-    636.58,
-    149.61,
-    20,
+    'Mueble',
+    568.61,
+    682.7,
+    98,
     846
 );
 
@@ -15235,12 +15235,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    847,
+    1847,
     'Estante',
-    'Congelado',
-    725.49,
-    822.56,
-    32,
+    'Aseo',
+    306.35,
+    82.65,
+    24,
     847
 );
 
@@ -15253,12 +15253,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    848,
+    1848,
     'Estante',
     'Perecedero',
-    533.66,
-    918.76,
-    52,
+    872.32,
+    713.52,
+    55,
     848
 );
 
@@ -15271,12 +15271,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    849,
+    1849,
     'Estante',
-    'NoPerecedero',
-    807.91,
-    627.83,
-    32,
+    'Congelado',
+    372.07,
+    973.97,
+    82,
     849
 );
 
@@ -15289,12 +15289,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    850,
+    1850,
     'Estante',
-    'PrendaVestir',
-    32.18,
-    217.62,
-    25,
+    'Herramienta',
+    428.61,
+    42.99,
+    3,
     850
 );
 
@@ -15307,12 +15307,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    851,
+    1851,
     'Estante',
-    'NoPerecedero',
-    681.47,
-    45.45,
-    99,
+    'Congelado',
+    319.59,
+    593.54,
+    28,
     851
 );
 
@@ -15325,12 +15325,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    852,
+    1852,
     'Estante',
-    'Herramienta',
-    952.0,
-    468.37,
-    93,
+    'Aseo',
+    322.71,
+    52.47,
+    32,
     852
 );
 
@@ -15343,12 +15343,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    853,
+    1853,
     'Estante',
-    'NoPerecedero',
-    977.62,
-    131.62,
-    51,
+    'Abarrote',
+    839.89,
+    484.18,
+    33,
     853
 );
 
@@ -15361,12 +15361,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    854,
+    1854,
     'Estante',
-    'Mueble',
-    769.47,
-    487.9,
-    92,
+    'Herramienta',
+    536.67,
+    394.27,
+    95,
     854
 );
 
@@ -15379,12 +15379,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    855,
+    1855,
     'Estante',
-    'Herramienta',
-    425.42,
-    356.98,
-    53,
+    'PrendaVestir',
+    571.56,
+    333.89,
+    4,
     855
 );
 
@@ -15397,12 +15397,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    856,
+    1856,
     'Estante',
-    'Congelado',
-    568.96,
-    577.04,
-    24,
+    'Mueble',
+    136.37,
+    391.08,
+    36,
     856
 );
 
@@ -15415,12 +15415,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    857,
+    1857,
     'Estante',
-    'Congelado',
-    539.53,
-    350.92,
-    11,
+    'PrendaVestir',
+    740.91,
+    22.69,
+    16,
     857
 );
 
@@ -15433,12 +15433,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    858,
+    1858,
     'Estante',
     'PrendaVestir',
-    239.28,
-    101.89,
-    84,
+    987.88,
+    829.04,
+    27,
     858
 );
 
@@ -15451,12 +15451,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    859,
+    1859,
     'Estante',
-    'Abarrote',
-    956.8,
-    939.71,
-    77,
+    'Mueble',
+    8.1,
+    845.65,
+    67,
     859
 );
 
@@ -15469,11 +15469,11 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    860,
+    1860,
     'Estante',
-    'Congelado',
-    789.29,
-    699.25,
+    'NoPerecedero',
+    315.48,
+    924.4,
     78,
     860
 );
@@ -15487,12 +15487,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    861,
+    1861,
     'Estante',
-    'Electrodomestico',
-    76.56,
-    591.97,
-    92,
+    'Aseo',
+    674.49,
+    84.16,
+    38,
     861
 );
 
@@ -15505,12 +15505,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    862,
+    1862,
     'Estante',
-    'Mueble',
-    399.67,
-    402.75,
-    93,
+    'Herramienta',
+    186.44,
+    905.73,
+    37,
     862
 );
 
@@ -15523,12 +15523,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    863,
+    1863,
     'Estante',
-    'Abarrote',
-    86.09,
-    877.16,
-    14,
+    'Perecedero',
+    146.31,
+    717.41,
+    58,
     863
 );
 
@@ -15541,12 +15541,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    864,
+    1864,
     'Estante',
-    'Perecedero',
-    623.21,
-    327.74,
-    47,
+    'NoPerecedero',
+    753.57,
+    886.18,
+    98,
     864
 );
 
@@ -15559,12 +15559,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    865,
+    1865,
     'Estante',
-    'Electrodomestico',
-    431.4,
-    426.95,
-    43,
+    'PrendaVestir',
+    706.26,
+    933.31,
+    22,
     865
 );
 
@@ -15577,12 +15577,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    866,
+    1866,
     'Estante',
-    'Abarrote',
-    745.72,
-    675.19,
-    49,
+    'Mueble',
+    1.56,
+    577.03,
+    58,
     866
 );
 
@@ -15595,12 +15595,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    867,
+    1867,
     'Estante',
-    'Herramienta',
-    906.23,
-    595.66,
-    43,
+    'NoPerecedero',
+    854.27,
+    762.55,
+    61,
     867
 );
 
@@ -15613,12 +15613,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    868,
+    1868,
     'Estante',
-    'Congelado',
-    684.76,
-    374.7,
-    3,
+    'Perecedero',
+    431.1,
+    493.0,
+    93,
     868
 );
 
@@ -15631,12 +15631,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    869,
+    1869,
     'Estante',
-    'Aseo',
-    485.47,
-    648.9,
-    8,
+    'PrendaVestir',
+    645.8,
+    367.67,
+    21,
     869
 );
 
@@ -15649,12 +15649,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    870,
+    1870,
     'Estante',
-    'NoPerecedero',
-    553.19,
-    530.75,
-    51,
+    'Electrodomestico',
+    62.0,
+    615.9,
+    16,
     870
 );
 
@@ -15667,12 +15667,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    871,
+    1871,
     'Estante',
-    'Electrodomestico',
-    565.91,
-    445.0,
-    87,
+    'Congelado',
+    444.65,
+    31.86,
+    39,
     871
 );
 
@@ -15685,12 +15685,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    872,
+    1872,
     'Estante',
     'Abarrote',
-    635.79,
-    763.6,
-    29,
+    952.71,
+    203.87,
+    100,
     872
 );
 
@@ -15703,12 +15703,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    873,
+    1873,
     'Estante',
-    'PrendaVestir',
-    794.21,
-    355.81,
-    12,
+    'Herramienta',
+    144.52,
+    584.66,
+    53,
     873
 );
 
@@ -15721,12 +15721,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    874,
+    1874,
     'Estante',
     'Aseo',
-    758.11,
-    798.88,
-    34,
+    342.2,
+    978.89,
+    94,
     874
 );
 
@@ -15739,12 +15739,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    875,
+    1875,
     'Estante',
     'Perecedero',
-    3.63,
-    668.5,
-    98,
+    878.4,
+    741.89,
+    74,
     875
 );
 
@@ -15757,12 +15757,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    876,
+    1876,
     'Estante',
-    'Mueble',
-    595.3,
-    661.87,
-    32,
+    'Herramienta',
+    542.71,
+    333.29,
+    68,
     876
 );
 
@@ -15775,12 +15775,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    877,
+    1877,
     'Estante',
-    'Abarrote',
-    924.78,
-    660.87,
-    84,
+    'NoPerecedero',
+    110.6,
+    529.35,
+    16,
     877
 );
 
@@ -15793,12 +15793,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    878,
+    1878,
     'Estante',
-    'Mueble',
-    583.24,
-    824.84,
-    81,
+    'PrendaVestir',
+    898.98,
+    563.35,
+    63,
     878
 );
 
@@ -15811,12 +15811,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    879,
+    1879,
     'Estante',
-    'Mueble',
-    23.3,
-    634.17,
-    81,
+    'Congelado',
+    503.99,
+    107.97,
+    32,
     879
 );
 
@@ -15829,12 +15829,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    880,
+    1880,
     'Estante',
     'Aseo',
-    487.11,
-    994.29,
-    54,
+    517.04,
+    582.3,
+    79,
     880
 );
 
@@ -15847,12 +15847,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    881,
+    1881,
     'Estante',
-    'PrendaVestir',
-    264.43,
-    34.1,
-    92,
+    'Congelado',
+    92.02,
+    729.93,
+    73,
     881
 );
 
@@ -15865,12 +15865,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    882,
+    1882,
     'Estante',
     'Congelado',
-    512.47,
-    95.47,
-    73,
+    833.1,
+    247.94,
+    84,
     882
 );
 
@@ -15883,12 +15883,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    883,
+    1883,
     'Estante',
-    'Aseo',
-    670.38,
-    603.75,
-    20,
+    'Mueble',
+    179.28,
+    299.14,
+    32,
     883
 );
 
@@ -15901,12 +15901,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    884,
+    1884,
     'Estante',
-    'NoPerecedero',
-    269.44,
-    178.02,
-    46,
+    'Aseo',
+    871.53,
+    113.34,
+    90,
     884
 );
 
@@ -15919,12 +15919,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    885,
+    1885,
     'Estante',
-    'Electrodomestico',
-    906.61,
-    118.49,
-    80,
+    'Mueble',
+    639.84,
+    419.64,
+    25,
     885
 );
 
@@ -15937,12 +15937,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    886,
+    1886,
     'Estante',
     'Perecedero',
-    928.6,
-    138.05,
-    98,
+    112.84,
+    341.91,
+    61,
     886
 );
 
@@ -15955,12 +15955,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    887,
+    1887,
     'Estante',
-    'NoPerecedero',
-    388.46,
-    994.9,
-    81,
+    'Abarrote',
+    544.32,
+    134.82,
+    85,
     887
 );
 
@@ -15973,12 +15973,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    888,
+    1888,
     'Estante',
-    'Congelado',
-    801.82,
-    261.96,
-    93,
+    'PrendaVestir',
+    821.59,
+    485.35,
+    11,
     888
 );
 
@@ -15991,12 +15991,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    889,
+    1889,
     'Estante',
-    'Aseo',
-    742.41,
-    937.35,
-    56,
+    'Congelado',
+    884.87,
+    997.69,
+    13,
     889
 );
 
@@ -16009,12 +16009,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    890,
+    1890,
     'Estante',
     'Mueble',
-    230.15,
-    252.99,
-    75,
+    328.53,
+    178.68,
+    45,
     890
 );
 
@@ -16027,12 +16027,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    891,
+    1891,
     'Estante',
-    'Congelado',
-    696.9,
-    785.65,
-    25,
+    'PrendaVestir',
+    160.13,
+    717.12,
+    69,
     891
 );
 
@@ -16045,12 +16045,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    892,
+    1892,
     'Estante',
-    'Aseo',
-    767.39,
-    357.47,
-    71,
+    'NoPerecedero',
+    165.91,
+    430.93,
+    2,
     892
 );
 
@@ -16063,12 +16063,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    893,
+    1893,
     'Estante',
-    'Mueble',
-    463.67,
-    942.12,
-    89,
+    'Congelado',
+    679.18,
+    742.06,
+    54,
     893
 );
 
@@ -16081,12 +16081,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    894,
+    1894,
     'Estante',
-    'Congelado',
-    293.59,
-    76.67,
-    80,
+    'Perecedero',
+    324.88,
+    817.42,
+    6,
     894
 );
 
@@ -16099,12 +16099,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    895,
+    1895,
     'Estante',
-    'Perecedero',
-    720.88,
-    775.39,
-    76,
+    'NoPerecedero',
+    901.02,
+    917.13,
+    31,
     895
 );
 
@@ -16117,12 +16117,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    896,
+    1896,
     'Estante',
     'Congelado',
-    485.64,
-    500.15,
-    27,
+    51.75,
+    231.82,
+    25,
     896
 );
 
@@ -16135,12 +16135,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    897,
+    1897,
     'Estante',
-    'Aseo',
-    371.99,
-    290.54,
-    7,
+    'Congelado',
+    942.02,
+    986.84,
+    27,
     897
 );
 
@@ -16153,12 +16153,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    898,
+    1898,
     'Estante',
-    'Perecedero',
-    876.86,
-    902.52,
-    10,
+    'Mueble',
+    458.88,
+    515.46,
+    35,
     898
 );
 
@@ -16171,12 +16171,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    899,
+    1899,
     'Estante',
-    'PrendaVestir',
-    788.33,
-    276.19,
-    91,
+    'Aseo',
+    945.56,
+    960.49,
+    65,
     899
 );
 
@@ -16189,12 +16189,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    900,
+    1900,
     'Estante',
     'PrendaVestir',
-    327.52,
-    601.17,
-    73,
+    364.53,
+    84.18,
+    86,
     900
 );
 
@@ -16207,12 +16207,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    901,
+    1901,
     'Estante',
-    'Herramienta',
-    615.21,
-    407.23,
-    94,
+    'Mueble',
+    759.46,
+    712.68,
+    58,
     901
 );
 
@@ -16225,12 +16225,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    902,
+    1902,
     'Estante',
     'Mueble',
-    340.7,
-    252.08,
-    20,
+    283.35,
+    428.21,
+    22,
     902
 );
 
@@ -16243,12 +16243,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    903,
+    1903,
     'Estante',
-    'Congelado',
-    358.07,
-    788.66,
-    62,
+    'Herramienta',
+    909.06,
+    742.3,
+    52,
     903
 );
 
@@ -16261,12 +16261,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    904,
+    1904,
     'Estante',
-    'Electrodomestico',
-    927.44,
-    669.42,
-    94,
+    'Aseo',
+    738.42,
+    862.76,
+    37,
     904
 );
 
@@ -16279,12 +16279,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    905,
+    1905,
     'Estante',
-    'NoPerecedero',
-    85.74,
-    317.48,
-    48,
+    'Congelado',
+    348.74,
+    368.05,
+    93,
     905
 );
 
@@ -16297,12 +16297,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    906,
+    1906,
     'Estante',
-    'Mueble',
-    237.62,
-    616.02,
-    96,
+    'NoPerecedero',
+    212.58,
+    757.45,
+    50,
     906
 );
 
@@ -16315,12 +16315,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    907,
+    1907,
     'Estante',
-    'Herramienta',
-    681.71,
-    705.04,
-    87,
+    'Perecedero',
+    166.19,
+    488.93,
+    71,
     907
 );
 
@@ -16333,12 +16333,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    908,
+    1908,
     'Estante',
-    'Perecedero',
-    561.01,
-    911.29,
-    95,
+    'PrendaVestir',
+    397.18,
+    857.73,
+    20,
     908
 );
 
@@ -16351,12 +16351,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    909,
+    1909,
     'Estante',
-    'Electrodomestico',
-    318.21,
-    433.8,
-    12,
+    'Herramienta',
+    694.94,
+    353.51,
+    43,
     909
 );
 
@@ -16369,12 +16369,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    910,
+    1910,
     'Estante',
-    'PrendaVestir',
-    464.47,
-    619.73,
-    51,
+    'Perecedero',
+    708.82,
+    246.69,
+    25,
     910
 );
 
@@ -16387,12 +16387,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    911,
+    1911,
     'Estante',
-    'Congelado',
-    934.28,
-    189.61,
-    62,
+    'Herramienta',
+    185.85,
+    88.03,
+    58,
     911
 );
 
@@ -16405,12 +16405,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    912,
+    1912,
     'Estante',
-    'Mueble',
-    614.03,
-    565.55,
-    87,
+    'Perecedero',
+    795.82,
+    911.75,
+    59,
     912
 );
 
@@ -16423,12 +16423,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    913,
+    1913,
     'Estante',
-    'Perecedero',
-    284.83,
-    889.18,
-    11,
+    'Mueble',
+    393.56,
+    645.04,
+    49,
     913
 );
 
@@ -16441,12 +16441,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    914,
+    1914,
     'Estante',
-    'Mueble',
-    330.64,
-    93.17,
-    35,
+    'NoPerecedero',
+    248.09,
+    681.4,
+    81,
     914
 );
 
@@ -16459,12 +16459,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    915,
+    1915,
     'Estante',
-    'Congelado',
-    522.28,
-    659.18,
-    65,
+    'NoPerecedero',
+    143.94,
+    356.45,
+    85,
     915
 );
 
@@ -16477,12 +16477,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    916,
+    1916,
     'Estante',
-    'Electrodomestico',
-    849.71,
-    7.48,
-    7,
+    'Mueble',
+    455.32,
+    306.48,
+    40,
     916
 );
 
@@ -16495,12 +16495,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    917,
+    1917,
     'Estante',
-    'Mueble',
-    106.21,
-    986.9,
-    5,
+    'Electrodomestico',
+    573.65,
+    746.45,
+    82,
     917
 );
 
@@ -16513,12 +16513,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    918,
+    1918,
     'Estante',
     'NoPerecedero',
-    892.09,
-    811.06,
-    77,
+    591.68,
+    672.52,
+    47,
     918
 );
 
@@ -16531,12 +16531,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    919,
+    1919,
     'Estante',
-    'Perecedero',
-    229.49,
-    803.86,
-    67,
+    'PrendaVestir',
+    962.09,
+    476.12,
+    97,
     919
 );
 
@@ -16549,12 +16549,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    920,
+    1920,
     'Estante',
-    'Congelado',
-    870.21,
-    762.18,
-    75,
+    'Perecedero',
+    620.06,
+    474.35,
+    72,
     920
 );
 
@@ -16567,12 +16567,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    921,
+    1921,
     'Estante',
     'Electrodomestico',
-    336.51,
-    511.68,
-    77,
+    85.13,
+    998.39,
+    40,
     921
 );
 
@@ -16585,12 +16585,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    922,
+    1922,
     'Estante',
-    'PrendaVestir',
-    140.27,
-    556.9,
-    82,
+    'Herramienta',
+    661.53,
+    36.0,
+    12,
     922
 );
 
@@ -16603,12 +16603,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    923,
+    1923,
     'Estante',
-    'Perecedero',
-    393.62,
-    330.58,
-    3,
+    'Aseo',
+    58.32,
+    777.26,
+    11,
     923
 );
 
@@ -16621,12 +16621,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    924,
+    1924,
     'Estante',
-    'PrendaVestir',
-    711.05,
-    428.65,
-    33,
+    'Congelado',
+    489.14,
+    919.65,
+    21,
     924
 );
 
@@ -16639,12 +16639,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    925,
+    1925,
     'Estante',
-    'Electrodomestico',
-    32.66,
-    575.43,
-    15,
+    'Aseo',
+    173.9,
+    535.43,
+    36,
     925
 );
 
@@ -16657,12 +16657,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    926,
+    1926,
     'Estante',
-    'Electrodomestico',
-    631.67,
-    874.07,
-    91,
+    'Congelado',
+    651.41,
+    483.09,
+    65,
     926
 );
 
@@ -16675,12 +16675,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    927,
+    1927,
     'Estante',
-    'NoPerecedero',
-    620.67,
-    125.52,
-    6,
+    'Congelado',
+    361.1,
+    889.65,
+    74,
     927
 );
 
@@ -16693,12 +16693,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    928,
+    1928,
     'Estante',
-    'Aseo',
-    267.91,
-    594.85,
-    13,
+    'Herramienta',
+    240.72,
+    875.59,
+    86,
     928
 );
 
@@ -16711,12 +16711,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    929,
+    1929,
     'Estante',
-    'Congelado',
-    924.83,
-    301.76,
-    24,
+    'NoPerecedero',
+    562.23,
+    780.97,
+    17,
     929
 );
 
@@ -16729,12 +16729,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    930,
+    1930,
     'Estante',
-    'Congelado',
-    919.42,
-    951.25,
-    91,
+    'Mueble',
+    968.33,
+    377.06,
+    89,
     930
 );
 
@@ -16747,12 +16747,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    931,
+    1931,
     'Estante',
-    'Herramienta',
-    673.11,
-    515.61,
-    5,
+    'Electrodomestico',
+    766.35,
+    72.39,
+    56,
     931
 );
 
@@ -16765,12 +16765,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    932,
+    1932,
     'Estante',
     'PrendaVestir',
-    232.35,
-    404.25,
-    79,
+    802.47,
+    871.86,
+    80,
     932
 );
 
@@ -16783,12 +16783,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    933,
+    1933,
     'Estante',
-    'Herramienta',
-    298.95,
-    833.71,
-    40,
+    'PrendaVestir',
+    995.01,
+    742.15,
+    69,
     933
 );
 
@@ -16801,12 +16801,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    934,
+    1934,
     'Estante',
-    'Abarrote',
-    81.18,
-    36.48,
-    23,
+    'Herramienta',
+    486.67,
+    219.54,
+    36,
     934
 );
 
@@ -16819,12 +16819,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    935,
+    1935,
     'Estante',
     'Electrodomestico',
-    866.69,
-    463.64,
-    99,
+    102.55,
+    404.4,
+    92,
     935
 );
 
@@ -16837,12 +16837,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    936,
+    1936,
     'Estante',
-    'NoPerecedero',
-    984.85,
-    291.8,
-    44,
+    'Mueble',
+    134.01,
+    707.44,
+    86,
     936
 );
 
@@ -16855,12 +16855,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    937,
+    1937,
     'Estante',
-    'Aseo',
-    92.45,
-    709.94,
-    19,
+    'PrendaVestir',
+    106.4,
+    729.07,
+    97,
     937
 );
 
@@ -16873,12 +16873,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    938,
+    1938,
     'Estante',
-    'Electrodomestico',
-    293.46,
-    807.22,
-    32,
+    'PrendaVestir',
+    280.05,
+    423.67,
+    29,
     938
 );
 
@@ -16891,12 +16891,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    939,
+    1939,
     'Estante',
-    'Abarrote',
-    213.61,
-    295.86,
-    73,
+    'NoPerecedero',
+    287.57,
+    900.31,
+    86,
     939
 );
 
@@ -16909,12 +16909,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    940,
+    1940,
     'Estante',
-    'Aseo',
-    261.6,
-    354.71,
-    3,
+    'Electrodomestico',
+    457.85,
+    278.42,
+    37,
     940
 );
 
@@ -16927,12 +16927,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    941,
+    1941,
     'Estante',
-    'Mueble',
-    497.05,
-    926.75,
-    23,
+    'Herramienta',
+    842.74,
+    32.49,
+    27,
     941
 );
 
@@ -16945,12 +16945,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    942,
+    1942,
     'Estante',
-    'Herramienta',
-    80.79,
-    600.03,
-    48,
+    'Abarrote',
+    549.06,
+    349.74,
+    78,
     942
 );
 
@@ -16963,12 +16963,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    943,
+    1943,
     'Estante',
-    'Perecedero',
-    797.05,
-    244.05,
-    12,
+    'NoPerecedero',
+    811.39,
+    727.45,
+    3,
     943
 );
 
@@ -16981,12 +16981,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    944,
+    1944,
     'Estante',
-    'Abarrote',
-    152.34,
-    668.66,
-    73,
+    'PrendaVestir',
+    709.82,
+    504.11,
+    40,
     944
 );
 
@@ -16999,12 +16999,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    945,
+    1945,
     'Estante',
-    'Abarrote',
-    400.91,
-    242.69,
-    94,
+    'Herramienta',
+    705.63,
+    15.28,
+    11,
     945
 );
 
@@ -17017,12 +17017,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    946,
+    1946,
     'Estante',
-    'NoPerecedero',
-    946.47,
-    523.93,
-    65,
+    'Congelado',
+    93.41,
+    770.37,
+    100,
     946
 );
 
@@ -17035,12 +17035,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    947,
+    1947,
     'Estante',
-    'Herramienta',
-    285.69,
-    11.89,
-    98,
+    'NoPerecedero',
+    429.66,
+    851.92,
+    62,
     947
 );
 
@@ -17053,12 +17053,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    948,
+    1948,
     'Estante',
-    'Herramienta',
-    831.84,
-    459.44,
-    43,
+    'NoPerecedero',
+    57.8,
+    904.64,
+    25,
     948
 );
 
@@ -17071,12 +17071,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    949,
+    1949,
     'Estante',
-    'Abarrote',
-    278.06,
-    489.84,
-    8,
+    'Electrodomestico',
+    716.52,
+    463.17,
+    18,
     949
 );
 
@@ -17089,12 +17089,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    950,
+    1950,
     'Estante',
     'PrendaVestir',
-    855.1,
-    983.18,
-    64,
+    820.66,
+    138.33,
+    14,
     950
 );
 
@@ -17107,12 +17107,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    951,
+    1951,
     'Estante',
-    'Abarrote',
-    161.92,
-    61.46,
-    24,
+    'Aseo',
+    248.72,
+    880.2,
+    9,
     951
 );
 
@@ -17125,12 +17125,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    952,
+    1952,
     'Estante',
-    'Abarrote',
-    919.17,
-    743.63,
-    20,
+    'Herramienta',
+    299.75,
+    61.25,
+    35,
     952
 );
 
@@ -17143,12 +17143,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    953,
+    1953,
     'Estante',
-    'Herramienta',
-    8.67,
-    335.43,
-    73,
+    'Mueble',
+    435.32,
+    222.91,
+    57,
     953
 );
 
@@ -17161,12 +17161,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    954,
+    1954,
     'Estante',
     'PrendaVestir',
-    725.94,
-    879.26,
-    44,
+    113.55,
+    223.14,
+    85,
     954
 );
 
@@ -17179,12 +17179,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    955,
+    1955,
     'Estante',
-    'Perecedero',
-    571.99,
-    86.8,
-    91,
+    'NoPerecedero',
+    737.76,
+    752.42,
+    99,
     955
 );
 
@@ -17197,12 +17197,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    956,
+    1956,
     'Estante',
-    'PrendaVestir',
-    439.54,
-    595.99,
-    98,
+    'Mueble',
+    593.7,
+    857.82,
+    87,
     956
 );
 
@@ -17215,12 +17215,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    957,
+    1957,
     'Estante',
-    'Electrodomestico',
-    981.99,
-    966.73,
-    13,
+    'Abarrote',
+    406.8,
+    9.09,
+    60,
     957
 );
 
@@ -17233,12 +17233,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    958,
+    1958,
     'Estante',
     'Abarrote',
-    423.36,
-    774.18,
-    93,
+    575.92,
+    630.84,
+    66,
     958
 );
 
@@ -17251,12 +17251,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    959,
+    1959,
     'Estante',
-    'Aseo',
-    708.57,
-    795.46,
-    48,
+    'Abarrote',
+    145.39,
+    841.84,
+    88,
     959
 );
 
@@ -17269,12 +17269,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    960,
+    1960,
     'Estante',
-    'Congelado',
-    247.13,
-    978.31,
-    35,
+    'Aseo',
+    112.09,
+    174.25,
+    54,
     960
 );
 
@@ -17287,12 +17287,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    961,
+    1961,
     'Estante',
-    'Herramienta',
-    912.21,
-    563.68,
-    73,
+    'Congelado',
+    211.55,
+    872.89,
+    98,
     961
 );
 
@@ -17305,12 +17305,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    962,
+    1962,
     'Estante',
-    'Herramienta',
-    959.79,
-    947.18,
-    51,
+    'NoPerecedero',
+    844.14,
+    698.35,
+    8,
     962
 );
 
@@ -17323,12 +17323,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    963,
+    1963,
     'Estante',
     'Congelado',
-    718.52,
-    619.82,
-    10,
+    181.54,
+    451.19,
+    92,
     963
 );
 
@@ -17341,12 +17341,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    964,
+    1964,
     'Estante',
-    'Perecedero',
-    485.8,
-    135.55,
-    74,
+    'Electrodomestico',
+    512.47,
+    445.99,
+    71,
     964
 );
 
@@ -17359,12 +17359,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    965,
+    1965,
     'Estante',
-    'Herramienta',
-    213.06,
-    690.88,
-    54,
+    'Aseo',
+    844.38,
+    840.82,
+    39,
     965
 );
 
@@ -17377,12 +17377,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    966,
+    1966,
     'Estante',
-    'Congelado',
-    405.72,
-    323.55,
-    91,
+    'Herramienta',
+    931.79,
+    321.17,
+    47,
     966
 );
 
@@ -17395,12 +17395,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    967,
+    1967,
     'Estante',
     'Aseo',
-    250.07,
-    139.84,
-    52,
+    762.01,
+    874.84,
+    33,
     967
 );
 
@@ -17413,12 +17413,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    968,
+    1968,
     'Estante',
-    'Mueble',
-    482.5,
-    892.06,
-    80,
+    'Electrodomestico',
+    872.74,
+    897.53,
+    66,
     968
 );
 
@@ -17431,12 +17431,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    969,
+    1969,
     'Estante',
-    'Abarrote',
-    260.95,
-    98.66,
-    87,
+    'PrendaVestir',
+    188.15,
+    359.86,
+    28,
     969
 );
 
@@ -17449,12 +17449,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    970,
+    1970,
     'Estante',
-    'Mueble',
-    476.48,
-    754.62,
-    11,
+    'NoPerecedero',
+    856.36,
+    323.74,
+    90,
     970
 );
 
@@ -17467,12 +17467,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    971,
+    1971,
     'Estante',
-    'Congelado',
-    785.62,
-    322.11,
-    84,
+    'Aseo',
+    346.88,
+    738.36,
+    94,
     971
 );
 
@@ -17485,12 +17485,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    972,
+    1972,
     'Estante',
-    'Electrodomestico',
-    75.07,
-    973.42,
-    95,
+    'Abarrote',
+    119.12,
+    948.37,
+    24,
     972
 );
 
@@ -17503,12 +17503,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    973,
+    1973,
     'Estante',
-    'Aseo',
-    635.28,
-    727.73,
-    61,
+    'PrendaVestir',
+    822.47,
+    865.17,
+    1,
     973
 );
 
@@ -17521,12 +17521,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    974,
+    1974,
     'Estante',
-    'Herramienta',
-    606.57,
-    359.17,
-    62,
+    'Electrodomestico',
+    599.84,
+    789.43,
+    43,
     974
 );
 
@@ -17539,12 +17539,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    975,
+    1975,
     'Estante',
-    'Abarrote',
-    258.95,
-    269.6,
-    96,
+    'Electrodomestico',
+    939.45,
+    211.86,
+    18,
     975
 );
 
@@ -17557,12 +17557,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    976,
+    1976,
     'Estante',
-    'Perecedero',
-    827.7,
-    865.69,
-    13,
+    'PrendaVestir',
+    610.49,
+    466.96,
+    12,
     976
 );
 
@@ -17575,12 +17575,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    977,
+    1977,
     'Estante',
-    'Congelado',
-    201.08,
-    369.4,
-    20,
+    'Aseo',
+    991.07,
+    588.79,
+    91,
     977
 );
 
@@ -17593,12 +17593,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    978,
+    1978,
     'Estante',
-    'Herramienta',
-    443.97,
-    752.39,
-    100,
+    'Electrodomestico',
+    521.87,
+    807.16,
+    16,
     978
 );
 
@@ -17611,12 +17611,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    979,
+    1979,
     'Estante',
-    'Electrodomestico',
-    408.76,
-    248.93,
-    18,
+    'PrendaVestir',
+    626.36,
+    808.7,
+    21,
     979
 );
 
@@ -17629,12 +17629,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    980,
+    1980,
     'Estante',
     'NoPerecedero',
-    180.75,
-    538.5,
-    49,
+    966.9,
+    483.95,
+    42,
     980
 );
 
@@ -17647,12 +17647,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    981,
+    1981,
     'Estante',
-    'Abarrote',
-    896.89,
-    731.21,
-    24,
+    'Herramienta',
+    835.63,
+    473.16,
+    56,
     981
 );
 
@@ -17665,12 +17665,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    982,
+    1982,
     'Estante',
-    'Aseo',
-    294.15,
-    89.91,
-    86,
+    'Abarrote',
+    312.77,
+    367.53,
+    16,
     982
 );
 
@@ -17683,12 +17683,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    983,
+    1983,
     'Estante',
-    'NoPerecedero',
-    209.35,
-    964.37,
-    34,
+    'PrendaVestir',
+    479.88,
+    691.19,
+    9,
     983
 );
 
@@ -17701,12 +17701,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    984,
+    1984,
     'Estante',
-    'Perecedero',
-    716.33,
-    454.43,
-    34,
+    'Abarrote',
+    164.55,
+    699.72,
+    37,
     984
 );
 
@@ -17719,12 +17719,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    985,
+    1985,
     'Estante',
-    'Electrodomestico',
-    835.12,
-    128.89,
-    60,
+    'PrendaVestir',
+    122.08,
+    551.73,
+    87,
     985
 );
 
@@ -17737,12 +17737,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    986,
+    1986,
     'Estante',
-    'Herramienta',
-    149.23,
-    68.16,
-    1,
+    'Mueble',
+    697.54,
+    575.12,
+    41,
     986
 );
 
@@ -17755,12 +17755,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    987,
+    1987,
     'Estante',
-    'Electrodomestico',
-    700.28,
-    436.47,
-    39,
+    'Aseo',
+    96.19,
+    508.03,
+    5,
     987
 );
 
@@ -17773,12 +17773,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    988,
+    1988,
     'Estante',
-    'Mueble',
-    936.78,
-    453.81,
-    92,
+    'Perecedero',
+    953.82,
+    473.74,
+    68,
     988
 );
 
@@ -17791,12 +17791,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    989,
+    1989,
     'Estante',
-    'Perecedero',
-    907.18,
-    788.72,
-    98,
+    'Abarrote',
+    997.51,
+    82.02,
+    93,
     989
 );
 
@@ -17809,12 +17809,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    990,
+    1990,
     'Estante',
-    'Herramienta',
-    130.36,
-    261.33,
-    92,
+    'Congelado',
+    35.21,
+    630.18,
+    68,
     990
 );
 
@@ -17827,12 +17827,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    991,
+    1991,
     'Estante',
-    'PrendaVestir',
-    820.3,
-    881.64,
-    96,
+    'Aseo',
+    478.9,
+    128.39,
+    77,
     991
 );
 
@@ -17845,12 +17845,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    992,
+    1992,
     'Estante',
-    'Abarrote',
-    582.66,
-    241.31,
-    45,
+    'Electrodomestico',
+    309.16,
+    423.53,
+    69,
     992
 );
 
@@ -17863,12 +17863,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    993,
+    1993,
     'Estante',
-    'Aseo',
-    963.57,
-    793.01,
-    14,
+    'Congelado',
+    884.19,
+    220.32,
+    97,
     993
 );
 
@@ -17881,12 +17881,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    994,
+    1994,
     'Estante',
-    'PrendaVestir',
-    106.74,
-    752.13,
-    87,
+    'Congelado',
+    618.78,
+    488.53,
+    12,
     994
 );
 
@@ -17899,12 +17899,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    995,
+    1995,
     'Estante',
-    'Congelado',
-    36.63,
-    956.72,
-    86,
+    'NoPerecedero',
+    784.04,
+    230.42,
+    23,
     995
 );
 
@@ -17917,12 +17917,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    996,
+    1996,
     'Estante',
-    'Congelado',
-    655.92,
-    24.39,
-    11,
+    'Electrodomestico',
+    192.81,
+    296.32,
+    29,
     996
 );
 
@@ -17935,12 +17935,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    997,
+    1997,
     'Estante',
-    'NoPerecedero',
-    556.97,
-    189.61,
-    87,
+    'Herramienta',
+    534.55,
+    943.2,
+    78,
     997
 );
 
@@ -17953,12 +17953,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    998,
+    1998,
     'Estante',
-    'Congelado',
-    10.03,
-    620.94,
-    25,
+    'Electrodomestico',
+    919.17,
+    474.03,
+    11,
     998
 );
 
@@ -17971,12 +17971,12 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    999,
+    1999,
     'Estante',
-    'PrendaVestir',
-    709.88,
-    482.33,
-    29,
+    'Abarrote',
+    258.25,
+    217.62,
+    56,
     999
 );
 
@@ -17989,11 +17989,11 @@ INSERT INTO CONTENEDOR (
     NIVEL_ABASTECIMIENTO,
     ID_SUCURSAL
 ) VALUES (
-    1000,
+    2000,
     'Estante',
-    'Herramienta',
-    40.5,
-    972.43,
-    39,
+    'NoPerecedero',
+    955.56,
+    263.78,
+    9,
     1000
 );
