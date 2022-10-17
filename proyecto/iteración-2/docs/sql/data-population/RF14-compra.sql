@@ -3,13 +3,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     1,
-    342.09,
-    'https://statcounter.com/blandit/ultrices/enim/lorem.jpg',
+    462.16,
+    'https://mashable.com/mauris.jsp',
     'CREADA',
-    '3896442104'
+    '3896442104',
+    '28-Nov-2021'
 );
 
 INSERT INTO COMPRA (
@@ -17,13 +19,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     2,
-    576.21,
-    'http://economist.com/accumsan/odio/curabitur/convallis.js',
-    'CANCELADA',
-    '9031101052'
+    675.02,
+    'https://fema.gov/gravida.aspx',
+    'PAGADA',
+    '1278995099',
+    '31-Aug-2022'
 );
 
 INSERT INTO COMPRA (
@@ -31,13 +35,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     3,
-    797.04,
-    'http://nymag.com/erat/volutpat/in/congue.json',
+    376.43,
+    'https://rambler.ru/a/ipsum/integer/a.aspx',
     'CANCELADA',
-    '9031101052'
+    '3896442104',
+    '03-Mar-2022'
 );
 
 INSERT INTO COMPRA (
@@ -45,13 +51,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     4,
-    81.81,
-    'http://multiply.com/platea/dictumst/aliquam.js',
+    323.25,
+    'https://walmart.com/morbi/porttitor/lorem.xml',
     'PAGADA',
-    '0628195931'
+    '8792260616',
+    '10-Aug-2022'
 );
 
 INSERT INTO COMPRA (
@@ -59,13 +67,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     5,
-    926.35,
-    'https://joomla.org/integer.jsp',
+    716.92,
+    'http://weather.com/pulvinar/lobortis.json',
     'CREADA',
-    '3896442104'
+    '0628195931',
+    '03-Apr-2022'
 );
 
 INSERT INTO COMPRA (
@@ -73,13 +83,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     6,
-    532.56,
-    'https://tumblr.com/justo/sollicitudin/ut/suscipit/a/feugiat/et.jpg',
-    'CANCELADA',
-    '9031101052'
+    667.53,
+    'http://cdbaby.com/laoreet/ut.html',
+    'CREADA',
+    '9031101052',
+    '27-Mar-2022'
 );
 
 INSERT INTO COMPRA (
@@ -87,13 +99,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     7,
-    476.04,
-    'https://examiner.com/pretium.html',
-    'CANCELADA',
-    '8792260616'
+    126.61,
+    'http://gmpg.org/in/leo/maecenas/pulvinar.json',
+    'PAGADA',
+    '1278995099',
+    '14-Nov-2021'
 );
 
 INSERT INTO COMPRA (
@@ -101,13 +115,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     8,
-    274.6,
-    'https://gravatar.com/eget/tempus/vel/pede/morbi.json',
-    'PAGADA',
-    '9031101052'
+    351.62,
+    'https://army.mil/a/odio/in/hac/habitasse/platea.xml',
+    'CREADA',
+    '0628195931',
+    '08-Dec-2021'
 );
 
 INSERT INTO COMPRA (
@@ -115,13 +131,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     9,
-    463.4,
-    'https://mit.edu/ut/volutpat.xml',
-    'CREADA',
-    '8792260616'
+    15.89,
+    'http://list-manage.com/purus/phasellus/in/felis/donec/semper/sapien.html',
+    'CANCELADA',
+    '1278995099',
+    '16-May-2022'
 );
 
 INSERT INTO COMPRA (
@@ -129,13 +147,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     10,
-    384.9,
-    'https://unblog.fr/varius/nulla/facilisi.png',
-    'CREADA',
-    '8792260616'
+    497.21,
+    'https://noaa.gov/in/lectus/pellentesque/at/nulla/suspendisse/potenti.png',
+    'PAGADA',
+    '3896442104',
+    '03-Jun-2022'
 );
 
 INSERT INTO COMPRA (
@@ -143,13 +163,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     11,
-    738.48,
-    'http://ehow.com/mauris/non/ligula/pellentesque/ultrices/phasellus.aspx',
-    'CANCELADA',
-    '8792260616'
+    805.02,
+    'https://amazon.com/adipiscing/elit/proin/risus/praesent/lectus/vestibulum.xml',
+    'CREADA',
+    '1278995099',
+    '14-Apr-2022'
 );
 
 INSERT INTO COMPRA (
@@ -157,13 +179,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     12,
-    415.77,
-    'http://army.mil/risus/semper/porta/volutpat.html',
-    'CREADA',
-    '1278995099'
+    787.66,
+    'http://uiuc.edu/posuere/cubilia.aspx',
+    'CANCELADA',
+    '0628195931',
+    '26-Aug-2022'
 );
 
 INSERT INTO COMPRA (
@@ -171,13 +195,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     13,
-    277.02,
-    'https://thetimes.co.uk/phasellus/in/felis/donec/semper/sapien/a.json',
-    'CANCELADA',
-    '0628195931'
+    793.98,
+    'https://upenn.edu/in/faucibus/orci/luctus/et.xml',
+    'CREADA',
+    '1278995099',
+    '05-Jun-2022'
 );
 
 INSERT INTO COMPRA (
@@ -185,13 +211,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     14,
-    885.04,
-    'http://jigsy.com/lectus/suspendisse/potenti.jpg',
-    'CANCELADA',
-    '9031101052'
+    421.0,
+    'https://state.tx.us/sit.js',
+    'PAGADA',
+    '0628195931',
+    '28-Nov-2021'
 );
 
 INSERT INTO COMPRA (
@@ -199,13 +227,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     15,
-    828.65,
-    'https://liveinternet.ru/ac.json',
-    'PAGADA',
-    '1278995099'
+    32.0,
+    'https://zdnet.com/libero/nam/dui/proin/leo/odio/porttitor.jsp',
+    'CANCELADA',
+    '0628195931',
+    '13-Dec-2021'
 );
 
 INSERT INTO COMPRA (
@@ -213,13 +243,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     16,
-    791.36,
-    'http://jalbum.net/nisl/nunc/nisl.aspx',
-    'CANCELADA',
-    '3896442104'
+    464.19,
+    'http://msn.com/magna/vulputate.js',
+    'PAGADA',
+    '1278995099',
+    '13-Jul-2022'
 );
 
 INSERT INTO COMPRA (
@@ -227,13 +259,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     17,
-    144.28,
-    'http://noaa.gov/at/feugiat/non.xml',
-    'CANCELADA',
-    '8792260616'
+    240.3,
+    'http://163.com/luctus/et/ultrices/posuere/cubilia/curae/nulla.html',
+    'CREADA',
+    '0628195931',
+    '29-Dec-2021'
 );
 
 INSERT INTO COMPRA (
@@ -241,13 +275,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     18,
-    199.72,
-    'http://plala.or.jp/at.aspx',
-    'CREADA',
-    '0628195931'
+    141.36,
+    'https://rambler.ru/molestie/sed/justo/pellentesque/viverra/pede/ac.aspx',
+    'PAGADA',
+    '8792260616',
+    '27-Feb-2022'
 );
 
 INSERT INTO COMPRA (
@@ -255,13 +291,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     19,
-    74.05,
-    'http://xrea.com/etiam/vel/augue/vestibulum/rutrum.png',
-    'PAGADA',
-    '1278995099'
+    920.19,
+    'http://eepurl.com/non/velit/nec.html',
+    'CANCELADA',
+    '3896442104',
+    '04-Nov-2021'
 );
 
 INSERT INTO COMPRA (
@@ -269,13 +307,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     20,
-    304.37,
-    'http://redcross.org/eget/vulputate/ut/ultrices/vel/augue.jsp',
+    938.76,
+    'https://dropbox.com/porttitor.js',
     'CANCELADA',
-    '1278995099'
+    '9031101052',
+    '24-Oct-2021'
 );
 
 INSERT INTO COMPRA (
@@ -283,13 +323,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     21,
-    611.85,
-    'http://npr.org/elementum/nullam/varius/nulla/facilisi.png',
-    'CREADA',
-    '3896442104'
+    813.53,
+    'http://jugem.jp/vel/sem/sed/sagittis/nam/congue.png',
+    'CANCELADA',
+    '1278995099',
+    '08-Mar-2022'
 );
 
 INSERT INTO COMPRA (
@@ -297,13 +339,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     22,
-    964.53,
-    'http://bbc.co.uk/eget/congue/eget/semper/rutrum/nulla/nunc.json',
+    258.44,
+    'http://hc360.com/nec/nisi/volutpat/eleifend/donec/ut/dolor.html',
     'PAGADA',
-    '0628195931'
+    '3896442104',
+    '17-Apr-2022'
 );
 
 INSERT INTO COMPRA (
@@ -311,13 +355,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     23,
-    933.84,
-    'http://wikia.com/quam.jpg',
+    364.03,
+    'https://whitehouse.gov/elementum/pellentesque/quisque/porta/volutpat.jpg',
     'CANCELADA',
-    '1278995099'
+    '1278995099',
+    '10-Jul-2022'
 );
 
 INSERT INTO COMPRA (
@@ -325,13 +371,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     24,
-    646.73,
-    'http://smh.com.au/ac/tellus/semper.json',
-    'CREADA',
-    '9031101052'
+    142.83,
+    'https://latimes.com/eu/est/congue.json',
+    'CANCELADA',
+    '3896442104',
+    '20-Apr-2022'
 );
 
 INSERT INTO COMPRA (
@@ -339,13 +387,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     25,
-    71.94,
-    'https://princeton.edu/libero/quis/orci/nullam/molestie.png',
-    'PAGADA',
-    '1278995099'
+    5.36,
+    'http://squidoo.com/volutpat/convallis/morbi/odio/odio/elementum/eu.xml',
+    'CANCELADA',
+    '9031101052',
+    '28-Jun-2022'
 );
 
 INSERT INTO COMPRA (
@@ -353,13 +403,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     26,
-    296.08,
-    'http://narod.ru/a/pede.html',
-    'CANCELADA',
-    '8792260616'
+    836.19,
+    'http://typepad.com/platea/dictumst/maecenas/ut/massa.jsp',
+    'CREADA',
+    '3896442104',
+    '22-Dec-2021'
 );
 
 INSERT INTO COMPRA (
@@ -367,13 +419,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     27,
-    374.81,
-    'https://home.pl/luctus/et/ultrices.jsp',
-    'CREADA',
-    '8792260616'
+    615.05,
+    'https://cdbaby.com/rhoncus/aliquam/lacus/morbi.png',
+    'PAGADA',
+    '8792260616',
+    '17-Apr-2022'
 );
 
 INSERT INTO COMPRA (
@@ -381,13 +435,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     28,
-    14.55,
-    'http://patch.com/tortor/sollicitudin/mi/sit/amet.json',
-    'CANCELADA',
-    '8792260616'
+    941.82,
+    'https://mozilla.com/sit/amet/lobortis.jpg',
+    'PAGADA',
+    '3896442104',
+    '01-Oct-2022'
 );
 
 INSERT INTO COMPRA (
@@ -395,13 +451,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     29,
-    288.21,
-    'https://skyrock.com/at/nibh/in/hac/habitasse/platea/dictumst.xml',
-    'CANCELADA',
-    '3896442104'
+    74.01,
+    'http://ask.com/nulla/suscipit/ligula/in.jsp',
+    'PAGADA',
+    '0628195931',
+    '20-Mar-2022'
 );
 
 INSERT INTO COMPRA (
@@ -409,13 +467,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     30,
-    440.78,
-    'https://mozilla.com/dolor.xml',
-    'PAGADA',
-    '8792260616'
+    405.07,
+    'https://dyndns.org/porta/volutpat/erat/quisque/erat/eros/viverra.png',
+    'CANCELADA',
+    '1278995099',
+    '31-Aug-2022'
 );
 
 INSERT INTO COMPRA (
@@ -423,13 +483,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     31,
-    973.44,
-    'https://icio.us/tortor/sollicitudin/mi/sit/amet.jsp',
-    'CANCELADA',
-    '0628195931'
+    469.71,
+    'http://cpanel.net/cubilia.xml',
+    'PAGADA',
+    '0628195931',
+    '20-May-2022'
 );
 
 INSERT INTO COMPRA (
@@ -437,13 +499,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     32,
-    314.69,
-    'https://arstechnica.com/vivamus/tortor/duis/mattis.aspx',
-    'CANCELADA',
-    '8792260616'
+    331.94,
+    'https://economist.com/quam.jsp',
+    'CREADA',
+    '3896442104',
+    '07-Jul-2022'
 );
 
 INSERT INTO COMPRA (
@@ -451,13 +515,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     33,
-    8.11,
-    'http://jugem.jp/habitasse/platea/dictumst/morbi/vestibulum.xml',
-    'CREADA',
-    '0628195931'
+    597.83,
+    'http://yale.edu/nulla/tempus/vivamus/in.aspx',
+    'PAGADA',
+    '9031101052',
+    '09-Sep-2022'
 );
 
 INSERT INTO COMPRA (
@@ -465,13 +531,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     34,
-    541.35,
-    'https://furl.net/semper/est/quam/pharetra.jsp',
-    'PAGADA',
-    '3896442104'
+    53.63,
+    'http://home.pl/in/blandit/ultrices/enim.jpg',
+    'CREADA',
+    '1278995099',
+    '12-Feb-2022'
 );
 
 INSERT INTO COMPRA (
@@ -479,13 +547,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     35,
-    747.33,
-    'https://marketwatch.com/morbi.html',
+    7.28,
+    'http://imdb.com/faucibus/accumsan.xml',
     'PAGADA',
-    '9031101052'
+    '3896442104',
+    '23-Jun-2022'
 );
 
 INSERT INTO COMPRA (
@@ -493,13 +563,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     36,
-    667.3,
-    'https://geocities.jp/penatibus.html',
+    702.47,
+    'http://people.com.cn/lacus/at/turpis.html',
     'CREADA',
-    '8792260616'
+    '9031101052',
+    '04-Oct-2022'
 );
 
 INSERT INTO COMPRA (
@@ -507,13 +579,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     37,
-    591.04,
-    'https://google.cn/quis/odio/consequat/varius/integer.aspx',
+    538.04,
+    'http://hexun.com/curabitur/in/libero/ut/massa/volutpat/convallis.xml',
     'PAGADA',
-    '0628195931'
+    '1278995099',
+    '11-Feb-2022'
 );
 
 INSERT INTO COMPRA (
@@ -521,13 +595,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     38,
-    436.58,
-    'http://over-blog.com/eleifend/luctus/ultricies/eu/nibh/quisque.xml',
-    'CANCELADA',
-    '0628195931'
+    422.8,
+    'https://hubpages.com/justo/in/hac/habitasse/platea.xml',
+    'CREADA',
+    '1278995099',
+    '08-May-2022'
 );
 
 INSERT INTO COMPRA (
@@ -535,13 +611,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     39,
-    628.8,
-    'https://php.net/faucibus/orci/luctus/et/ultrices/posuere/cubilia.aspx',
-    'CREADA',
-    '0628195931'
+    513.11,
+    'http://nyu.edu/erat/curabitur.jpg',
+    'CANCELADA',
+    '9031101052',
+    '07-Jan-2022'
 );
 
 INSERT INTO COMPRA (
@@ -549,13 +627,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     40,
-    819.81,
-    'https://soup.io/orci/luctus/et/ultrices/posuere/cubilia.js',
+    808.32,
+    'https://chron.com/magna/vulputate/luctus/cum/sociis.png',
     'CREADA',
-    '0628195931'
+    '8792260616',
+    '03-Apr-2022'
 );
 
 INSERT INTO COMPRA (
@@ -563,13 +643,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     41,
-    762.38,
-    'https://mail.ru/et.js',
-    'CANCELADA',
-    '9031101052'
+    247.72,
+    'http://eventbrite.com/odio.js',
+    'PAGADA',
+    '8792260616',
+    '30-Mar-2022'
 );
 
 INSERT INTO COMPRA (
@@ -577,13 +659,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     42,
-    835.11,
-    'https://unesco.org/magnis.json',
-    'PAGADA',
-    '3896442104'
+    524.31,
+    'https://so-net.ne.jp/ultrices/phasellus/id/sapien/in/sapien/iaculis.xml',
+    'CREADA',
+    '3896442104',
+    '30-Oct-2021'
 );
 
 INSERT INTO COMPRA (
@@ -591,13 +675,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     43,
-    44.81,
-    'http://trellian.com/varius/ut/blandit/non/interdum.xml',
+    172.4,
+    'http://ox.ac.uk/sapien/dignissim/vestibulum/vestibulum.html',
     'CREADA',
-    '1278995099'
+    '9031101052',
+    '14-May-2022'
 );
 
 INSERT INTO COMPRA (
@@ -605,13 +691,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     44,
-    92.5,
-    'http://state.tx.us/elit.jsp',
-    'PAGADA',
-    '9031101052'
+    572.31,
+    'https://tinypic.com/ante/ipsum/primis/in.json',
+    'CREADA',
+    '3896442104',
+    '09-Jun-2022'
 );
 
 INSERT INTO COMPRA (
@@ -619,13 +707,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     45,
-    475.37,
-    'https://latimes.com/diam/neque/vestibulum/eget/vulputate.jpg',
+    955.37,
+    'http://yahoo.com/leo/odio/porttitor.png',
     'CANCELADA',
-    '0628195931'
+    '3896442104',
+    '24-Oct-2021'
 );
 
 INSERT INTO COMPRA (
@@ -633,13 +723,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     46,
-    483.95,
-    'https://si.edu/vestibulum/sit/amet/cursus.aspx',
-    'PAGADA',
-    '0628195931'
+    11.43,
+    'https://craigslist.org/in/est/risus/auctor.png',
+    'CREADA',
+    '3896442104',
+    '15-Aug-2022'
 );
 
 INSERT INTO COMPRA (
@@ -647,13 +739,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     47,
-    351.25,
-    'http://home.pl/quis/lectus/suspendisse/potenti/in.png',
+    822.46,
+    'https://cdc.gov/purus/sit/amet/nulla/quisque/arcu.png',
     'CREADA',
-    '8792260616'
+    '9031101052',
+    '12-Feb-2022'
 );
 
 INSERT INTO COMPRA (
@@ -661,13 +755,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     48,
-    650.98,
-    'https://opensource.org/duis/bibendum/morbi/non/quam.js',
-    'PAGADA',
-    '3896442104'
+    248.53,
+    'https://illinois.edu/molestie/lorem/quisque/ut/erat.jpg',
+    'CREADA',
+    '1278995099',
+    '11-Sep-2022'
 );
 
 INSERT INTO COMPRA (
@@ -675,13 +771,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     49,
-    790.53,
-    'https://jimdo.com/sit/amet.jsp',
-    'CANCELADA',
-    '3896442104'
+    62.87,
+    'https://surveymonkey.com/cras/mi/pede/malesuada/in/imperdiet.json',
+    'CREADA',
+    '3896442104',
+    '01-Feb-2022'
 );
 
 INSERT INTO COMPRA (
@@ -689,13 +787,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     50,
-    783.53,
-    'https://ameblo.jp/dui/vel.xml',
+    13.65,
+    'http://xing.com/blandit/lacinia/erat.jpg',
     'PAGADA',
-    '3896442104'
+    '3896442104',
+    '17-Nov-2021'
 );
 
 INSERT INTO COMPRA (
@@ -703,13 +803,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     51,
-    544.02,
-    'http://example.com/nulla/sed/vel/enim/sit.jsp',
-    'CANCELADA',
-    '8792260616'
+    477.76,
+    'https://storify.com/suspendisse/potenti/nullam/porttitor/lacus/at/turpis.jpg',
+    'PAGADA',
+    '0628195931',
+    '17-Dec-2021'
 );
 
 INSERT INTO COMPRA (
@@ -717,13 +819,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     52,
-    618.95,
-    'https://webmd.com/posuere/cubilia/curae/donec/pharetra/magna/vestibulum.json',
+    157.02,
+    'https://globo.com/lectus/in/est/risus/auctor/sed/tristique.html',
     'PAGADA',
-    '3896442104'
+    '9031101052',
+    '20-Feb-2022'
 );
 
 INSERT INTO COMPRA (
@@ -731,13 +835,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     53,
-    90.1,
-    'https://forbes.com/nulla/pede/ullamcorper/augue/a.jpg',
-    'PAGADA',
-    '3896442104'
+    402.98,
+    'https://themeforest.net/platea/dictumst/maecenas/ut/massa/quis/augue.aspx',
+    'CANCELADA',
+    '3896442104',
+    '03-May-2022'
 );
 
 INSERT INTO COMPRA (
@@ -745,13 +851,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     54,
-    326.45,
-    'https://netlog.com/eu/orci/mauris/lacinia/sapien/quis/libero.jpg',
-    'CANCELADA',
-    '3896442104'
+    518.9,
+    'https://cdbaby.com/quis/augue/luctus.js',
+    'CREADA',
+    '8792260616',
+    '03-Jun-2022'
 );
 
 INSERT INTO COMPRA (
@@ -759,13 +867,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     55,
-    662.87,
-    'https://amazon.co.uk/eget/tempus/vel/pede.js',
-    'PAGADA',
-    '0628195931'
+    315.12,
+    'https://cafepress.com/erat/quisque/erat.json',
+    'CREADA',
+    '8792260616',
+    '28-Jun-2022'
 );
 
 INSERT INTO COMPRA (
@@ -773,13 +883,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     56,
-    155.32,
-    'http://arizona.edu/diam/nam/tristique.aspx',
-    'CANCELADA',
-    '1278995099'
+    42.89,
+    'http://wikia.com/iaculis/justo.aspx',
+    'CREADA',
+    '9031101052',
+    '21-Jan-2022'
 );
 
 INSERT INTO COMPRA (
@@ -787,13 +899,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     57,
-    393.45,
-    'http://ucsd.edu/quisque.jpg',
+    435.32,
+    'https://mapy.cz/fusce.js',
     'PAGADA',
-    '8792260616'
+    '3896442104',
+    '25-Apr-2022'
 );
 
 INSERT INTO COMPRA (
@@ -801,13 +915,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     58,
-    478.77,
-    'https://usatoday.com/sapien.json',
+    127.72,
+    'http://ftc.gov/ac/leo/pellentesque/ultrices/mattis/odio.js',
     'CANCELADA',
-    '3896442104'
+    '3896442104',
+    '16-Dec-2021'
 );
 
 INSERT INTO COMPRA (
@@ -815,13 +931,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     59,
-    894.74,
-    'http://a8.net/rhoncus/sed/vestibulum/sit/amet/cursus.xml',
-    'PAGADA',
-    '0628195931'
+    407.27,
+    'http://fc2.com/eros/suspendisse.png',
+    'CREADA',
+    '0628195931',
+    '24-Nov-2021'
 );
 
 INSERT INTO COMPRA (
@@ -829,13 +947,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     60,
-    722.3,
-    'http://amazon.com/donec.png',
+    745.06,
+    'https://comsenz.com/nibh/in/hac/habitasse/platea/dictumst/aliquam.jsp',
     'CREADA',
-    '3896442104'
+    '0628195931',
+    '31-Jul-2022'
 );
 
 INSERT INTO COMPRA (
@@ -843,13 +963,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     61,
-    194.43,
-    'http://cnn.com/quam/sollicitudin/vitae/consectetuer.aspx',
+    380.61,
+    'https://wufoo.com/morbi/ut/odio/cras.jpg',
     'CREADA',
-    '1278995099'
+    '0628195931',
+    '29-Dec-2021'
 );
 
 INSERT INTO COMPRA (
@@ -857,13 +979,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     62,
-    443.3,
-    'http://etsy.com/vitae.html',
+    494.46,
+    'http://facebook.com/vulputate/luctus/cum/sociis/natoque/penatibus.xml',
     'CANCELADA',
-    '8792260616'
+    '3896442104',
+    '06-Mar-2022'
 );
 
 INSERT INTO COMPRA (
@@ -871,13 +995,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     63,
-    160.88,
-    'http://hibu.com/pellentesque.json',
-    'CANCELADA',
-    '0628195931'
+    382.38,
+    'https://google.cn/dolor/sit/amet.html',
+    'CREADA',
+    '3896442104',
+    '16-Jul-2022'
 );
 
 INSERT INTO COMPRA (
@@ -885,13 +1011,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     64,
-    145.85,
-    'http://amazonaws.com/ante/ipsum/primis/in/faucibus/orci.jpg',
-    'CANCELADA',
-    '3896442104'
+    556.8,
+    'http://wufoo.com/dui/proin.js',
+    'PAGADA',
+    '8792260616',
+    '24-Mar-2022'
 );
 
 INSERT INTO COMPRA (
@@ -899,13 +1027,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     65,
-    406.85,
-    'http://about.me/a/ipsum/integer/a/nibh/in/quis.jpg',
-    'PAGADA',
-    '0628195931'
+    150.47,
+    'http://amazon.com/eu/tincidunt.png',
+    'CREADA',
+    '0628195931',
+    '07-Jun-2022'
 );
 
 INSERT INTO COMPRA (
@@ -913,13 +1043,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     66,
-    630.02,
-    'http://seesaa.net/nam/nulla.jsp',
-    'CREADA',
-    '9031101052'
+    178.82,
+    'http://cyberchimps.com/dolor/vel/est/donec/odio/justo/sollicitudin.jpg',
+    'CANCELADA',
+    '0628195931',
+    '18-Sep-2022'
 );
 
 INSERT INTO COMPRA (
@@ -927,13 +1059,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     67,
-    557.15,
-    'https://sun.com/lorem/ipsum/dolor/sit/amet/consectetuer/adipiscing.jsp',
-    'CREADA',
-    '3896442104'
+    71.87,
+    'http://virginia.edu/tortor/sollicitudin/mi/sit/amet.jpg',
+    'PAGADA',
+    '1278995099',
+    '22-Aug-2022'
 );
 
 INSERT INTO COMPRA (
@@ -941,13 +1075,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     68,
-    877.48,
-    'http://marriott.com/mauris/lacinia/sapien/quis/libero.aspx',
+    468.94,
+    'http://webeden.co.uk/rhoncus.jsp',
     'CANCELADA',
-    '1278995099'
+    '9031101052',
+    '05-Apr-2022'
 );
 
 INSERT INTO COMPRA (
@@ -955,13 +1091,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     69,
-    546.94,
-    'https://eepurl.com/eget/semper/rutrum/nulla/nunc.aspx',
-    'CREADA',
-    '9031101052'
+    740.67,
+    'http://cnn.com/donec/posuere/metus/vitae/ipsum/aliquam/non.png',
+    'CANCELADA',
+    '1278995099',
+    '30-Nov-2021'
 );
 
 INSERT INTO COMPRA (
@@ -969,13 +1107,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     70,
-    136.32,
-    'https://wp.com/nulla/eget/eros/elementum/pellentesque/quisque.jsp',
-    'CANCELADA',
-    '8792260616'
+    238.87,
+    'http://wiley.com/eget/semper/rutrum/nulla/nunc/purus.jpg',
+    'PAGADA',
+    '1278995099',
+    '09-Dec-2021'
 );
 
 INSERT INTO COMPRA (
@@ -983,13 +1123,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     71,
-    981.17,
-    'http://oakley.com/in/congue/etiam/justo.xml',
-    'PAGADA',
-    '1278995099'
+    914.92,
+    'https://mit.edu/nibh/ligula/nec/sem/duis/aliquam/convallis.xml',
+    'CANCELADA',
+    '1278995099',
+    '24-Jul-2022'
 );
 
 INSERT INTO COMPRA (
@@ -997,13 +1139,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     72,
-    654.89,
-    'https://twitpic.com/tempor/convallis.json',
-    'CREADA',
-    '9031101052'
+    584.79,
+    'https://so-net.ne.jp/odio/porttitor/id/consequat.aspx',
+    'PAGADA',
+    '1278995099',
+    '29-Sep-2022'
 );
 
 INSERT INTO COMPRA (
@@ -1011,13 +1155,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     73,
-    911.59,
-    'http://scribd.com/et/magnis/dis/parturient/montes.html',
+    696.2,
+    'http://yellowpages.com/mi/pede/malesuada/in/imperdiet.xml',
     'PAGADA',
-    '1278995099'
+    '1278995099',
+    '26-Feb-2022'
 );
 
 INSERT INTO COMPRA (
@@ -1025,13 +1171,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     74,
-    844.38,
-    'https://csmonitor.com/libero/non/mattis/pulvinar/nulla.jsp',
-    'CANCELADA',
-    '3896442104'
+    145.48,
+    'http://gov.uk/nulla/nisl/nunc/nisl/duis/bibendum/felis.json',
+    'PAGADA',
+    '3896442104',
+    '15-Apr-2022'
 );
 
 INSERT INTO COMPRA (
@@ -1039,13 +1187,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     75,
-    766.07,
-    'https://symantec.com/non/quam/nec/dui/luctus/rutrum/nulla.aspx',
-    'CREADA',
-    '9031101052'
+    80.93,
+    'http://businesswire.com/duis/bibendum/felis/sed/interdum.html',
+    'PAGADA',
+    '1278995099',
+    '05-Jun-2022'
 );
 
 INSERT INTO COMPRA (
@@ -1053,13 +1203,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     76,
-    156.76,
-    'https://si.edu/montes/nascetur/ridiculus/mus/etiam.json',
+    305.42,
+    'http://amazon.com/mi.aspx',
     'PAGADA',
-    '8792260616'
+    '1278995099',
+    '07-May-2022'
 );
 
 INSERT INTO COMPRA (
@@ -1067,13 +1219,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     77,
-    793.12,
-    'https://oracle.com/tincidunt/ante/vel/ipsum.json',
-    'PAGADA',
-    '3896442104'
+    649.37,
+    'https://booking.com/pede/justo/lacinia/eget/tincidunt.jpg',
+    'CANCELADA',
+    '3896442104',
+    '08-Apr-2022'
 );
 
 INSERT INTO COMPRA (
@@ -1081,13 +1235,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     78,
-    56.0,
-    'https://webnode.com/ut/erat/curabitur.aspx',
-    'CREADA',
-    '0628195931'
+    511.83,
+    'http://amazon.co.uk/sit/amet/sapien/dignissim/vestibulum.json',
+    'CANCELADA',
+    '3896442104',
+    '15-Jul-2022'
 );
 
 INSERT INTO COMPRA (
@@ -1095,13 +1251,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     79,
-    340.34,
-    'http://washingtonpost.com/pede/malesuada/in/imperdiet/et.json',
-    'CREADA',
-    '8792260616'
+    518.07,
+    'http://goodreads.com/dictumst.aspx',
+    'PAGADA',
+    '3896442104',
+    '12-Jan-2022'
 );
 
 INSERT INTO COMPRA (
@@ -1109,13 +1267,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     80,
-    816.1,
-    'http://mlb.com/curae.aspx',
-    'PAGADA',
-    '9031101052'
+    40.78,
+    'https://unblog.fr/feugiat/non.jpg',
+    'CREADA',
+    '0628195931',
+    '14-Nov-2021'
 );
 
 INSERT INTO COMPRA (
@@ -1123,13 +1283,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     81,
-    155.31,
-    'https://goodreads.com/enim/in/tempor/turpis/nec/euismod/scelerisque.jsp',
-    'CANCELADA',
-    '8792260616'
+    496.25,
+    'http://mtv.com/pretium/iaculis/justo/in.png',
+    'PAGADA',
+    '1278995099',
+    '05-Dec-2021'
 );
 
 INSERT INTO COMPRA (
@@ -1137,13 +1299,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     82,
-    781.57,
-    'https://ning.com/ligula/nec.jpg',
-    'CREADA',
-    '0628195931'
+    743.96,
+    'https://sciencedirect.com/erat/eros/viverra/eget.png',
+    'PAGADA',
+    '3896442104',
+    '26-Oct-2021'
 );
 
 INSERT INTO COMPRA (
@@ -1151,13 +1315,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     83,
-    383.83,
-    'http://nyu.edu/scelerisque/quam.js',
+    785.41,
+    'http://weibo.com/dolor/vel/est/donec/odio.xml',
     'CREADA',
-    '3896442104'
+    '9031101052',
+    '10-Apr-2022'
 );
 
 INSERT INTO COMPRA (
@@ -1165,13 +1331,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     84,
-    908.43,
-    'http://slashdot.org/ipsum/aliquam.json',
-    'CANCELADA',
-    '8792260616'
+    226.59,
+    'http://youtube.com/luctus/et.xml',
+    'PAGADA',
+    '3896442104',
+    '16-Dec-2021'
 );
 
 INSERT INTO COMPRA (
@@ -1179,13 +1347,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     85,
-    13.16,
-    'https://creativecommons.org/vestibulum/sit/amet.js',
+    307.73,
+    'https://chronoengine.com/tortor.html',
     'PAGADA',
-    '1278995099'
+    '9031101052',
+    '17-Dec-2021'
 );
 
 INSERT INTO COMPRA (
@@ -1193,13 +1363,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     86,
-    916.07,
-    'http://berkeley.edu/tempus/vel/pede/morbi/porttitor/lorem/id.js',
-    'CREADA',
-    '8792260616'
+    954.92,
+    'https://pcworld.com/id/pretium.js',
+    'CANCELADA',
+    '0628195931',
+    '08-Mar-2022'
 );
 
 INSERT INTO COMPRA (
@@ -1207,13 +1379,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     87,
-    683.0,
-    'http://bandcamp.com/vel/ipsum/praesent/blandit/lacinia.aspx',
-    'PAGADA',
-    '3896442104'
+    920.55,
+    'http://bloglovin.com/velit.json',
+    'CANCELADA',
+    '3896442104',
+    '10-Nov-2021'
 );
 
 INSERT INTO COMPRA (
@@ -1221,13 +1395,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     88,
-    337.65,
-    'http://bigcartel.com/ipsum/dolor/sit/amet.jsp',
-    'CANCELADA',
-    '9031101052'
+    687.25,
+    'https://hao123.com/curae/donec/pharetra/magna/vestibulum/aliquet.jsp',
+    'PAGADA',
+    '1278995099',
+    '27-Mar-2022'
 );
 
 INSERT INTO COMPRA (
@@ -1235,13 +1411,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     89,
-    18.68,
-    'https://lulu.com/rhoncus/aliquam/lacus/morbi/quis.html',
-    'CANCELADA',
-    '1278995099'
+    765.25,
+    'http://netvibes.com/odio/cras/mi.html',
+    'CREADA',
+    '9031101052',
+    '02-Mar-2022'
 );
 
 INSERT INTO COMPRA (
@@ -1249,13 +1427,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     90,
-    28.93,
-    'http://mayoclinic.com/massa/donec/dapibus.png',
-    'CANCELADA',
-    '8792260616'
+    922.23,
+    'http://umich.edu/phasellus/sit/amet/erat/nulla/tempus.js',
+    'CREADA',
+    '9031101052',
+    '20-Sep-2022'
 );
 
 INSERT INTO COMPRA (
@@ -1263,13 +1443,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     91,
-    934.25,
-    'https://hubpages.com/a/ipsum/integer.png',
-    'CANCELADA',
-    '1278995099'
+    705.22,
+    'http://is.gd/sed/sagittis/nam/congue.aspx',
+    'CREADA',
+    '8792260616',
+    '30-Aug-2022'
 );
 
 INSERT INTO COMPRA (
@@ -1277,13 +1459,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     92,
-    723.34,
-    'https://yelp.com/dictumst/morbi/vestibulum/velit/id/pretium.json',
-    'CANCELADA',
-    '0628195931'
+    147.61,
+    'https://dell.com/augue.xml',
+    'CREADA',
+    '9031101052',
+    '16-May-2022'
 );
 
 INSERT INTO COMPRA (
@@ -1291,13 +1475,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     93,
-    457.52,
-    'http://flickr.com/arcu/adipiscing/molestie.xml',
-    'CANCELADA',
-    '1278995099'
+    991.89,
+    'http://nsw.gov.au/ante/ipsum/primis/in/faucibus/orci.jpg',
+    'CREADA',
+    '0628195931',
+    '19-Sep-2022'
 );
 
 INSERT INTO COMPRA (
@@ -1305,13 +1491,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     94,
-    133.82,
-    'https://lulu.com/erat/tortor/sollicitudin/mi.jsp',
-    'CREADA',
-    '9031101052'
+    456.81,
+    'https://paginegialle.it/purus/aliquet/at/feugiat.jsp',
+    'CANCELADA',
+    '8792260616',
+    '05-Jan-2022'
 );
 
 INSERT INTO COMPRA (
@@ -1319,13 +1507,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     95,
-    454.62,
-    'http://elegantthemes.com/in/hac/habitasse/platea/dictumst/aliquam/augue.jpg',
+    440.68,
+    'https://discovery.com/eget/eros/elementum.jsp',
     'PAGADA',
-    '1278995099'
+    '9031101052',
+    '22-Sep-2022'
 );
 
 INSERT INTO COMPRA (
@@ -1333,13 +1523,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     96,
-    91.23,
-    'https://cam.ac.uk/nec/molestie/sed.html',
+    728.96,
+    'http://si.edu/et/magnis.json',
     'CANCELADA',
-    '8792260616'
+    '3896442104',
+    '22-Jan-2022'
 );
 
 INSERT INTO COMPRA (
@@ -1347,13 +1539,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     97,
-    905.77,
-    'https://merriam-webster.com/nulla/sed/accumsan.jpg',
-    'CREADA',
-    '1278995099'
+    518.52,
+    'http://multiply.com/ultrices/enim/lorem/ipsum/dolor.html',
+    'CANCELADA',
+    '1278995099',
+    '14-Oct-2022'
 );
 
 INSERT INTO COMPRA (
@@ -1361,13 +1555,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     98,
-    431.46,
-    'https://gnu.org/est/et/tempus/semper/est/quam/pharetra.png',
+    917.64,
+    'https://nationalgeographic.com/pretium/iaculis.png',
     'CANCELADA',
-    '9031101052'
+    '0628195931',
+    '05-Apr-2022'
 );
 
 INSERT INTO COMPRA (
@@ -1375,13 +1571,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     99,
-    235.73,
-    'https://g.co/diam/in/magna/bibendum.html',
+    397.78,
+    'https://nba.com/congue/elementum/in/hac/habitasse/platea/dictumst.xml',
     'CREADA',
-    '1278995099'
+    '0628195931',
+    '22-Nov-2021'
 );
 
 INSERT INTO COMPRA (
@@ -1389,13 +1587,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     100,
-    640.0,
-    'http://who.int/posuere/cubilia/curae/donec/pharetra/magna.js',
-    'PAGADA',
-    '1278995099'
+    932.72,
+    'http://hud.gov/quam/pede/lobortis/ligula/sit/amet/eleifend.aspx',
+    'CANCELADA',
+    '0628195931',
+    '09-Apr-2022'
 );
 
 INSERT INTO COMPRA (
@@ -1403,13 +1603,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     101,
-    172.07,
-    'https://sphinn.com/nullam/molestie/nibh.aspx',
+    887.61,
+    'https://gizmodo.com/velit/nec/nisi/vulputate/nonummy/maecenas.xml',
     'PAGADA',
-    '1278995099'
+    '1278995099',
+    '08-May-2022'
 );
 
 INSERT INTO COMPRA (
@@ -1417,13 +1619,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     102,
-    874.19,
-    'https://de.vu/vulputate.aspx',
+    803.45,
+    'http://prnewswire.com/faucibus/cursus/urna.json',
     'PAGADA',
-    '0628195931'
+    '0628195931',
+    '25-Aug-2022'
 );
 
 INSERT INTO COMPRA (
@@ -1431,13 +1635,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     103,
-    48.89,
-    'http://noaa.gov/ac/nibh/fusce.jsp',
-    'PAGADA',
-    '9031101052'
+    686.55,
+    'http://cocolog-nifty.com/pellentesque/volutpat/dui.json',
+    'CREADA',
+    '8792260616',
+    '31-Jul-2022'
 );
 
 INSERT INTO COMPRA (
@@ -1445,13 +1651,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     104,
-    763.28,
-    'https://house.gov/in/congue.json',
-    'CANCELADA',
-    '1278995099'
+    708.78,
+    'http://nbcnews.com/ut/odio.xml',
+    'PAGADA',
+    '3896442104',
+    '06-Jun-2022'
 );
 
 INSERT INTO COMPRA (
@@ -1459,13 +1667,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     105,
-    171.09,
-    'http://netvibes.com/faucibus/accumsan/odio/curabitur/convallis.jsp',
-    'CREADA',
-    '0628195931'
+    39.75,
+    'https://biglobe.ne.jp/non/interdum/in/ante/vestibulum.js',
+    'CANCELADA',
+    '9031101052',
+    '25-Jul-2022'
 );
 
 INSERT INTO COMPRA (
@@ -1473,13 +1683,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     106,
-    910.99,
-    'http://comsenz.com/sem/sed/sagittis/nam.html',
+    246.89,
+    'https://zdnet.com/sapien/cum/sociis/natoque/penatibus.aspx',
     'CREADA',
-    '3896442104'
+    '0628195931',
+    '08-Aug-2022'
 );
 
 INSERT INTO COMPRA (
@@ -1487,13 +1699,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     107,
-    234.06,
-    'https://shareasale.com/cursus/id/turpis/integer/aliquet/massa.aspx',
-    'CANCELADA',
-    '0628195931'
+    16.35,
+    'http://google.com/eu/massa/donec/dapibus.html',
+    'PAGADA',
+    '0628195931',
+    '27-Feb-2022'
 );
 
 INSERT INTO COMPRA (
@@ -1501,13 +1715,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     108,
-    534.97,
-    'https://mail.ru/suspendisse/potenti/cras/in.xml',
-    'CANCELADA',
-    '1278995099'
+    361.95,
+    'https://ibm.com/nulla/mollis/molestie/lorem/quisque/ut/erat.jpg',
+    'PAGADA',
+    '9031101052',
+    '31-Oct-2021'
 );
 
 INSERT INTO COMPRA (
@@ -1515,13 +1731,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     109,
-    18.21,
-    'https://house.gov/sem/sed/sagittis/nam/congue/risus/semper.xml',
+    62.84,
+    'https://eepurl.com/at/turpis/a/pede/posuere/nonummy.jsp',
     'CREADA',
-    '9031101052'
+    '3896442104',
+    '12-Mar-2022'
 );
 
 INSERT INTO COMPRA (
@@ -1529,13 +1747,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     110,
-    115.11,
-    'https://tiny.cc/sed/tincidunt/eu/felis/fusce/posuere.jpg',
+    900.73,
+    'https://lulu.com/quisque/id/justo/sit.xml',
     'CANCELADA',
-    '3896442104'
+    '8792260616',
+    '06-Jun-2022'
 );
 
 INSERT INTO COMPRA (
@@ -1543,13 +1763,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     111,
-    230.93,
-    'https://un.org/duis/consequat/dui.xml',
-    'CANCELADA',
-    '9031101052'
+    951.24,
+    'http://amazon.com/eget/congue.jsp',
+    'PAGADA',
+    '3896442104',
+    '13-May-2022'
 );
 
 INSERT INTO COMPRA (
@@ -1557,13 +1779,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     112,
-    68.47,
-    'http://aol.com/sodales/scelerisque/mauris/sit/amet/eros/suspendisse.json',
+    9.4,
+    'http://amazon.com/magna/vestibulum.js',
     'CANCELADA',
-    '8792260616'
+    '0628195931',
+    '15-Sep-2022'
 );
 
 INSERT INTO COMPRA (
@@ -1571,13 +1795,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     113,
-    290.25,
-    'https://printfriendly.com/euismod/scelerisque.html',
-    'CANCELADA',
-    '0628195931'
+    297.54,
+    'https://telegraph.co.uk/adipiscing/elit/proin.aspx',
+    'CREADA',
+    '8792260616',
+    '07-Aug-2022'
 );
 
 INSERT INTO COMPRA (
@@ -1585,13 +1811,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     114,
-    343.64,
-    'http://over-blog.com/sapien/placerat.json',
+    636.07,
+    'https://dailymotion.com/morbi/non/quam/nec.html',
     'PAGADA',
-    '1278995099'
+    '1278995099',
+    '03-Jan-2022'
 );
 
 INSERT INTO COMPRA (
@@ -1599,13 +1827,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     115,
-    52.44,
-    'http://sourceforge.net/dolor/sit/amet.json',
-    'PAGADA',
-    '9031101052'
+    533.96,
+    'https://sogou.com/justo/lacinia/eget/tincidunt.jsp',
+    'CANCELADA',
+    '8792260616',
+    '06-Mar-2022'
 );
 
 INSERT INTO COMPRA (
@@ -1613,13 +1843,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     116,
-    140.92,
-    'https://angelfire.com/eu.aspx',
+    636.68,
+    'https://usa.gov/pellentesque/eget/nunc/donec/quis/orci.png',
     'PAGADA',
-    '8792260616'
+    '9031101052',
+    '16-Apr-2022'
 );
 
 INSERT INTO COMPRA (
@@ -1627,13 +1859,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     117,
-    646.18,
-    'https://ca.gov/pellentesque/at.aspx',
-    'CANCELADA',
-    '3896442104'
+    567.72,
+    'https://hostgator.com/volutpat/eleifend/donec.png',
+    'CREADA',
+    '3896442104',
+    '17-Apr-2022'
 );
 
 INSERT INTO COMPRA (
@@ -1641,13 +1875,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     118,
-    898.36,
-    'http://springer.com/semper/interdum/mauris/ullamcorper/purus/sit.js',
-    'CREADA',
-    '0628195931'
+    918.2,
+    'https://artisteer.com/odio/donec/vitae/nisi/nam.aspx',
+    'PAGADA',
+    '3896442104',
+    '20-Aug-2022'
 );
 
 INSERT INTO COMPRA (
@@ -1655,13 +1891,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     119,
-    627.85,
-    'https://geocities.com/viverra/dapibus/nulla/suscipit/ligula.js',
+    685.77,
+    'http://nps.gov/commodo/vulputate/justo/in.js',
     'CANCELADA',
-    '1278995099'
+    '0628195931',
+    '12-Jun-2022'
 );
 
 INSERT INTO COMPRA (
@@ -1669,13 +1907,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     120,
-    719.88,
-    'https://miitbeian.gov.cn/in/congue.xml',
-    'CANCELADA',
-    '0628195931'
+    637.98,
+    'https://opensource.org/duis/bibendum.xml',
+    'PAGADA',
+    '1278995099',
+    '18-May-2022'
 );
 
 INSERT INTO COMPRA (
@@ -1683,13 +1923,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     121,
-    864.11,
-    'http://pcworld.com/dapibus/augue/vel/accumsan/tellus/nisi.js',
-    'CREADA',
-    '0628195931'
+    211.52,
+    'https://foxnews.com/tincidunt/ante/vel/ipsum/praesent/blandit.html',
+    'CANCELADA',
+    '8792260616',
+    '05-Jun-2022'
 );
 
 INSERT INTO COMPRA (
@@ -1697,13 +1939,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     122,
-    331.07,
-    'http://dedecms.com/quisque/porta/volutpat/erat/quisque/erat.jpg',
-    'CANCELADA',
-    '9031101052'
+    271.68,
+    'http://mit.edu/in/purus/eu/magna.jsp',
+    'PAGADA',
+    '9031101052',
+    '29-Sep-2022'
 );
 
 INSERT INTO COMPRA (
@@ -1711,13 +1955,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     123,
-    389.44,
-    'http://mysql.com/praesent/blandit/lacinia/erat/vestibulum/sed.json',
-    'PAGADA',
-    '1278995099'
+    87.33,
+    'https://woothemes.com/est/phasellus.aspx',
+    'CANCELADA',
+    '0628195931',
+    '09-Jul-2022'
 );
 
 INSERT INTO COMPRA (
@@ -1725,13 +1971,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     124,
-    801.56,
-    'http://wsj.com/at/lorem/integer/tincidunt.html',
+    609.74,
+    'http://yellowpages.com/commodo/placerat/praesent/blandit/nam/nulla.png',
     'PAGADA',
-    '3896442104'
+    '8792260616',
+    '17-Mar-2022'
 );
 
 INSERT INTO COMPRA (
@@ -1739,13 +1987,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     125,
-    852.13,
-    'https://auda.org.au/in/hac/habitasse/platea/dictumst/etiam/faucibus.xml',
-    'CREADA',
-    '9031101052'
+    885.76,
+    'https://virginia.edu/donec/posuere.aspx',
+    'CANCELADA',
+    '3896442104',
+    '21-Nov-2021'
 );
 
 INSERT INTO COMPRA (
@@ -1753,13 +2003,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     126,
-    427.06,
-    'https://aboutads.info/tellus/nisi/eu.png',
+    405.06,
+    'http://hexun.com/tincidunt.aspx',
     'CREADA',
-    '9031101052'
+    '0628195931',
+    '16-Nov-2021'
 );
 
 INSERT INTO COMPRA (
@@ -1767,13 +2019,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     127,
-    680.15,
-    'https://scribd.com/at/vulputate/vitae/nisl/aenean/lectus/pellentesque.xml',
-    'PAGADA',
-    '3896442104'
+    567.03,
+    'https://godaddy.com/faucibus/orci/luctus/et.png',
+    'CREADA',
+    '0628195931',
+    '27-Aug-2022'
 );
 
 INSERT INTO COMPRA (
@@ -1781,13 +2035,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     128,
-    483.89,
-    'https://statcounter.com/lacus/morbi/quis/tortor.html',
-    'CANCELADA',
-    '0628195931'
+    89.46,
+    'http://ucsd.edu/non/mauris/morbi/non.png',
+    'PAGADA',
+    '1278995099',
+    '24-Jun-2022'
 );
 
 INSERT INTO COMPRA (
@@ -1795,13 +2051,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     129,
-    907.68,
-    'http://bizjournals.com/pulvinar/lobortis/est/phasellus/sit/amet/erat.jsp',
-    'PAGADA',
-    '1278995099'
+    794.29,
+    'http://unesco.org/rhoncus/mauris.aspx',
+    'CANCELADA',
+    '0628195931',
+    '22-Aug-2022'
 );
 
 INSERT INTO COMPRA (
@@ -1809,13 +2067,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     130,
-    21.99,
-    'https://w3.org/accumsan/odio/curabitur/convallis/duis/consequat.xml',
+    28.68,
+    'http://ihg.com/ligula/nec.html',
     'CANCELADA',
-    '9031101052'
+    '0628195931',
+    '23-Oct-2021'
 );
 
 INSERT INTO COMPRA (
@@ -1823,13 +2083,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     131,
-    385.44,
-    'https://craigslist.org/habitasse/platea/dictumst/maecenas/ut/massa/quis.aspx',
-    'PAGADA',
-    '8792260616'
+    631.43,
+    'http://shinystat.com/montes.xml',
+    'CREADA',
+    '8792260616',
+    '23-Sep-2022'
 );
 
 INSERT INTO COMPRA (
@@ -1837,13 +2099,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     132,
-    74.35,
-    'https://wikia.com/sapien/non.aspx',
-    'PAGADA',
-    '0628195931'
+    249.93,
+    'https://amazon.co.uk/amet/consectetuer.html',
+    'CANCELADA',
+    '8792260616',
+    '22-Jan-2022'
 );
 
 INSERT INTO COMPRA (
@@ -1851,13 +2115,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     133,
-    916.73,
-    'https://cmu.edu/fermentum/justo/nec/condimentum/neque.png',
+    383.5,
+    'http://google.it/porta/volutpat/quam/pede/lobortis/ligula.png',
     'CREADA',
-    '8792260616'
+    '0628195931',
+    '18-Dec-2021'
 );
 
 INSERT INTO COMPRA (
@@ -1865,13 +2131,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     134,
-    179.91,
-    'https://java.com/pede/justo/lacinia/eget.js',
-    'CANCELADA',
-    '0628195931'
+    535.05,
+    'http://kickstarter.com/integer/a/nibh/in/quis/justo.html',
+    'PAGADA',
+    '9031101052',
+    '19-Sep-2022'
 );
 
 INSERT INTO COMPRA (
@@ -1879,13 +2147,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     135,
-    163.38,
-    'http://illinois.edu/lobortis.png',
-    'CANCELADA',
-    '1278995099'
+    660.95,
+    'http://businessinsider.com/aliquam/augue/quam/sollicitudin/vitae/consectetuer.jsp',
+    'PAGADA',
+    '3896442104',
+    '15-Feb-2022'
 );
 
 INSERT INTO COMPRA (
@@ -1893,13 +2163,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     136,
-    232.57,
-    'https://hugedomains.com/massa.json',
-    'CANCELADA',
-    '1278995099'
+    54.39,
+    'https://engadget.com/aliquam/augue/quam/sollicitudin.json',
+    'CREADA',
+    '3896442104',
+    '31-Jan-2022'
 );
 
 INSERT INTO COMPRA (
@@ -1907,13 +2179,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     137,
-    24.58,
-    'https://gmpg.org/venenatis/tristique/fusce/congue/diam/id.js',
-    'CREADA',
-    '9031101052'
+    199.45,
+    'https://123-reg.co.uk/pede/justo/lacinia/eget/tincidunt.aspx',
+    'CANCELADA',
+    '1278995099',
+    '27-Nov-2021'
 );
 
 INSERT INTO COMPRA (
@@ -1921,13 +2195,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     138,
-    203.16,
-    'http://shinystat.com/proin/interdum/mauris/non/ligula.jpg',
+    301.09,
+    'http://soup.io/imperdiet/sapien.png',
     'CANCELADA',
-    '0628195931'
+    '3896442104',
+    '15-Feb-2022'
 );
 
 INSERT INTO COMPRA (
@@ -1935,13 +2211,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     139,
-    449.16,
-    'https://hp.com/consequat/metus/sapien/ut/nunc.js',
+    13.61,
+    'https://slideshare.net/sem/praesent/id.jsp',
     'PAGADA',
-    '9031101052'
+    '8792260616',
+    '13-Mar-2022'
 );
 
 INSERT INTO COMPRA (
@@ -1949,13 +2227,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     140,
-    918.66,
-    'https://forbes.com/etiam/justo/etiam/pretium/iaculis/justo.json',
-    'CANCELADA',
-    '9031101052'
+    600.87,
+    'https://unblog.fr/dui/vel.aspx',
+    'CREADA',
+    '1278995099',
+    '20-Jan-2022'
 );
 
 INSERT INTO COMPRA (
@@ -1963,13 +2243,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     141,
-    738.17,
-    'http://omniture.com/nullam/porttitor/lacus/at/turpis.jsp',
-    'CREADA',
-    '8792260616'
+    697.17,
+    'https://auda.org.au/sed/sagittis/nam/congue/risus/semper/porta.jsp',
+    'PAGADA',
+    '0628195931',
+    '06-Feb-2022'
 );
 
 INSERT INTO COMPRA (
@@ -1977,13 +2259,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     142,
-    755.29,
-    'http://histats.com/amet/nulla/quisque.html',
+    980.81,
+    'https://ebay.com/porta/volutpat/erat/quisque/erat/eros.js',
     'PAGADA',
-    '8792260616'
+    '0628195931',
+    '11-Aug-2022'
 );
 
 INSERT INTO COMPRA (
@@ -1991,13 +2275,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     143,
-    539.41,
-    'https://squarespace.com/lacus/morbi/sem.png',
-    'PAGADA',
-    '9031101052'
+    290.75,
+    'http://reuters.com/hac/habitasse/platea/dictumst/maecenas/ut/massa.png',
+    'CANCELADA',
+    '3896442104',
+    '02-Dec-2021'
 );
 
 INSERT INTO COMPRA (
@@ -2005,13 +2291,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     144,
-    870.42,
-    'http://php.net/feugiat.jpg',
+    289.56,
+    'https://typepad.com/sapien/cursus/vestibulum/proin/eu/mi/nulla.js',
     'CREADA',
-    '0628195931'
+    '9031101052',
+    '11-Mar-2022'
 );
 
 INSERT INTO COMPRA (
@@ -2019,13 +2307,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     145,
-    797.18,
-    'http://stanford.edu/turpis/integer/aliquet.jpg',
-    'CREADA',
-    '0628195931'
+    984.17,
+    'https://blog.com/suspendisse/ornare/consequat.html',
+    'CANCELADA',
+    '0628195931',
+    '13-Feb-2022'
 );
 
 INSERT INTO COMPRA (
@@ -2033,13 +2323,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     146,
-    512.26,
-    'https://jiathis.com/volutpat.jpg',
+    565.7,
+    'http://columbia.edu/urna/ut/tellus.png',
     'CREADA',
-    '9031101052'
+    '8792260616',
+    '30-Sep-2022'
 );
 
 INSERT INTO COMPRA (
@@ -2047,13 +2339,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     147,
-    991.3,
-    'https://histats.com/rutrum/ac/lobortis/vel/dapibus/at/diam.aspx',
+    463.25,
+    'https://sohu.com/ullamcorper/augue.html',
     'CANCELADA',
-    '0628195931'
+    '0628195931',
+    '24-Jul-2022'
 );
 
 INSERT INTO COMPRA (
@@ -2061,13 +2355,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     148,
-    459.85,
-    'http://trellian.com/blandit.xml',
-    'PAGADA',
-    '9031101052'
+    421.53,
+    'https://wikipedia.org/tempus/vivamus/in/felis/eu.json',
+    'CREADA',
+    '0628195931',
+    '14-Jun-2022'
 );
 
 INSERT INTO COMPRA (
@@ -2075,13 +2371,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     149,
-    118.45,
-    'https://opera.com/eget/eros/elementum.jsp',
-    'CANCELADA',
-    '8792260616'
+    804.75,
+    'https://abc.net.au/orci/pede.html',
+    'CREADA',
+    '3896442104',
+    '04-Feb-2022'
 );
 
 INSERT INTO COMPRA (
@@ -2089,13 +2387,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     150,
-    197.16,
-    'https://youku.com/sit.xml',
+    755.59,
+    'http://123-reg.co.uk/sollicitudin/mi/sit/amet/lobortis/sapien/sapien.aspx',
     'CANCELADA',
-    '8792260616'
+    '9031101052',
+    '28-Jan-2022'
 );
 
 INSERT INTO COMPRA (
@@ -2103,13 +2403,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     151,
-    55.34,
-    'https://hhs.gov/vivamus.js',
-    'CREADA',
-    '3896442104'
+    880.39,
+    'https://cam.ac.uk/ipsum/dolor/sit/amet/consectetuer.json',
+    'PAGADA',
+    '9031101052',
+    '25-Sep-2022'
 );
 
 INSERT INTO COMPRA (
@@ -2117,13 +2419,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     152,
-    577.72,
-    'http://sina.com.cn/fusce/lacus/purus/aliquet/at/feugiat/non.jpg',
-    'CANCELADA',
-    '3896442104'
+    736.74,
+    'https://purevolume.com/velit.js',
+    'PAGADA',
+    '8792260616',
+    '02-Aug-2022'
 );
 
 INSERT INTO COMPRA (
@@ -2131,13 +2435,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     153,
-    521.17,
-    'http://mtv.com/vitae/mattis.xml',
-    'PAGADA',
-    '8792260616'
+    55.48,
+    'https://techcrunch.com/ultrices/posuere/cubilia/curae/donec/pharetra/magna.png',
+    'CREADA',
+    '9031101052',
+    '13-Dec-2021'
 );
 
 INSERT INTO COMPRA (
@@ -2145,13 +2451,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     154,
-    711.68,
-    'http://example.com/magna.js',
+    215.63,
+    'https://barnesandnoble.com/in/quam/fringilla/rhoncus/mauris.xml',
     'PAGADA',
-    '3896442104'
+    '9031101052',
+    '01-Sep-2022'
 );
 
 INSERT INTO COMPRA (
@@ -2159,13 +2467,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     155,
-    920.11,
-    'http://blogtalkradio.com/at/turpis/donec/posuere/metus.aspx',
-    'CANCELADA',
-    '0628195931'
+    387.0,
+    'http://arstechnica.com/nisl/duis/ac.html',
+    'PAGADA',
+    '1278995099',
+    '13-Mar-2022'
 );
 
 INSERT INTO COMPRA (
@@ -2173,13 +2483,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     156,
-    802.95,
-    'http://theglobeandmail.com/ultrices/posuere/cubilia/curae/duis/faucibus.aspx',
-    'CANCELADA',
-    '1278995099'
+    878.35,
+    'https://quantcast.com/sit/amet.aspx',
+    'PAGADA',
+    '8792260616',
+    '16-Aug-2022'
 );
 
 INSERT INTO COMPRA (
@@ -2187,13 +2499,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     157,
-    250.29,
-    'http://flavors.me/a/suscipit.xml',
-    'CANCELADA',
-    '3896442104'
+    88.23,
+    'http://vinaora.com/risus/auctor.js',
+    'CREADA',
+    '0628195931',
+    '03-Feb-2022'
 );
 
 INSERT INTO COMPRA (
@@ -2201,13 +2515,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     158,
-    363.22,
-    'http://dion.ne.jp/nullam/orci/pede/venenatis/non/sodales/sed.json',
-    'CREADA',
-    '9031101052'
+    880.7,
+    'https://bloglines.com/eu/mi/nulla/ac/enim/in.xml',
+    'CANCELADA',
+    '8792260616',
+    '02-Sep-2022'
 );
 
 INSERT INTO COMPRA (
@@ -2215,13 +2531,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     159,
-    146.75,
-    'https://dailymail.co.uk/aliquet/massa/id/lobortis/convallis/tortor.js',
-    'CANCELADA',
-    '0628195931'
+    109.68,
+    'https://discuz.net/lorem/ipsum/dolor.html',
+    'PAGADA',
+    '1278995099',
+    '18-Oct-2021'
 );
 
 INSERT INTO COMPRA (
@@ -2229,13 +2547,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     160,
-    763.02,
-    'https://cdc.gov/iaculis/justo/in/hac/habitasse/platea.json',
+    921.21,
+    'https://forbes.com/ut/nunc.xml',
     'PAGADA',
-    '3896442104'
+    '9031101052',
+    '02-Oct-2022'
 );
 
 INSERT INTO COMPRA (
@@ -2243,13 +2563,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     161,
-    980.13,
-    'http://about.me/posuere/cubilia/curae/mauris/viverra.html',
+    825.37,
+    'http://barnesandnoble.com/faucibus/accumsan/odio/curabitur.js',
     'PAGADA',
-    '9031101052'
+    '9031101052',
+    '14-Jul-2022'
 );
 
 INSERT INTO COMPRA (
@@ -2257,13 +2579,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     162,
-    379.61,
-    'https://smh.com.au/id/turpis/integer/aliquet.jpg',
-    'PAGADA',
-    '8792260616'
+    866.41,
+    'http://npr.org/cras/mi/pede.xml',
+    'CREADA',
+    '9031101052',
+    '29-Nov-2021'
 );
 
 INSERT INTO COMPRA (
@@ -2271,13 +2595,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     163,
-    185.81,
-    'https://taobao.com/nascetur/ridiculus/mus.json',
+    835.96,
+    'https://cbsnews.com/imperdiet/sapien/urna/pretium/nisl/ut/volutpat.aspx',
     'CREADA',
-    '0628195931'
+    '8792260616',
+    '11-Feb-2022'
 );
 
 INSERT INTO COMPRA (
@@ -2285,13 +2611,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     164,
-    201.86,
-    'https://sun.com/donec/ut/mauris.json',
-    'PAGADA',
-    '0628195931'
+    699.26,
+    'https://rambler.ru/sit/amet/diam/in/magna/bibendum.jsp',
+    'CREADA',
+    '3896442104',
+    '02-May-2022'
 );
 
 INSERT INTO COMPRA (
@@ -2299,13 +2627,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     165,
-    346.4,
-    'http://booking.com/fusce/lacus.json',
-    'CANCELADA',
-    '3896442104'
+    668.41,
+    'https://mtv.com/natoque/penatibus/et/magnis/dis/parturient/montes.html',
+    'PAGADA',
+    '1278995099',
+    '04-Sep-2022'
 );
 
 INSERT INTO COMPRA (
@@ -2313,13 +2643,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     166,
-    856.52,
-    'http://prweb.com/pede/lobortis/ligula/sit/amet/eleifend.xml',
+    753.82,
+    'https://independent.co.uk/platea/dictumst.xml',
     'CANCELADA',
-    '8792260616'
+    '9031101052',
+    '11-Nov-2021'
 );
 
 INSERT INTO COMPRA (
@@ -2327,13 +2659,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     167,
-    203.34,
-    'http://java.com/in/quam/fringilla/rhoncus/mauris/enim.xml',
+    220.64,
+    'http://moonfruit.com/ipsum/dolor/sit/amet/consectetuer.aspx',
     'CANCELADA',
-    '3896442104'
+    '1278995099',
+    '21-Oct-2021'
 );
 
 INSERT INTO COMPRA (
@@ -2341,13 +2675,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     168,
-    939.11,
-    'https://i2i.jp/eleifend/pede/libero/quis.png',
-    'CANCELADA',
-    '0628195931'
+    247.51,
+    'http://github.io/justo/maecenas.jpg',
+    'PAGADA',
+    '0628195931',
+    '25-Jul-2022'
 );
 
 INSERT INTO COMPRA (
@@ -2355,13 +2691,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     169,
-    668.92,
-    'https://shutterfly.com/quis/odio/consequat/varius/integer/ac.jpg',
-    'PAGADA',
-    '3896442104'
+    359.29,
+    'http://dell.com/ipsum/ac/tellus/semper/interdum.html',
+    'CANCELADA',
+    '0628195931',
+    '21-Nov-2021'
 );
 
 INSERT INTO COMPRA (
@@ -2369,13 +2707,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     170,
-    476.18,
-    'https://shinystat.com/morbi/quis/tortor/id/nulla.jpg',
+    625.18,
+    'https://xing.com/bibendum/morbi/non/quam/nec/dui.js',
     'CANCELADA',
-    '3896442104'
+    '9031101052',
+    '10-Apr-2022'
 );
 
 INSERT INTO COMPRA (
@@ -2383,13 +2723,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     171,
-    936.35,
-    'http://netlog.com/justo/sollicitudin/ut/suscipit/a/feugiat/et.png',
-    'CREADA',
-    '3896442104'
+    370.55,
+    'http://nba.com/rutrum/rutrum/neque/aenean.aspx',
+    'CANCELADA',
+    '1278995099',
+    '06-Sep-2022'
 );
 
 INSERT INTO COMPRA (
@@ -2397,13 +2739,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     172,
-    190.03,
-    'https://quantcast.com/et/magnis/dis/parturient.aspx',
-    'PAGADA',
-    '0628195931'
+    406.61,
+    'http://scientificamerican.com/vitae/nisi/nam/ultrices/libero/non.aspx',
+    'CANCELADA',
+    '9031101052',
+    '07-Feb-2022'
 );
 
 INSERT INTO COMPRA (
@@ -2411,13 +2755,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     173,
-    265.6,
-    'https://smugmug.com/ut/at/dolor/quis/odio.aspx',
-    'PAGADA',
-    '8792260616'
+    638.28,
+    'http://flickr.com/sapien.html',
+    'CANCELADA',
+    '9031101052',
+    '04-Dec-2021'
 );
 
 INSERT INTO COMPRA (
@@ -2425,13 +2771,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     174,
-    358.27,
-    'http://ning.com/eros/elementum/pellentesque/quisque/porta.jpg',
-    'CREADA',
-    '8792260616'
+    371.32,
+    'http://pbs.org/justo/nec/condimentum.jsp',
+    'CANCELADA',
+    '0628195931',
+    '13-Mar-2022'
 );
 
 INSERT INTO COMPRA (
@@ -2439,13 +2787,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     175,
-    378.04,
-    'https://privacy.gov.au/ante/nulla/justo/aliquam.jpg',
-    'CANCELADA',
-    '1278995099'
+    889.44,
+    'https://gnu.org/ligula/in/lacus/curabitur/at/ipsum.png',
+    'PAGADA',
+    '3896442104',
+    '10-Sep-2022'
 );
 
 INSERT INTO COMPRA (
@@ -2453,13 +2803,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     176,
-    936.01,
-    'http://nymag.com/sem/mauris/laoreet.json',
-    'CREADA',
-    '3896442104'
+    172.72,
+    'https://twitter.com/luctus/tincidunt/nulla/mollis/molestie.json',
+    'PAGADA',
+    '3896442104',
+    '15-Jan-2022'
 );
 
 INSERT INTO COMPRA (
@@ -2467,13 +2819,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     177,
-    394.79,
-    'https://sphinn.com/integer/tincidunt/ante/vel/ipsum.html',
-    'CANCELADA',
-    '1278995099'
+    967.69,
+    'http://prnewswire.com/nulla/neque/libero/convallis/eget/eleifend/luctus.html',
+    'CREADA',
+    '8792260616',
+    '01-Jun-2022'
 );
 
 INSERT INTO COMPRA (
@@ -2481,13 +2835,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     178,
-    491.42,
-    'https://cnbc.com/vestibulum/ante/ipsum/primis/in/faucibus.xml',
-    'CREADA',
-    '0628195931'
+    24.31,
+    'https://tinyurl.com/quam/a/odio.jsp',
+    'PAGADA',
+    '0628195931',
+    '12-Jun-2022'
 );
 
 INSERT INTO COMPRA (
@@ -2495,13 +2851,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     179,
-    195.83,
-    'https://addthis.com/tortor/eu.png',
+    232.76,
+    'http://google.co.jp/posuere/felis/sed.xml',
     'CREADA',
-    '3896442104'
+    '8792260616',
+    '17-Jul-2022'
 );
 
 INSERT INTO COMPRA (
@@ -2509,13 +2867,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     180,
-    915.78,
-    'http://mail.ru/sed/ante.jsp',
-    'CANCELADA',
-    '9031101052'
+    547.34,
+    'http://seesaa.net/tortor/risus/dapibus.jsp',
+    'CREADA',
+    '3896442104',
+    '14-Mar-2022'
 );
 
 INSERT INTO COMPRA (
@@ -2523,13 +2883,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     181,
-    150.89,
-    'https://eventbrite.com/aliquam.jsp',
-    'CREADA',
-    '3896442104'
+    897.03,
+    'http://dion.ne.jp/at/nulla/suspendisse/potenti/cras/in.jpg',
+    'PAGADA',
+    '8792260616',
+    '18-Jul-2022'
 );
 
 INSERT INTO COMPRA (
@@ -2537,13 +2899,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     182,
-    711.36,
-    'https://netvibes.com/duis/bibendum/morbi/non/quam/nec/dui.xml',
-    'CREADA',
-    '3896442104'
+    189.59,
+    'http://theatlantic.com/nec/nisi.js',
+    'PAGADA',
+    '1278995099',
+    '17-Dec-2021'
 );
 
 INSERT INTO COMPRA (
@@ -2551,13 +2915,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     183,
-    471.47,
-    'http://latimes.com/convallis/morbi/odio/odio/elementum.png',
-    'PAGADA',
-    '9031101052'
+    14.91,
+    'http://wordpress.org/in/hac/habitasse.js',
+    'CREADA',
+    '1278995099',
+    '03-Mar-2022'
 );
 
 INSERT INTO COMPRA (
@@ -2565,13 +2931,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     184,
-    314.79,
-    'http://usa.gov/et/eros.html',
-    'PAGADA',
-    '0628195931'
+    601.19,
+    'https://reverbnation.com/duis/faucibus.js',
+    'CREADA',
+    '8792260616',
+    '04-Apr-2022'
 );
 
 INSERT INTO COMPRA (
@@ -2579,13 +2947,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     185,
-    633.49,
-    'http://smugmug.com/at/velit/vivamus/vel/nulla/eget/eros.jpg',
-    'PAGADA',
-    '9031101052'
+    142.83,
+    'https://umich.edu/vestibulum/ante/ipsum/primis.jpg',
+    'CANCELADA',
+    '8792260616',
+    '26-Aug-2022'
 );
 
 INSERT INTO COMPRA (
@@ -2593,13 +2963,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     186,
-    982.84,
-    'https://nationalgeographic.com/nisl/ut/volutpat/sapien/arcu/sed/augue.xml',
-    'PAGADA',
-    '0628195931'
+    271.75,
+    'https://reuters.com/eleifend/donec/ut/dolor.jsp',
+    'CANCELADA',
+    '0628195931',
+    '21-Mar-2022'
 );
 
 INSERT INTO COMPRA (
@@ -2607,13 +2979,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     187,
-    477.32,
-    'https://comsenz.com/eget/nunc/donec/quis/orci/eget.xml',
-    'CANCELADA',
-    '9031101052'
+    980.72,
+    'https://geocities.jp/orci.jpg',
+    'CREADA',
+    '3896442104',
+    '07-Mar-2022'
 );
 
 INSERT INTO COMPRA (
@@ -2621,13 +2995,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     188,
-    190.17,
-    'https://mozilla.org/nisl/nunc/rhoncus/dui/vel/sem/sed.png',
+    983.15,
+    'http://gnu.org/ut/rhoncus/aliquet/pulvinar/sed/nisl/nunc.png',
     'PAGADA',
-    '8792260616'
+    '3896442104',
+    '28-Dec-2021'
 );
 
 INSERT INTO COMPRA (
@@ -2635,13 +3011,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     189,
-    266.05,
-    'http://washington.edu/est/donec.jsp',
+    386.62,
+    'https://guardian.co.uk/faucibus/orci/luctus.jpg',
     'CREADA',
-    '0628195931'
+    '1278995099',
+    '19-Feb-2022'
 );
 
 INSERT INTO COMPRA (
@@ -2649,13 +3027,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     190,
-    410.12,
-    'https://umn.edu/etiam/pretium/iaculis/justo/in.jpg',
+    817.92,
+    'https://ehow.com/eget/tincidunt/eget/tempus/vel.js',
     'CREADA',
-    '1278995099'
+    '8792260616',
+    '21-Jul-2022'
 );
 
 INSERT INTO COMPRA (
@@ -2663,13 +3043,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     191,
-    761.86,
-    'https://nasa.gov/convallis/duis/consequat/dui/nec.js',
-    'CANCELADA',
-    '3896442104'
+    820.21,
+    'http://wiley.com/mi.js',
+    'PAGADA',
+    '1278995099',
+    '23-Mar-2022'
 );
 
 INSERT INTO COMPRA (
@@ -2677,13 +3059,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     192,
-    96.88,
-    'https://webnode.com/quam/turpis/adipiscing/lorem.jpg',
+    712.06,
+    'http://ebay.com/vestibulum/rutrum/rutrum/neque/aenean.jpg',
     'PAGADA',
-    '9031101052'
+    '3896442104',
+    '22-Feb-2022'
 );
 
 INSERT INTO COMPRA (
@@ -2691,13 +3075,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     193,
-    304.66,
-    'http://tamu.edu/curae/donec/pharetra/magna/vestibulum.jpg',
-    'PAGADA',
-    '9031101052'
+    671.75,
+    'https://abc.net.au/nulla/pede/ullamcorper/augue/a.json',
+    'CANCELADA',
+    '8792260616',
+    '03-Oct-2022'
 );
 
 INSERT INTO COMPRA (
@@ -2705,13 +3091,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     194,
-    505.54,
-    'http://uiuc.edu/eleifend/donec/ut/dolor/morbi/vel/lectus.html',
-    'CREADA',
-    '8792260616'
+    31.58,
+    'http://adobe.com/pharetra/magna/vestibulum/aliquet/ultrices/erat.xml',
+    'CANCELADA',
+    '8792260616',
+    '16-Oct-2022'
 );
 
 INSERT INTO COMPRA (
@@ -2719,13 +3107,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     195,
-    731.03,
-    'https://imageshack.us/quis/turpis/sed.html',
-    'PAGADA',
-    '0628195931'
+    960.26,
+    'https://marketwatch.com/at/turpis/donec/posuere/metus.js',
+    'CANCELADA',
+    '1278995099',
+    '10-Jun-2022'
 );
 
 INSERT INTO COMPRA (
@@ -2733,13 +3123,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     196,
-    408.65,
-    'https://nba.com/in.aspx',
-    'CANCELADA',
-    '3896442104'
+    865.65,
+    'http://list-manage.com/nibh/in/quis/justo/maecenas/rhoncus.js',
+    'PAGADA',
+    '8792260616',
+    '10-Aug-2022'
 );
 
 INSERT INTO COMPRA (
@@ -2747,13 +3139,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     197,
-    710.84,
-    'http://altervista.org/nullam/sit/amet/turpis.js',
-    'PAGADA',
-    '1278995099'
+    996.57,
+    'http://so-net.ne.jp/fermentum/donec/ut.jsp',
+    'CREADA',
+    '3896442104',
+    '22-Sep-2022'
 );
 
 INSERT INTO COMPRA (
@@ -2761,13 +3155,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     198,
-    64.66,
-    'http://huffingtonpost.com/ut/tellus/nulla.js',
-    'CANCELADA',
-    '9031101052'
+    644.07,
+    'http://washington.edu/penatibus.aspx',
+    'PAGADA',
+    '0628195931',
+    '27-Jul-2022'
 );
 
 INSERT INTO COMPRA (
@@ -2775,13 +3171,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     199,
-    872.11,
-    'http://gov.uk/varius/ut/blandit/non/interdum/in.jsp',
+    999.3,
+    'http://senate.gov/morbi/a/ipsum.json',
     'CANCELADA',
-    '0628195931'
+    '0628195931',
+    '29-Aug-2022'
 );
 
 INSERT INTO COMPRA (
@@ -2789,13 +3187,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     200,
-    511.05,
-    'http://msn.com/sit/amet/nulla.html',
-    'CREADA',
-    '8792260616'
+    841.92,
+    'http://yale.edu/vitae/nisi.json',
+    'PAGADA',
+    '9031101052',
+    '30-Aug-2022'
 );
 
 INSERT INTO COMPRA (
@@ -2803,13 +3203,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     201,
-    677.78,
-    'https://deviantart.com/posuere/nonummy/integer/non/velit.xml',
-    'CANCELADA',
-    '0628195931'
+    495.39,
+    'http://huffingtonpost.com/nam/congue/risus.js',
+    'PAGADA',
+    '1278995099',
+    '02-Jul-2022'
 );
 
 INSERT INTO COMPRA (
@@ -2817,13 +3219,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     202,
-    710.86,
-    'http://java.com/cum/sociis/natoque/penatibus/et/magnis/dis.aspx',
-    'PAGADA',
-    '8792260616'
+    75.91,
+    'http://mediafire.com/volutpat/in/congue.aspx',
+    'CANCELADA',
+    '8792260616',
+    '08-Jul-2022'
 );
 
 INSERT INTO COMPRA (
@@ -2831,13 +3235,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     203,
-    123.97,
-    'https://oracle.com/in/sagittis.xml',
-    'CANCELADA',
-    '9031101052'
+    254.58,
+    'https://nationalgeographic.com/cras.xml',
+    'PAGADA',
+    '8792260616',
+    '28-Jul-2022'
 );
 
 INSERT INTO COMPRA (
@@ -2845,13 +3251,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     204,
-    787.89,
-    'http://wikia.com/tristique/fusce/congue/diam/id/ornare.jpg',
+    558.72,
+    'http://kickstarter.com/odio/curabitur/convallis/duis.jpg',
     'CANCELADA',
-    '8792260616'
+    '0628195931',
+    '09-Dec-2021'
 );
 
 INSERT INTO COMPRA (
@@ -2859,13 +3267,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     205,
-    857.75,
-    'https://chronoengine.com/fermentum/donec/ut/mauris/eget/massa/tempor.json',
-    'CREADA',
-    '1278995099'
+    969.97,
+    'https://feedburner.com/ut/massa/quis/augue.xml',
+    'CANCELADA',
+    '1278995099',
+    '24-Sep-2022'
 );
 
 INSERT INTO COMPRA (
@@ -2873,13 +3283,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     206,
-    852.55,
-    'https://gizmodo.com/congue/diam/id/ornare/imperdiet/sapien.jsp',
-    'CREADA',
-    '3896442104'
+    655.31,
+    'https://va.gov/mattis/egestas/metus.jsp',
+    'PAGADA',
+    '1278995099',
+    '20-Nov-2021'
 );
 
 INSERT INTO COMPRA (
@@ -2887,13 +3299,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     207,
-    208.53,
-    'https://google.es/odio/consequat/varius/integer/ac/leo.jpg',
+    344.62,
+    'http://sakura.ne.jp/maecenas/tincidunt/lacus/at/velit/vivamus.png',
     'CREADA',
-    '3896442104'
+    '9031101052',
+    '28-Jan-2022'
 );
 
 INSERT INTO COMPRA (
@@ -2901,13 +3315,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     208,
-    999.38,
-    'https://phpbb.com/ligula/in/lacus/curabitur.png',
+    81.11,
+    'https://craigslist.org/sapien/non.aspx',
     'PAGADA',
-    '3896442104'
+    '8792260616',
+    '29-Sep-2022'
 );
 
 INSERT INTO COMPRA (
@@ -2915,13 +3331,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     209,
-    342.84,
-    'https://patch.com/in/lectus/pellentesque/at.jpg',
+    763.69,
+    'http://irs.gov/consequat.xml',
     'PAGADA',
-    '8792260616'
+    '1278995099',
+    '29-Oct-2021'
 );
 
 INSERT INTO COMPRA (
@@ -2929,13 +3347,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     210,
-    434.05,
-    'https://google.cn/tincidunt/eget/tempus/vel/pede/morbi/porttitor.jpg',
+    25.75,
+    'http://chronoengine.com/ultrices/mattis/odio/donec/vitae/nisi.jsp',
     'CANCELADA',
-    '9031101052'
+    '9031101052',
+    '11-Sep-2022'
 );
 
 INSERT INTO COMPRA (
@@ -2943,13 +3363,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     211,
-    783.33,
-    'http://uiuc.edu/metus/arcu/adipiscing/molestie.jsp',
-    'PAGADA',
-    '8792260616'
+    784.14,
+    'http://taobao.com/sapien/iaculis/congue.xml',
+    'CANCELADA',
+    '1278995099',
+    '05-Jun-2022'
 );
 
 INSERT INTO COMPRA (
@@ -2957,13 +3379,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     212,
-    345.6,
-    'http://godaddy.com/in/lacus/curabitur/at/ipsum.jpg',
-    'CANCELADA',
-    '0628195931'
+    969.54,
+    'http://uol.com.br/est/phasellus/sit/amet/erat/nulla.xml',
+    'CREADA',
+    '1278995099',
+    '26-Jul-2022'
 );
 
 INSERT INTO COMPRA (
@@ -2971,13 +3395,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     213,
-    725.9,
-    'https://prweb.com/nibh.html',
+    288.77,
+    'http://sciencedirect.com/a/suscipit/nulla/elit/ac/nulla/sed.xml',
     'PAGADA',
-    '8792260616'
+    '9031101052',
+    '16-Aug-2022'
 );
 
 INSERT INTO COMPRA (
@@ -2985,13 +3411,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     214,
-    156.2,
-    'http://github.com/sit/amet/erat.json',
-    'PAGADA',
-    '3896442104'
+    579.03,
+    'http://discovery.com/dis/parturient.html',
+    'CREADA',
+    '8792260616',
+    '26-Aug-2022'
 );
 
 INSERT INTO COMPRA (
@@ -2999,13 +3427,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     215,
-    929.9,
-    'https://ted.com/enim/lorem/ipsum/dolor/sit/amet/consectetuer.js',
-    'CANCELADA',
-    '1278995099'
+    221.23,
+    'http://goodreads.com/quis/lectus/suspendisse/potenti/in/eleifend/quam.html',
+    'CREADA',
+    '0628195931',
+    '22-Nov-2021'
 );
 
 INSERT INTO COMPRA (
@@ -3013,13 +3443,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     216,
-    926.15,
-    'http://hhs.gov/arcu/sed/augue.aspx',
-    'CREADA',
-    '0628195931'
+    760.28,
+    'https://noaa.gov/amet/lobortis/sapien/sapien/non.aspx',
+    'PAGADA',
+    '9031101052',
+    '05-Nov-2021'
 );
 
 INSERT INTO COMPRA (
@@ -3027,13 +3459,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     217,
-    27.21,
-    'http://sfgate.com/pretium.png',
+    413.95,
+    'https://java.com/mus/vivamus/vestibulum/sagittis/sapien.aspx',
     'PAGADA',
-    '9031101052'
+    '1278995099',
+    '29-Oct-2021'
 );
 
 INSERT INTO COMPRA (
@@ -3041,13 +3475,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     218,
-    498.83,
-    'https://arstechnica.com/porta/volutpat/erat/quisque/erat/eros/viverra.xml',
-    'CREADA',
-    '0628195931'
+    387.65,
+    'https://kickstarter.com/tempor.aspx',
+    'CANCELADA',
+    '0628195931',
+    '28-Jun-2022'
 );
 
 INSERT INTO COMPRA (
@@ -3055,13 +3491,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     219,
-    662.39,
-    'http://123-reg.co.uk/curabitur.jsp',
+    465.31,
+    'https://sitemeter.com/sit/amet/lobortis.png',
     'CREADA',
-    '0628195931'
+    '0628195931',
+    '15-Jun-2022'
 );
 
 INSERT INTO COMPRA (
@@ -3069,13 +3507,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     220,
-    993.55,
-    'http://prweb.com/proin/at/turpis/a/pede/posuere.js',
-    'CANCELADA',
-    '0628195931'
+    292.9,
+    'https://github.com/cras/in/purus.json',
+    'CREADA',
+    '8792260616',
+    '20-Nov-2021'
 );
 
 INSERT INTO COMPRA (
@@ -3083,13 +3523,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     221,
-    503.29,
-    'https://reverbnation.com/nulla/suspendisse/potenti/cras.png',
+    55.58,
+    'http://theatlantic.com/massa/volutpat/convallis/morbi/odio.aspx',
     'CREADA',
-    '1278995099'
+    '8792260616',
+    '19-Apr-2022'
 );
 
 INSERT INTO COMPRA (
@@ -3097,13 +3539,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     222,
-    970.18,
-    'https://exblog.jp/parturient/montes/nascetur/ridiculus/mus.jpg',
-    'CANCELADA',
-    '0628195931'
+    330.22,
+    'http://eepurl.com/id/lobortis.html',
+    'CREADA',
+    '8792260616',
+    '13-Jun-2022'
 );
 
 INSERT INTO COMPRA (
@@ -3111,13 +3555,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     223,
-    300.11,
-    'https://guardian.co.uk/quisque.jsp',
-    'CANCELADA',
-    '3896442104'
+    981.8,
+    'http://behance.net/morbi.js',
+    'PAGADA',
+    '8792260616',
+    '04-May-2022'
 );
 
 INSERT INTO COMPRA (
@@ -3125,13 +3571,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     224,
-    460.22,
-    'https://simplemachines.org/consequat/in.json',
+    916.46,
+    'http://dell.com/ut.xml',
     'CANCELADA',
-    '8792260616'
+    '3896442104',
+    '12-Jan-2022'
 );
 
 INSERT INTO COMPRA (
@@ -3139,13 +3587,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     225,
-    828.89,
-    'http://edublogs.org/augue.aspx',
-    'CANCELADA',
-    '8792260616'
+    598.71,
+    'https://gizmodo.com/turpis/elementum/ligula.html',
+    'PAGADA',
+    '0628195931',
+    '01-Mar-2022'
 );
 
 INSERT INTO COMPRA (
@@ -3153,13 +3603,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     226,
-    456.8,
-    'http://discuz.net/nisl.png',
+    933.86,
+    'https://google.ca/elementum.aspx',
     'CREADA',
-    '1278995099'
+    '1278995099',
+    '21-Nov-2021'
 );
 
 INSERT INTO COMPRA (
@@ -3167,13 +3619,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     227,
-    591.65,
-    'http://icio.us/lobortis/convallis/tortor/risus/dapibus.jsp',
-    'CANCELADA',
-    '1278995099'
+    195.11,
+    'http://gravatar.com/leo/odio/condimentum/id/luctus/nec/molestie.aspx',
+    'CREADA',
+    '1278995099',
+    '17-Oct-2021'
 );
 
 INSERT INTO COMPRA (
@@ -3181,13 +3635,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     228,
-    39.12,
-    'https://google.ca/ipsum/praesent/blandit/lacinia/erat/vestibulum/sed.js',
-    'PAGADA',
-    '9031101052'
+    669.29,
+    'http://issuu.com/lacinia.jpg',
+    'CREADA',
+    '3896442104',
+    '23-Jun-2022'
 );
 
 INSERT INTO COMPRA (
@@ -3195,13 +3651,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     229,
-    64.06,
-    'https://goo.gl/venenatis/non/sodales/sed/tincidunt/eu/felis.aspx',
+    895.1,
+    'http://webeden.co.uk/turpis/elementum/ligula/vehicula.png',
     'CREADA',
-    '8792260616'
+    '9031101052',
+    '16-Nov-2021'
 );
 
 INSERT INTO COMPRA (
@@ -3209,13 +3667,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     230,
-    898.19,
-    'https://about.com/non/sodales/sed/tincidunt/eu/felis/fusce.jpg',
-    'PAGADA',
-    '8792260616'
+    526.84,
+    'https://senate.gov/mi/pede/malesuada/in/imperdiet/et/commodo.json',
+    'CANCELADA',
+    '8792260616',
+    '03-Aug-2022'
 );
 
 INSERT INTO COMPRA (
@@ -3223,13 +3683,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     231,
-    605.45,
-    'http://sogou.com/nulla/quisque.xml',
-    'CREADA',
-    '1278995099'
+    993.47,
+    'http://topsy.com/primis/in/faucibus/orci/luctus/et.json',
+    'PAGADA',
+    '1278995099',
+    '15-May-2022'
 );
 
 INSERT INTO COMPRA (
@@ -3237,13 +3699,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     232,
-    519.54,
-    'https://mapy.cz/ut/dolor/morbi.html',
-    'CANCELADA',
-    '1278995099'
+    587.19,
+    'http://redcross.org/risus.jpg',
+    'CREADA',
+    '1278995099',
+    '12-Nov-2021'
 );
 
 INSERT INTO COMPRA (
@@ -3251,13 +3715,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     233,
-    336.53,
-    'http://webnode.com/integer/ac/leo/pellentesque/ultrices.jpg',
-    'PAGADA',
-    '3896442104'
+    10.09,
+    'http://tiny.cc/volutpat.jsp',
+    'CREADA',
+    '3896442104',
+    '12-Mar-2022'
 );
 
 INSERT INTO COMPRA (
@@ -3265,13 +3731,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     234,
-    663.85,
-    'http://mashable.com/purus.png',
-    'CREADA',
-    '3896442104'
+    51.37,
+    'https://discuz.net/integer/pede/justo/lacinia/eget/tincidunt.json',
+    'CANCELADA',
+    '9031101052',
+    '02-May-2022'
 );
 
 INSERT INTO COMPRA (
@@ -3279,13 +3747,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     235,
-    608.34,
-    'https://hubpages.com/justo.jpg',
-    'PAGADA',
-    '9031101052'
+    844.63,
+    'http://facebook.com/sem/sed/sagittis/nam/congue.jpg',
+    'CREADA',
+    '8792260616',
+    '06-May-2022'
 );
 
 INSERT INTO COMPRA (
@@ -3293,13 +3763,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     236,
-    80.53,
-    'http://fema.gov/ut/massa/volutpat/convallis/morbi.js',
-    'PAGADA',
-    '8792260616'
+    140.42,
+    'http://shinystat.com/in/est/risus/auctor/sed/tristique.html',
+    'CREADA',
+    '3896442104',
+    '18-Apr-2022'
 );
 
 INSERT INTO COMPRA (
@@ -3307,13 +3779,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     237,
-    305.56,
-    'http://seattletimes.com/convallis/duis/consequat/dui/nec/nisi.jsp',
+    66.8,
+    'http://t-online.de/odio/odio/elementum.jpg',
     'CANCELADA',
-    '8792260616'
+    '9031101052',
+    '19-Dec-2021'
 );
 
 INSERT INTO COMPRA (
@@ -3321,13 +3795,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     238,
-    528.92,
-    'http://abc.net.au/a.xml',
-    'PAGADA',
-    '0628195931'
+    887.11,
+    'https://wp.com/eu/interdum/eu/tincidunt/in.jpg',
+    'CANCELADA',
+    '0628195931',
+    '04-Nov-2021'
 );
 
 INSERT INTO COMPRA (
@@ -3335,13 +3811,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     239,
-    587.16,
-    'https://tiny.cc/vehicula/condimentum/curabitur/in/libero/ut/massa.jsp',
+    274.03,
+    'https://weebly.com/lorem/vitae.js',
     'PAGADA',
-    '8792260616'
+    '1278995099',
+    '13-Dec-2021'
 );
 
 INSERT INTO COMPRA (
@@ -3349,13 +3827,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     240,
-    302.15,
-    'http://fema.gov/pellentesque/ultrices/mattis/odio.html',
-    'PAGADA',
-    '9031101052'
+    574.96,
+    'https://altervista.org/quam/nec/dui/luctus/rutrum/nulla/tellus.html',
+    'CREADA',
+    '8792260616',
+    '24-Mar-2022'
 );
 
 INSERT INTO COMPRA (
@@ -3363,13 +3843,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     241,
-    929.4,
-    'http://va.gov/quam/turpis/adipiscing/lorem.jpg',
-    'CANCELADA',
-    '1278995099'
+    765.47,
+    'https://twitter.com/ipsum/dolor/sit/amet.html',
+    'CREADA',
+    '8792260616',
+    '01-Apr-2022'
 );
 
 INSERT INTO COMPRA (
@@ -3377,13 +3859,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     242,
-    534.25,
-    'http://salon.com/mi/nulla/ac/enim/in.html',
-    'PAGADA',
-    '8792260616'
+    229.53,
+    'http://vistaprint.com/posuere/cubilia/curae/donec.jpg',
+    'CREADA',
+    '1278995099',
+    '27-Aug-2022'
 );
 
 INSERT INTO COMPRA (
@@ -3391,13 +3875,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     243,
-    408.38,
-    'https://imageshack.us/accumsan/felis/ut/at.png',
+    630.1,
+    'https://symantec.com/risus/dapibus/augue/vel.json',
     'PAGADA',
-    '0628195931'
+    '0628195931',
+    '12-Jan-2022'
 );
 
 INSERT INTO COMPRA (
@@ -3405,13 +3891,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     244,
-    632.26,
-    'https://intel.com/tristique.json',
-    'CANCELADA',
-    '1278995099'
+    328.93,
+    'https://tripod.com/metus/vitae/ipsum/aliquam/non.jpg',
+    'CREADA',
+    '8792260616',
+    '04-Nov-2021'
 );
 
 INSERT INTO COMPRA (
@@ -3419,13 +3907,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     245,
-    339.25,
-    'https://mozilla.com/metus.png',
-    'CANCELADA',
-    '1278995099'
+    676.25,
+    'https://ed.gov/tellus/nisi/eu/orci.json',
+    'PAGADA',
+    '1278995099',
+    '01-Apr-2022'
 );
 
 INSERT INTO COMPRA (
@@ -3433,13 +3923,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     246,
-    93.73,
-    'http://vk.com/et/commodo/vulputate.xml',
-    'PAGADA',
-    '0628195931'
+    959.09,
+    'http://clickbank.net/a/pede/posuere/nonummy.jpg',
+    'CANCELADA',
+    '0628195931',
+    '17-Jan-2022'
 );
 
 INSERT INTO COMPRA (
@@ -3447,13 +3939,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     247,
-    65.03,
-    'http://forbes.com/turpis/sed/ante/vivamus/tortor/duis/mattis.json',
-    'CREADA',
-    '8792260616'
+    937.14,
+    'https://china.com.cn/vivamus/vestibulum/sagittis/sapien/cum.js',
+    'CANCELADA',
+    '0628195931',
+    '02-Dec-2021'
 );
 
 INSERT INTO COMPRA (
@@ -3461,13 +3955,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     248,
-    115.36,
-    'http://nytimes.com/accumsan/felis/ut/at/dolor/quis.png',
-    'CREADA',
-    '8792260616'
+    259.47,
+    'https://mtv.com/sapien/sapien/non/mi/integer.aspx',
+    'PAGADA',
+    '0628195931',
+    '01-Jan-2022'
 );
 
 INSERT INTO COMPRA (
@@ -3475,13 +3971,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     249,
-    779.14,
-    'http://vistaprint.com/tellus/semper/interdum.xml',
-    'CANCELADA',
-    '3896442104'
+    276.44,
+    'https://merriam-webster.com/magna/ac/consequat/metus/sapien/ut/nunc.png',
+    'CREADA',
+    '3896442104',
+    '19-Mar-2022'
 );
 
 INSERT INTO COMPRA (
@@ -3489,13 +3987,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     250,
-    419.87,
-    'https://statcounter.com/mauris/lacinia/sapien/quis.png',
-    'CREADA',
-    '9031101052'
+    825.0,
+    'http://webnode.com/sem/fusce/consequat.jpg',
+    'PAGADA',
+    '0628195931',
+    '21-Dec-2021'
 );
 
 INSERT INTO COMPRA (
@@ -3503,13 +4003,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     251,
-    240.74,
-    'https://histats.com/nascetur/ridiculus/mus/etiam/vel/augue.html',
-    'PAGADA',
-    '1278995099'
+    983.63,
+    'https://ycombinator.com/lectus.aspx',
+    'CREADA',
+    '0628195931',
+    '16-Jul-2022'
 );
 
 INSERT INTO COMPRA (
@@ -3517,13 +4019,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     252,
-    412.59,
-    'http://deviantart.com/lobortis/sapien/sapien/non/mi/integer.aspx',
-    'PAGADA',
-    '8792260616'
+    798.1,
+    'http://webmd.com/erat/volutpat/in/congue/etiam/justo/etiam.png',
+    'CREADA',
+    '3896442104',
+    '15-Aug-2022'
 );
 
 INSERT INTO COMPRA (
@@ -3531,13 +4035,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     253,
-    387.57,
-    'https://disqus.com/lectus/in/est/risus/auctor.aspx',
-    'CREADA',
-    '3896442104'
+    608.32,
+    'http://ifeng.com/quis/turpis/eget.html',
+    'PAGADA',
+    '1278995099',
+    '04-May-2022'
 );
 
 INSERT INTO COMPRA (
@@ -3545,13 +4051,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     254,
-    517.08,
-    'http://opensource.org/platea/dictumst/aliquam/augue.json',
-    'PAGADA',
-    '9031101052'
+    207.39,
+    'http://friendfeed.com/aliquet/massa/id/lobortis/convallis/tortor/risus.html',
+    'CREADA',
+    '8792260616',
+    '21-Sep-2022'
 );
 
 INSERT INTO COMPRA (
@@ -3559,13 +4067,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     255,
-    808.38,
-    'http://feedburner.com/metus/sapien/ut/nunc/vestibulum/ante.aspx',
+    653.22,
+    'http://sakura.ne.jp/congue/diam/id.xml',
     'CANCELADA',
-    '3896442104'
+    '8792260616',
+    '08-Mar-2022'
 );
 
 INSERT INTO COMPRA (
@@ -3573,13 +4083,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     256,
-    952.28,
-    'https://reverbnation.com/sapien/cum.html',
-    'CREADA',
-    '3896442104'
+    621.34,
+    'http://ft.com/rhoncus/sed/vestibulum/sit/amet/cursus/id.png',
+    'CANCELADA',
+    '9031101052',
+    '08-Jan-2022'
 );
 
 INSERT INTO COMPRA (
@@ -3587,13 +4099,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     257,
-    907.9,
-    'http://ebay.co.uk/condimentum/curabitur/in/libero/ut/massa/volutpat.aspx',
-    'PAGADA',
-    '3896442104'
+    291.92,
+    'http://nature.com/vivamus/in.jsp',
+    'CANCELADA',
+    '1278995099',
+    '21-Jul-2022'
 );
 
 INSERT INTO COMPRA (
@@ -3601,13 +4115,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     258,
-    963.41,
-    'https://com.com/quam/nec/dui/luctus/rutrum.js',
-    'PAGADA',
-    '9031101052'
+    254.18,
+    'http://geocities.jp/non/ligula/pellentesque/ultrices/phasellus/id/sapien.html',
+    'CANCELADA',
+    '9031101052',
+    '13-Jun-2022'
 );
 
 INSERT INTO COMPRA (
@@ -3615,13 +4131,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     259,
-    651.64,
-    'https://cbslocal.com/suspendisse/potenti/cras/in/purus/eu.json',
-    'PAGADA',
-    '3896442104'
+    425.1,
+    'https://berkeley.edu/vel/sem/sed/sagittis/nam.png',
+    'CANCELADA',
+    '0628195931',
+    '13-Feb-2022'
 );
 
 INSERT INTO COMPRA (
@@ -3629,13 +4147,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     260,
-    667.17,
-    'http://wufoo.com/eget/nunc/donec/quis/orci/eget.aspx',
+    554.78,
+    'http://de.vu/dolor.jsp',
     'PAGADA',
-    '0628195931'
+    '8792260616',
+    '18-Mar-2022'
 );
 
 INSERT INTO COMPRA (
@@ -3643,13 +4163,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     261,
-    134.87,
-    'http://issuu.com/enim/in/tempor/turpis/nec.json',
-    'CREADA',
-    '9031101052'
+    23.13,
+    'https://amazon.de/natoque/penatibus/et/magnis/dis/parturient/montes.html',
+    'CANCELADA',
+    '3896442104',
+    '23-May-2022'
 );
 
 INSERT INTO COMPRA (
@@ -3657,13 +4179,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     262,
-    316.34,
-    'http://xing.com/interdum/venenatis/turpis.json',
+    823.14,
+    'https://nbcnews.com/vel/enim/sit/amet.jpg',
     'CANCELADA',
-    '0628195931'
+    '3896442104',
+    '23-Jan-2022'
 );
 
 INSERT INTO COMPRA (
@@ -3671,13 +4195,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     263,
-    966.04,
-    'http://infoseek.co.jp/lacus/at/velit/vivamus/vel.json',
+    537.04,
+    'https://microsoft.com/lorem/ipsum/dolor/sit/amet/consectetuer/adipiscing.xml',
     'CREADA',
-    '3896442104'
+    '8792260616',
+    '23-Sep-2022'
 );
 
 INSERT INTO COMPRA (
@@ -3685,13 +4211,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     264,
-    98.94,
-    'https://usda.gov/odio/odio.jsp',
-    'PAGADA',
-    '9031101052'
+    490.38,
+    'http://a8.net/penatibus/et.html',
+    'CREADA',
+    '0628195931',
+    '15-May-2022'
 );
 
 INSERT INTO COMPRA (
@@ -3699,13 +4227,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     265,
-    533.17,
-    'http://prlog.org/justo/pellentesque.xml',
+    826.66,
+    'http://baidu.com/in/lectus/pellentesque.json',
     'CANCELADA',
-    '8792260616'
+    '1278995099',
+    '14-Jul-2022'
 );
 
 INSERT INTO COMPRA (
@@ -3713,13 +4243,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     266,
-    392.05,
-    'https://so-net.ne.jp/ac/est.jsp',
+    204.41,
+    'http://wisc.edu/rutrum/neque.js',
     'CREADA',
-    '8792260616'
+    '9031101052',
+    '23-Feb-2022'
 );
 
 INSERT INTO COMPRA (
@@ -3727,13 +4259,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     267,
-    24.83,
-    'http://phpbb.com/in/purus/eu/magna.js',
-    'PAGADA',
-    '1278995099'
+    718.47,
+    'http://seesaa.net/nullam/varius/nulla/facilisi/cras/non/velit.html',
+    'CREADA',
+    '9031101052',
+    '15-Mar-2022'
 );
 
 INSERT INTO COMPRA (
@@ -3741,13 +4275,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     268,
-    1.95,
-    'https://flickr.com/justo.json',
+    555.79,
+    'https://berkeley.edu/platea/dictumst/maecenas.js',
     'CANCELADA',
-    '3896442104'
+    '8792260616',
+    '26-Sep-2022'
 );
 
 INSERT INTO COMPRA (
@@ -3755,13 +4291,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     269,
-    927.77,
-    'https://engadget.com/nisi/at/nibh/in/hac.aspx',
+    997.48,
+    'https://phoca.cz/et/tempus/semper.png',
     'PAGADA',
-    '8792260616'
+    '9031101052',
+    '18-Dec-2021'
 );
 
 INSERT INTO COMPRA (
@@ -3769,13 +4307,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     270,
-    183.77,
-    'https://furl.net/eget/tempus/vel/pede/morbi/porttitor/lorem.jsp',
-    'CREADA',
-    '0628195931'
+    324.66,
+    'http://jiathis.com/nibh/in/hac/habitasse/platea/dictumst/aliquam.html',
+    'PAGADA',
+    '1278995099',
+    '27-May-2022'
 );
 
 INSERT INTO COMPRA (
@@ -3783,13 +4323,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     271,
-    52.06,
-    'http://google.co.uk/suspendisse/potenti/cras.jpg',
-    'PAGADA',
-    '0628195931'
+    592.95,
+    'https://merriam-webster.com/sollicitudin/ut/suscipit/a/feugiat.html',
+    'CANCELADA',
+    '0628195931',
+    '09-Oct-2022'
 );
 
 INSERT INTO COMPRA (
@@ -3797,13 +4339,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     272,
-    96.59,
-    'http://people.com.cn/consequat/in.json',
+    800.21,
+    'https://etsy.com/urna/pretium/nisl/ut.png',
     'CANCELADA',
-    '8792260616'
+    '3896442104',
+    '24-Aug-2022'
 );
 
 INSERT INTO COMPRA (
@@ -3811,13 +4355,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     273,
-    865.29,
-    'http://tiny.cc/ipsum/aliquam/non/mauris/morbi/non/lectus.html',
+    648.86,
+    'http://cbslocal.com/feugiat/non/pretium/quis.jsp',
     'PAGADA',
-    '0628195931'
+    '0628195931',
+    '17-Aug-2022'
 );
 
 INSERT INTO COMPRA (
@@ -3825,13 +4371,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     274,
-    783.2,
-    'http://rakuten.co.jp/at/vulputate/vitae/nisl/aenean/lectus.json',
-    'PAGADA',
-    '0628195931'
+    234.26,
+    'http://eepurl.com/in/hac/habitasse/platea/dictumst/maecenas/ut.xml',
+    'CREADA',
+    '8792260616',
+    '04-Mar-2022'
 );
 
 INSERT INTO COMPRA (
@@ -3839,13 +4387,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     275,
-    213.02,
-    'http://mozilla.com/aliquam/lacus.js',
-    'CANCELADA',
-    '8792260616'
+    804.16,
+    'https://cbsnews.com/leo/rhoncus/sed/vestibulum/sit.json',
+    'PAGADA',
+    '1278995099',
+    '01-Jan-2022'
 );
 
 INSERT INTO COMPRA (
@@ -3853,13 +4403,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     276,
-    516.27,
-    'http://cargocollective.com/in.aspx',
+    303.1,
+    'http://ucoz.com/nibh/in/quis/justo.html',
     'PAGADA',
-    '0628195931'
+    '0628195931',
+    '15-Jan-2022'
 );
 
 INSERT INTO COMPRA (
@@ -3867,13 +4419,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     277,
-    415.68,
-    'http://examiner.com/nulla/ut/erat.jsp',
+    732.77,
+    'https://biblegateway.com/ullamcorper/augue/a/suscipit.js',
     'PAGADA',
-    '9031101052'
+    '3896442104',
+    '24-Apr-2022'
 );
 
 INSERT INTO COMPRA (
@@ -3881,13 +4435,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     278,
-    347.96,
-    'https://earthlink.net/turpis/elementum/ligula/vehicula/consequat/morbi.js',
+    556.39,
+    'https://last.fm/porttitor/id/consequat/in/consequat/ut.html',
     'PAGADA',
-    '3896442104'
+    '3896442104',
+    '08-Jun-2022'
 );
 
 INSERT INTO COMPRA (
@@ -3895,13 +4451,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     279,
-    413.11,
-    'https://liveinternet.ru/eleifend/donec/ut/dolor/morbi.html',
+    222.07,
+    'https://ehow.com/sapien/in/sapien/iaculis/congue/vivamus/metus.xml',
     'CANCELADA',
-    '8792260616'
+    '3896442104',
+    '16-Jun-2022'
 );
 
 INSERT INTO COMPRA (
@@ -3909,13 +4467,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     280,
-    631.86,
-    'https://ezinearticles.com/volutpat/eleifend/donec/ut/dolor/morbi.xml',
+    605.55,
+    'https://google.com.hk/eu/sapien/cursus/vestibulum/proin.js',
     'PAGADA',
-    '0628195931'
+    '9031101052',
+    '31-Dec-2021'
 );
 
 INSERT INTO COMPRA (
@@ -3923,13 +4483,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     281,
-    925.95,
-    'http://lulu.com/arcu/libero/rutrum/ac/lobortis/vel.png',
-    'CANCELADA',
-    '8792260616'
+    445.41,
+    'https://typepad.com/nec/condimentum/neque/sapien.json',
+    'PAGADA',
+    '0628195931',
+    '13-May-2022'
 );
 
 INSERT INTO COMPRA (
@@ -3937,13 +4499,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     282,
-    796.54,
-    'http://msn.com/iaculis/justo/in/hac/habitasse/platea/dictumst.png',
-    'PAGADA',
-    '1278995099'
+    547.84,
+    'https://sina.com.cn/duis.jpg',
+    'CREADA',
+    '0628195931',
+    '29-Aug-2022'
 );
 
 INSERT INTO COMPRA (
@@ -3951,13 +4515,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     283,
-    491.17,
-    'https://elegantthemes.com/nisi/venenatis/tristique/fusce/congue.png',
-    'CREADA',
-    '9031101052'
+    781.61,
+    'https://jalbum.net/eget/tempus/vel.html',
+    'PAGADA',
+    '8792260616',
+    '11-May-2022'
 );
 
 INSERT INTO COMPRA (
@@ -3965,13 +4531,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     284,
-    916.93,
-    'http://fastcompany.com/morbi/odio/odio.jpg',
-    'CREADA',
-    '3896442104'
+    961.7,
+    'https://epa.gov/praesent/id/massa/id/nisl/venenatis/lacinia.html',
+    'PAGADA',
+    '8792260616',
+    '22-Sep-2022'
 );
 
 INSERT INTO COMPRA (
@@ -3979,13 +4547,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     285,
-    400.56,
-    'https://dedecms.com/elementum/ligula/vehicula.png',
-    'CANCELADA',
-    '1278995099'
+    792.85,
+    'https://bigcartel.com/sollicitudin/ut/suscipit/a.jpg',
+    'PAGADA',
+    '0628195931',
+    '20-Feb-2022'
 );
 
 INSERT INTO COMPRA (
@@ -3993,13 +4563,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     286,
-    357.57,
-    'https://admin.ch/porttitor.jpg',
+    104.18,
+    'http://behance.net/vestibulum/sed/magna/at/nunc/commodo/placerat.aspx',
     'PAGADA',
-    '9031101052'
+    '1278995099',
+    '07-Aug-2022'
 );
 
 INSERT INTO COMPRA (
@@ -4007,13 +4579,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     287,
-    276.48,
-    'http://archive.org/libero/rutrum/ac/lobortis/vel.png',
-    'CREADA',
-    '9031101052'
+    457.28,
+    'http://1688.com/aliquam/augue/quam/sollicitudin/vitae/consectetuer.aspx',
+    'CANCELADA',
+    '1278995099',
+    '15-Jan-2022'
 );
 
 INSERT INTO COMPRA (
@@ -4021,13 +4595,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     288,
-    848.35,
-    'https://ucoz.com/libero.js',
-    'CANCELADA',
-    '3896442104'
+    303.49,
+    'http://alexa.com/velit/donec/diam/neque/vestibulum.jpg',
+    'PAGADA',
+    '8792260616',
+    '03-Jun-2022'
 );
 
 INSERT INTO COMPRA (
@@ -4035,13 +4611,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     289,
-    505.72,
-    'https://scribd.com/faucibus/accumsan/odio/curabitur/convallis/duis/consequat.json',
-    'PAGADA',
-    '8792260616'
+    665.32,
+    'http://godaddy.com/volutpat.aspx',
+    'CREADA',
+    '1278995099',
+    '25-Mar-2022'
 );
 
 INSERT INTO COMPRA (
@@ -4049,13 +4627,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     290,
-    525.39,
-    'https://mlb.com/nisi.jsp',
-    'CREADA',
-    '1278995099'
+    771.6,
+    'http://who.int/massa/quis/augue/luctus/tincidunt/nulla/mollis.aspx',
+    'PAGADA',
+    '3896442104',
+    '14-Mar-2022'
 );
 
 INSERT INTO COMPRA (
@@ -4063,13 +4643,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     291,
-    509.62,
-    'http://chicagotribune.com/ipsum/primis/in.png',
-    'PAGADA',
-    '1278995099'
+    679.29,
+    'https://ocn.ne.jp/cubilia/curae.json',
+    'CANCELADA',
+    '0628195931',
+    '22-Aug-2022'
 );
 
 INSERT INTO COMPRA (
@@ -4077,13 +4659,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     292,
-    644.44,
-    'https://marriott.com/ut/massa.jsp',
-    'CANCELADA',
-    '8792260616'
+    56.63,
+    'http://buzzfeed.com/faucibus/orci.xml',
+    'PAGADA',
+    '8792260616',
+    '01-Sep-2022'
 );
 
 INSERT INTO COMPRA (
@@ -4091,13 +4675,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     293,
-    420.6,
-    'https://sourceforge.net/mi/nulla/ac.xml',
-    'PAGADA',
-    '3896442104'
+    624.41,
+    'http://tuttocitta.it/ipsum/aliquam/non/mauris/morbi/non.html',
+    'CANCELADA',
+    '3896442104',
+    '07-Feb-2022'
 );
 
 INSERT INTO COMPRA (
@@ -4105,13 +4691,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     294,
-    87.77,
-    'https://vistaprint.com/eu/sapien.xml',
-    'CREADA',
-    '3896442104'
+    893.29,
+    'https://live.com/at.aspx',
+    'PAGADA',
+    '8792260616',
+    '26-Apr-2022'
 );
 
 INSERT INTO COMPRA (
@@ -4119,13 +4707,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     295,
-    5.77,
-    'http://multiply.com/eget/elit/sodales/scelerisque/mauris.js',
+    367.37,
+    'https://tripadvisor.com/sapien/arcu/sed.png',
     'CANCELADA',
-    '9031101052'
+    '3896442104',
+    '21-Jul-2022'
 );
 
 INSERT INTO COMPRA (
@@ -4133,13 +4723,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     296,
-    952.27,
-    'https://instagram.com/nulla/facilisi/cras/non/velit.jsp',
-    'CREADA',
-    '3896442104'
+    460.2,
+    'http://posterous.com/donec/ut/mauris/eget/massa/tempor.png',
+    'CANCELADA',
+    '8792260616',
+    '18-Oct-2021'
 );
 
 INSERT INTO COMPRA (
@@ -4147,13 +4739,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     297,
-    701.76,
-    'https://simplemachines.org/sem/mauris/laoreet/ut/rhoncus/aliquet.json',
-    'CANCELADA',
-    '9031101052'
+    398.84,
+    'http://4shared.com/nunc/viverra/dapibus/nulla/suscipit/ligula/in.png',
+    'PAGADA',
+    '8792260616',
+    '06-Oct-2022'
 );
 
 INSERT INTO COMPRA (
@@ -4161,13 +4755,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     298,
-    353.54,
-    'https://va.gov/luctus/et/ultrices/posuere/cubilia.png',
-    'CANCELADA',
-    '0628195931'
+    958.41,
+    'https://sciencedaily.com/luctus/nec/molestie/sed.html',
+    'CREADA',
+    '9031101052',
+    '28-May-2022'
 );
 
 INSERT INTO COMPRA (
@@ -4175,13 +4771,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     299,
-    955.44,
-    'http://uiuc.edu/orci/vehicula/condimentum/curabitur/in/libero.xml',
+    833.85,
+    'https://examiner.com/eu/tincidunt/in.js',
     'CREADA',
-    '9031101052'
+    '1278995099',
+    '24-Jun-2022'
 );
 
 INSERT INTO COMPRA (
@@ -4189,13 +4787,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     300,
-    278.24,
-    'http://amazon.com/rutrum/rutrum/neque/aenean/auctor/gravida.xml',
-    'PAGADA',
-    '8792260616'
+    579.2,
+    'http://nymag.com/etiam/vel/augue/vestibulum/rutrum/rutrum/neque.jpg',
+    'CANCELADA',
+    '9031101052',
+    '10-Mar-2022'
 );
 
 INSERT INTO COMPRA (
@@ -4203,13 +4803,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     301,
-    812.96,
-    'https://redcross.org/amet/lobortis/sapien.js',
-    'CREADA',
-    '0628195931'
+    81.4,
+    'https://wikipedia.org/est/et.jsp',
+    'CANCELADA',
+    '3896442104',
+    '14-Jul-2022'
 );
 
 INSERT INTO COMPRA (
@@ -4217,13 +4819,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     302,
-    89.21,
-    'http://ucoz.com/malesuada/in/imperdiet/et/commodo/vulputate.js',
-    'CREADA',
-    '3896442104'
+    647.55,
+    'http://xinhuanet.com/in/faucibus/orci/luctus/et/ultrices/posuere.js',
+    'PAGADA',
+    '1278995099',
+    '28-Nov-2021'
 );
 
 INSERT INTO COMPRA (
@@ -4231,13 +4835,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     303,
-    900.08,
-    'https://ustream.tv/eros/vestibulum/ac/est/lacinia.png',
-    'CANCELADA',
-    '1278995099'
+    316.86,
+    'https://shareasale.com/volutpat/quam/pede/lobortis/ligula/sit/amet.html',
+    'PAGADA',
+    '8792260616',
+    '21-Jun-2022'
 );
 
 INSERT INTO COMPRA (
@@ -4245,13 +4851,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     304,
-    207.36,
-    'http://wired.com/nisl/duis/bibendum.jpg',
-    'CREADA',
-    '0628195931'
+    559.0,
+    'http://usa.gov/tortor/quis.js',
+    'PAGADA',
+    '0628195931',
+    '30-Aug-2022'
 );
 
 INSERT INTO COMPRA (
@@ -4259,13 +4867,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     305,
-    975.54,
-    'https://jalbum.net/erat/fermentum/justo.jpg',
-    'PAGADA',
-    '1278995099'
+    287.39,
+    'http://google.pl/duis/at/velit.js',
+    'CANCELADA',
+    '8792260616',
+    '18-Jun-2022'
 );
 
 INSERT INTO COMPRA (
@@ -4273,13 +4883,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     306,
-    199.04,
-    'http://paginegialle.it/et/magnis/dis/parturient/montes/nascetur/ridiculus.html',
+    891.18,
+    'https://mit.edu/imperdiet/et/commodo/vulputate.jsp',
     'PAGADA',
-    '8792260616'
+    '3896442104',
+    '18-May-2022'
 );
 
 INSERT INTO COMPRA (
@@ -4287,13 +4899,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     307,
-    526.51,
-    'http://yandex.ru/velit/eu/est/congue/elementum/in/hac.png',
+    844.45,
+    'http://seattletimes.com/rhoncus/dui/vel/sem/sed/sagittis.jpg',
     'CANCELADA',
-    '1278995099'
+    '8792260616',
+    '13-Sep-2022'
 );
 
 INSERT INTO COMPRA (
@@ -4301,13 +4915,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     308,
-    960.16,
-    'https://indiatimes.com/porta/volutpat/erat/quisque/erat.aspx',
+    320.11,
+    'https://nature.com/elementum.js',
     'CANCELADA',
-    '0628195931'
+    '1278995099',
+    '12-Nov-2021'
 );
 
 INSERT INTO COMPRA (
@@ -4315,13 +4931,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     309,
-    319.54,
-    'https://homestead.com/quam/sapien/varius/ut/blandit.png',
-    'CREADA',
-    '1278995099'
+    543.59,
+    'http://discovery.com/quis/turpis/eget.jpg',
+    'CANCELADA',
+    '3896442104',
+    '06-Jun-2022'
 );
 
 INSERT INTO COMPRA (
@@ -4329,13 +4947,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     310,
-    267.06,
-    'https://surveymonkey.com/proin/at.jpg',
-    'CANCELADA',
-    '9031101052'
+    137.01,
+    'https://usgs.gov/lectus/pellentesque/eget.js',
+    'PAGADA',
+    '1278995099',
+    '23-Apr-2022'
 );
 
 INSERT INTO COMPRA (
@@ -4343,13 +4963,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     311,
-    359.71,
-    'http://wired.com/maecenas/ut/massa.jpg',
-    'CREADA',
-    '8792260616'
+    35.17,
+    'http://cargocollective.com/elementum/in/hac/habitasse/platea/dictumst/morbi.json',
+    'CANCELADA',
+    '8792260616',
+    '22-Jun-2022'
 );
 
 INSERT INTO COMPRA (
@@ -4357,13 +4979,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     312,
-    732.59,
-    'http://webnode.com/ac/neque/duis/bibendum/morbi.html',
-    'CREADA',
-    '3896442104'
+    174.33,
+    'http://tinyurl.com/pede/lobortis/ligula.jpg',
+    'CANCELADA',
+    '8792260616',
+    '23-Mar-2022'
 );
 
 INSERT INTO COMPRA (
@@ -4371,13 +4995,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     313,
-    787.46,
-    'https://pcworld.com/ultrices.jpg',
+    133.16,
+    'http://theatlantic.com/volutpat/sapien.png',
     'CREADA',
-    '1278995099'
+    '1278995099',
+    '03-Sep-2022'
 );
 
 INSERT INTO COMPRA (
@@ -4385,13 +5011,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     314,
-    152.62,
-    'http://si.edu/suspendisse/potenti/cras/in/purus.json',
-    'CANCELADA',
-    '1278995099'
+    168.17,
+    'http://cyberchimps.com/at.xml',
+    'PAGADA',
+    '9031101052',
+    '20-Jan-2022'
 );
 
 INSERT INTO COMPRA (
@@ -4399,13 +5027,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     315,
-    28.84,
-    'https://craigslist.org/lacus/at/turpis/donec/posuere/metus.aspx',
-    'CREADA',
-    '1278995099'
+    730.56,
+    'https://squarespace.com/tincidunt/in/leo/maecenas.jpg',
+    'CANCELADA',
+    '9031101052',
+    '30-Jan-2022'
 );
 
 INSERT INTO COMPRA (
@@ -4413,13 +5043,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     316,
-    882.78,
-    'https://businessweek.com/diam/nam/tristique.html',
-    'PAGADA',
-    '1278995099'
+    666.83,
+    'https://independent.co.uk/ac/nibh.html',
+    'CANCELADA',
+    '3896442104',
+    '08-Oct-2022'
 );
 
 INSERT INTO COMPRA (
@@ -4427,13 +5059,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     317,
-    51.04,
-    'http://fc2.com/amet/erat/nulla.jpg',
+    114.2,
+    'http://guardian.co.uk/vulputate/vitae/nisl/aenean/lectus/pellentesque/eget.jpg',
     'PAGADA',
-    '1278995099'
+    '8792260616',
+    '22-Feb-2022'
 );
 
 INSERT INTO COMPRA (
@@ -4441,13 +5075,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     318,
-    736.14,
-    'http://youtu.be/donec.json',
-    'CREADA',
-    '3896442104'
+    605.38,
+    'https://cmu.edu/odio/elementum/eu/interdum.png',
+    'PAGADA',
+    '0628195931',
+    '14-Jun-2022'
 );
 
 INSERT INTO COMPRA (
@@ -4455,13 +5091,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     319,
-    485.54,
-    'https://gov.uk/mus/vivamus/vestibulum.js',
+    883.24,
+    'https://de.vu/congue/elementum/in/hac/habitasse/platea.jsp',
     'CREADA',
-    '9031101052'
+    '8792260616',
+    '14-Mar-2022'
 );
 
 INSERT INTO COMPRA (
@@ -4469,13 +5107,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     320,
-    678.2,
-    'https://weebly.com/sit.jpg',
+    648.56,
+    'http://reference.com/nulla.jpg',
     'PAGADA',
-    '9031101052'
+    '1278995099',
+    '07-Mar-2022'
 );
 
 INSERT INTO COMPRA (
@@ -4483,13 +5123,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     321,
-    897.71,
-    'https://soup.io/luctus/cum/sociis/natoque/penatibus/et/magnis.xml',
-    'PAGADA',
-    '1278995099'
+    477.47,
+    'http://flavors.me/nisl/duis/ac/nibh/fusce.xml',
+    'CREADA',
+    '3896442104',
+    '26-Mar-2022'
 );
 
 INSERT INTO COMPRA (
@@ -4497,13 +5139,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     322,
-    840.9,
-    'http://list-manage.com/libero/rutrum/ac/lobortis/vel.html',
-    'CREADA',
-    '0628195931'
+    251.81,
+    'http://globo.com/fusce/consequat/nulla/nisl/nunc/nisl/duis.xml',
+    'PAGADA',
+    '1278995099',
+    '17-Sep-2022'
 );
 
 INSERT INTO COMPRA (
@@ -4511,13 +5155,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     323,
-    638.34,
-    'https://whitehouse.gov/praesent/lectus/vestibulum/quam/sapien/varius.jpg',
-    'CREADA',
-    '1278995099'
+    323.68,
+    'https://ft.com/pretium/iaculis/justo/in/hac/habitasse.json',
+    'PAGADA',
+    '9031101052',
+    '31-May-2022'
 );
 
 INSERT INTO COMPRA (
@@ -4525,13 +5171,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     324,
-    817.19,
-    'https://japanpost.jp/aliquet.js',
+    307.6,
+    'http://baidu.com/nisl/ut/volutpat/sapien/arcu/sed.js',
     'PAGADA',
-    '1278995099'
+    '8792260616',
+    '18-Jun-2022'
 );
 
 INSERT INTO COMPRA (
@@ -4539,13 +5187,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     325,
-    811.18,
-    'https://sourceforge.net/natoque/penatibus/et/magnis.html',
+    819.89,
+    'http://apple.com/pretium/iaculis/diam.png',
     'CANCELADA',
-    '1278995099'
+    '3896442104',
+    '15-Jul-2022'
 );
 
 INSERT INTO COMPRA (
@@ -4553,13 +5203,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     326,
-    108.4,
-    'https://github.com/ultricies/eu/nibh/quisque/id/justo/sit.jsp',
-    'CREADA',
-    '0628195931'
+    588.91,
+    'http://storify.com/eu/orci/mauris/lacinia.html',
+    'CANCELADA',
+    '1278995099',
+    '16-Oct-2022'
 );
 
 INSERT INTO COMPRA (
@@ -4567,13 +5219,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     327,
-    523.01,
-    'https://thetimes.co.uk/phasellus/id/sapien/in.json',
+    213.26,
+    'https://narod.ru/vitae/mattis/nibh.jpg',
     'CANCELADA',
-    '9031101052'
+    '8792260616',
+    '18-Apr-2022'
 );
 
 INSERT INTO COMPRA (
@@ -4581,13 +5235,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     328,
-    22.91,
-    'http://ca.gov/tempus/semper/est/quam/pharetra.jpg',
+    608.66,
+    'https://parallels.com/lacus/morbi/quis/tortor/id/nulla/ultrices.png',
     'CREADA',
-    '3896442104'
+    '9031101052',
+    '04-May-2022'
 );
 
 INSERT INTO COMPRA (
@@ -4595,13 +5251,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     329,
-    6.68,
-    'http://360.cn/est/phasellus/sit/amet/erat.jsp',
+    628.97,
+    'http://about.com/integer/non.js',
     'PAGADA',
-    '9031101052'
+    '1278995099',
+    '08-Apr-2022'
 );
 
 INSERT INTO COMPRA (
@@ -4609,13 +5267,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     330,
-    720.07,
-    'http://dmoz.org/quis/tortor/id.png',
-    'CREADA',
-    '3896442104'
+    789.56,
+    'http://nature.com/id/mauris.json',
+    'PAGADA',
+    '8792260616',
+    '08-Sep-2022'
 );
 
 INSERT INTO COMPRA (
@@ -4623,13 +5283,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     331,
-    627.55,
-    'http://ocn.ne.jp/sagittis/dui/vel/nisl/duis/ac/nibh.xml',
+    354.98,
+    'https://gov.uk/consectetuer/adipiscing/elit/proin/interdum/mauris.jpg',
     'CANCELADA',
-    '9031101052'
+    '0628195931',
+    '02-Aug-2022'
 );
 
 INSERT INTO COMPRA (
@@ -4637,13 +5299,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     332,
-    453.88,
-    'http://webnode.com/sem.xml',
-    'PAGADA',
-    '9031101052'
+    682.05,
+    'http://npr.org/duis/bibendum/felis/sed/interdum/venenatis.png',
+    'CANCELADA',
+    '3896442104',
+    '07-May-2022'
 );
 
 INSERT INTO COMPRA (
@@ -4651,13 +5315,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     333,
-    742.63,
-    'http://tuttocitta.it/in/quis/justo/maecenas/rhoncus/aliquam/lacus.jsp',
-    'CANCELADA',
-    '9031101052'
+    275.33,
+    'https://disqus.com/eget/elit/sodales/scelerisque/mauris/sit.jpg',
+    'CREADA',
+    '9031101052',
+    '07-Jul-2022'
 );
 
 INSERT INTO COMPRA (
@@ -4665,13 +5331,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     334,
-    911.25,
-    'http://liveinternet.ru/diam/id/ornare/imperdiet/sapien.html',
-    'CANCELADA',
-    '1278995099'
+    760.32,
+    'https://merriam-webster.com/tristique/tortor.png',
+    'PAGADA',
+    '0628195931',
+    '29-Jul-2022'
 );
 
 INSERT INTO COMPRA (
@@ -4679,13 +5347,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     335,
-    186.85,
-    'https://uiuc.edu/sit/amet/eros/suspendisse/accumsan/tortor.aspx',
-    'CANCELADA',
-    '8792260616'
+    360.55,
+    'http://unicef.org/mattis/nibh/ligula.jpg',
+    'PAGADA',
+    '3896442104',
+    '20-May-2022'
 );
 
 INSERT INTO COMPRA (
@@ -4693,13 +5363,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     336,
-    272.33,
-    'http://deliciousdays.com/mus/etiam/vel/augue/vestibulum/rutrum/rutrum.png',
-    'PAGADA',
-    '0628195931'
+    705.98,
+    'https://domainmarket.com/nunc/purus.aspx',
+    'CANCELADA',
+    '0628195931',
+    '30-Mar-2022'
 );
 
 INSERT INTO COMPRA (
@@ -4707,13 +5379,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     337,
-    734.42,
-    'https://prlog.org/semper.html',
+    398.69,
+    'http://deliciousdays.com/pede/justo.aspx',
     'PAGADA',
-    '8792260616'
+    '3896442104',
+    '28-Feb-2022'
 );
 
 INSERT INTO COMPRA (
@@ -4721,13 +5395,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     338,
-    412.67,
-    'https://tamu.edu/quam/sapien/varius/ut.xml',
-    'CREADA',
-    '9031101052'
+    61.92,
+    'http://exblog.jp/sed/justo/pellentesque.html',
+    'PAGADA',
+    '8792260616',
+    '03-May-2022'
 );
 
 INSERT INTO COMPRA (
@@ -4735,13 +5411,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     339,
-    821.63,
-    'https://cbslocal.com/sapien.aspx',
-    'CANCELADA',
-    '1278995099'
+    317.76,
+    'https://facebook.com/hac/habitasse/platea/dictumst.html',
+    'CREADA',
+    '8792260616',
+    '28-Jul-2022'
 );
 
 INSERT INTO COMPRA (
@@ -4749,13 +5427,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     340,
-    831.01,
-    'http://icq.com/in/lectus/pellentesque.html',
-    'CREADA',
-    '1278995099'
+    243.38,
+    'https://nps.gov/morbi/non.html',
+    'CANCELADA',
+    '8792260616',
+    '26-Jan-2022'
 );
 
 INSERT INTO COMPRA (
@@ -4763,13 +5443,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     341,
-    708.82,
-    'https://etsy.com/in/hac/habitasse/platea/dictumst/aliquam/augue.js',
+    472.24,
+    'http://odnoklassniki.ru/in/porttitor/pede/justo/eu.xml',
     'CREADA',
-    '9031101052'
+    '9031101052',
+    '23-Aug-2022'
 );
 
 INSERT INTO COMPRA (
@@ -4777,13 +5459,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     342,
-    747.52,
-    'https://devhub.com/vivamus.png',
-    'CREADA',
-    '1278995099'
+    311.7,
+    'https://bloglovin.com/turpis/donec/posuere.html',
+    'PAGADA',
+    '8792260616',
+    '13-Aug-2022'
 );
 
 INSERT INTO COMPRA (
@@ -4791,13 +5475,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     343,
-    984.67,
-    'https://fda.gov/id/mauris/vulputate/elementum/nullam/varius/nulla.xml',
+    423.79,
+    'http://w3.org/scelerisque/quam/turpis/adipiscing/lorem/vitae/mattis.jsp',
     'CANCELADA',
-    '0628195931'
+    '0628195931',
+    '03-Jun-2022'
 );
 
 INSERT INTO COMPRA (
@@ -4805,13 +5491,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     344,
-    851.41,
-    'http://typepad.com/accumsan/odio/curabitur/convallis/duis/consequat/dui.jsp',
-    'CREADA',
-    '3896442104'
+    834.3,
+    'https://facebook.com/faucibus/orci.jsp',
+    'PAGADA',
+    '9031101052',
+    '20-Jan-2022'
 );
 
 INSERT INTO COMPRA (
@@ -4819,13 +5507,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     345,
-    481.38,
-    'https://state.tx.us/nec/nisi/vulputate/nonummy/maecenas/tincidunt/lacus.html',
+    604.87,
+    'http://nyu.edu/lacus/purus/aliquet/at/feugiat/non.jpg',
     'CANCELADA',
-    '9031101052'
+    '8792260616',
+    '14-Aug-2022'
 );
 
 INSERT INTO COMPRA (
@@ -4833,13 +5523,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     346,
-    106.25,
-    'https://squarespace.com/est/et/tempus/semper.jsp',
-    'PAGADA',
-    '3896442104'
+    996.94,
+    'https://samsung.com/justo/sollicitudin/ut/suscipit/a/feugiat.aspx',
+    'CREADA',
+    '8792260616',
+    '12-Oct-2022'
 );
 
 INSERT INTO COMPRA (
@@ -4847,13 +5539,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     347,
-    850.08,
-    'http://google.cn/cursus/urna.xml',
-    'PAGADA',
-    '8792260616'
+    31.34,
+    'https://soundcloud.com/magna/bibendum/imperdiet/nullam/orci/pede/venenatis.png',
+    'CANCELADA',
+    '0628195931',
+    '05-Feb-2022'
 );
 
 INSERT INTO COMPRA (
@@ -4861,13 +5555,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     348,
-    394.57,
-    'http://aol.com/nulla/mollis/molestie/lorem/quisque/ut/erat.png',
-    'CANCELADA',
-    '1278995099'
+    729.78,
+    'http://princeton.edu/aliquam/convallis.xml',
+    'PAGADA',
+    '0628195931',
+    '20-Mar-2022'
 );
 
 INSERT INTO COMPRA (
@@ -4875,13 +5571,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     349,
-    778.44,
-    'https://dedecms.com/etiam/faucibus/cursus.js',
-    'CREADA',
-    '9031101052'
+    836.31,
+    'https://domainmarket.com/ut/at/dolor/quis/odio/consequat.html',
+    'PAGADA',
+    '1278995099',
+    '08-Aug-2022'
 );
 
 INSERT INTO COMPRA (
@@ -4889,13 +5587,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     350,
-    699.08,
-    'http://virginia.edu/in/lectus/pellentesque/at/nulla.html',
-    'CREADA',
-    '0628195931'
+    448.74,
+    'https://addtoany.com/felis/eu/sapien/cursus/vestibulum.xml',
+    'PAGADA',
+    '9031101052',
+    '02-Nov-2021'
 );
 
 INSERT INTO COMPRA (
@@ -4903,13 +5603,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     351,
-    888.8,
-    'https://tripadvisor.com/odio/consequat/varius/integer/ac/leo/pellentesque.png',
-    'CREADA',
-    '1278995099'
+    303.27,
+    'http://rediff.com/suspendisse/potenti/nullam/porttitor/lacus.html',
+    'PAGADA',
+    '3896442104',
+    '19-Aug-2022'
 );
 
 INSERT INTO COMPRA (
@@ -4917,13 +5619,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     352,
-    172.21,
-    'https://admin.ch/mattis/odio/donec/vitae/nisi/nam/ultrices.html',
-    'CANCELADA',
-    '1278995099'
+    824.29,
+    'http://wufoo.com/erat/tortor/sollicitudin/mi/sit/amet/lobortis.jsp',
+    'PAGADA',
+    '9031101052',
+    '03-Dec-2021'
 );
 
 INSERT INTO COMPRA (
@@ -4931,13 +5635,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     353,
-    277.61,
-    'http://pagesperso-orange.fr/nulla.xml',
-    'CREADA',
-    '1278995099'
+    852.72,
+    'http://about.com/vestibulum/ante/ipsum/primis.jsp',
+    'CANCELADA',
+    '0628195931',
+    '01-Dec-2021'
 );
 
 INSERT INTO COMPRA (
@@ -4945,13 +5651,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     354,
-    139.57,
-    'http://theguardian.com/lacus/morbi/quis/tortor/id/nulla.xml',
-    'PAGADA',
-    '0628195931'
+    485.02,
+    'http://wikipedia.org/bibendum/felis/sed.jpg',
+    'CANCELADA',
+    '9031101052',
+    '23-Jun-2022'
 );
 
 INSERT INTO COMPRA (
@@ -4959,13 +5667,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     355,
-    39.31,
-    'https://bandcamp.com/magnis/dis/parturient/montes.json',
+    611.59,
+    'http://uol.com.br/vitae/consectetuer/eget/rutrum.js',
     'CANCELADA',
-    '9031101052'
+    '0628195931',
+    '14-Nov-2021'
 );
 
 INSERT INTO COMPRA (
@@ -4973,13 +5683,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     356,
-    379.07,
-    'http://timesonline.co.uk/semper/porta/volutpat/quam/pede/lobortis.jsp',
-    'CREADA',
-    '8792260616'
+    484.52,
+    'https://trellian.com/at/lorem/integer/tincidunt/ante.jpg',
+    'PAGADA',
+    '1278995099',
+    '20-Oct-2021'
 );
 
 INSERT INTO COMPRA (
@@ -4987,13 +5699,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     357,
-    13.8,
-    'http://vkontakte.ru/cubilia/curae.xml',
+    940.79,
+    'http://goo.gl/morbi/a.json',
     'CANCELADA',
-    '9031101052'
+    '8792260616',
+    '23-Aug-2022'
 );
 
 INSERT INTO COMPRA (
@@ -5001,13 +5715,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     358,
-    422.54,
-    'http://opensource.org/nulla/suspendisse.js',
-    'CREADA',
-    '9031101052'
+    503.16,
+    'http://ucsd.edu/mattis/pulvinar.aspx',
+    'PAGADA',
+    '8792260616',
+    '16-Feb-2022'
 );
 
 INSERT INTO COMPRA (
@@ -5015,13 +5731,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     359,
-    295.74,
-    'http://gravatar.com/est.aspx',
+    423.49,
+    'http://mit.edu/nonummy/integer/non.jpg',
     'PAGADA',
-    '3896442104'
+    '8792260616',
+    '14-Jun-2022'
 );
 
 INSERT INTO COMPRA (
@@ -5029,13 +5747,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     360,
-    330.9,
-    'http://intel.com/arcu/libero/rutrum/ac.js',
+    959.76,
+    'http://arstechnica.com/amet/eros/suspendisse/accumsan.html',
     'CREADA',
-    '3896442104'
+    '0628195931',
+    '29-Mar-2022'
 );
 
 INSERT INTO COMPRA (
@@ -5043,13 +5763,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     361,
-    425.13,
-    'https://flavors.me/ac/est/lacinia/nisi/venenatis/tristique.png',
-    'CANCELADA',
-    '1278995099'
+    382.99,
+    'http://smh.com.au/morbi/vestibulum.xml',
+    'PAGADA',
+    '0628195931',
+    '03-Oct-2022'
 );
 
 INSERT INTO COMPRA (
@@ -5057,13 +5779,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     362,
-    510.24,
-    'https://weibo.com/id/lobortis/convallis/tortor/risus/dapibus/augue.jsp',
-    'CANCELADA',
-    '9031101052'
+    631.22,
+    'http://prlog.org/ligula/nec/sem/duis.jpg',
+    'PAGADA',
+    '0628195931',
+    '07-Sep-2022'
 );
 
 INSERT INTO COMPRA (
@@ -5071,13 +5795,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     363,
-    479.99,
-    'https://businessinsider.com/mauris.js',
-    'CANCELADA',
-    '1278995099'
+    233.72,
+    'https://google.pl/eu/magna.png',
+    'CREADA',
+    '3896442104',
+    '23-May-2022'
 );
 
 INSERT INTO COMPRA (
@@ -5085,13 +5811,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     364,
-    465.09,
-    'https://sourceforge.net/duis/mattis/egestas/metus.js',
-    'CANCELADA',
-    '3896442104'
+    532.68,
+    'https://cnet.com/donec/posuere.html',
+    'PAGADA',
+    '8792260616',
+    '23-Dec-2021'
 );
 
 INSERT INTO COMPRA (
@@ -5099,13 +5827,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     365,
-    490.2,
-    'https://wikipedia.org/libero/nam/dui/proin/leo/odio.png',
+    73.3,
+    'https://baidu.com/enim/lorem/ipsum.jpg',
     'CANCELADA',
-    '1278995099'
+    '3896442104',
+    '23-Oct-2021'
 );
 
 INSERT INTO COMPRA (
@@ -5113,13 +5843,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     366,
-    351.19,
-    'https://patch.com/consectetuer/adipiscing.js',
-    'CREADA',
-    '3896442104'
+    614.84,
+    'https://boston.com/nulla/ultrices/aliquet/maecenas/leo/odio.json',
+    'PAGADA',
+    '8792260616',
+    '04-Mar-2022'
 );
 
 INSERT INTO COMPRA (
@@ -5127,13 +5859,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     367,
-    360.25,
-    'https://apple.com/quis/turpis/sed/ante/vivamus.xml',
-    'CANCELADA',
-    '1278995099'
+    50.25,
+    'http://go.com/vitae/quam/suspendisse/potenti.js',
+    'CREADA',
+    '3896442104',
+    '13-Oct-2022'
 );
 
 INSERT INTO COMPRA (
@@ -5141,13 +5875,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     368,
-    542.22,
-    'https://cloudflare.com/ultrices/posuere/cubilia/curae/donec.aspx',
-    'CANCELADA',
-    '0628195931'
+    165.97,
+    'http://mysql.com/in/tempor/turpis/nec/euismod.jpg',
+    'PAGADA',
+    '1278995099',
+    '14-Apr-2022'
 );
 
 INSERT INTO COMPRA (
@@ -5155,13 +5891,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     369,
-    413.38,
-    'https://telegraph.co.uk/in/faucibus/orci/luctus/et.aspx',
-    'PAGADA',
-    '1278995099'
+    773.96,
+    'https://exblog.jp/sapien/dignissim/vestibulum/vestibulum/ante.jsp',
+    'CANCELADA',
+    '0628195931',
+    '29-Apr-2022'
 );
 
 INSERT INTO COMPRA (
@@ -5169,13 +5907,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     370,
-    519.28,
-    'http://cloudflare.com/eros/vestibulum/ac/est/lacinia.jpg',
-    'CANCELADA',
-    '3896442104'
+    830.7,
+    'http://admin.ch/consectetuer/adipiscing/elit/proin/risus.json',
+    'PAGADA',
+    '1278995099',
+    '30-Oct-2021'
 );
 
 INSERT INTO COMPRA (
@@ -5183,13 +5923,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     371,
-    107.82,
-    'http://wisc.edu/nec/euismod/scelerisque/quam/turpis/adipiscing.png',
+    860.55,
+    'http://disqus.com/diam/id/ornare/imperdiet/sapien/urna.jsp',
     'CREADA',
-    '0628195931'
+    '0628195931',
+    '29-Jan-2022'
 );
 
 INSERT INTO COMPRA (
@@ -5197,13 +5939,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     372,
-    251.21,
-    'https://vinaora.com/eu/magna/vulputate/luctus.png',
-    'CANCELADA',
-    '1278995099'
+    517.47,
+    'https://cisco.com/duis/bibendum/morbi.jpg',
+    'CREADA',
+    '8792260616',
+    '09-Jul-2022'
 );
 
 INSERT INTO COMPRA (
@@ -5211,13 +5955,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     373,
-    810.63,
-    'http://berkeley.edu/convallis.js',
+    729.31,
+    'https://wisc.edu/nunc/rhoncus/dui/vel.png',
     'CREADA',
-    '9031101052'
+    '8792260616',
+    '11-Feb-2022'
 );
 
 INSERT INTO COMPRA (
@@ -5225,13 +5971,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     374,
-    625.9,
-    'https://shareasale.com/a/feugiat/et/eros/vestibulum/ac/est.jpg',
-    'PAGADA',
-    '3896442104'
+    358.4,
+    'http://pen.io/vel/lectus/in/quam.html',
+    'CREADA',
+    '9031101052',
+    '22-Mar-2022'
 );
 
 INSERT INTO COMPRA (
@@ -5239,13 +5987,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     375,
-    935.79,
-    'https://wisc.edu/viverra/dapibus.jpg',
-    'CREADA',
-    '9031101052'
+    673.47,
+    'https://timesonline.co.uk/rutrum/rutrum.js',
+    'PAGADA',
+    '3896442104',
+    '26-Jul-2022'
 );
 
 INSERT INTO COMPRA (
@@ -5253,13 +6003,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     376,
-    384.73,
-    'https://msu.edu/id.js',
+    713.66,
+    'http://sciencedaily.com/nisl/nunc/rhoncus/dui/vel/sem/sed.aspx',
     'CANCELADA',
-    '3896442104'
+    '0628195931',
+    '05-Nov-2021'
 );
 
 INSERT INTO COMPRA (
@@ -5267,13 +6019,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     377,
-    13.61,
-    'https://hud.gov/massa/id/lobortis/convallis/tortor/risus/dapibus.aspx',
+    71.01,
+    'https://xrea.com/non/mauris/morbi/non/lectus/aliquam.json',
     'PAGADA',
-    '3896442104'
+    '3896442104',
+    '30-Oct-2021'
 );
 
 INSERT INTO COMPRA (
@@ -5281,13 +6035,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     378,
-    387.38,
-    'https://bandcamp.com/leo/odio/porttitor.html',
-    'CREADA',
-    '1278995099'
+    67.73,
+    'http://craigslist.org/condimentum/neque/sapien/placerat.aspx',
+    'CANCELADA',
+    '8792260616',
+    '17-Jul-2022'
 );
 
 INSERT INTO COMPRA (
@@ -5295,13 +6051,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     379,
-    501.2,
-    'http://oaic.gov.au/maecenas/tincidunt/lacus/at/velit.json',
-    'CREADA',
-    '3896442104'
+    467.55,
+    'http://i2i.jp/quisque.json',
+    'CANCELADA',
+    '8792260616',
+    '04-Mar-2022'
 );
 
 INSERT INTO COMPRA (
@@ -5309,13 +6067,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     380,
-    553.12,
-    'http://mayoclinic.com/mauris.html',
-    'CANCELADA',
-    '1278995099'
+    156.3,
+    'http://ibm.com/ipsum/integer.json',
+    'PAGADA',
+    '3896442104',
+    '03-Aug-2022'
 );
 
 INSERT INTO COMPRA (
@@ -5323,13 +6083,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     381,
-    344.24,
-    'http://gizmodo.com/dolor/quis/odio/consequat/varius.jsp',
+    740.34,
+    'https://google.com.au/dolor/morbi/vel.png',
     'PAGADA',
-    '3896442104'
+    '3896442104',
+    '24-Aug-2022'
 );
 
 INSERT INTO COMPRA (
@@ -5337,13 +6099,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     382,
-    93.53,
-    'https://cmu.edu/pellentesque.js',
-    'CANCELADA',
-    '3896442104'
+    378.88,
+    'https://dailymotion.com/posuere/cubilia/curae/mauris/viverra/diam/vitae.png',
+    'PAGADA',
+    '3896442104',
+    '02-Aug-2022'
 );
 
 INSERT INTO COMPRA (
@@ -5351,13 +6115,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     383,
-    508.85,
-    'http://comcast.net/convallis/duis/consequat/dui.jpg',
-    'PAGADA',
-    '1278995099'
+    245.69,
+    'https://globo.com/pellentesque/eget.json',
+    'CREADA',
+    '9031101052',
+    '26-May-2022'
 );
 
 INSERT INTO COMPRA (
@@ -5365,13 +6131,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     384,
-    408.3,
-    'https://issuu.com/turpis.jpg',
-    'PAGADA',
-    '3896442104'
+    140.98,
+    'http://irs.gov/ac/tellus/semper/interdum/mauris/ullamcorper/purus.jpg',
+    'CANCELADA',
+    '1278995099',
+    '19-Sep-2022'
 );
 
 INSERT INTO COMPRA (
@@ -5379,13 +6147,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     385,
-    142.21,
-    'http://sourceforge.net/dolor/morbi/vel/lectus/in/quam/fringilla.xml',
+    830.39,
+    'http://opensource.org/dictumst/morbi/vestibulum/velit/id/pretium/iaculis.json',
     'CREADA',
-    '3896442104'
+    '8792260616',
+    '13-Apr-2022'
 );
 
 INSERT INTO COMPRA (
@@ -5393,13 +6163,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     386,
-    691.7,
-    'http://ustream.tv/at.aspx',
-    'CREADA',
-    '8792260616'
+    276.41,
+    'http://shareasale.com/vestibulum/quam/sapien/varius/ut/blandit.aspx',
+    'CANCELADA',
+    '1278995099',
+    '30-Oct-2021'
 );
 
 INSERT INTO COMPRA (
@@ -5407,13 +6179,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     387,
-    616.25,
-    'https://php.net/id.html',
-    'CREADA',
-    '1278995099'
+    12.63,
+    'https://addthis.com/in/quam/fringilla/rhoncus.json',
+    'CANCELADA',
+    '1278995099',
+    '09-Mar-2022'
 );
 
 INSERT INTO COMPRA (
@@ -5421,13 +6195,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     388,
-    611.9,
-    'https://narod.ru/sit.jpg',
+    348.46,
+    'https://narod.ru/ut/ultrices.js',
     'PAGADA',
-    '1278995099'
+    '0628195931',
+    '02-Aug-2022'
 );
 
 INSERT INTO COMPRA (
@@ -5435,13 +6211,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     389,
-    349.14,
-    'https://msu.edu/mi.json',
-    'PAGADA',
-    '8792260616'
+    959.95,
+    'https://redcross.org/magnis/dis/parturient/montes.html',
+    'CREADA',
+    '0628195931',
+    '29-Jul-2022'
 );
 
 INSERT INTO COMPRA (
@@ -5449,13 +6227,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     390,
-    35.82,
-    'https://pagesperso-orange.fr/in/magna/bibendum/imperdiet/nullam.jsp',
-    'CREADA',
-    '3896442104'
+    590.0,
+    'http://xinhuanet.com/mauris.js',
+    'PAGADA',
+    '1278995099',
+    '20-Mar-2022'
 );
 
 INSERT INTO COMPRA (
@@ -5463,13 +6243,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     391,
-    139.0,
-    'http://yelp.com/ac/nibh/fusce.html',
-    'CANCELADA',
-    '9031101052'
+    892.29,
+    'https://imdb.com/vivamus/vestibulum.html',
+    'CREADA',
+    '0628195931',
+    '08-Jan-2022'
 );
 
 INSERT INTO COMPRA (
@@ -5477,13 +6259,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     392,
-    642.55,
-    'http://earthlink.net/maecenas.json',
+    458.25,
+    'https://stanford.edu/integer/ac/neque.jsp',
     'CREADA',
-    '0628195931'
+    '1278995099',
+    '03-Aug-2022'
 );
 
 INSERT INTO COMPRA (
@@ -5491,13 +6275,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     393,
-    488.4,
-    'https://scientificamerican.com/morbi/non/quam/nec/dui.html',
-    'CANCELADA',
-    '3896442104'
+    861.0,
+    'https://chicagotribune.com/id/luctus.jsp',
+    'PAGADA',
+    '0628195931',
+    '11-Sep-2022'
 );
 
 INSERT INTO COMPRA (
@@ -5505,13 +6291,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     394,
-    345.78,
-    'http://artisteer.com/sed/vestibulum/sit/amet.png',
+    266.26,
+    'https://huffingtonpost.com/augue/quam.jsp',
     'CREADA',
-    '0628195931'
+    '3896442104',
+    '11-Sep-2022'
 );
 
 INSERT INTO COMPRA (
@@ -5519,13 +6307,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     395,
-    474.26,
-    'http://mit.edu/dui/luctus/rutrum/nulla/tellus.html',
-    'CANCELADA',
-    '8792260616'
+    10.79,
+    'https://wordpress.com/nisl/aenean.png',
+    'PAGADA',
+    '1278995099',
+    '05-Feb-2022'
 );
 
 INSERT INTO COMPRA (
@@ -5533,13 +6323,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     396,
-    264.35,
-    'https://artisteer.com/dui/proin.js',
-    'CANCELADA',
-    '3896442104'
+    806.74,
+    'https://nydailynews.com/pharetra/magna/vestibulum/aliquet.html',
+    'CREADA',
+    '1278995099',
+    '05-Mar-2022'
 );
 
 INSERT INTO COMPRA (
@@ -5547,13 +6339,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     397,
-    17.99,
-    'http://forbes.com/elit/ac.jpg',
-    'CANCELADA',
-    '1278995099'
+    804.53,
+    'https://cbc.ca/nulla/ac/enim/in/tempor/turpis/nec.aspx',
+    'PAGADA',
+    '3896442104',
+    '19-Oct-2021'
 );
 
 INSERT INTO COMPRA (
@@ -5561,13 +6355,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     398,
-    788.84,
-    'https://cloudflare.com/tempus/semper/est/quam.jpg',
-    'PAGADA',
-    '0628195931'
+    117.77,
+    'http://samsung.com/venenatis/tristique/fusce/congue.js',
+    'CANCELADA',
+    '0628195931',
+    '26-Aug-2022'
 );
 
 INSERT INTO COMPRA (
@@ -5575,13 +6371,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     399,
-    803.2,
-    'http://unesco.org/porta/volutpat/quam/pede/lobortis/ligula.html',
-    'CREADA',
-    '3896442104'
+    367.24,
+    'http://ezinearticles.com/turpis/nec.aspx',
+    'PAGADA',
+    '9031101052',
+    '17-Oct-2021'
 );
 
 INSERT INTO COMPRA (
@@ -5589,13 +6387,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     400,
-    613.42,
-    'http://hao123.com/faucibus/orci.png',
-    'PAGADA',
-    '1278995099'
+    516.9,
+    'http://yellowpages.com/est/donec/odio/justo/sollicitudin.html',
+    'CREADA',
+    '8792260616',
+    '31-Aug-2022'
 );
 
 INSERT INTO COMPRA (
@@ -5603,13 +6403,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     401,
-    508.04,
-    'https://digg.com/pede/venenatis/non.html',
-    'PAGADA',
-    '1278995099'
+    9.92,
+    'https://cbslocal.com/natoque.jpg',
+    'CREADA',
+    '0628195931',
+    '31-Jan-2022'
 );
 
 INSERT INTO COMPRA (
@@ -5617,13 +6419,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     402,
-    112.97,
-    'https://sphinn.com/quis/orci/nullam/molestie.json',
+    594.31,
+    'https://utexas.edu/turpis.xml',
     'CREADA',
-    '3896442104'
+    '3896442104',
+    '29-Sep-2022'
 );
 
 INSERT INTO COMPRA (
@@ -5631,13 +6435,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     403,
-    593.91,
-    'https://sakura.ne.jp/quis/libero/nullam/sit/amet/turpis.js',
-    'CREADA',
-    '3896442104'
+    658.36,
+    'http://bloglines.com/tortor/risus/dapibus/augue.jpg',
+    'PAGADA',
+    '9031101052',
+    '20-Jul-2022'
 );
 
 INSERT INTO COMPRA (
@@ -5645,13 +6451,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     404,
-    109.31,
-    'http://dropbox.com/nibh.aspx',
-    'CREADA',
-    '3896442104'
+    844.83,
+    'https://imageshack.us/platea/dictumst/morbi/vestibulum/velit.aspx',
+    'CANCELADA',
+    '1278995099',
+    '07-Oct-2022'
 );
 
 INSERT INTO COMPRA (
@@ -5659,13 +6467,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     405,
-    550.98,
-    'http://google.com.au/pellentesque/ultrices.json',
-    'PAGADA',
-    '0628195931'
+    478.7,
+    'http://ftc.gov/dictumst/etiam/faucibus.jpg',
+    'CREADA',
+    '3896442104',
+    '11-Nov-2021'
 );
 
 INSERT INTO COMPRA (
@@ -5673,13 +6483,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     406,
-    991.92,
-    'http://bluehost.com/ipsum/dolor/sit/amet/consectetuer.json',
-    'CREADA',
-    '3896442104'
+    70.5,
+    'https://archive.org/purus/aliquet/at/feugiat/non/pretium/quis.json',
+    'PAGADA',
+    '3896442104',
+    '18-Feb-2022'
 );
 
 INSERT INTO COMPRA (
@@ -5687,13 +6499,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     407,
-    995.81,
-    'http://wp.com/eget/massa/tempor/convallis/nulla.html',
+    610.42,
+    'http://goodreads.com/convallis/tortor/risus.jpg',
     'CREADA',
-    '0628195931'
+    '0628195931',
+    '03-Jul-2022'
 );
 
 INSERT INTO COMPRA (
@@ -5701,13 +6515,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     408,
-    105.73,
-    'https://last.fm/odio/in/hac/habitasse.xml',
-    'CANCELADA',
-    '9031101052'
+    627.22,
+    'http://army.mil/quisque/erat/eros/viverra/eget.html',
+    'CREADA',
+    '9031101052',
+    '27-Jul-2022'
 );
 
 INSERT INTO COMPRA (
@@ -5715,13 +6531,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     409,
-    588.21,
-    'https://scribd.com/vitae/ipsum/aliquam/non/mauris/morbi.xml',
-    'CREADA',
-    '9031101052'
+    329.25,
+    'https://scribd.com/dignissim/vestibulum/vestibulum/ante/ipsum/primis/in.png',
+    'PAGADA',
+    '8792260616',
+    '02-May-2022'
 );
 
 INSERT INTO COMPRA (
@@ -5729,13 +6547,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     410,
-    392.06,
-    'http://omniture.com/quis/odio/consequat/varius.jpg',
-    'PAGADA',
-    '0628195931'
+    42.46,
+    'https://tinypic.com/vestibulum.jpg',
+    'CREADA',
+    '9031101052',
+    '07-May-2022'
 );
 
 INSERT INTO COMPRA (
@@ -5743,13 +6563,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     411,
-    324.32,
-    'http://dot.gov/est/congue/elementum/in/hac/habitasse/platea.xml',
-    'CREADA',
-    '8792260616'
+    695.36,
+    'https://desdev.cn/suscipit.jpg',
+    'PAGADA',
+    '3896442104',
+    '09-Sep-2022'
 );
 
 INSERT INTO COMPRA (
@@ -5757,13 +6579,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     412,
-    735.25,
-    'https://ucoz.ru/orci/pede/venenatis/non/sodales.json',
+    563.76,
+    'http://alexa.com/libero/rutrum/ac/lobortis/vel/dapibus/at.js',
     'CANCELADA',
-    '1278995099'
+    '9031101052',
+    '10-Jan-2022'
 );
 
 INSERT INTO COMPRA (
@@ -5771,13 +6595,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     413,
-    823.35,
-    'https://omniture.com/ipsum.xml',
-    'CREADA',
-    '3896442104'
+    344.78,
+    'https://gravatar.com/eros/viverra/eget.xml',
+    'PAGADA',
+    '9031101052',
+    '29-Mar-2022'
 );
 
 INSERT INTO COMPRA (
@@ -5785,13 +6611,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     414,
-    366.42,
-    'http://army.mil/porttitor/lorem/id/ligula/suspendisse/ornare/consequat.aspx',
-    'CREADA',
-    '1278995099'
+    478.36,
+    'https://youku.com/pede.aspx',
+    'PAGADA',
+    '8792260616',
+    '14-Oct-2022'
 );
 
 INSERT INTO COMPRA (
@@ -5799,13 +6627,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     415,
-    333.47,
-    'http://list-manage.com/nisl.jpg',
+    560.9,
+    'http://pcworld.com/ipsum/primis/in/faucibus/orci/luctus/et.jsp',
     'CANCELADA',
-    '8792260616'
+    '9031101052',
+    '04-Apr-2022'
 );
 
 INSERT INTO COMPRA (
@@ -5813,13 +6643,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     416,
-    761.49,
-    'http://is.gd/sem/praesent/id/massa.html',
-    'CREADA',
-    '3896442104'
+    212.75,
+    'http://indiegogo.com/tincidunt/eu/felis/fusce.aspx',
+    'PAGADA',
+    '3896442104',
+    '15-Jul-2022'
 );
 
 INSERT INTO COMPRA (
@@ -5827,13 +6659,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     417,
-    97.97,
-    'http://usnews.com/suspendisse/potenti/nullam.xml',
-    'CREADA',
-    '8792260616'
+    507.77,
+    'http://facebook.com/ipsum/aliquam/non/mauris/morbi/non/lectus.js',
+    'CANCELADA',
+    '1278995099',
+    '04-Jun-2022'
 );
 
 INSERT INTO COMPRA (
@@ -5841,13 +6675,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     418,
-    259.44,
-    'https://upenn.edu/porttitor/lacus/at/turpis/donec/posuere.json',
-    'PAGADA',
-    '3896442104'
+    191.33,
+    'http://blog.com/cubilia/curae.js',
+    'CANCELADA',
+    '3896442104',
+    '05-Jul-2022'
 );
 
 INSERT INTO COMPRA (
@@ -5855,13 +6691,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     419,
-    504.63,
-    'http://cpanel.net/enim/leo/rhoncus/sed/vestibulum.jpg',
+    947.87,
+    'https://gravatar.com/nulla.html',
     'CANCELADA',
-    '1278995099'
+    '8792260616',
+    '12-Dec-2021'
 );
 
 INSERT INTO COMPRA (
@@ -5869,13 +6707,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     420,
-    962.08,
-    'https://oaic.gov.au/nisi/eu/orci/mauris/lacinia.html',
+    143.34,
+    'https://digg.com/viverra/diam/vitae/quam/suspendisse.js',
     'PAGADA',
-    '3896442104'
+    '8792260616',
+    '08-Aug-2022'
 );
 
 INSERT INTO COMPRA (
@@ -5883,13 +6723,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     421,
-    901.6,
-    'https://canalblog.com/tempus/sit/amet/sem/fusce/consequat.jpg',
+    235.01,
+    'http://dagondesign.com/tristique/in/tempus/sit/amet.html',
     'CANCELADA',
-    '0628195931'
+    '9031101052',
+    '24-Oct-2021'
 );
 
 INSERT INTO COMPRA (
@@ -5897,13 +6739,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     422,
-    16.11,
-    'http://wikispaces.com/sed/justo/pellentesque/viverra/pede.json',
+    60.48,
+    'https://dmoz.org/volutpat/sapien/arcu/sed/augue/aliquam/erat.json',
     'PAGADA',
-    '3896442104'
+    '0628195931',
+    '09-Feb-2022'
 );
 
 INSERT INTO COMPRA (
@@ -5911,13 +6755,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     423,
-    107.39,
-    'https://wiley.com/pretium/quis/lectus.jpg',
+    116.18,
+    'https://prlog.org/ipsum/primis/in/faucibus.xml',
     'PAGADA',
-    '9031101052'
+    '0628195931',
+    '02-Nov-2021'
 );
 
 INSERT INTO COMPRA (
@@ -5925,13 +6771,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     424,
-    592.56,
-    'http://dyndns.org/hac/habitasse/platea/dictumst/etiam.json',
-    'CREADA',
-    '9031101052'
+    131.43,
+    'https://timesonline.co.uk/tempor/convallis.jpg',
+    'CANCELADA',
+    '8792260616',
+    '27-Feb-2022'
 );
 
 INSERT INTO COMPRA (
@@ -5939,13 +6787,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     425,
-    633.83,
-    'https://cloudflare.com/posuere/cubilia/curae/mauris/viverra.jsp',
-    'PAGADA',
-    '0628195931'
+    684.62,
+    'http://linkedin.com/eu/nibh/quisque/id/justo/sit.html',
+    'CREADA',
+    '0628195931',
+    '09-Apr-2022'
 );
 
 INSERT INTO COMPRA (
@@ -5953,13 +6803,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     426,
-    224.85,
-    'https://t-online.de/non.html',
-    'PAGADA',
-    '8792260616'
+    723.0,
+    'http://nytimes.com/velit/vivamus/vel.png',
+    'CANCELADA',
+    '3896442104',
+    '21-Oct-2021'
 );
 
 INSERT INTO COMPRA (
@@ -5967,13 +6819,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     427,
-    798.96,
-    'http://xinhuanet.com/eros.json',
-    'PAGADA',
-    '9031101052'
+    107.43,
+    'https://theguardian.com/id.js',
+    'CANCELADA',
+    '8792260616',
+    '08-May-2022'
 );
 
 INSERT INTO COMPRA (
@@ -5981,13 +6835,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     428,
-    624.6,
-    'http://hc360.com/elementum/in.json',
-    'PAGADA',
-    '3896442104'
+    269.64,
+    'https://desdev.cn/eget.html',
+    'CANCELADA',
+    '3896442104',
+    '14-May-2022'
 );
 
 INSERT INTO COMPRA (
@@ -5995,13 +6851,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     429,
-    144.22,
-    'https://nasa.gov/justo/in.jsp',
-    'CANCELADA',
-    '1278995099'
+    367.54,
+    'https://slideshare.net/potenti/cras.html',
+    'CREADA',
+    '9031101052',
+    '05-Nov-2021'
 );
 
 INSERT INTO COMPRA (
@@ -6009,13 +6867,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     430,
-    287.43,
-    'https://toplist.cz/erat.aspx',
-    'PAGADA',
-    '3896442104'
+    751.08,
+    'http://hhs.gov/sapien/varius/ut/blandit/non/interdum/in.jsp',
+    'CREADA',
+    '8792260616',
+    '18-Oct-2021'
 );
 
 INSERT INTO COMPRA (
@@ -6023,13 +6883,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     431,
-    359.65,
-    'http://oaic.gov.au/integer/aliquet/massa.js',
+    779.97,
+    'https://columbia.edu/enim/sit/amet/nunc.js',
     'CREADA',
-    '9031101052'
+    '1278995099',
+    '16-Mar-2022'
 );
 
 INSERT INTO COMPRA (
@@ -6037,13 +6899,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     432,
-    239.22,
-    'https://goo.ne.jp/molestie/hendrerit/at/vulputate.jsp',
-    'CREADA',
-    '9031101052'
+    619.92,
+    'https://answers.com/nascetur/ridiculus/mus/vivamus/vestibulum.jpg',
+    'PAGADA',
+    '3896442104',
+    '18-Sep-2022'
 );
 
 INSERT INTO COMPRA (
@@ -6051,13 +6915,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     433,
-    550.79,
-    'http://accuweather.com/mus.aspx',
+    567.37,
+    'https://webnode.com/neque/duis.png',
     'CREADA',
-    '3896442104'
+    '8792260616',
+    '16-Dec-2021'
 );
 
 INSERT INTO COMPRA (
@@ -6065,13 +6931,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     434,
-    426.28,
-    'https://chronoengine.com/urna/pretium/nisl/ut/volutpat/sapien/arcu.jpg',
+    958.32,
+    'http://foxnews.com/ligula.jpg',
     'CREADA',
-    '9031101052'
+    '1278995099',
+    '03-Dec-2021'
 );
 
 INSERT INTO COMPRA (
@@ -6079,13 +6947,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     435,
-    724.54,
-    'https://purevolume.com/in/faucibus/orci/luctus/et.json',
-    'PAGADA',
-    '0628195931'
+    867.97,
+    'https://opensource.org/semper/rutrum/nulla/nunc/purus/phasellus.xml',
+    'CANCELADA',
+    '0628195931',
+    '07-Oct-2022'
 );
 
 INSERT INTO COMPRA (
@@ -6093,13 +6963,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     436,
-    48.25,
-    'http://booking.com/at/lorem/integer/tincidunt/ante/vel.png',
-    'PAGADA',
-    '9031101052'
+    440.81,
+    'http://upenn.edu/fermentum/donec/ut/mauris/eget/massa.png',
+    'CANCELADA',
+    '3896442104',
+    '01-Nov-2021'
 );
 
 INSERT INTO COMPRA (
@@ -6107,13 +6979,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     437,
-    48.55,
-    'http://chronoengine.com/neque/vestibulum/eget/vulputate/ut/ultrices.jpg',
-    'CREADA',
-    '0628195931'
+    174.63,
+    'https://pagesperso-orange.fr/interdum/in/ante/vestibulum/ante.html',
+    'PAGADA',
+    '3896442104',
+    '02-Apr-2022'
 );
 
 INSERT INTO COMPRA (
@@ -6121,13 +6995,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     438,
-    238.26,
-    'http://pbs.org/placerat/ante/nulla/justo.aspx',
+    451.38,
+    'http://npr.org/eget/tincidunt/eget/tempus.png',
     'CREADA',
-    '9031101052'
+    '8792260616',
+    '23-May-2022'
 );
 
 INSERT INTO COMPRA (
@@ -6135,13 +7011,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     439,
-    520.13,
-    'https://delicious.com/orci/pede/venenatis/non/sodales.jsp',
+    366.32,
+    'http://baidu.com/metus.aspx',
     'PAGADA',
-    '8792260616'
+    '1278995099',
+    '15-Apr-2022'
 );
 
 INSERT INTO COMPRA (
@@ -6149,13 +7027,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     440,
-    288.22,
-    'http://discuz.net/ornare.png',
-    'CANCELADA',
-    '8792260616'
+    31.58,
+    'http://1und1.de/suspendisse.aspx',
+    'PAGADA',
+    '3896442104',
+    '05-Feb-2022'
 );
 
 INSERT INTO COMPRA (
@@ -6163,13 +7043,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     441,
-    63.56,
-    'https://dmoz.org/in/quis.jsp',
-    'CANCELADA',
-    '3896442104'
+    555.35,
+    'http://jalbum.net/erat/id.aspx',
+    'PAGADA',
+    '3896442104',
+    '09-Jan-2022'
 );
 
 INSERT INTO COMPRA (
@@ -6177,13 +7059,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     442,
-    431.98,
-    'https://rakuten.co.jp/est.jsp',
-    'CREADA',
-    '9031101052'
+    2.92,
+    'https://blogspot.com/justo/morbi.json',
+    'CANCELADA',
+    '1278995099',
+    '15-Dec-2021'
 );
 
 INSERT INTO COMPRA (
@@ -6191,13 +7075,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     443,
-    660.13,
-    'http://devhub.com/platea/dictumst.json',
-    'CREADA',
-    '9031101052'
+    942.45,
+    'http://mozilla.com/quisque/ut/erat/curabitur/gravida.jsp',
+    'PAGADA',
+    '3896442104',
+    '20-Apr-2022'
 );
 
 INSERT INTO COMPRA (
@@ -6205,13 +7091,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     444,
-    539.05,
-    'http://wunderground.com/in/sagittis.jsp',
-    'PAGADA',
-    '1278995099'
+    325.47,
+    'https://wikimedia.org/nisl/aenean/lectus/pellentesque/eget/nunc.xml',
+    'CANCELADA',
+    '9031101052',
+    '30-Aug-2022'
 );
 
 INSERT INTO COMPRA (
@@ -6219,13 +7107,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     445,
-    476.57,
-    'https://virginia.edu/pellentesque/ultrices/mattis/odio/donec/vitae.json',
-    'CANCELADA',
-    '9031101052'
+    503.04,
+    'http://msn.com/nisi/volutpat/eleifend.png',
+    'PAGADA',
+    '1278995099',
+    '28-May-2022'
 );
 
 INSERT INTO COMPRA (
@@ -6233,13 +7123,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     446,
-    498.19,
-    'http://thetimes.co.uk/dis/parturient.jsp',
-    'PAGADA',
-    '1278995099'
+    134.77,
+    'http://cnet.com/tempor/convallis.jsp',
+    'CREADA',
+    '0628195931',
+    '16-Jun-2022'
 );
 
 INSERT INTO COMPRA (
@@ -6247,13 +7139,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     447,
-    654.69,
-    'http://list-manage.com/sit/amet/sapien.jpg',
-    'CREADA',
-    '1278995099'
+    323.51,
+    'https://amazon.co.jp/hac/habitasse/platea/dictumst.aspx',
+    'PAGADA',
+    '0628195931',
+    '26-Nov-2021'
 );
 
 INSERT INTO COMPRA (
@@ -6261,13 +7155,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     448,
-    31.32,
-    'https://spiegel.de/quam.png',
+    611.12,
+    'http://wisc.edu/dictumst/etiam/faucibus/cursus.aspx',
     'PAGADA',
-    '0628195931'
+    '0628195931',
+    '04-Jun-2022'
 );
 
 INSERT INTO COMPRA (
@@ -6275,13 +7171,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     449,
-    561.59,
-    'http://example.com/pede/libero/quis/orci.aspx',
+    502.0,
+    'http://bizjournals.com/ipsum/ac.html',
     'CREADA',
-    '0628195931'
+    '9031101052',
+    '01-Jun-2022'
 );
 
 INSERT INTO COMPRA (
@@ -6289,13 +7187,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     450,
-    890.28,
-    'https://sogou.com/fusce/posuere/felis.js',
-    'CREADA',
-    '8792260616'
+    676.02,
+    'http://telegraph.co.uk/dis/parturient/montes/nascetur/ridiculus.jsp',
+    'CANCELADA',
+    '9031101052',
+    '04-Mar-2022'
 );
 
 INSERT INTO COMPRA (
@@ -6303,13 +7203,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     451,
-    744.97,
-    'http://unc.edu/at/ipsum/ac/tellus.aspx',
-    'CREADA',
-    '0628195931'
+    497.34,
+    'https://hc360.com/ridiculus/mus/etiam.jpg',
+    'PAGADA',
+    '8792260616',
+    '16-May-2022'
 );
 
 INSERT INTO COMPRA (
@@ -6317,13 +7219,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     452,
-    946.48,
-    'https://linkedin.com/commodo/placerat/praesent/blandit/nam/nulla/integer.js',
-    'CANCELADA',
-    '8792260616'
+    826.18,
+    'https://squidoo.com/lectus/pellentesque/eget.jpg',
+    'PAGADA',
+    '9031101052',
+    '18-Jan-2022'
 );
 
 INSERT INTO COMPRA (
@@ -6331,13 +7235,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     453,
-    847.65,
-    'http://phpbb.com/morbi.jsp',
+    173.28,
+    'https://tripadvisor.com/venenatis/tristique/fusce/congue.jsp',
     'PAGADA',
-    '3896442104'
+    '8792260616',
+    '15-Apr-2022'
 );
 
 INSERT INTO COMPRA (
@@ -6345,13 +7251,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     454,
-    932.5,
-    'https://princeton.edu/odio/in/hac/habitasse/platea/dictumst.png',
+    844.89,
+    'https://dmoz.org/posuere/nonummy/integer.jsp',
     'CREADA',
-    '1278995099'
+    '3896442104',
+    '27-Feb-2022'
 );
 
 INSERT INTO COMPRA (
@@ -6359,13 +7267,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     455,
-    832.36,
-    'https://trellian.com/eu/tincidunt/in/leo.jsp',
-    'CREADA',
-    '0628195931'
+    621.89,
+    'http://nba.com/erat/quisque/erat.aspx',
+    'PAGADA',
+    '0628195931',
+    '20-Nov-2021'
 );
 
 INSERT INTO COMPRA (
@@ -6373,13 +7283,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     456,
-    293.94,
-    'http://mozilla.org/eu/massa/donec.jpg',
-    'PAGADA',
-    '1278995099'
+    987.91,
+    'https://imdb.com/consequat/ut/nulla.xml',
+    'CREADA',
+    '0628195931',
+    '17-Aug-2022'
 );
 
 INSERT INTO COMPRA (
@@ -6387,13 +7299,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     457,
-    723.81,
-    'https://technorati.com/ridiculus.jpg',
-    'CREADA',
-    '0628195931'
+    216.54,
+    'https://omniture.com/eu/interdum/eu/tincidunt/in/leo.json',
+    'CANCELADA',
+    '1278995099',
+    '01-Mar-2022'
 );
 
 INSERT INTO COMPRA (
@@ -6401,13 +7315,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     458,
-    487.94,
-    'https://nih.gov/interdum/venenatis/turpis/enim/blandit.jpg',
+    926.54,
+    'https://webs.com/luctus/cum/sociis/natoque/penatibus/et/magnis.xml',
     'CREADA',
-    '3896442104'
+    '8792260616',
+    '28-Jan-2022'
 );
 
 INSERT INTO COMPRA (
@@ -6415,13 +7331,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     459,
-    927.51,
-    'https://eepurl.com/nam/nulla/integer/pede/justo.js',
+    901.43,
+    'http://archive.org/pharetra/magna/ac/consequat/metus/sapien/ut.json',
     'CREADA',
-    '0628195931'
+    '1278995099',
+    '05-Sep-2022'
 );
 
 INSERT INTO COMPRA (
@@ -6429,13 +7347,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     460,
-    245.54,
-    'https://washington.edu/quis/lectus/suspendisse.json',
-    'CANCELADA',
-    '3896442104'
+    72.49,
+    'https://usnews.com/primis/in/faucibus/orci/luctus.js',
+    'CREADA',
+    '9031101052',
+    '11-Nov-2021'
 );
 
 INSERT INTO COMPRA (
@@ -6443,13 +7363,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     461,
-    99.34,
-    'https://economist.com/cursus/urna/ut/tellus.png',
-    'PAGADA',
-    '3896442104'
+    475.09,
+    'http://zdnet.com/cum/sociis.html',
+    'CREADA',
+    '1278995099',
+    '11-May-2022'
 );
 
 INSERT INTO COMPRA (
@@ -6457,13 +7379,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     462,
-    347.07,
-    'https://nydailynews.com/erat/nulla/tempus/vivamus/in/felis/eu.js',
+    936.66,
+    'https://moonfruit.com/vel/dapibus/at/diam.png',
     'PAGADA',
-    '3896442104'
+    '8792260616',
+    '15-Feb-2022'
 );
 
 INSERT INTO COMPRA (
@@ -6471,13 +7395,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     463,
-    791.7,
-    'https://naver.com/morbi/sem/mauris/laoreet/ut.json',
+    382.55,
+    'https://omniture.com/eu/sapien/cursus.xml',
     'CANCELADA',
-    '1278995099'
+    '8792260616',
+    '24-Jul-2022'
 );
 
 INSERT INTO COMPRA (
@@ -6485,13 +7411,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     464,
-    359.1,
-    'http://deviantart.com/proin/eu.json',
-    'PAGADA',
-    '8792260616'
+    78.51,
+    'http://icq.com/pretium/quis/lectus/suspendisse/potenti/in/eleifend.xml',
+    'CANCELADA',
+    '1278995099',
+    '26-Mar-2022'
 );
 
 INSERT INTO COMPRA (
@@ -6499,13 +7427,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     465,
-    396.53,
-    'https://dyndns.org/amet/consectetuer/adipiscing/elit/proin/interdum/mauris.js',
-    'CREADA',
-    '0628195931'
+    139.39,
+    'https://google.com.hk/semper/sapien/a/libero/nam/dui.jpg',
+    'PAGADA',
+    '8792260616',
+    '05-Apr-2022'
 );
 
 INSERT INTO COMPRA (
@@ -6513,13 +7443,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     466,
-    837.43,
-    'https://hp.com/sapien/cursus/vestibulum/proin/eu/mi/nulla.json',
-    'CREADA',
-    '3896442104'
+    849.74,
+    'http://mapy.cz/curabitur.aspx',
+    'PAGADA',
+    '9031101052',
+    '11-Nov-2021'
 );
 
 INSERT INTO COMPRA (
@@ -6527,13 +7459,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     467,
-    217.89,
-    'http://un.org/et/eros/vestibulum.jpg',
-    'CANCELADA',
-    '8792260616'
+    600.12,
+    'http://discuz.net/quam/sollicitudin/vitae/consectetuer.xml',
+    'CREADA',
+    '8792260616',
+    '25-Sep-2022'
 );
 
 INSERT INTO COMPRA (
@@ -6541,13 +7475,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     468,
-    903.1,
-    'https://cornell.edu/mi/nulla/ac/enim/in/tempor/turpis.html',
-    'CREADA',
-    '8792260616'
+    673.83,
+    'http://cloudflare.com/odio/elementum/eu/interdum/eu/tincidunt.jsp',
+    'PAGADA',
+    '1278995099',
+    '14-Jul-2022'
 );
 
 INSERT INTO COMPRA (
@@ -6555,13 +7491,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     469,
-    390.67,
-    'http://elegantthemes.com/semper/interdum.html',
-    'CANCELADA',
-    '8792260616'
+    568.4,
+    'http://alexa.com/consectetuer.jsp',
+    'PAGADA',
+    '9031101052',
+    '07-Aug-2022'
 );
 
 INSERT INTO COMPRA (
@@ -6569,13 +7507,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     470,
-    754.54,
-    'https://wunderground.com/risus/auctor.json',
+    272.17,
+    'http://jugem.jp/id/ornare/imperdiet/sapien/urna/pretium.html',
     'CANCELADA',
-    '8792260616'
+    '1278995099',
+    '15-Nov-2021'
 );
 
 INSERT INTO COMPRA (
@@ -6583,13 +7523,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     471,
-    868.66,
-    'http://mapy.cz/mauris/non/ligula/pellentesque/ultrices/phasellus.json',
+    345.41,
+    'https://imgur.com/in/hac/habitasse/platea/dictumst/maecenas.png',
     'CREADA',
-    '1278995099'
+    '0628195931',
+    '24-Dec-2021'
 );
 
 INSERT INTO COMPRA (
@@ -6597,13 +7539,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     472,
-    769.53,
-    'http://yellowbook.com/eu.html',
-    'CANCELADA',
-    '8792260616'
+    879.76,
+    'http://goo.ne.jp/vestibulum/ac/est/lacinia/nisi/venenatis.js',
+    'CREADA',
+    '8792260616',
+    '31-May-2022'
 );
 
 INSERT INTO COMPRA (
@@ -6611,13 +7555,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     473,
-    14.4,
-    'https://upenn.edu/rutrum/nulla.png',
+    609.42,
+    'http://dropbox.com/mauris/non/ligula/pellentesque/ultrices/phasellus/id.html',
     'CREADA',
-    '9031101052'
+    '0628195931',
+    '30-Mar-2022'
 );
 
 INSERT INTO COMPRA (
@@ -6625,13 +7571,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     474,
-    698.24,
-    'http://ca.gov/purus/aliquet/at/feugiat/non.jpg',
-    'CREADA',
-    '9031101052'
+    265.52,
+    'http://vk.com/lacinia/eget/tincidunt/eget/tempus/vel/pede.js',
+    'PAGADA',
+    '8792260616',
+    '17-Feb-2022'
 );
 
 INSERT INTO COMPRA (
@@ -6639,13 +7587,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     475,
-    494.67,
-    'http://mlb.com/massa.jpg',
-    'CREADA',
-    '1278995099'
+    474.07,
+    'http://youku.com/erat/fermentum/justo/nec/condimentum.html',
+    'PAGADA',
+    '8792260616',
+    '13-Feb-2022'
 );
 
 INSERT INTO COMPRA (
@@ -6653,13 +7603,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     476,
-    901.9,
-    'https://imageshack.us/accumsan/tellus/nisi.aspx',
-    'CANCELADA',
-    '3896442104'
+    109.85,
+    'http://pinterest.com/quam.xml',
+    'PAGADA',
+    '3896442104',
+    '02-Jul-2022'
 );
 
 INSERT INTO COMPRA (
@@ -6667,13 +7619,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     477,
-    523.28,
-    'https://elpais.com/erat/volutpat/in/congue/etiam/justo.aspx',
-    'PAGADA',
-    '3896442104'
+    265.33,
+    'https://nps.gov/quis/orci/eget.jpg',
+    'CANCELADA',
+    '0628195931',
+    '01-May-2022'
 );
 
 INSERT INTO COMPRA (
@@ -6681,13 +7635,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     478,
-    235.83,
-    'http://biglobe.ne.jp/est/risus/auctor/sed.jsp',
-    'CREADA',
-    '8792260616'
+    607.56,
+    'https://nsw.gov.au/tincidunt/ante/vel/ipsum/praesent/blandit.jpg',
+    'PAGADA',
+    '1278995099',
+    '21-Dec-2021'
 );
 
 INSERT INTO COMPRA (
@@ -6695,13 +7651,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     479,
-    101.17,
-    'http://washingtonpost.com/elementum/in/hac/habitasse/platea/dictumst/morbi.jsp',
+    947.15,
+    'https://bloglovin.com/condimentum/curabitur/in.xml',
     'PAGADA',
-    '0628195931'
+    '9031101052',
+    '23-Feb-2022'
 );
 
 INSERT INTO COMPRA (
@@ -6709,13 +7667,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     480,
-    858.61,
-    'http://senate.gov/volutpat/in/congue/etiam/justo/etiam/pretium.aspx',
-    'CREADA',
-    '3896442104'
+    366.75,
+    'https://hp.com/cubilia/curae.js',
+    'CANCELADA',
+    '9031101052',
+    '23-Aug-2022'
 );
 
 INSERT INTO COMPRA (
@@ -6723,13 +7683,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     481,
-    953.94,
-    'http://admin.ch/nulla/integer/pede.xml',
-    'PAGADA',
-    '0628195931'
+    786.63,
+    'https://cafepress.com/ut/at.js',
+    'CANCELADA',
+    '8792260616',
+    '15-Feb-2022'
 );
 
 INSERT INTO COMPRA (
@@ -6737,13 +7699,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     482,
-    470.77,
-    'http://51.la/in/imperdiet/et.jpg',
-    'PAGADA',
-    '1278995099'
+    598.36,
+    'http://unicef.org/nunc/commodo/placerat/praesent.jpg',
+    'CREADA',
+    '8792260616',
+    '11-May-2022'
 );
 
 INSERT INTO COMPRA (
@@ -6751,13 +7715,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     483,
-    806.17,
-    'https://salon.com/eros/suspendisse/accumsan/tortor.js',
+    974.05,
+    'https://ibm.com/eget/elit.jsp',
     'PAGADA',
-    '3896442104'
+    '1278995099',
+    '15-Jul-2022'
 );
 
 INSERT INTO COMPRA (
@@ -6765,13 +7731,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     484,
-    804.93,
-    'http://blinklist.com/nulla/tempus/vivamus/in.aspx',
+    517.38,
+    'http://yellowpages.com/magna/ac.js',
     'PAGADA',
-    '1278995099'
+    '9031101052',
+    '14-Apr-2022'
 );
 
 INSERT INTO COMPRA (
@@ -6779,13 +7747,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     485,
-    370.42,
-    'https://umn.edu/ac/diam/cras/pellentesque.aspx',
-    'CANCELADA',
-    '3896442104'
+    380.42,
+    'https://yellowbook.com/ultrices/phasellus/id/sapien/in.aspx',
+    'CREADA',
+    '1278995099',
+    '23-Jun-2022'
 );
 
 INSERT INTO COMPRA (
@@ -6793,13 +7763,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     486,
-    397.03,
-    'http://biglobe.ne.jp/nam/tristique/tortor/eu/pede.html',
-    'CREADA',
-    '0628195931'
+    784.5,
+    'https://google.ru/at/lorem/integer.jpg',
+    'CANCELADA',
+    '8792260616',
+    '26-Aug-2022'
 );
 
 INSERT INTO COMPRA (
@@ -6807,13 +7779,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     487,
-    261.06,
-    'http://narod.ru/pharetra/magna/vestibulum/aliquet.jpg',
-    'PAGADA',
-    '0628195931'
+    577.94,
+    'http://cargocollective.com/id/sapien/in.jpg',
+    'CANCELADA',
+    '3896442104',
+    '31-Jul-2022'
 );
 
 INSERT INTO COMPRA (
@@ -6821,13 +7795,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     488,
-    47.86,
-    'http://npr.org/justo.jpg',
+    744.44,
+    'http://apache.org/nulla/nunc/purus/phasellus.html',
     'CREADA',
-    '0628195931'
+    '0628195931',
+    '21-Aug-2022'
 );
 
 INSERT INTO COMPRA (
@@ -6835,13 +7811,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     489,
-    72.05,
-    'https://acquirethisname.com/vestibulum/ac/est/lacinia/nisi.jpg',
-    'CANCELADA',
-    '3896442104'
+    603.89,
+    'http://live.com/mauris/sit/amet/eros/suspendisse/accumsan.jpg',
+    'PAGADA',
+    '3896442104',
+    '03-Feb-2022'
 );
 
 INSERT INTO COMPRA (
@@ -6849,13 +7827,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     490,
-    71.98,
-    'http://wikipedia.org/ut/nunc/vestibulum/ante/ipsum.js',
-    'CANCELADA',
-    '8792260616'
+    40.32,
+    'https://clickbank.net/potenti/nullam/porttitor/lacus/at.js',
+    'CREADA',
+    '8792260616',
+    '24-Jan-2022'
 );
 
 INSERT INTO COMPRA (
@@ -6863,13 +7843,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     491,
-    694.95,
-    'https://scientificamerican.com/rutrum/rutrum/neque.xml',
+    349.16,
+    'https://google.ru/porttitor/id/consequat/in/consequat.js',
     'CREADA',
-    '1278995099'
+    '8792260616',
+    '04-Nov-2021'
 );
 
 INSERT INTO COMPRA (
@@ -6877,13 +7859,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     492,
-    372.9,
-    'http://macromedia.com/luctus/et/ultrices/posuere/cubilia.jpg',
+    275.27,
+    'http://imdb.com/tempor/turpis/nec/euismod/scelerisque/quam.xml',
     'PAGADA',
-    '3896442104'
+    '3896442104',
+    '01-Mar-2022'
 );
 
 INSERT INTO COMPRA (
@@ -6891,13 +7875,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     493,
-    991.66,
-    'http://nydailynews.com/lorem.jpg',
-    'CREADA',
-    '9031101052'
+    183.97,
+    'http://ameblo.jp/curae/nulla/dapibus/dolor.json',
+    'PAGADA',
+    '9031101052',
+    '15-May-2022'
 );
 
 INSERT INTO COMPRA (
@@ -6905,13 +7891,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     494,
-    402.2,
-    'https://businessweek.com/semper.json',
-    'PAGADA',
-    '8792260616'
+    423.82,
+    'http://myspace.com/libero/quis/orci/nullam/molestie/nibh/in.jsp',
+    'CANCELADA',
+    '3896442104',
+    '02-Aug-2022'
 );
 
 INSERT INTO COMPRA (
@@ -6919,13 +7907,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     495,
-    484.13,
-    'https://biblegateway.com/pellentesque/eget/nunc.aspx',
-    'CANCELADA',
-    '8792260616'
+    871.81,
+    'https://altervista.org/consequat.xml',
+    'PAGADA',
+    '3896442104',
+    '30-Jan-2022'
 );
 
 INSERT INTO COMPRA (
@@ -6933,13 +7923,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     496,
-    487.81,
-    'https://odnoklassniki.ru/ipsum/aliquam/non/mauris/morbi.aspx',
-    'PAGADA',
-    '0628195931'
+    583.79,
+    'http://simplemachines.org/nulla/nunc.json',
+    'CANCELADA',
+    '3896442104',
+    '21-May-2022'
 );
 
 INSERT INTO COMPRA (
@@ -6947,13 +7939,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     497,
-    891.57,
-    'https://nymag.com/augue.jpg',
-    'PAGADA',
-    '8792260616'
+    786.91,
+    'http://reddit.com/vestibulum/sed.html',
+    'CREADA',
+    '0628195931',
+    '09-Jan-2022'
 );
 
 INSERT INTO COMPRA (
@@ -6961,13 +7955,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     498,
-    743.18,
-    'http://google.fr/hendrerit/at/vulputate/vitae/nisl.js',
-    'CREADA',
-    '8792260616'
+    900.92,
+    'https://rambler.ru/quis/augue/luctus/tincidunt/nulla/mollis.js',
+    'CANCELADA',
+    '8792260616',
+    '02-May-2022'
 );
 
 INSERT INTO COMPRA (
@@ -6975,13 +7971,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     499,
-    348.27,
-    'https://fotki.com/luctus/rutrum/nulla.html',
-    'CREADA',
-    '3896442104'
+    329.51,
+    'http://oaic.gov.au/id/turpis/integer.xml',
+    'PAGADA',
+    '3896442104',
+    '09-Feb-2022'
 );
 
 INSERT INTO COMPRA (
@@ -6989,13 +7987,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     500,
-    831.32,
-    'http://mozilla.org/in/felis/eu.jsp',
-    'CREADA',
-    '1278995099'
+    644.85,
+    'http://ted.com/parturient.png',
+    'PAGADA',
+    '1278995099',
+    '07-Nov-2021'
 );
 
 INSERT INTO COMPRA (
@@ -7003,13 +8003,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     501,
-    125.57,
-    'https://theguardian.com/arcu/adipiscing.jpg',
-    'CANCELADA',
-    '9031101052'
+    924.27,
+    'http://economist.com/nam/nulla/integer.json',
+    'PAGADA',
+    '0628195931',
+    '22-Oct-2021'
 );
 
 INSERT INTO COMPRA (
@@ -7017,13 +8019,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     502,
-    870.81,
-    'https://booking.com/nec/nisi/volutpat/eleifend/donec/ut/dolor.json',
-    'CANCELADA',
-    '9031101052'
+    719.42,
+    'https://ca.gov/nullam/molestie/nibh/in/lectus/pellentesque.png',
+    'PAGADA',
+    '1278995099',
+    '23-Oct-2021'
 );
 
 INSERT INTO COMPRA (
@@ -7031,13 +8035,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     503,
-    912.55,
-    'http://shutterfly.com/odio/justo/sollicitudin/ut/suscipit/a/feugiat.jsp',
-    'CANCELADA',
-    '3896442104'
+    87.45,
+    'https://foxnews.com/consectetuer/eget.json',
+    'PAGADA',
+    '0628195931',
+    '18-Oct-2021'
 );
 
 INSERT INTO COMPRA (
@@ -7045,13 +8051,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     504,
-    690.24,
-    'http://jimdo.com/sit/amet/eros/suspendisse/accumsan.html',
+    556.92,
+    'https://cbslocal.com/nulla.jpg',
     'PAGADA',
-    '1278995099'
+    '9031101052',
+    '29-Nov-2021'
 );
 
 INSERT INTO COMPRA (
@@ -7059,13 +8067,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     505,
-    970.93,
-    'http://wikispaces.com/lobortis/vel/dapibus.aspx',
-    'CANCELADA',
-    '0628195931'
+    770.14,
+    'https://nymag.com/nulla/sed/vel/enim/sit/amet.jsp',
+    'CREADA',
+    '9031101052',
+    '06-Mar-2022'
 );
 
 INSERT INTO COMPRA (
@@ -7073,13 +8083,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     506,
-    649.86,
-    'https://dedecms.com/luctus.json',
-    'CANCELADA',
-    '9031101052'
+    381.67,
+    'https://alexa.com/viverra/diam/vitae/quam/suspendisse.aspx',
+    'PAGADA',
+    '0628195931',
+    '11-Apr-2022'
 );
 
 INSERT INTO COMPRA (
@@ -7087,13 +8099,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     507,
-    586.45,
-    'http://ameblo.jp/est/phasellus/sit/amet/erat/nulla/tempus.html',
-    'CREADA',
-    '3896442104'
+    101.21,
+    'https://uol.com.br/ipsum/primis/in/faucibus/orci/luctus.aspx',
+    'CANCELADA',
+    '8792260616',
+    '26-Apr-2022'
 );
 
 INSERT INTO COMPRA (
@@ -7101,13 +8115,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     508,
-    7.27,
-    'https://cafepress.com/sit/amet/eleifend/pede/libero.jsp',
-    'CREADA',
-    '9031101052'
+    103.74,
+    'http://whitehouse.gov/posuere/nonummy.png',
+    'CANCELADA',
+    '3896442104',
+    '20-Oct-2021'
 );
 
 INSERT INTO COMPRA (
@@ -7115,13 +8131,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     509,
-    722.2,
-    'http://qq.com/eu/mi.jpg',
-    'PAGADA',
-    '0628195931'
+    783.49,
+    'https://wufoo.com/quam/turpis/adipiscing/lorem/vitae/mattis.jsp',
+    'CANCELADA',
+    '8792260616',
+    '01-Dec-2021'
 );
 
 INSERT INTO COMPRA (
@@ -7129,13 +8147,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     510,
-    424.32,
-    'https://fastcompany.com/mi/in/porttitor/pede/justo/eu/massa.jpg',
-    'PAGADA',
-    '9031101052'
+    183.11,
+    'https://cnbc.com/nulla/suscipit.xml',
+    'CREADA',
+    '0628195931',
+    '16-Feb-2022'
 );
 
 INSERT INTO COMPRA (
@@ -7143,13 +8163,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     511,
-    566.02,
-    'http://weebly.com/est/risus/auctor.png',
-    'PAGADA',
-    '9031101052'
+    602.09,
+    'https://shinystat.com/eu/interdum/eu/tincidunt.jpg',
+    'CREADA',
+    '8792260616',
+    '30-Jul-2022'
 );
 
 INSERT INTO COMPRA (
@@ -7157,13 +8179,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     512,
-    653.87,
-    'https://latimes.com/morbi/sem/mauris/laoreet/ut.png',
-    'CREADA',
-    '9031101052'
+    489.68,
+    'http://microsoft.com/aliquet/ultrices/erat/tortor/sollicitudin/mi.jsp',
+    'CANCELADA',
+    '9031101052',
+    '23-Mar-2022'
 );
 
 INSERT INTO COMPRA (
@@ -7171,13 +8195,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     513,
-    424.65,
-    'https://japanpost.jp/consequat/nulla/nisl.png',
-    'CREADA',
-    '1278995099'
+    109.75,
+    'https://gmpg.org/in/leo/maecenas/pulvinar/lobortis.jpg',
+    'CANCELADA',
+    '9031101052',
+    '02-Jun-2022'
 );
 
 INSERT INTO COMPRA (
@@ -7185,13 +8211,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     514,
-    45.1,
-    'https://admin.ch/consequat.json',
-    'PAGADA',
-    '0628195931'
+    935.25,
+    'http://globo.com/in/faucibus/orci/luctus/et/ultrices.jpg',
+    'CANCELADA',
+    '8792260616',
+    '03-Oct-2022'
 );
 
 INSERT INTO COMPRA (
@@ -7199,13 +8227,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     515,
-    296.42,
-    'https://linkedin.com/morbi/sem/mauris/laoreet/ut.jsp',
-    'CREADA',
-    '0628195931'
+    491.16,
+    'http://apache.org/lacinia/erat/vestibulum/sed/magna/at/nunc.aspx',
+    'CANCELADA',
+    '8792260616',
+    '09-Dec-2021'
 );
 
 INSERT INTO COMPRA (
@@ -7213,13 +8243,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     516,
-    911.11,
-    'http://wsj.com/ligula/sit/amet/eleifend/pede/libero.jsp',
-    'CREADA',
-    '3896442104'
+    799.24,
+    'https://google.it/vitae/nisl/aenean/lectus/pellentesque/eget.js',
+    'PAGADA',
+    '0628195931',
+    '21-Jun-2022'
 );
 
 INSERT INTO COMPRA (
@@ -7227,13 +8259,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     517,
-    889.95,
-    'http://moonfruit.com/nulla.js',
+    745.39,
+    'http://msn.com/turpis/enim.js',
     'CREADA',
-    '9031101052'
+    '8792260616',
+    '09-Jun-2022'
 );
 
 INSERT INTO COMPRA (
@@ -7241,13 +8275,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     518,
-    723.62,
-    'http://infoseek.co.jp/rutrum/neque/aenean.xml',
+    545.21,
+    'http://symantec.com/sit.html',
     'PAGADA',
-    '8792260616'
+    '8792260616',
+    '05-Dec-2021'
 );
 
 INSERT INTO COMPRA (
@@ -7255,13 +8291,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     519,
-    361.13,
-    'https://rambler.ru/potenti/cras/in/purus/eu/magna/vulputate.html',
-    'PAGADA',
-    '1278995099'
+    852.25,
+    'https://toplist.cz/vitae/consectetuer.jsp',
+    'CANCELADA',
+    '9031101052',
+    '12-May-2022'
 );
 
 INSERT INTO COMPRA (
@@ -7269,13 +8307,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     520,
-    634.48,
-    'https://nytimes.com/massa/quis/augue/luctus.json',
-    'CANCELADA',
-    '1278995099'
+    719.47,
+    'http://privacy.gov.au/elementum/ligula/vehicula/consequat/morbi/a.js',
+    'PAGADA',
+    '3896442104',
+    '16-Oct-2022'
 );
 
 INSERT INTO COMPRA (
@@ -7283,13 +8323,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     521,
-    564.92,
-    'http://photobucket.com/quam/turpis/adipiscing/lorem/vitae/mattis.json',
+    449.09,
+    'http://spotify.com/curae/duis/faucibus/accumsan/odio.html',
     'CANCELADA',
-    '9031101052'
+    '3896442104',
+    '31-Jan-2022'
 );
 
 INSERT INTO COMPRA (
@@ -7297,13 +8339,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     522,
-    152.68,
-    'https://prlog.org/augue/vestibulum/ante/ipsum/primis/in/faucibus.json',
-    'CANCELADA',
-    '3896442104'
+    351.49,
+    'http://people.com.cn/donec/odio/justo.json',
+    'PAGADA',
+    '3896442104',
+    '03-May-2022'
 );
 
 INSERT INTO COMPRA (
@@ -7311,13 +8355,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     523,
-    249.14,
-    'http://ebay.com/ut.png',
-    'CANCELADA',
-    '9031101052'
+    314.26,
+    'https://de.vu/platea/dictumst/maecenas/ut/massa.xml',
+    'CREADA',
+    '0628195931',
+    '16-Mar-2022'
 );
 
 INSERT INTO COMPRA (
@@ -7325,13 +8371,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     524,
-    928.28,
-    'https://illinois.edu/velit/nec/nisi/vulputate/nonummy.jsp',
+    509.53,
+    'http://vkontakte.ru/faucibus/orci/luctus.json',
     'CREADA',
-    '9031101052'
+    '3896442104',
+    '11-Sep-2022'
 );
 
 INSERT INTO COMPRA (
@@ -7339,13 +8387,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     525,
-    564.48,
-    'https://engadget.com/amet/cursus/id/turpis/integer/aliquet.json',
-    'CREADA',
-    '9031101052'
+    89.92,
+    'https://myspace.com/ante/nulla.json',
+    'CANCELADA',
+    '0628195931',
+    '08-Sep-2022'
 );
 
 INSERT INTO COMPRA (
@@ -7353,13 +8403,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     526,
-    755.44,
-    'http://netlog.com/platea/dictumst/maecenas/ut/massa/quis/augue.png',
-    'PAGADA',
-    '0628195931'
+    186.87,
+    'http://issuu.com/nulla/justo/aliquam/quis/turpis/eget/elit.js',
+    'CANCELADA',
+    '3896442104',
+    '15-Jan-2022'
 );
 
 INSERT INTO COMPRA (
@@ -7367,13 +8419,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     527,
-    167.67,
-    'http://techcrunch.com/vivamus/metus.jsp',
-    'CANCELADA',
-    '3896442104'
+    456.85,
+    'https://state.tx.us/venenatis/turpis/enim/blandit.jpg',
+    'PAGADA',
+    '8792260616',
+    '18-Jun-2022'
 );
 
 INSERT INTO COMPRA (
@@ -7381,13 +8435,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     528,
-    800.25,
-    'https://chron.com/odio/porttitor/id.xml',
+    952.72,
+    'http://pcworld.com/condimentum/id/luctus/nec/molestie.js',
     'CANCELADA',
-    '1278995099'
+    '3896442104',
+    '22-Mar-2022'
 );
 
 INSERT INTO COMPRA (
@@ -7395,13 +8451,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     529,
-    257.0,
-    'https://alibaba.com/condimentum/id.js',
-    'PAGADA',
-    '8792260616'
+    475.06,
+    'http://si.edu/sed/magna/at/nunc.html',
+    'CREADA',
+    '8792260616',
+    '24-Oct-2021'
 );
 
 INSERT INTO COMPRA (
@@ -7409,13 +8467,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     530,
-    490.58,
-    'https://google.pl/scelerisque/mauris/sit.aspx',
+    301.86,
+    'https://reuters.com/nulla/dapibus/dolor/vel/est/donec/odio.js',
     'CREADA',
-    '3896442104'
+    '3896442104',
+    '01-May-2022'
 );
 
 INSERT INTO COMPRA (
@@ -7423,13 +8483,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     531,
-    965.75,
-    'https://salon.com/a/pede/posuere/nonummy.jpg',
-    'CREADA',
-    '9031101052'
+    666.04,
+    'https://etsy.com/cursus/urna/ut/tellus/nulla/ut.jpg',
+    'PAGADA',
+    '3896442104',
+    '02-Jan-2022'
 );
 
 INSERT INTO COMPRA (
@@ -7437,13 +8499,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     532,
-    929.8,
-    'http://delicious.com/vestibulum.png',
-    'CANCELADA',
-    '0628195931'
+    900.05,
+    'http://bing.com/in.json',
+    'PAGADA',
+    '9031101052',
+    '23-May-2022'
 );
 
 INSERT INTO COMPRA (
@@ -7451,13 +8515,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     533,
-    856.31,
-    'https://microsoft.com/est/lacinia.jpg',
+    704.7,
+    'https://newyorker.com/vestibulum/velit/id/pretium/iaculis/diam.html',
     'CREADA',
-    '9031101052'
+    '8792260616',
+    '27-Jul-2022'
 );
 
 INSERT INTO COMPRA (
@@ -7465,13 +8531,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     534,
-    539.84,
-    'http://liveinternet.ru/lacus/at.jpg',
-    'CREADA',
-    '3896442104'
+    100.14,
+    'http://tripod.com/eget/eleifend/luctus/ultricies.jpg',
+    'CANCELADA',
+    '3896442104',
+    '17-May-2022'
 );
 
 INSERT INTO COMPRA (
@@ -7479,13 +8547,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     535,
-    378.29,
-    'http://free.fr/purus/phasellus/in/felis.html',
-    'CANCELADA',
-    '0628195931'
+    13.24,
+    'http://unblog.fr/in.jpg',
+    'CREADA',
+    '3896442104',
+    '05-Aug-2022'
 );
 
 INSERT INTO COMPRA (
@@ -7493,13 +8563,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     536,
-    660.59,
-    'https://dedecms.com/vestibulum/rutrum/rutrum/neque/aenean.jsp',
+    713.53,
+    'https://flavors.me/massa/quis/augue/luctus.jsp',
     'CREADA',
-    '0628195931'
+    '3896442104',
+    '26-Jan-2022'
 );
 
 INSERT INTO COMPRA (
@@ -7507,13 +8579,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     537,
-    16.37,
-    'http://discovery.com/massa/volutpat/convallis/morbi.json',
+    761.66,
+    'https://fotki.com/aliquam/non/mauris.aspx',
     'CANCELADA',
-    '3896442104'
+    '9031101052',
+    '25-Aug-2022'
 );
 
 INSERT INTO COMPRA (
@@ -7521,13 +8595,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     538,
-    872.41,
-    'http://wikimedia.org/bibendum.png',
-    'CREADA',
-    '1278995099'
+    405.15,
+    'http://google.nl/a/libero/nam.jpg',
+    'PAGADA',
+    '3896442104',
+    '22-Apr-2022'
 );
 
 INSERT INTO COMPRA (
@@ -7535,13 +8611,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     539,
-    269.57,
-    'https://woothemes.com/consequat.xml',
-    'CANCELADA',
-    '9031101052'
+    447.53,
+    'http://surveymonkey.com/libero/convallis.png',
+    'PAGADA',
+    '9031101052',
+    '12-Feb-2022'
 );
 
 INSERT INTO COMPRA (
@@ -7549,13 +8627,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     540,
-    513.94,
-    'https://xinhuanet.com/vehicula/condimentum/curabitur/in/libero/ut/massa.jsp',
-    'CANCELADA',
-    '8792260616'
+    467.65,
+    'http://dailymail.co.uk/mattis/nibh/ligula/nec.html',
+    'PAGADA',
+    '0628195931',
+    '24-May-2022'
 );
 
 INSERT INTO COMPRA (
@@ -7563,13 +8643,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     541,
-    274.67,
-    'https://cbsnews.com/vivamus.jsp',
-    'PAGADA',
-    '9031101052'
+    971.08,
+    'http://wired.com/mauris/morbi/non/lectus/aliquam/sit/amet.jsp',
+    'CANCELADA',
+    '8792260616',
+    '18-Jul-2022'
 );
 
 INSERT INTO COMPRA (
@@ -7577,13 +8659,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     542,
-    639.71,
-    'https://about.me/pharetra/magna/vestibulum/aliquet/ultrices/erat/tortor.xml',
-    'PAGADA',
-    '8792260616'
+    321.2,
+    'https://nhs.uk/dui/vel/sem/sed.js',
+    'CREADA',
+    '9031101052',
+    '23-Sep-2022'
 );
 
 INSERT INTO COMPRA (
@@ -7591,13 +8675,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     543,
-    657.93,
-    'http://imgur.com/luctus/rutrum.jsp',
-    'PAGADA',
-    '1278995099'
+    246.98,
+    'http://domainmarket.com/luctus/tincidunt/nulla/mollis.xml',
+    'CREADA',
+    '8792260616',
+    '18-Mar-2022'
 );
 
 INSERT INTO COMPRA (
@@ -7605,13 +8691,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     544,
-    914.92,
-    'https://soundcloud.com/iaculis/diam/erat.jsp',
+    379.07,
+    'https://yellowpages.com/mauris/vulputate/elementum/nullam.jpg',
     'CREADA',
-    '8792260616'
+    '0628195931',
+    '15-Jan-2022'
 );
 
 INSERT INTO COMPRA (
@@ -7619,13 +8707,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     545,
-    624.64,
-    'https://soundcloud.com/at/turpis/a/pede/posuere.png',
-    'CANCELADA',
-    '8792260616'
+    725.11,
+    'http://un.org/rhoncus/sed/vestibulum/sit/amet/cursus.aspx',
+    'CREADA',
+    '8792260616',
+    '25-Jan-2022'
 );
 
 INSERT INTO COMPRA (
@@ -7633,13 +8723,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     546,
-    361.2,
-    'http://oaic.gov.au/bibendum.js',
+    925.76,
+    'https://delicious.com/convallis/morbi/odio/odio/elementum.js',
     'CANCELADA',
-    '9031101052'
+    '3896442104',
+    '24-Oct-2021'
 );
 
 INSERT INTO COMPRA (
@@ -7647,13 +8739,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     547,
-    866.12,
-    'http://vistaprint.com/sapien/iaculis/congue/vivamus/metus/arcu.png',
-    'CREADA',
-    '0628195931'
+    838.72,
+    'https://sphinn.com/viverra/pede.xml',
+    'CANCELADA',
+    '1278995099',
+    '01-Feb-2022'
 );
 
 INSERT INTO COMPRA (
@@ -7661,13 +8755,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     548,
-    787.16,
-    'https://sitemeter.com/duis/mattis/egestas/metus/aenean/fermentum/donec.jpg',
+    524.82,
+    'http://marriott.com/amet/justo/morbi.png',
     'PAGADA',
-    '0628195931'
+    '3896442104',
+    '15-Feb-2022'
 );
 
 INSERT INTO COMPRA (
@@ -7675,13 +8771,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     549,
-    161.5,
-    'https://forbes.com/non/mi/integer/ac/neque/duis.html',
-    'CANCELADA',
-    '1278995099'
+    820.59,
+    'http://biglobe.ne.jp/lorem/integer.js',
+    'PAGADA',
+    '3896442104',
+    '27-Feb-2022'
 );
 
 INSERT INTO COMPRA (
@@ -7689,13 +8787,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     550,
-    382.74,
-    'https://hatena.ne.jp/amet/cursus/id.png',
-    'CREADA',
-    '9031101052'
+    284.91,
+    'http://geocities.com/phasellus/in/felis/donec/semper/sapien/a.html',
+    'CANCELADA',
+    '0628195931',
+    '20-Jun-2022'
 );
 
 INSERT INTO COMPRA (
@@ -7703,13 +8803,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     551,
-    843.85,
-    'https://disqus.com/potenti/in/eleifend/quam/a.png',
+    886.85,
+    'https://livejournal.com/vitae/nisi/nam.jsp',
     'PAGADA',
-    '3896442104'
+    '0628195931',
+    '02-Nov-2021'
 );
 
 INSERT INTO COMPRA (
@@ -7717,13 +8819,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     552,
-    561.57,
-    'https://flickr.com/magnis/dis.jpg',
+    348.7,
+    'http://phpbb.com/suspendisse/potenti/nullam/porttitor.xml',
     'CREADA',
-    '0628195931'
+    '9031101052',
+    '10-Dec-2021'
 );
 
 INSERT INTO COMPRA (
@@ -7731,13 +8835,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     553,
-    638.75,
-    'http://webs.com/nulla/quisque/arcu/libero/rutrum/ac.js',
-    'CANCELADA',
-    '1278995099'
+    443.26,
+    'http://hp.com/pede/justo/lacinia/eget/tincidunt/eget.jsp',
+    'PAGADA',
+    '9031101052',
+    '04-Mar-2022'
 );
 
 INSERT INTO COMPRA (
@@ -7745,13 +8851,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     554,
-    530.44,
-    'https://about.com/est.js',
-    'PAGADA',
-    '0628195931'
+    339.09,
+    'https://state.tx.us/posuere.aspx',
+    'CREADA',
+    '0628195931',
+    '14-Jul-2022'
 );
 
 INSERT INTO COMPRA (
@@ -7759,13 +8867,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     555,
-    190.95,
-    'https://spiegel.de/in/purus/eu/magna/vulputate/luctus/cum.jpg',
-    'CREADA',
-    '8792260616'
+    56.94,
+    'https://godaddy.com/primis/in/faucibus/orci.html',
+    'PAGADA',
+    '9031101052',
+    '05-Jun-2022'
 );
 
 INSERT INTO COMPRA (
@@ -7773,13 +8883,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     556,
-    134.28,
-    'https://sitemeter.com/non/sodales.aspx',
-    'PAGADA',
-    '1278995099'
+    920.22,
+    'http://businesswire.com/id/nisl/venenatis/lacinia/aenean/sit.jsp',
+    'CREADA',
+    '3896442104',
+    '14-Nov-2021'
 );
 
 INSERT INTO COMPRA (
@@ -7787,13 +8899,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     557,
-    264.98,
-    'https://netvibes.com/pulvinar/lobortis/est.html',
+    614.2,
+    'http://stumbleupon.com/libero/non/mattis/pulvinar.xml',
     'PAGADA',
-    '9031101052'
+    '0628195931',
+    '25-Dec-2021'
 );
 
 INSERT INTO COMPRA (
@@ -7801,13 +8915,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     558,
-    284.69,
-    'https://yale.edu/nunc/purus.jsp',
+    936.18,
+    'https://deviantart.com/posuere/cubilia/curae/duis/faucibus.aspx',
     'PAGADA',
-    '1278995099'
+    '3896442104',
+    '15-Mar-2022'
 );
 
 INSERT INTO COMPRA (
@@ -7815,13 +8931,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     559,
-    766.26,
-    'https://prweb.com/in.jpg',
-    'CANCELADA',
-    '3896442104'
+    84.78,
+    'https://huffingtonpost.com/quis/augue/luctus.js',
+    'CREADA',
+    '0628195931',
+    '31-May-2022'
 );
 
 INSERT INTO COMPRA (
@@ -7829,13 +8947,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     560,
-    389.41,
-    'http://netscape.com/lacus/curabitur/at/ipsum/ac.aspx',
+    895.06,
+    'https://cyberchimps.com/vitae/nisi/nam/ultrices/libero.json',
     'CREADA',
-    '8792260616'
+    '8792260616',
+    '20-Dec-2021'
 );
 
 INSERT INTO COMPRA (
@@ -7843,13 +8963,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     561,
-    644.41,
-    'http://ox.ac.uk/ut/massa/quis/augue/luctus/tincidunt/nulla.xml',
+    833.43,
+    'https://wikispaces.com/parturient/montes/nascetur.aspx',
     'CANCELADA',
-    '9031101052'
+    '0628195931',
+    '11-Jan-2022'
 );
 
 INSERT INTO COMPRA (
@@ -7857,13 +8979,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     562,
-    512.81,
-    'http://wunderground.com/vestibulum/velit/id/pretium/iaculis/diam.js',
-    'CREADA',
-    '9031101052'
+    531.46,
+    'https://techcrunch.com/quis/tortor/id/nulla/ultrices/aliquet.aspx',
+    'PAGADA',
+    '1278995099',
+    '23-Aug-2022'
 );
 
 INSERT INTO COMPRA (
@@ -7871,13 +8995,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     563,
-    383.95,
-    'https://barnesandnoble.com/cubilia/curae/mauris/viverra/diam/vitae/quam.js',
-    'CREADA',
-    '8792260616'
+    553.88,
+    'https://mysql.com/aliquam/quis/turpis/eget/elit/sodales/scelerisque.html',
+    'PAGADA',
+    '1278995099',
+    '06-Sep-2022'
 );
 
 INSERT INTO COMPRA (
@@ -7885,13 +9011,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     564,
-    971.1,
-    'http://mapquest.com/amet/lobortis.js',
-    'CANCELADA',
-    '1278995099'
+    760.99,
+    'https://hubpages.com/arcu/adipiscing/molestie/hendrerit/at/vulputate.xml',
+    'PAGADA',
+    '0628195931',
+    '07-Jan-2022'
 );
 
 INSERT INTO COMPRA (
@@ -7899,13 +9027,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     565,
-    889.94,
-    'http://a8.net/sed/justo/pellentesque.xml',
-    'PAGADA',
-    '8792260616'
+    905.27,
+    'http://businessweek.com/lacinia/sapien/quis/libero/nullam/sit.aspx',
+    'CREADA',
+    '9031101052',
+    '14-Oct-2022'
 );
 
 INSERT INTO COMPRA (
@@ -7913,13 +9043,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     566,
-    810.23,
-    'https://timesonline.co.uk/quisque/erat/eros/viverra/eget.json',
-    'CANCELADA',
-    '9031101052'
+    103.92,
+    'https://shop-pro.jp/sed/augue/aliquam/erat/volutpat/in/congue.html',
+    'PAGADA',
+    '0628195931',
+    '18-Sep-2022'
 );
 
 INSERT INTO COMPRA (
@@ -7927,13 +9059,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     567,
-    174.76,
-    'http://tripod.com/hac/habitasse/platea/dictumst/etiam.html',
-    'PAGADA',
-    '3896442104'
+    105.44,
+    'http://quantcast.com/odio/justo/sollicitudin/ut/suscipit/a/feugiat.json',
+    'CANCELADA',
+    '0628195931',
+    '02-Jan-2022'
 );
 
 INSERT INTO COMPRA (
@@ -7941,13 +9075,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     568,
-    812.95,
-    'https://aboutads.info/integer/tincidunt/ante/vel/ipsum.jpg',
+    530.5,
+    'https://homestead.com/eget/tempus/vel/pede/morbi/porttitor.json',
     'PAGADA',
-    '9031101052'
+    '8792260616',
+    '05-Nov-2021'
 );
 
 INSERT INTO COMPRA (
@@ -7955,13 +9091,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     569,
-    488.26,
-    'http://state.gov/donec/diam/neque/vestibulum/eget/vulputate/ut.html',
+    718.75,
+    'http://illinois.edu/eros/vestibulum/ac/est/lacinia/nisi.xml',
     'PAGADA',
-    '9031101052'
+    '9031101052',
+    '24-Nov-2021'
 );
 
 INSERT INTO COMPRA (
@@ -7969,13 +9107,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     570,
-    497.69,
-    'http://buzzfeed.com/erat.png',
+    544.75,
+    'https://vistaprint.com/condimentum/curabitur/in/libero/ut.jpg',
     'CANCELADA',
-    '9031101052'
+    '3896442104',
+    '22-Mar-2022'
 );
 
 INSERT INTO COMPRA (
@@ -7983,13 +9123,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     571,
-    581.14,
-    'http://techcrunch.com/nam/dui.json',
-    'CANCELADA',
-    '0628195931'
+    511.39,
+    'http://discuz.net/posuere/cubilia/curae/donec/pharetra/magna.jsp',
+    'PAGADA',
+    '0628195931',
+    '14-Feb-2022'
 );
 
 INSERT INTO COMPRA (
@@ -7997,13 +9139,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     572,
-    473.11,
-    'http://paginegialle.it/blandit.aspx',
+    579.33,
+    'http://gmpg.org/convallis/nulla.html',
     'PAGADA',
-    '8792260616'
+    '0628195931',
+    '21-Sep-2022'
 );
 
 INSERT INTO COMPRA (
@@ -8011,13 +9155,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     573,
-    676.61,
-    'https://digg.com/non/mattis.jpg',
-    'CREADA',
-    '0628195931'
+    747.84,
+    'https://ustream.tv/a/suscipit.xml',
+    'PAGADA',
+    '1278995099',
+    '02-Jan-2022'
 );
 
 INSERT INTO COMPRA (
@@ -8025,13 +9171,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     574,
-    378.41,
-    'http://forbes.com/ultrices/erat/tortor/sollicitudin/mi.aspx',
+    25.72,
+    'http://aboutads.info/at/nulla/suspendisse.jsp',
     'PAGADA',
-    '3896442104'
+    '3896442104',
+    '19-Dec-2021'
 );
 
 INSERT INTO COMPRA (
@@ -8039,13 +9187,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     575,
-    766.08,
-    'http://bloglines.com/facilisi.html',
-    'PAGADA',
-    '8792260616'
+    755.17,
+    'http://scribd.com/ut/odio/cras.jpg',
+    'CREADA',
+    '3896442104',
+    '15-Sep-2022'
 );
 
 INSERT INTO COMPRA (
@@ -8053,13 +9203,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     576,
-    785.76,
-    'http://usa.gov/aliquam/lacus/morbi/quis/tortor.jpg',
-    'PAGADA',
-    '8792260616'
+    320.58,
+    'http://alibaba.com/pellentesque/quisque/porta/volutpat/erat/quisque.js',
+    'CANCELADA',
+    '1278995099',
+    '02-Apr-2022'
 );
 
 INSERT INTO COMPRA (
@@ -8067,13 +9219,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     577,
-    504.65,
-    'http://paypal.com/vivamus/metus/arcu/adipiscing/molestie/hendrerit/at.json',
+    218.48,
+    'http://cnbc.com/consectetuer.json',
     'PAGADA',
-    '3896442104'
+    '9031101052',
+    '25-May-2022'
 );
 
 INSERT INTO COMPRA (
@@ -8081,13 +9235,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     578,
-    11.44,
-    'http://cmu.edu/luctus/et/ultrices/posuere/cubilia/curae/duis.jsp',
-    'PAGADA',
-    '3896442104'
+    169.98,
+    'http://ovh.net/condimentum/neque/sapien/placerat/ante/nulla.aspx',
+    'CANCELADA',
+    '3896442104',
+    '02-Jan-2022'
 );
 
 INSERT INTO COMPRA (
@@ -8095,13 +9251,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     579,
-    213.13,
-    'http://amazon.co.jp/nulla/pede/ullamcorper/augue/a/suscipit.json',
-    'PAGADA',
-    '0628195931'
+    944.62,
+    'https://wikimedia.org/quam/turpis/adipiscing/lorem/vitae/mattis/nibh.js',
+    'CREADA',
+    '0628195931',
+    '26-Apr-2022'
 );
 
 INSERT INTO COMPRA (
@@ -8109,13 +9267,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     580,
-    910.38,
-    'https://123-reg.co.uk/suscipit.jsp',
+    750.25,
+    'http://ustream.tv/tincidunt/ante/vel/ipsum/praesent.png',
     'CREADA',
-    '9031101052'
+    '3896442104',
+    '17-Sep-2022'
 );
 
 INSERT INTO COMPRA (
@@ -8123,13 +9283,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     581,
-    807.92,
-    'http://gizmodo.com/eu/mi/nulla.json',
-    'CANCELADA',
-    '0628195931'
+    948.77,
+    'https://joomla.org/quis/lectus/suspendisse/potenti/in/eleifend/quam.xml',
+    'CREADA',
+    '9031101052',
+    '26-Jan-2022'
 );
 
 INSERT INTO COMPRA (
@@ -8137,13 +9299,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     582,
-    446.81,
-    'http://gov.uk/odio/elementum/eu/interdum/eu/tincidunt/in.js',
-    'CREADA',
-    '0628195931'
+    793.25,
+    'https://sina.com.cn/at.html',
+    'PAGADA',
+    '3896442104',
+    '09-Nov-2021'
 );
 
 INSERT INTO COMPRA (
@@ -8151,13 +9315,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     583,
-    766.81,
-    'http://dyndns.org/integer/aliquet/massa/id/lobortis.jpg',
+    382.33,
+    'http://dagondesign.com/iaculis/congue/vivamus/metus/arcu.json',
     'CREADA',
-    '8792260616'
+    '0628195931',
+    '08-Oct-2022'
 );
 
 INSERT INTO COMPRA (
@@ -8165,13 +9331,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     584,
-    749.25,
-    'http://guardian.co.uk/maecenas/ut/massa/quis/augue.json',
+    38.99,
+    'https://mac.com/tincidunt/eget.jpg',
     'PAGADA',
-    '9031101052'
+    '0628195931',
+    '06-Jul-2022'
 );
 
 INSERT INTO COMPRA (
@@ -8179,13 +9347,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     585,
-    933.64,
-    'https://bravesites.com/convallis/duis/consequat/dui/nec/nisi/volutpat.xml',
-    'PAGADA',
-    '8792260616'
+    396.82,
+    'http://jigsy.com/in/magna/bibendum/imperdiet.jpg',
+    'CANCELADA',
+    '9031101052',
+    '28-Jul-2022'
 );
 
 INSERT INTO COMPRA (
@@ -8193,13 +9363,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     586,
-    463.77,
-    'https://cnbc.com/fermentum/justo/nec/condimentum/neque/sapien.png',
-    'CANCELADA',
-    '9031101052'
+    378.01,
+    'http://ftc.gov/at/nulla/suspendisse.json',
+    'CREADA',
+    '9031101052',
+    '10-Sep-2022'
 );
 
 INSERT INTO COMPRA (
@@ -8207,13 +9379,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     587,
-    555.84,
-    'https://admin.ch/non/mauris/morbi/non/lectus/aliquam.png',
-    'PAGADA',
-    '1278995099'
+    494.08,
+    'http://so-net.ne.jp/nec/molestie/sed/justo/pellentesque/viverra/pede.json',
+    'CANCELADA',
+    '9031101052',
+    '19-May-2022'
 );
 
 INSERT INTO COMPRA (
@@ -8221,13 +9395,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     588,
-    691.4,
-    'http://ebay.co.uk/semper/est/quam/pharetra/magna/ac/consequat.xml',
-    'PAGADA',
-    '3896442104'
+    415.32,
+    'http://arstechnica.com/amet/consectetuer/adipiscing/elit/proin/interdum.jsp',
+    'CREADA',
+    '9031101052',
+    '20-Feb-2022'
 );
 
 INSERT INTO COMPRA (
@@ -8235,13 +9411,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     589,
-    89.05,
-    'http://51.la/maecenas/ut/massa/quis.xml',
-    'CANCELADA',
-    '8792260616'
+    835.58,
+    'https://goo.ne.jp/pede.xml',
+    'CREADA',
+    '3896442104',
+    '22-May-2022'
 );
 
 INSERT INTO COMPRA (
@@ -8249,13 +9427,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     590,
-    949.23,
-    'https://businessweek.com/sit/amet/eros/suspendisse/accumsan/tortor/quis.html',
-    'CANCELADA',
-    '1278995099'
+    530.85,
+    'http://goo.gl/felis/eu/sapien/cursus/vestibulum/proin.png',
+    'CREADA',
+    '0628195931',
+    '25-Oct-2021'
 );
 
 INSERT INTO COMPRA (
@@ -8263,13 +9443,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     591,
-    318.96,
-    'http://phpbb.com/ipsum/integer.js',
+    749.79,
+    'https://va.gov/enim.jpg',
     'CREADA',
-    '3896442104'
+    '1278995099',
+    '17-Oct-2021'
 );
 
 INSERT INTO COMPRA (
@@ -8277,13 +9459,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     592,
-    673.91,
-    'http://barnesandnoble.com/nulla/tellus/in.png',
-    'CREADA',
-    '0628195931'
+    860.25,
+    'https://sourceforge.net/massa/tempor/convallis.html',
+    'PAGADA',
+    '9031101052',
+    '23-May-2022'
 );
 
 INSERT INTO COMPRA (
@@ -8291,13 +9475,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     593,
-    202.42,
-    'https://umich.edu/cursus/vestibulum/proin/eu/mi/nulla.jsp',
-    'PAGADA',
-    '9031101052'
+    723.17,
+    'http://netlog.com/amet/eleifend.xml',
+    'CANCELADA',
+    '0628195931',
+    '15-Jul-2022'
 );
 
 INSERT INTO COMPRA (
@@ -8305,13 +9491,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     594,
-    341.45,
-    'https://msu.edu/ante/ipsum/primis/in.html',
+    568.61,
+    'https://noaa.gov/vestibulum/vestibulum/ante/ipsum/primis/in/faucibus.aspx',
     'CANCELADA',
-    '1278995099'
+    '0628195931',
+    '08-Oct-2022'
 );
 
 INSERT INTO COMPRA (
@@ -8319,13 +9507,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     595,
-    826.39,
-    'http://sitemeter.com/quam/turpis/adipiscing.xml',
+    274.0,
+    'http://wordpress.org/dapibus/duis/at/velit/eu.jsp',
     'PAGADA',
-    '8792260616'
+    '3896442104',
+    '01-Apr-2022'
 );
 
 INSERT INTO COMPRA (
@@ -8333,13 +9523,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     596,
-    603.94,
-    'http://ifeng.com/ut/volutpat/sapien/arcu/sed/augue/aliquam.jpg',
-    'CANCELADA',
-    '3896442104'
+    143.4,
+    'http://dailymotion.com/in/quis/justo.js',
+    'PAGADA',
+    '8792260616',
+    '03-May-2022'
 );
 
 INSERT INTO COMPRA (
@@ -8347,13 +9539,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     597,
-    812.5,
-    'http://discuz.net/risus/praesent/lectus/vestibulum/quam/sapien.xml',
-    'CREADA',
-    '1278995099'
+    166.22,
+    'https://jugem.jp/fringilla/rhoncus/mauris/enim/leo.jsp',
+    'CANCELADA',
+    '8792260616',
+    '05-Feb-2022'
 );
 
 INSERT INTO COMPRA (
@@ -8361,13 +9555,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     598,
-    757.78,
-    'https://bravesites.com/dui/vel/nisl.png',
-    'PAGADA',
-    '0628195931'
+    226.1,
+    'https://blogtalkradio.com/vivamus/vestibulum/sagittis/sapien.json',
+    'CREADA',
+    '3896442104',
+    '14-Jul-2022'
 );
 
 INSERT INTO COMPRA (
@@ -8375,13 +9571,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     599,
-    984.44,
-    'http://sciencedaily.com/viverra/eget.png',
+    819.5,
+    'http://goo.gl/ipsum/primis/in/faucibus/orci/luctus.png',
     'CANCELADA',
-    '0628195931'
+    '9031101052',
+    '18-Nov-2021'
 );
 
 INSERT INTO COMPRA (
@@ -8389,13 +9587,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     600,
-    414.13,
-    'https://engadget.com/sagittis/sapien.js',
-    'CANCELADA',
-    '0628195931'
+    794.73,
+    'http://woothemes.com/pulvinar.aspx',
+    'CREADA',
+    '3896442104',
+    '14-Feb-2022'
 );
 
 INSERT INTO COMPRA (
@@ -8403,13 +9603,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     601,
-    601.74,
-    'https://sitemeter.com/lacus/curabitur.jpg',
+    149.23,
+    'http://com.com/condimentum.png',
     'CREADA',
-    '9031101052'
+    '1278995099',
+    '22-Aug-2022'
 );
 
 INSERT INTO COMPRA (
@@ -8417,13 +9619,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     602,
-    562.29,
-    'http://sakura.ne.jp/sagittis/nam.js',
-    'PAGADA',
-    '9031101052'
+    249.94,
+    'https://quantcast.com/aenean/auctor/gravida/sem/praesent/id/massa.json',
+    'CANCELADA',
+    '3896442104',
+    '08-Apr-2022'
 );
 
 INSERT INTO COMPRA (
@@ -8431,13 +9635,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     603,
-    846.26,
-    'http://nbcnews.com/augue/vel/accumsan/tellus/nisi/eu.aspx',
+    543.2,
+    'http://gnu.org/posuere/metus/vitae.xml',
     'PAGADA',
-    '3896442104'
+    '3896442104',
+    '27-May-2022'
 );
 
 INSERT INTO COMPRA (
@@ -8445,13 +9651,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     604,
-    199.37,
-    'https://china.com.cn/aliquam.html',
-    'CREADA',
-    '1278995099'
+    688.03,
+    'https://pbs.org/ullamcorper.json',
+    'CANCELADA',
+    '8792260616',
+    '07-Jul-2022'
 );
 
 INSERT INTO COMPRA (
@@ -8459,13 +9667,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     605,
-    813.29,
-    'https://un.org/mauris.png',
+    968.17,
+    'https://kickstarter.com/aliquam/non/mauris.png',
     'CANCELADA',
-    '3896442104'
+    '1278995099',
+    '22-Apr-2022'
 );
 
 INSERT INTO COMPRA (
@@ -8473,13 +9683,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     606,
-    620.11,
-    'https://prlog.org/habitasse/platea.js',
+    906.62,
+    'https://craigslist.org/in/eleifend/quam.jsp',
     'CREADA',
-    '8792260616'
+    '8792260616',
+    '29-Aug-2022'
 );
 
 INSERT INTO COMPRA (
@@ -8487,13 +9699,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     607,
-    430.3,
-    'https://vinaora.com/elementum.html',
-    'CREADA',
-    '3896442104'
+    517.23,
+    'https://parallels.com/vehicula/condimentum.xml',
+    'CANCELADA',
+    '3896442104',
+    '20-Oct-2021'
 );
 
 INSERT INTO COMPRA (
@@ -8501,13 +9715,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     608,
-    816.85,
-    'http://java.com/consequat.js',
-    'CANCELADA',
-    '0628195931'
+    326.65,
+    'https://unc.edu/ultrices/libero/non/mattis.png',
+    'CREADA',
+    '1278995099',
+    '21-Apr-2022'
 );
 
 INSERT INTO COMPRA (
@@ -8515,13 +9731,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     609,
-    276.95,
-    'https://weibo.com/a.jpg',
-    'PAGADA',
-    '8792260616'
+    852.71,
+    'https://loc.gov/pellentesque/volutpat/dui/maecenas/tristique.html',
+    'CANCELADA',
+    '3896442104',
+    '05-Jun-2022'
 );
 
 INSERT INTO COMPRA (
@@ -8529,13 +9747,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     610,
-    647.29,
-    'https://t.co/nisl/duis/bibendum/felis/sed.jsp',
-    'CREADA',
-    '1278995099'
+    125.75,
+    'http://prweb.com/consequat/morbi/a/ipsum/integer/a.aspx',
+    'PAGADA',
+    '1278995099',
+    '30-Sep-2022'
 );
 
 INSERT INTO COMPRA (
@@ -8543,13 +9763,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     611,
-    208.1,
-    'http://mit.edu/sed/vestibulum/sit/amet.jpg',
-    'CREADA',
-    '3896442104'
+    608.19,
+    'https://phoca.cz/volutpat/convallis.xml',
+    'CANCELADA',
+    '9031101052',
+    '13-Oct-2022'
 );
 
 INSERT INTO COMPRA (
@@ -8557,13 +9779,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     612,
-    464.86,
-    'http://fc2.com/ut/erat/id/mauris/vulputate.jpg',
-    'CREADA',
-    '9031101052'
+    351.22,
+    'http://amazonaws.com/luctus/et/ultrices/posuere/cubilia.jsp',
+    'PAGADA',
+    '9031101052',
+    '20-Feb-2022'
 );
 
 INSERT INTO COMPRA (
@@ -8571,13 +9795,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     613,
-    142.76,
-    'http://parallels.com/consequat/in.json',
+    604.9,
+    'https://dailymail.co.uk/nec/molestie/sed/justo.xml',
     'CREADA',
-    '1278995099'
+    '8792260616',
+    '14-Jan-2022'
 );
 
 INSERT INTO COMPRA (
@@ -8585,13 +9811,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     614,
-    364.37,
-    'https://ifeng.com/non/quam/nec/dui.jpg',
-    'CREADA',
-    '8792260616'
+    390.39,
+    'http://digg.com/eu/massa/donec/dapibus.json',
+    'CANCELADA',
+    '8792260616',
+    '28-Mar-2022'
 );
 
 INSERT INTO COMPRA (
@@ -8599,13 +9827,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     615,
-    204.18,
-    'https://google.it/nisl/nunc/nisl/duis/bibendum/felis/sed.jsp',
-    'CANCELADA',
-    '0628195931'
+    426.47,
+    'https://chronoengine.com/semper/est/quam/pharetra/magna.xml',
+    'PAGADA',
+    '1278995099',
+    '12-Sep-2022'
 );
 
 INSERT INTO COMPRA (
@@ -8613,13 +9843,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     616,
-    224.55,
-    'https://wikia.com/augue/aliquam/erat.xml',
-    'CANCELADA',
-    '9031101052'
+    937.95,
+    'http://phoca.cz/nisl/ut/volutpat/sapien/arcu.png',
+    'PAGADA',
+    '3896442104',
+    '22-Jul-2022'
 );
 
 INSERT INTO COMPRA (
@@ -8627,13 +9859,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     617,
-    999.73,
-    'https://hibu.com/nulla.xml',
-    'CANCELADA',
-    '8792260616'
+    930.07,
+    'http://infoseek.co.jp/sapien/placerat/ante.json',
+    'PAGADA',
+    '8792260616',
+    '20-Sep-2022'
 );
 
 INSERT INTO COMPRA (
@@ -8641,13 +9875,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     618,
-    604.79,
-    'http://cmu.edu/consequat.json',
-    'PAGADA',
-    '9031101052'
+    865.98,
+    'http://indiegogo.com/nulla.aspx',
+    'CANCELADA',
+    '1278995099',
+    '10-Aug-2022'
 );
 
 INSERT INTO COMPRA (
@@ -8655,13 +9891,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     619,
-    611.48,
-    'https://eventbrite.com/malesuada/in/imperdiet/et.xml',
-    'CREADA',
-    '3896442104'
+    223.33,
+    'https://indiatimes.com/vel/nulla.png',
+    'PAGADA',
+    '3896442104',
+    '27-Feb-2022'
 );
 
 INSERT INTO COMPRA (
@@ -8669,13 +9907,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     620,
-    910.59,
-    'https://barnesandnoble.com/vestibulum/eget/vulputate/ut/ultrices/vel.jsp',
-    'CREADA',
-    '0628195931'
+    380.72,
+    'http://hubpages.com/dolor/vel.xml',
+    'CANCELADA',
+    '1278995099',
+    '24-Jun-2022'
 );
 
 INSERT INTO COMPRA (
@@ -8683,13 +9923,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     621,
-    429.06,
-    'http://weibo.com/et/ultrices/posuere/cubilia.json',
-    'CANCELADA',
-    '1278995099'
+    612.7,
+    'http://msn.com/venenatis/turpis/enim/blandit/mi.jsp',
+    'CREADA',
+    '0628195931',
+    '19-Jan-2022'
 );
 
 INSERT INTO COMPRA (
@@ -8697,13 +9939,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     622,
-    892.99,
-    'https://deviantart.com/amet/sem/fusce/consequat/nulla/nisl.jsp',
-    'CANCELADA',
-    '8792260616'
+    371.28,
+    'http://google.nl/pellentesque/at/nulla/suspendisse/potenti/cras.aspx',
+    'CREADA',
+    '1278995099',
+    '24-Jun-2022'
 );
 
 INSERT INTO COMPRA (
@@ -8711,13 +9955,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     623,
-    155.36,
-    'https://telegraph.co.uk/quis/tortor/id/nulla/ultrices.jpg',
+    535.69,
+    'http://wufoo.com/cursus/vestibulum/proin/eu/mi.jsp',
     'CANCELADA',
-    '9031101052'
+    '3896442104',
+    '14-Jan-2022'
 );
 
 INSERT INTO COMPRA (
@@ -8725,13 +9971,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     624,
-    183.7,
-    'https://furl.net/in/libero/ut/massa/volutpat/convallis/morbi.jpg',
-    'CANCELADA',
-    '9031101052'
+    237.97,
+    'https://uiuc.edu/proin/at/turpis.html',
+    'PAGADA',
+    '3896442104',
+    '14-Mar-2022'
 );
 
 INSERT INTO COMPRA (
@@ -8739,13 +9987,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     625,
-    759.63,
-    'http://bing.com/turpis.js',
-    'CREADA',
-    '3896442104'
+    775.09,
+    'https://alexa.com/libero/non/mattis/pulvinar/nulla.xml',
+    'PAGADA',
+    '8792260616',
+    '19-Apr-2022'
 );
 
 INSERT INTO COMPRA (
@@ -8753,13 +10003,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     626,
-    728.41,
-    'http://tinypic.com/fusce/consequat/nulla/nisl/nunc/nisl/duis.png',
+    791.2,
+    'http://slate.com/auctor/gravida/sem/praesent/id.html',
     'CANCELADA',
-    '0628195931'
+    '3896442104',
+    '14-May-2022'
 );
 
 INSERT INTO COMPRA (
@@ -8767,13 +10019,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     627,
-    280.97,
-    'http://hubpages.com/dictumst/aliquam/augue/quam/sollicitudin.jsp',
-    'CREADA',
-    '8792260616'
+    239.84,
+    'http://yale.edu/integer.jsp',
+    'PAGADA',
+    '0628195931',
+    '28-Apr-2022'
 );
 
 INSERT INTO COMPRA (
@@ -8781,13 +10035,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     628,
-    930.69,
-    'https://scribd.com/nam/nulla/integer/pede/justo/lacinia.xml',
+    323.57,
+    'https://nydailynews.com/id/nisl/venenatis/lacinia/aenean/sit/amet.jsp',
     'CREADA',
-    '8792260616'
+    '0628195931',
+    '23-May-2022'
 );
 
 INSERT INTO COMPRA (
@@ -8795,13 +10051,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     629,
-    128.27,
-    'https://sourceforge.net/sagittis/nam.jsp',
-    'CANCELADA',
-    '3896442104'
+    36.51,
+    'http://eepurl.com/eget/semper/rutrum/nulla/nunc/purus/phasellus.json',
+    'PAGADA',
+    '8792260616',
+    '08-Jan-2022'
 );
 
 INSERT INTO COMPRA (
@@ -8809,13 +10067,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     630,
-    871.91,
-    'http://360.cn/luctus/tincidunt/nulla/mollis.html',
-    'CREADA',
-    '9031101052'
+    392.93,
+    'http://creativecommons.org/lectus/suspendisse/potenti/in.aspx',
+    'PAGADA',
+    '3896442104',
+    '23-Apr-2022'
 );
 
 INSERT INTO COMPRA (
@@ -8823,13 +10083,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     631,
-    896.88,
-    'http://theguardian.com/eu/massa.jsp',
-    'PAGADA',
-    '3896442104'
+    876.37,
+    'http://diigo.com/donec/ut/dolor/morbi.xml',
+    'CREADA',
+    '9031101052',
+    '08-Feb-2022'
 );
 
 INSERT INTO COMPRA (
@@ -8837,13 +10099,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     632,
-    380.74,
-    'http://tiny.cc/eu/tincidunt/in/leo/maecenas/pulvinar/lobortis.jpg',
-    'CREADA',
-    '0628195931'
+    479.53,
+    'https://ning.com/felis/donec/semper.html',
+    'PAGADA',
+    '9031101052',
+    '26-Jun-2022'
 );
 
 INSERT INTO COMPRA (
@@ -8851,13 +10115,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     633,
-    454.67,
-    'https://51.la/ante/ipsum.jsp',
-    'CREADA',
-    '3896442104'
+    995.03,
+    'https://cbslocal.com/tempor.html',
+    'PAGADA',
+    '1278995099',
+    '06-Jan-2022'
 );
 
 INSERT INTO COMPRA (
@@ -8865,13 +10131,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     634,
-    766.42,
-    'http://webnode.com/magna.aspx',
-    'CREADA',
-    '1278995099'
+    88.55,
+    'https://goo.gl/ante/vivamus/tortor.js',
+    'PAGADA',
+    '8792260616',
+    '24-Aug-2022'
 );
 
 INSERT INTO COMPRA (
@@ -8879,13 +10147,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     635,
-    364.69,
-    'http://umn.edu/sem/sed.png',
-    'CREADA',
-    '3896442104'
+    397.23,
+    'https://forbes.com/est/phasellus.aspx',
+    'PAGADA',
+    '3896442104',
+    '07-Oct-2022'
 );
 
 INSERT INTO COMPRA (
@@ -8893,13 +10163,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     636,
-    295.65,
-    'http://purevolume.com/odio/porttitor/id/consequat/in/consequat.html',
+    18.9,
+    'http://cbc.ca/magna/ac.png',
     'CANCELADA',
-    '3896442104'
+    '0628195931',
+    '15-Aug-2022'
 );
 
 INSERT INTO COMPRA (
@@ -8907,13 +10179,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     637,
-    146.54,
-    'https://google.cn/volutpat/sapien/arcu/sed.aspx',
-    'CREADA',
-    '3896442104'
+    298.57,
+    'https://eventbrite.com/quisque/arcu/libero/rutrum/ac/lobortis.jpg',
+    'CANCELADA',
+    '9031101052',
+    '05-Nov-2021'
 );
 
 INSERT INTO COMPRA (
@@ -8921,13 +10195,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     638,
-    976.2,
-    'https://time.com/orci/vehicula/condimentum/curabitur.jpg',
-    'CREADA',
-    '8792260616'
+    775.28,
+    'https://rediff.com/consectetuer/adipiscing/elit/proin/interdum/mauris/non.jsp',
+    'PAGADA',
+    '1278995099',
+    '11-Jun-2022'
 );
 
 INSERT INTO COMPRA (
@@ -8935,13 +10211,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     639,
-    814.58,
-    'https://goo.gl/hac/habitasse/platea/dictumst/maecenas/ut/massa.jpg',
-    'CREADA',
-    '9031101052'
+    244.6,
+    'http://tripadvisor.com/urna/ut/tellus/nulla/ut/erat.aspx',
+    'CANCELADA',
+    '1278995099',
+    '16-Sep-2022'
 );
 
 INSERT INTO COMPRA (
@@ -8949,13 +10227,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     640,
-    567.43,
-    'https://hud.gov/justo/sollicitudin.json',
+    490.37,
+    'https://mashable.com/nunc/proin/at/turpis.json',
     'CREADA',
-    '3896442104'
+    '3896442104',
+    '18-May-2022'
 );
 
 INSERT INTO COMPRA (
@@ -8963,13 +10243,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     641,
-    231.91,
-    'https://nsw.gov.au/faucibus/cursus/urna/ut/tellus/nulla/ut.json',
-    'CREADA',
-    '0628195931'
+    47.86,
+    'http://twitpic.com/nullam/porttitor/lacus/at/turpis/donec/posuere.png',
+    'PAGADA',
+    '3896442104',
+    '26-Mar-2022'
 );
 
 INSERT INTO COMPRA (
@@ -8977,13 +10259,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     642,
-    337.54,
-    'https://mayoclinic.com/mauris/sit/amet/eros.js',
-    'CREADA',
-    '9031101052'
+    760.55,
+    'https://reverbnation.com/etiam/vel/augue/vestibulum/rutrum/rutrum.jpg',
+    'PAGADA',
+    '0628195931',
+    '01-Dec-2021'
 );
 
 INSERT INTO COMPRA (
@@ -8991,13 +10275,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     643,
-    856.65,
-    'https://icq.com/ultrices/posuere.jpg',
+    769.45,
+    'https://123-reg.co.uk/libero/convallis/eget/eleifend/luctus.json',
     'CANCELADA',
-    '8792260616'
+    '9031101052',
+    '19-Mar-2022'
 );
 
 INSERT INTO COMPRA (
@@ -9005,13 +10291,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     644,
-    458.97,
-    'http://yahoo.co.jp/cubilia/curae/donec/pharetra/magna/vestibulum/aliquet.aspx',
-    'PAGADA',
-    '1278995099'
+    973.67,
+    'https://studiopress.com/ipsum/primis/in/faucibus/orci/luctus/et.xml',
+    'CREADA',
+    '3896442104',
+    '23-Jun-2022'
 );
 
 INSERT INTO COMPRA (
@@ -9019,13 +10307,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     645,
-    48.29,
-    'https://msu.edu/pharetra/magna/ac/consequat/metus/sapien/ut.js',
+    191.27,
+    'https://bloglines.com/dolor/sit/amet.js',
     'PAGADA',
-    '3896442104'
+    '3896442104',
+    '11-Oct-2022'
 );
 
 INSERT INTO COMPRA (
@@ -9033,13 +10323,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     646,
-    695.02,
-    'https://deliciousdays.com/at/ipsum/ac/tellus/semper.html',
-    'PAGADA',
-    '9031101052'
+    884.23,
+    'https://yandex.ru/vel/pede.js',
+    'CREADA',
+    '0628195931',
+    '01-Feb-2022'
 );
 
 INSERT INTO COMPRA (
@@ -9047,13 +10339,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     647,
-    920.51,
-    'http://scribd.com/consequat/lectus/in/est.png',
-    'CREADA',
-    '9031101052'
+    245.14,
+    'http://people.com.cn/in/faucibus/orci/luctus/et/ultrices.js',
+    'CANCELADA',
+    '1278995099',
+    '23-Aug-2022'
 );
 
 INSERT INTO COMPRA (
@@ -9061,13 +10355,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     648,
-    508.94,
-    'https://liveinternet.ru/pretium/nisl/ut.png',
-    'CANCELADA',
-    '0628195931'
+    516.8,
+    'http://altervista.org/sed/nisl.png',
+    'PAGADA',
+    '0628195931',
+    '04-Sep-2022'
 );
 
 INSERT INTO COMPRA (
@@ -9075,13 +10371,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     649,
-    676.77,
-    'https://bluehost.com/odio.jpg',
+    806.83,
+    'https://unblog.fr/vulputate/elementum.json',
     'CREADA',
-    '8792260616'
+    '3896442104',
+    '02-Jun-2022'
 );
 
 INSERT INTO COMPRA (
@@ -9089,13 +10387,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     650,
-    815.76,
-    'https://netscape.com/pellentesque/ultrices/phasellus/id/sapien/in/sapien.xml',
-    'PAGADA',
-    '9031101052'
+    939.43,
+    'http://merriam-webster.com/sollicitudin/ut/suscipit/a.xml',
+    'CREADA',
+    '1278995099',
+    '30-Jan-2022'
 );
 
 INSERT INTO COMPRA (
@@ -9103,13 +10403,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     651,
-    543.63,
-    'http://wikia.com/non/ligula/pellentesque.json',
-    'CANCELADA',
-    '9031101052'
+    758.78,
+    'https://npr.org/aenean.xml',
+    'PAGADA',
+    '8792260616',
+    '27-Aug-2022'
 );
 
 INSERT INTO COMPRA (
@@ -9117,13 +10419,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     652,
-    46.3,
-    'http://xrea.com/sit/amet/sem/fusce.xml',
+    490.15,
+    'http://pcworld.com/at/feugiat.html',
     'CREADA',
-    '0628195931'
+    '3896442104',
+    '19-Jun-2022'
 );
 
 INSERT INTO COMPRA (
@@ -9131,13 +10435,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     653,
-    600.45,
-    'https://joomla.org/semper/rutrum/nulla/nunc/purus/phasellus/in.jsp',
-    'CANCELADA',
-    '9031101052'
+    684.61,
+    'https://google.co.uk/diam/erat/fermentum.json',
+    'PAGADA',
+    '9031101052',
+    '15-Oct-2022'
 );
 
 INSERT INTO COMPRA (
@@ -9145,13 +10451,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     654,
-    93.2,
-    'http://spotify.com/morbi/quis/tortor/id/nulla/ultrices/aliquet.png',
-    'CREADA',
-    '3896442104'
+    953.28,
+    'http://microsoft.com/in/consequat/ut/nulla/sed/accumsan/felis.xml',
+    'PAGADA',
+    '0628195931',
+    '19-Sep-2022'
 );
 
 INSERT INTO COMPRA (
@@ -9159,13 +10467,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     655,
-    400.78,
-    'http://eventbrite.com/augue.aspx',
-    'CANCELADA',
-    '3896442104'
+    936.86,
+    'https://cargocollective.com/morbi/non/lectus/aliquam.xml',
+    'CREADA',
+    '1278995099',
+    '11-Oct-2022'
 );
 
 INSERT INTO COMPRA (
@@ -9173,13 +10483,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     656,
-    375.15,
-    'http://topsy.com/interdum.jpg',
+    202.85,
+    'http://cyberchimps.com/libero/convallis/eget/eleifend/luctus.js',
     'CREADA',
-    '3896442104'
+    '9031101052',
+    '12-Feb-2022'
 );
 
 INSERT INTO COMPRA (
@@ -9187,13 +10499,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     657,
-    700.31,
-    'https://parallels.com/in/faucibus/orci/luctus.xml',
-    'CANCELADA',
-    '3896442104'
+    557.22,
+    'http://loc.gov/in/faucibus/orci/luctus/et.json',
+    'PAGADA',
+    '8792260616',
+    '16-Jul-2022'
 );
 
 INSERT INTO COMPRA (
@@ -9201,13 +10515,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     658,
-    822.45,
-    'http://ow.ly/id/sapien.png',
-    'CREADA',
-    '9031101052'
+    978.36,
+    'https://purevolume.com/elit.html',
+    'CANCELADA',
+    '1278995099',
+    '23-Feb-2022'
 );
 
 INSERT INTO COMPRA (
@@ -9215,13 +10531,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     659,
-    907.93,
-    'https://ft.com/faucibus/accumsan.html',
-    'CANCELADA',
-    '0628195931'
+    565.25,
+    'http://seattletimes.com/amet/lobortis.png',
+    'CREADA',
+    '1278995099',
+    '22-Mar-2022'
 );
 
 INSERT INTO COMPRA (
@@ -9229,13 +10547,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     660,
-    611.5,
-    'http://sitemeter.com/nullam.png',
+    810.55,
+    'http://squidoo.com/turpis/eget/elit.json',
     'CREADA',
-    '1278995099'
+    '0628195931',
+    '02-Jul-2022'
 );
 
 INSERT INTO COMPRA (
@@ -9243,13 +10563,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     661,
-    925.49,
-    'https://jigsy.com/nibh/in/quis/justo/maecenas.xml',
+    29.44,
+    'http://craigslist.org/sodales/sed/tincidunt/eu/felis/fusce.xml',
     'PAGADA',
-    '8792260616'
+    '9031101052',
+    '26-Dec-2021'
 );
 
 INSERT INTO COMPRA (
@@ -9257,13 +10579,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     662,
-    249.35,
-    'https://yahoo.com/tincidunt/eu/felis/fusce/posuere/felis.json',
+    706.56,
+    'http://issuu.com/sem.aspx',
     'CREADA',
-    '1278995099'
+    '1278995099',
+    '15-Jul-2022'
 );
 
 INSERT INTO COMPRA (
@@ -9271,13 +10595,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     663,
-    75.18,
-    'http://de.vu/nisi/volutpat.jsp',
+    312.03,
+    'http://delicious.com/purus/eu/magna.jpg',
     'PAGADA',
-    '1278995099'
+    '9031101052',
+    '24-Nov-2021'
 );
 
 INSERT INTO COMPRA (
@@ -9285,13 +10611,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     664,
-    97.25,
-    'http://smugmug.com/sapien/arcu/sed/augue.html',
-    'CREADA',
-    '0628195931'
+    953.63,
+    'http://ning.com/magna/at/nunc/commodo/placerat.xml',
+    'CANCELADA',
+    '1278995099',
+    '06-Feb-2022'
 );
 
 INSERT INTO COMPRA (
@@ -9299,13 +10627,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     665,
-    922.51,
-    'https://smh.com.au/est/risus.json',
+    935.38,
+    'https://auda.org.au/ut/dolor/morbi.jpg',
     'CREADA',
-    '0628195931'
+    '8792260616',
+    '22-Jun-2022'
 );
 
 INSERT INTO COMPRA (
@@ -9313,13 +10643,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     666,
-    608.69,
-    'http://shinystat.com/dui/maecenas/tristique.html',
-    'PAGADA',
-    '8792260616'
+    927.96,
+    'http://geocities.com/in/faucibus/orci.png',
+    'CREADA',
+    '9031101052',
+    '07-Aug-2022'
 );
 
 INSERT INTO COMPRA (
@@ -9327,13 +10659,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     667,
-    730.37,
-    'https://amazon.co.jp/tellus.jsp',
-    'CANCELADA',
-    '3896442104'
+    934.47,
+    'https://taobao.com/ullamcorper/augue/a.aspx',
+    'CREADA',
+    '3896442104',
+    '29-Aug-2022'
 );
 
 INSERT INTO COMPRA (
@@ -9341,13 +10675,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     668,
-    199.95,
-    'https://bizjournals.com/et/ultrices/posuere.jpg',
+    455.46,
+    'http://youtu.be/quam.jsp',
     'PAGADA',
-    '3896442104'
+    '0628195931',
+    '01-Jan-2022'
 );
 
 INSERT INTO COMPRA (
@@ -9355,13 +10691,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     669,
-    33.06,
-    'https://dmoz.org/leo/odio.png',
+    588.73,
+    'https://wp.com/ac/diam.xml',
     'PAGADA',
-    '9031101052'
+    '9031101052',
+    '23-Apr-2022'
 );
 
 INSERT INTO COMPRA (
@@ -9369,13 +10707,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     670,
-    900.85,
-    'http://weebly.com/turpis/eget/elit/sodales.jpg',
-    'PAGADA',
-    '8792260616'
+    327.38,
+    'https://webeden.co.uk/consectetuer.json',
+    'CANCELADA',
+    '9031101052',
+    '08-Jul-2022'
 );
 
 INSERT INTO COMPRA (
@@ -9383,13 +10723,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     671,
-    464.77,
-    'https://photobucket.com/at/velit/eu/est/congue/elementum.png',
-    'CANCELADA',
-    '9031101052'
+    156.37,
+    'https://yandex.ru/tincidunt/in/leo/maecenas/pulvinar/lobortis/est.html',
+    'PAGADA',
+    '0628195931',
+    '12-Sep-2022'
 );
 
 INSERT INTO COMPRA (
@@ -9397,13 +10739,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     672,
-    112.73,
-    'http://dion.ne.jp/sit/amet/sapien/dignissim/vestibulum.html',
-    'PAGADA',
-    '3896442104'
+    676.53,
+    'https://cloudflare.com/a/suscipit/nulla.xml',
+    'CANCELADA',
+    '1278995099',
+    '05-Oct-2022'
 );
 
 INSERT INTO COMPRA (
@@ -9411,13 +10755,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     673,
-    595.68,
-    'http://cbsnews.com/feugiat/et/eros/vestibulum/ac/est.js',
-    'CANCELADA',
-    '8792260616'
+    552.84,
+    'https://dyndns.org/non/ligula/pellentesque/ultrices/phasellus/id/sapien.jsp',
+    'CREADA',
+    '1278995099',
+    '23-May-2022'
 );
 
 INSERT INTO COMPRA (
@@ -9425,13 +10771,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     674,
-    952.68,
-    'http://cnet.com/porttitor/id/consequat/in/consequat/ut.jsp',
-    'CREADA',
-    '8792260616'
+    443.71,
+    'https://ifeng.com/at/lorem/integer.xml',
+    'CANCELADA',
+    '3896442104',
+    '09-Mar-2022'
 );
 
 INSERT INTO COMPRA (
@@ -9439,13 +10787,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     675,
-    995.67,
-    'https://lycos.com/ultricies/eu/nibh/quisque/id.json',
+    524.08,
+    'http://ucoz.com/lectus/aliquam/sit/amet/diam.html',
     'CREADA',
-    '1278995099'
+    '1278995099',
+    '12-Oct-2022'
 );
 
 INSERT INTO COMPRA (
@@ -9453,13 +10803,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     676,
-    14.5,
-    'http://about.com/condimentum/neque/sapien/placerat/ante/nulla/justo.aspx',
-    'PAGADA',
-    '9031101052'
+    512.2,
+    'https://phoca.cz/ligula/vehicula/consequat/morbi/a/ipsum/integer.js',
+    'CREADA',
+    '8792260616',
+    '02-Oct-2022'
 );
 
 INSERT INTO COMPRA (
@@ -9467,13 +10819,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     677,
-    312.34,
-    'http://shareasale.com/vel/dapibus/at/diam/nam.js',
-    'CANCELADA',
-    '9031101052'
+    623.27,
+    'https://smugmug.com/eleifend/luctus/ultricies/eu/nibh/quisque/id.js',
+    'PAGADA',
+    '3896442104',
+    '16-Oct-2022'
 );
 
 INSERT INTO COMPRA (
@@ -9481,13 +10835,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     678,
-    579.72,
-    'http://ow.ly/accumsan.xml',
-    'CANCELADA',
-    '0628195931'
+    797.01,
+    'http://newsvine.com/aliquet/at/feugiat/non/pretium.js',
+    'PAGADA',
+    '1278995099',
+    '03-Mar-2022'
 );
 
 INSERT INTO COMPRA (
@@ -9495,13 +10851,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     679,
-    549.07,
-    'http://tiny.cc/ipsum/primis/in/faucibus.json',
-    'PAGADA',
-    '3896442104'
+    521.94,
+    'https://wix.com/ac/nulla/sed/vel/enim/sit.html',
+    'CREADA',
+    '1278995099',
+    '11-Aug-2022'
 );
 
 INSERT INTO COMPRA (
@@ -9509,13 +10867,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     680,
-    270.15,
-    'https://nih.gov/non.js',
+    962.1,
+    'https://webeden.co.uk/molestie/lorem.html',
     'CANCELADA',
-    '0628195931'
+    '8792260616',
+    '18-Mar-2022'
 );
 
 INSERT INTO COMPRA (
@@ -9523,13 +10883,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     681,
-    785.44,
-    'https://altervista.org/donec/ut.jsp',
-    'PAGADA',
-    '1278995099'
+    740.9,
+    'https://dropbox.com/potenti/nullam/porttitor/lacus/at/turpis/donec.png',
+    'CANCELADA',
+    '3896442104',
+    '06-Sep-2022'
 );
 
 INSERT INTO COMPRA (
@@ -9537,13 +10899,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     682,
-    71.6,
-    'http://tmall.com/at/nibh/in.json',
-    'CANCELADA',
-    '1278995099'
+    855.0,
+    'https://example.com/iaculis/justo/in/hac/habitasse/platea/dictumst.jsp',
+    'CREADA',
+    '8792260616',
+    '12-Nov-2021'
 );
 
 INSERT INTO COMPRA (
@@ -9551,13 +10915,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     683,
-    971.96,
-    'https://ehow.com/quam/pharetra/magna/ac/consequat/metus/sapien.jsp',
+    305.97,
+    'https://indiatimes.com/donec/diam.jsp',
     'CREADA',
-    '3896442104'
+    '0628195931',
+    '27-Dec-2021'
 );
 
 INSERT INTO COMPRA (
@@ -9565,13 +10931,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     684,
-    896.89,
-    'http://miitbeian.gov.cn/pretium.xml',
-    'CREADA',
-    '9031101052'
+    287.91,
+    'https://ucoz.ru/ac/leo/pellentesque/ultrices/mattis.js',
+    'PAGADA',
+    '9031101052',
+    '10-Jan-2022'
 );
 
 INSERT INTO COMPRA (
@@ -9579,13 +10947,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     685,
-    346.35,
-    'http://constantcontact.com/ligula.xml',
-    'CANCELADA',
-    '3896442104'
+    977.58,
+    'http://google.de/potenti/nullam/porttitor/lacus/at.aspx',
+    'PAGADA',
+    '9031101052',
+    '11-Sep-2022'
 );
 
 INSERT INTO COMPRA (
@@ -9593,13 +10963,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     686,
-    727.15,
-    'http://utexas.edu/ullamcorper/augue/a/suscipit.jsp',
-    'CREADA',
-    '3896442104'
+    835.41,
+    'http://fema.gov/pede/justo/eu.jsp',
+    'CANCELADA',
+    '0628195931',
+    '28-Nov-2021'
 );
 
 INSERT INTO COMPRA (
@@ -9607,13 +10979,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     687,
-    54.36,
-    'https://sourceforge.net/pellentesque/ultrices/mattis/odio/donec/vitae/nisi.xml',
-    'CREADA',
-    '1278995099'
+    404.98,
+    'https://paginegialle.it/vestibulum/vestibulum/ante/ipsum/primis/in.json',
+    'CANCELADA',
+    '8792260616',
+    '18-Jul-2022'
 );
 
 INSERT INTO COMPRA (
@@ -9621,13 +10995,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     688,
-    443.19,
-    'https://tiny.cc/quisque/erat/eros/viverra/eget/congue/eget.jsp',
+    67.68,
+    'http://clickbank.net/diam.aspx',
     'CANCELADA',
-    '1278995099'
+    '0628195931',
+    '02-Jul-2022'
 );
 
 INSERT INTO COMPRA (
@@ -9635,13 +11011,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     689,
-    473.3,
-    'http://godaddy.com/elementum.aspx',
+    929.37,
+    'https://ftc.gov/eleifend.aspx',
     'PAGADA',
-    '8792260616'
+    '3896442104',
+    '15-Mar-2022'
 );
 
 INSERT INTO COMPRA (
@@ -9649,13 +11027,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     690,
-    561.09,
-    'https://goo.ne.jp/erat/tortor/sollicitudin/mi/sit/amet/lobortis.json',
-    'PAGADA',
-    '8792260616'
+    917.1,
+    'http://pinterest.com/adipiscing/lorem/vitae/mattis/nibh/ligula.html',
+    'CREADA',
+    '0628195931',
+    '05-May-2022'
 );
 
 INSERT INTO COMPRA (
@@ -9663,13 +11043,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     691,
-    195.14,
-    'https://mapquest.com/est/quam/pharetra/magna/ac/consequat/metus.png',
-    'PAGADA',
-    '3896442104'
+    276.15,
+    'http://zimbio.com/eleifend/luctus/ultricies/eu/nibh.aspx',
+    'CANCELADA',
+    '9031101052',
+    '21-May-2022'
 );
 
 INSERT INTO COMPRA (
@@ -9677,13 +11059,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     692,
-    96.44,
-    'https://theatlantic.com/vestibulum/ante/ipsum.html',
-    'CREADA',
-    '0628195931'
+    751.3,
+    'http://forbes.com/justo/morbi/ut/odio.html',
+    'CANCELADA',
+    '9031101052',
+    '14-Dec-2021'
 );
 
 INSERT INTO COMPRA (
@@ -9691,13 +11075,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     693,
-    522.03,
-    'http://apache.org/vitae/ipsum/aliquam/non/mauris.html',
+    853.16,
+    'http://sfgate.com/vitae/nisi/nam/ultrices/libero.jpg',
     'CANCELADA',
-    '3896442104'
+    '9031101052',
+    '17-Jul-2022'
 );
 
 INSERT INTO COMPRA (
@@ -9705,13 +11091,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     694,
-    31.1,
-    'https://trellian.com/sapien/ut/nunc.aspx',
-    'CREADA',
-    '1278995099'
+    891.21,
+    'https://homestead.com/duis.aspx',
+    'CANCELADA',
+    '9031101052',
+    '28-Jan-2022'
 );
 
 INSERT INTO COMPRA (
@@ -9719,13 +11107,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     695,
-    841.2,
-    'https://networksolutions.com/nulla/sed/vel/enim/sit/amet/nunc.js',
-    'CANCELADA',
-    '3896442104'
+    646.16,
+    'http://cloudflare.com/felis/donec/semper/sapien.png',
+    'CREADA',
+    '8792260616',
+    '18-Apr-2022'
 );
 
 INSERT INTO COMPRA (
@@ -9733,13 +11123,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     696,
-    271.52,
-    'http://amazon.co.uk/curabitur/at/ipsum/ac/tellus/semper/interdum.jpg',
-    'CANCELADA',
-    '9031101052'
+    941.21,
+    'https://narod.ru/nunc/viverra/dapibus/nulla/suscipit/ligula/in.jpg',
+    'CREADA',
+    '3896442104',
+    '26-Jan-2022'
 );
 
 INSERT INTO COMPRA (
@@ -9747,13 +11139,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     697,
-    369.85,
-    'https://wikispaces.com/dictumst/maecenas/ut/massa/quis/augue.json',
-    'CREADA',
-    '9031101052'
+    443.99,
+    'https://sphinn.com/velit/donec/diam/neque/vestibulum/eget/vulputate.js',
+    'CANCELADA',
+    '1278995099',
+    '23-Aug-2022'
 );
 
 INSERT INTO COMPRA (
@@ -9761,13 +11155,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     698,
-    881.98,
-    'https://jalbum.net/massa/tempor/convallis/nulla/neque/libero/convallis.js',
-    'CANCELADA',
-    '0628195931'
+    39.73,
+    'https://blog.com/placerat.jpg',
+    'CREADA',
+    '1278995099',
+    '17-Feb-2022'
 );
 
 INSERT INTO COMPRA (
@@ -9775,13 +11171,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     699,
-    361.95,
-    'http://php.net/congue/etiam/justo/etiam/pretium/iaculis/justo.png',
-    'CANCELADA',
-    '9031101052'
+    161.33,
+    'https://t.co/metus/aenean/fermentum.json',
+    'PAGADA',
+    '9031101052',
+    '01-Oct-2022'
 );
 
 INSERT INTO COMPRA (
@@ -9789,13 +11187,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     700,
-    959.51,
-    'https://cisco.com/proin/eu/mi/nulla.jpg',
-    'CREADA',
-    '9031101052'
+    196.04,
+    'https://latimes.com/lacus/purus/aliquet/at.js',
+    'PAGADA',
+    '1278995099',
+    '02-Sep-2022'
 );
 
 INSERT INTO COMPRA (
@@ -9803,13 +11203,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     701,
-    504.33,
-    'https://drupal.org/vel/nisl/duis/ac/nibh/fusce/lacus.html',
+    920.08,
+    'http://acquirethisname.com/ligula/in/lacus.aspx',
     'CREADA',
-    '8792260616'
+    '3896442104',
+    '21-Feb-2022'
 );
 
 INSERT INTO COMPRA (
@@ -9817,13 +11219,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     702,
-    17.63,
-    'https://quantcast.com/turpis/adipiscing/lorem/vitae.png',
+    933.14,
+    'https://mac.com/et/eros/vestibulum/ac/est.json',
     'CREADA',
-    '1278995099'
+    '8792260616',
+    '10-Jan-2022'
 );
 
 INSERT INTO COMPRA (
@@ -9831,13 +11235,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     703,
-    483.31,
-    'http://bing.com/eros/viverra/eget/congue/eget.json',
-    'CANCELADA',
-    '8792260616'
+    603.78,
+    'http://washingtonpost.com/pede/posuere/nonummy/integer.js',
+    'PAGADA',
+    '9031101052',
+    '30-Jan-2022'
 );
 
 INSERT INTO COMPRA (
@@ -9845,13 +11251,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     704,
-    494.37,
-    'https://stanford.edu/id/massa/id/nisl/venenatis/lacinia/aenean.xml',
-    'CANCELADA',
-    '8792260616'
+    276.73,
+    'http://dell.com/pede/venenatis/non.jsp',
+    'CREADA',
+    '8792260616',
+    '18-Jan-2022'
 );
 
 INSERT INTO COMPRA (
@@ -9859,13 +11267,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     705,
-    846.26,
-    'https://squidoo.com/pellentesque/viverra/pede.jpg',
-    'PAGADA',
-    '0628195931'
+    431.06,
+    'https://google.it/posuere/nonummy/integer/non/velit/donec.js',
+    'CREADA',
+    '1278995099',
+    '22-Nov-2021'
 );
 
 INSERT INTO COMPRA (
@@ -9873,13 +11283,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     706,
-    205.52,
-    'http://hubpages.com/in/consequat/ut/nulla/sed/accumsan.aspx',
-    'PAGADA',
-    '3896442104'
+    826.19,
+    'https://discovery.com/hac/habitasse/platea/dictumst/aliquam/augue.jsp',
+    'CANCELADA',
+    '9031101052',
+    '08-May-2022'
 );
 
 INSERT INTO COMPRA (
@@ -9887,13 +11299,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     707,
-    994.05,
-    'https://homestead.com/morbi/a/ipsum/integer/a.json',
-    'CANCELADA',
-    '1278995099'
+    854.65,
+    'https://reverbnation.com/mi/pede/malesuada/in.html',
+    'CREADA',
+    '0628195931',
+    '14-Mar-2022'
 );
 
 INSERT INTO COMPRA (
@@ -9901,13 +11315,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     708,
-    726.33,
-    'https://plala.or.jp/blandit/non/interdum/in.png',
-    'CREADA',
-    '8792260616'
+    388.86,
+    'https://google.fr/massa.aspx',
+    'CANCELADA',
+    '8792260616',
+    '05-Sep-2022'
 );
 
 INSERT INTO COMPRA (
@@ -9915,13 +11331,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     709,
-    738.44,
-    'http://abc.net.au/praesent.aspx',
-    'PAGADA',
-    '3896442104'
+    515.6,
+    'http://marriott.com/in/imperdiet/et/commodo/vulputate/justo.png',
+    'CREADA',
+    '3896442104',
+    '07-Apr-2022'
 );
 
 INSERT INTO COMPRA (
@@ -9929,13 +11347,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     710,
-    152.67,
-    'https://arizona.edu/ut/nunc/vestibulum/ante/ipsum/primis.jsp',
-    'CREADA',
-    '0628195931'
+    358.06,
+    'http://hao123.com/morbi/vel/lectus/in/quam/fringilla/rhoncus.jsp',
+    'CANCELADA',
+    '9031101052',
+    '15-Nov-2021'
 );
 
 INSERT INTO COMPRA (
@@ -9943,13 +11363,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     711,
-    737.87,
-    'http://mapy.cz/dapibus/nulla/suscipit.jsp',
-    'CANCELADA',
-    '0628195931'
+    908.04,
+    'https://tripod.com/arcu/adipiscing/molestie.png',
+    'PAGADA',
+    '1278995099',
+    '07-Aug-2022'
 );
 
 INSERT INTO COMPRA (
@@ -9957,13 +11379,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     712,
-    680.18,
-    'https://parallels.com/luctus/tincidunt/nulla/mollis/molestie.png',
-    'CREADA',
-    '8792260616'
+    952.17,
+    'https://si.edu/ut/massa.json',
+    'CANCELADA',
+    '1278995099',
+    '20-Sep-2022'
 );
 
 INSERT INTO COMPRA (
@@ -9971,13 +11395,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     713,
-    272.56,
-    'https://nsw.gov.au/consequat/nulla/nisl.xml',
-    'PAGADA',
-    '1278995099'
+    215.99,
+    'https://wisc.edu/dapibus.jpg',
+    'CANCELADA',
+    '8792260616',
+    '02-Oct-2022'
 );
 
 INSERT INTO COMPRA (
@@ -9985,13 +11411,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     714,
-    153.11,
-    'https://dailymail.co.uk/vulputate/justo/in/blandit/ultrices/enim/lorem.json',
-    'CREADA',
-    '3896442104'
+    42.58,
+    'https://disqus.com/pede/libero/quis/orci/nullam.png',
+    'PAGADA',
+    '9031101052',
+    '19-Jun-2022'
 );
 
 INSERT INTO COMPRA (
@@ -9999,13 +11427,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     715,
-    266.23,
-    'http://unesco.org/dolor/quis/odio/consequat/varius.jpg',
+    648.19,
+    'https://google.nl/pede/justo.aspx',
     'CANCELADA',
-    '1278995099'
+    '8792260616',
+    '20-Apr-2022'
 );
 
 INSERT INTO COMPRA (
@@ -10013,13 +11443,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     716,
-    697.88,
-    'https://yandex.ru/curae/duis/faucibus/accumsan.png',
+    468.29,
+    'http://phoca.cz/molestie/hendrerit.xml',
     'CANCELADA',
-    '1278995099'
+    '8792260616',
+    '05-Jan-2022'
 );
 
 INSERT INTO COMPRA (
@@ -10027,13 +11459,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     717,
-    454.31,
-    'https://a8.net/quis/turpis/eget/elit/sodales.xml',
+    228.25,
+    'http://scientificamerican.com/leo/maecenas.json',
     'PAGADA',
-    '8792260616'
+    '1278995099',
+    '20-Aug-2022'
 );
 
 INSERT INTO COMPRA (
@@ -10041,13 +11475,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     718,
-    389.76,
-    'https://stumbleupon.com/at.png',
-    'PAGADA',
-    '9031101052'
+    262.84,
+    'http://nifty.com/at/turpis/donec/posuere/metus.png',
+    'CREADA',
+    '9031101052',
+    '27-Mar-2022'
 );
 
 INSERT INTO COMPRA (
@@ -10055,13 +11491,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     719,
-    833.47,
-    'http://tiny.cc/mattis/nibh/ligula/nec/sem/duis.jpg',
-    'CANCELADA',
-    '9031101052'
+    328.82,
+    'https://sakura.ne.jp/egestas/metus/aenean/fermentum/donec/ut/mauris.jpg',
+    'PAGADA',
+    '0628195931',
+    '14-Oct-2022'
 );
 
 INSERT INTO COMPRA (
@@ -10069,13 +11507,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     720,
-    745.36,
-    'https://ning.com/a.jsp',
+    671.91,
+    'https://wikia.com/mauris/non/ligula/pellentesque/ultrices/phasellus/id.html',
     'PAGADA',
-    '3896442104'
+    '8792260616',
+    '12-May-2022'
 );
 
 INSERT INTO COMPRA (
@@ -10083,13 +11523,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     721,
-    447.9,
-    'https://ibm.com/vel/accumsan/tellus/nisi/eu/orci.xml',
-    'CREADA',
-    '8792260616'
+    909.17,
+    'http://reuters.com/morbi.png',
+    'PAGADA',
+    '1278995099',
+    '15-Jul-2022'
 );
 
 INSERT INTO COMPRA (
@@ -10097,13 +11539,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     722,
-    364.66,
-    'https://opensource.org/lectus.png',
-    'PAGADA',
-    '3896442104'
+    899.23,
+    'https://jigsy.com/libero/quis.aspx',
+    'CREADA',
+    '1278995099',
+    '02-Jan-2022'
 );
 
 INSERT INTO COMPRA (
@@ -10111,13 +11555,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     723,
-    869.5,
-    'http://rediff.com/odio/consequat/varius/integer/ac/leo.html',
-    'CREADA',
-    '1278995099'
+    141.96,
+    'https://geocities.jp/morbi/porttitor/lorem/id/ligula.json',
+    'CANCELADA',
+    '9031101052',
+    '06-Dec-2021'
 );
 
 INSERT INTO COMPRA (
@@ -10125,13 +11571,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     724,
-    138.64,
-    'http://imageshack.us/cum/sociis/natoque/penatibus.jsp',
-    'CANCELADA',
-    '3896442104'
+    421.15,
+    'https://businessweek.com/augue/vestibulum/rutrum.aspx',
+    'PAGADA',
+    '3896442104',
+    '16-Jan-2022'
 );
 
 INSERT INTO COMPRA (
@@ -10139,13 +11587,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     725,
-    485.64,
-    'https://4shared.com/est/donec/odio.json',
-    'CREADA',
-    '3896442104'
+    713.05,
+    'http://ustream.tv/pulvinar/nulla/pede/ullamcorper/augue.json',
+    'PAGADA',
+    '8792260616',
+    '27-Jan-2022'
 );
 
 INSERT INTO COMPRA (
@@ -10153,13 +11603,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     726,
-    512.16,
-    'https://4shared.com/gravida.jpg',
-    'CANCELADA',
-    '9031101052'
+    637.11,
+    'https://yelp.com/pede.xml',
+    'CREADA',
+    '0628195931',
+    '31-Jul-2022'
 );
 
 INSERT INTO COMPRA (
@@ -10167,13 +11619,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     727,
-    221.91,
-    'https://unesco.org/turpis/elementum/ligula/vehicula/consequat/morbi.jpg',
+    210.03,
+    'https://google.ru/ante/ipsum/primis/in.html',
     'CANCELADA',
-    '0628195931'
+    '9031101052',
+    '07-Aug-2022'
 );
 
 INSERT INTO COMPRA (
@@ -10181,13 +11635,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     728,
-    467.38,
-    'https://vk.com/sodales/scelerisque/mauris/sit/amet/eros.png',
+    366.32,
+    'https://npr.org/maecenas.jsp',
     'CREADA',
-    '8792260616'
+    '3896442104',
+    '08-May-2022'
 );
 
 INSERT INTO COMPRA (
@@ -10195,13 +11651,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     729,
-    380.5,
-    'https://dailymotion.com/nisl/nunc/rhoncus/dui/vel/sem/sed.html',
+    853.92,
+    'https://quantcast.com/lorem.json',
     'PAGADA',
-    '1278995099'
+    '9031101052',
+    '27-Feb-2022'
 );
 
 INSERT INTO COMPRA (
@@ -10209,13 +11667,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     730,
-    571.04,
-    'http://cbsnews.com/et/ultrices/posuere/cubilia.png',
-    'PAGADA',
-    '1278995099'
+    352.06,
+    'http://boston.com/pretium/iaculis/justo/in/hac.png',
+    'CANCELADA',
+    '1278995099',
+    '03-Sep-2022'
 );
 
 INSERT INTO COMPRA (
@@ -10223,13 +11683,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     731,
-    143.53,
-    'http://tumblr.com/non/ligula/pellentesque/ultrices.aspx',
-    'CREADA',
-    '8792260616'
+    591.35,
+    'https://deliciousdays.com/et/ultrices.html',
+    'CANCELADA',
+    '8792260616',
+    '29-Aug-2022'
 );
 
 INSERT INTO COMPRA (
@@ -10237,13 +11699,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     732,
-    648.94,
-    'https://thetimes.co.uk/metus/aenean/fermentum/donec/ut/mauris/eget.jsp',
+    650.67,
+    'https://fema.gov/aliquam/non/mauris/morbi/non/lectus/aliquam.jsp',
     'PAGADA',
-    '1278995099'
+    '0628195931',
+    '05-Apr-2022'
 );
 
 INSERT INTO COMPRA (
@@ -10251,13 +11715,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     733,
-    197.33,
-    'http://posterous.com/metus.json',
-    'CANCELADA',
-    '8792260616'
+    148.74,
+    'http://hc360.com/vitae/ipsum/aliquam/non/mauris.html',
+    'CREADA',
+    '9031101052',
+    '19-May-2022'
 );
 
 INSERT INTO COMPRA (
@@ -10265,13 +11731,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     734,
-    639.36,
-    'https://amazon.co.jp/in/hac/habitasse.aspx',
+    997.95,
+    'https://mapy.cz/maecenas/tincidunt/lacus.html',
     'CREADA',
-    '1278995099'
+    '8792260616',
+    '01-Feb-2022'
 );
 
 INSERT INTO COMPRA (
@@ -10279,13 +11747,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     735,
-    236.86,
-    'https://oakley.com/metus/vitae.png',
-    'CANCELADA',
-    '3896442104'
+    55.44,
+    'http://nps.gov/ultrices/aliquet/maecenas/leo/odio/condimentum/id.xml',
+    'PAGADA',
+    '3896442104',
+    '28-Oct-2021'
 );
 
 INSERT INTO COMPRA (
@@ -10293,13 +11763,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     736,
-    485.19,
-    'https://joomla.org/eget/orci.png',
+    567.18,
+    'https://shop-pro.jp/congue/eget/semper/rutrum/nulla/nunc.jpg',
     'PAGADA',
-    '9031101052'
+    '8792260616',
+    '28-Feb-2022'
 );
 
 INSERT INTO COMPRA (
@@ -10307,13 +11779,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     737,
-    319.11,
-    'https://gnu.org/aliquam.js',
-    'CANCELADA',
-    '1278995099'
+    677.43,
+    'http://indiegogo.com/odio/elementum/eu.html',
+    'PAGADA',
+    '1278995099',
+    '03-Jun-2022'
 );
 
 INSERT INTO COMPRA (
@@ -10321,13 +11795,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     738,
-    793.07,
-    'https://ycombinator.com/sapien/a/libero/nam.jsp',
-    'CANCELADA',
-    '0628195931'
+    292.08,
+    'http://paypal.com/justo.jpg',
+    'PAGADA',
+    '9031101052',
+    '28-Sep-2022'
 );
 
 INSERT INTO COMPRA (
@@ -10335,13 +11811,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     739,
-    491.17,
-    'http://chicagotribune.com/potenti/in.png',
-    'CREADA',
-    '0628195931'
+    781.42,
+    'http://wired.com/bibendum/felis/sed/interdum/venenatis.json',
+    'CANCELADA',
+    '8792260616',
+    '17-May-2022'
 );
 
 INSERT INTO COMPRA (
@@ -10349,13 +11827,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     740,
-    216.56,
-    'http://weibo.com/ac/est/lacinia/nisi/venenatis/tristique/fusce.png',
-    'PAGADA',
-    '0628195931'
+    331.43,
+    'http://odnoklassniki.ru/sed/accumsan/felis/ut.json',
+    'CREADA',
+    '0628195931',
+    '30-Jun-2022'
 );
 
 INSERT INTO COMPRA (
@@ -10363,13 +11843,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     741,
-    109.96,
-    'https://mashable.com/mauris.json',
-    'CANCELADA',
-    '3896442104'
+    217.27,
+    'http://netlog.com/hac/habitasse/platea/dictumst/morbi.jsp',
+    'PAGADA',
+    '8792260616',
+    '14-Jan-2022'
 );
 
 INSERT INTO COMPRA (
@@ -10377,13 +11859,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     742,
-    792.75,
-    'http://pbs.org/platea/dictumst.aspx',
-    'CREADA',
-    '3896442104'
+    115.25,
+    'https://amazon.co.jp/ligula/sit/amet/eleifend/pede.js',
+    'PAGADA',
+    '8792260616',
+    '04-Dec-2021'
 );
 
 INSERT INTO COMPRA (
@@ -10391,13 +11875,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     743,
-    316.83,
-    'https://bloglovin.com/placerat/ante/nulla/justo/aliquam/quis/turpis.png',
-    'CANCELADA',
-    '3896442104'
+    81.1,
+    'https://reference.com/sapien/in/sapien/iaculis/congue/vivamus/metus.png',
+    'PAGADA',
+    '0628195931',
+    '01-Feb-2022'
 );
 
 INSERT INTO COMPRA (
@@ -10405,13 +11891,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     744,
-    855.26,
-    'http://ihg.com/ipsum/dolor/sit/amet/consectetuer/adipiscing/elit.jpg',
-    'CANCELADA',
-    '3896442104'
+    711.15,
+    'https://whitehouse.gov/mi/sit/amet/lobortis/sapien.jsp',
+    'CREADA',
+    '9031101052',
+    '26-Apr-2022'
 );
 
 INSERT INTO COMPRA (
@@ -10419,13 +11907,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     745,
-    958.6,
-    'https://etsy.com/quisque/porta/volutpat/erat/quisque/erat/eros.aspx',
+    446.82,
+    'http://toplist.cz/amet/sapien/dignissim/vestibulum/vestibulum/ante/ipsum.xml',
     'CANCELADA',
-    '3896442104'
+    '9031101052',
+    '11-Dec-2021'
 );
 
 INSERT INTO COMPRA (
@@ -10433,13 +11923,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     746,
-    526.14,
-    'http://slashdot.org/eu/mi/nulla/ac.jpg',
-    'CREADA',
-    '3896442104'
+    418.93,
+    'http://who.int/aliquet/maecenas/leo.aspx',
+    'CANCELADA',
+    '9031101052',
+    '07-Apr-2022'
 );
 
 INSERT INTO COMPRA (
@@ -10447,13 +11939,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     747,
-    765.9,
-    'http://springer.com/vel/dapibus/at/diam/nam.jsp',
-    'PAGADA',
-    '9031101052'
+    481.88,
+    'https://moonfruit.com/vivamus.png',
+    'CANCELADA',
+    '3896442104',
+    '18-Mar-2022'
 );
 
 INSERT INTO COMPRA (
@@ -10461,13 +11955,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     748,
-    690.42,
-    'https://auda.org.au/id/mauris/vulputate.html',
-    'PAGADA',
-    '8792260616'
+    92.08,
+    'https://techcrunch.com/justo/sollicitudin/ut/suscipit/a/feugiat.js',
+    'CANCELADA',
+    '8792260616',
+    '03-Nov-2021'
 );
 
 INSERT INTO COMPRA (
@@ -10475,13 +11971,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     749,
-    634.3,
-    'https://jigsy.com/molestie/hendrerit/at.xml',
-    'CREADA',
-    '3896442104'
+    653.92,
+    'https://ucsd.edu/felis/fusce/posuere/felis/sed/lacus/morbi.aspx',
+    'PAGADA',
+    '1278995099',
+    '07-Sep-2022'
 );
 
 INSERT INTO COMPRA (
@@ -10489,13 +11987,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     750,
-    770.25,
-    'https://github.io/quam/a/odio.jsp',
-    'CREADA',
-    '0628195931'
+    413.15,
+    'http://mapquest.com/in.aspx',
+    'PAGADA',
+    '3896442104',
+    '03-Feb-2022'
 );
 
 INSERT INTO COMPRA (
@@ -10503,13 +12003,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     751,
-    51.42,
-    'http://miitbeian.gov.cn/lacus/at/turpis/donec/posuere/metus/vitae.json',
-    'CREADA',
-    '1278995099'
+    595.82,
+    'http://earthlink.net/pede/ac/diam/cras.xml',
+    'PAGADA',
+    '3896442104',
+    '07-Jun-2022'
 );
 
 INSERT INTO COMPRA (
@@ -10517,13 +12019,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     752,
-    732.3,
-    'https://disqus.com/sit/amet/consectetuer/adipiscing.jpg',
-    'PAGADA',
-    '3896442104'
+    841.88,
+    'http://dropbox.com/faucibus/orci/luctus/et.html',
+    'CANCELADA',
+    '1278995099',
+    '12-Jan-2022'
 );
 
 INSERT INTO COMPRA (
@@ -10531,13 +12035,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     753,
-    323.56,
-    'http://privacy.gov.au/consequat/lectus/in/est/risus/auctor/sed.js',
-    'CREADA',
-    '3896442104'
+    627.29,
+    'http://wufoo.com/augue/vel/accumsan/tellus/nisi/eu/orci.json',
+    'PAGADA',
+    '9031101052',
+    '20-Sep-2022'
 );
 
 INSERT INTO COMPRA (
@@ -10545,13 +12051,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     754,
-    702.58,
-    'http://redcross.org/lectus/pellentesque/at/nulla/suspendisse/potenti.xml',
-    'CANCELADA',
-    '9031101052'
+    133.18,
+    'https://forbes.com/eu/massa.js',
+    'CREADA',
+    '3896442104',
+    '19-Nov-2021'
 );
 
 INSERT INTO COMPRA (
@@ -10559,13 +12067,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     755,
-    498.1,
-    'http://constantcontact.com/odio/cras/mi/pede.html',
+    928.03,
+    'http://techcrunch.com/ornare/consequat/lectus/in/est/risus.xml',
     'CREADA',
-    '3896442104'
+    '1278995099',
+    '19-Oct-2021'
 );
 
 INSERT INTO COMPRA (
@@ -10573,13 +12083,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     756,
-    693.06,
-    'https://bigcartel.com/lorem/ipsum/dolor/sit.html',
-    'CANCELADA',
-    '3896442104'
+    451.14,
+    'http://businessinsider.com/ligula/pellentesque/ultrices/phasellus/id.json',
+    'CREADA',
+    '8792260616',
+    '07-Jan-2022'
 );
 
 INSERT INTO COMPRA (
@@ -10587,13 +12099,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     757,
-    101.38,
-    'https://reverbnation.com/ac/leo/pellentesque/ultrices.jsp',
+    105.57,
+    'http://ibm.com/vitae.xml',
     'CANCELADA',
-    '9031101052'
+    '8792260616',
+    '24-Jul-2022'
 );
 
 INSERT INTO COMPRA (
@@ -10601,13 +12115,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     758,
-    145.14,
-    'http://omniture.com/morbi/quis/tortor/id.jpg',
-    'CANCELADA',
-    '8792260616'
+    169.26,
+    'http://hc360.com/eget/rutrum/at/lorem/integer/tincidunt/ante.json',
+    'CREADA',
+    '8792260616',
+    '19-Apr-2022'
 );
 
 INSERT INTO COMPRA (
@@ -10615,13 +12131,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     759,
-    895.2,
-    'https://wisc.edu/arcu/libero/rutrum/ac/lobortis.jsp',
-    'PAGADA',
-    '1278995099'
+    761.36,
+    'http://amazonaws.com/justo/in.jpg',
+    'CANCELADA',
+    '8792260616',
+    '18-Mar-2022'
 );
 
 INSERT INTO COMPRA (
@@ -10629,13 +12147,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     760,
-    485.92,
-    'http://sakura.ne.jp/lorem/quisque/ut.png',
-    'PAGADA',
-    '0628195931'
+    531.05,
+    'http://cafepress.com/diam/vitae/quam/suspendisse/potenti.jsp',
+    'CREADA',
+    '3896442104',
+    '05-Apr-2022'
 );
 
 INSERT INTO COMPRA (
@@ -10643,13 +12163,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     761,
-    608.74,
-    'http://newsvine.com/nascetur/ridiculus/mus/etiam/vel/augue.json',
-    'CANCELADA',
-    '9031101052'
+    909.44,
+    'http://icq.com/aliquam/sit/amet/diam.aspx',
+    'CREADA',
+    '3896442104',
+    '26-Jan-2022'
 );
 
 INSERT INTO COMPRA (
@@ -10657,13 +12179,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     762,
-    365.04,
-    'https://nbcnews.com/eu/sapien/cursus.png',
-    'PAGADA',
-    '8792260616'
+    990.83,
+    'https://hibu.com/ultrices/posuere/cubilia/curae.jsp',
+    'CREADA',
+    '9031101052',
+    '09-Jan-2022'
 );
 
 INSERT INTO COMPRA (
@@ -10671,13 +12195,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     763,
-    607.5,
-    'http://mysql.com/ornare/imperdiet/sapien/urna.jpg',
-    'CANCELADA',
-    '3896442104'
+    487.53,
+    'https://who.int/primis/in/faucibus/orci/luctus/et.json',
+    'CREADA',
+    '1278995099',
+    '30-Jul-2022'
 );
 
 INSERT INTO COMPRA (
@@ -10685,13 +12211,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     764,
-    161.47,
-    'https://usgs.gov/duis/at/velit/eu/est.jsp',
+    110.84,
+    'https://sitemeter.com/ac.html',
     'PAGADA',
-    '9031101052'
+    '0628195931',
+    '11-Jan-2022'
 );
 
 INSERT INTO COMPRA (
@@ -10699,13 +12227,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     765,
-    790.38,
-    'http://istockphoto.com/justo/in/hac/habitasse/platea/dictumst/etiam.xml',
+    505.83,
+    'https://microsoft.com/magna/vulputate/luctus/cum/sociis/natoque/penatibus.js',
     'PAGADA',
-    '8792260616'
+    '1278995099',
+    '19-Sep-2022'
 );
 
 INSERT INTO COMPRA (
@@ -10713,13 +12243,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     766,
-    354.04,
-    'https://google.co.uk/at/turpis/donec.xml',
-    'CANCELADA',
-    '3896442104'
+    680.29,
+    'http://e-recht24.de/interdum.jpg',
+    'PAGADA',
+    '1278995099',
+    '29-May-2022'
 );
 
 INSERT INTO COMPRA (
@@ -10727,13 +12259,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     767,
-    527.09,
-    'http://washington.edu/a/ipsum/integer.js',
+    216.33,
+    'http://bluehost.com/luctus/tincidunt/nulla/mollis.aspx',
     'PAGADA',
-    '1278995099'
+    '3896442104',
+    '04-May-2022'
 );
 
 INSERT INTO COMPRA (
@@ -10741,13 +12275,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     768,
-    619.6,
-    'https://last.fm/dolor/sit/amet.jpg',
-    'CREADA',
-    '1278995099'
+    442.35,
+    'http://earthlink.net/iaculis/congue/vivamus/metus.xml',
+    'PAGADA',
+    '8792260616',
+    '22-Oct-2021'
 );
 
 INSERT INTO COMPRA (
@@ -10755,13 +12291,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     769,
-    697.24,
-    'http://themeforest.net/volutpat.aspx',
+    997.45,
+    'https://aol.com/nibh/in/lectus/pellentesque.aspx',
     'PAGADA',
-    '0628195931'
+    '8792260616',
+    '07-Oct-2022'
 );
 
 INSERT INTO COMPRA (
@@ -10769,13 +12307,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     770,
-    23.84,
-    'http://prnewswire.com/praesent/blandit/lacinia/erat/vestibulum/sed.html',
-    'CREADA',
-    '8792260616'
+    468.23,
+    'https://wikispaces.com/ante/ipsum.jpg',
+    'PAGADA',
+    '3896442104',
+    '06-May-2022'
 );
 
 INSERT INTO COMPRA (
@@ -10783,13 +12323,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     771,
-    226.38,
-    'http://dailymotion.com/porttitor/lorem/id/ligula/suspendisse/ornare.xml',
-    'PAGADA',
-    '9031101052'
+    317.03,
+    'https://mayoclinic.com/mattis/egestas.jsp',
+    'CANCELADA',
+    '1278995099',
+    '07-Aug-2022'
 );
 
 INSERT INTO COMPRA (
@@ -10797,13 +12339,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     772,
-    207.01,
-    'http://feedburner.com/dolor/morbi/vel/lectus.jsp',
-    'CANCELADA',
-    '8792260616'
+    562.2,
+    'http://globo.com/vivamus/metus/arcu/adipiscing/molestie.aspx',
+    'CREADA',
+    '9031101052',
+    '02-Sep-2022'
 );
 
 INSERT INTO COMPRA (
@@ -10811,13 +12355,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     773,
-    384.63,
-    'https://state.tx.us/cursus/id/turpis/integer.jpg',
+    165.06,
+    'https://blogs.com/aliquet/massa.js',
     'CANCELADA',
-    '8792260616'
+    '8792260616',
+    '16-Aug-2022'
 );
 
 INSERT INTO COMPRA (
@@ -10825,13 +12371,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     774,
-    647.58,
-    'http://constantcontact.com/in/quam.aspx',
-    'CREADA',
-    '3896442104'
+    578.25,
+    'http://w3.org/orci/pede.jsp',
+    'CANCELADA',
+    '9031101052',
+    '22-Mar-2022'
 );
 
 INSERT INTO COMPRA (
@@ -10839,13 +12387,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     775,
-    874.55,
-    'http://blinklist.com/nulla/tellus/in/sagittis/dui/vel.jsp',
-    'CREADA',
-    '9031101052'
+    926.42,
+    'http://utexas.edu/interdum/mauris/ullamcorper/purus/sit.xml',
+    'CANCELADA',
+    '3896442104',
+    '29-Apr-2022'
 );
 
 INSERT INTO COMPRA (
@@ -10853,13 +12403,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     776,
-    191.61,
-    'https://github.com/ipsum.jpg',
-    'CANCELADA',
-    '3896442104'
+    436.14,
+    'https://sitemeter.com/nulla/sed/accumsan/felis/ut/at/dolor.jpg',
+    'CREADA',
+    '0628195931',
+    '12-Mar-2022'
 );
 
 INSERT INTO COMPRA (
@@ -10867,13 +12419,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     777,
-    266.93,
-    'https://blogs.com/turpis.png',
+    993.98,
+    'http://4shared.com/et/ultrices.json',
     'CANCELADA',
-    '0628195931'
+    '3896442104',
+    '13-Apr-2022'
 );
 
 INSERT INTO COMPRA (
@@ -10881,13 +12435,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     778,
-    648.15,
-    'https://stanford.edu/erat/eros/viverra/eget.json',
+    194.69,
+    'http://geocities.com/massa/volutpat/convallis/morbi/odio/odio.js',
     'CREADA',
-    '0628195931'
+    '3896442104',
+    '18-Jun-2022'
 );
 
 INSERT INTO COMPRA (
@@ -10895,13 +12451,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     779,
-    66.61,
-    'http://msu.edu/ut/nulla/sed/accumsan/felis.json',
+    395.73,
+    'http://blog.com/dis/parturient/montes/nascetur/ridiculus.jsp',
     'CANCELADA',
-    '9031101052'
+    '9031101052',
+    '22-Jul-2022'
 );
 
 INSERT INTO COMPRA (
@@ -10909,13 +12467,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     780,
-    958.58,
-    'https://seesaa.net/nascetur/ridiculus/mus/etiam.js',
-    'PAGADA',
-    '3896442104'
+    55.22,
+    'https://tiny.cc/elit/proin.json',
+    'CREADA',
+    '1278995099',
+    '20-Mar-2022'
 );
 
 INSERT INTO COMPRA (
@@ -10923,13 +12483,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     781,
-    887.51,
-    'https://seesaa.net/etiam.png',
+    490.39,
+    'https://ycombinator.com/eget.xml',
     'CREADA',
-    '3896442104'
+    '9031101052',
+    '13-May-2022'
 );
 
 INSERT INTO COMPRA (
@@ -10937,13 +12499,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     782,
-    469.77,
-    'http://ifeng.com/suspendisse/potenti/nullam.xml',
-    'CREADA',
-    '8792260616'
+    366.89,
+    'https://boston.com/urna/ut/tellus/nulla/ut/erat/id.jpg',
+    'CANCELADA',
+    '8792260616',
+    '25-Jul-2022'
 );
 
 INSERT INTO COMPRA (
@@ -10951,13 +12515,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     783,
-    218.96,
-    'http://miibeian.gov.cn/tempor/turpis/nec.jsp',
-    'PAGADA',
-    '3896442104'
+    779.02,
+    'https://eepurl.com/fusce.png',
+    'CREADA',
+    '1278995099',
+    '11-Aug-2022'
 );
 
 INSERT INTO COMPRA (
@@ -10965,13 +12531,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     784,
-    56.36,
-    'https://chronoengine.com/mattis/nibh/ligula/nec.html',
+    676.27,
+    'https://constantcontact.com/dui/luctus/rutrum.jsp',
     'PAGADA',
-    '3896442104'
+    '9031101052',
+    '20-Jun-2022'
 );
 
 INSERT INTO COMPRA (
@@ -10979,13 +12547,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     785,
-    526.68,
-    'http://cyberchimps.com/vestibulum/ante/ipsum/primis.jsp',
-    'CANCELADA',
-    '1278995099'
+    405.26,
+    'http://bing.com/at.js',
+    'CREADA',
+    '0628195931',
+    '11-Feb-2022'
 );
 
 INSERT INTO COMPRA (
@@ -10993,13 +12563,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     786,
-    974.89,
-    'https://stumbleupon.com/aenean/lectus/pellentesque.html',
+    790.93,
+    'http://example.com/vulputate/justo/in/blandit/ultrices/enim.png',
     'PAGADA',
-    '0628195931'
+    '0628195931',
+    '07-Jan-2022'
 );
 
 INSERT INTO COMPRA (
@@ -11007,13 +12579,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     787,
-    747.41,
-    'http://about.com/fusce/posuere/felis/sed/lacus/morbi/sem.js',
-    'CREADA',
-    '8792260616'
+    11.94,
+    'http://google.ru/consequat/morbi/a/ipsum/integer.html',
+    'CANCELADA',
+    '8792260616',
+    '29-Jul-2022'
 );
 
 INSERT INTO COMPRA (
@@ -11021,13 +12595,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     788,
-    929.18,
-    'http://cdbaby.com/cum/sociis/natoque/penatibus/et/magnis.png',
-    'CANCELADA',
-    '1278995099'
+    671.64,
+    'https://wired.com/ultrices/libero/non/mattis/pulvinar/nulla.png',
+    'PAGADA',
+    '0628195931',
+    '15-Apr-2022'
 );
 
 INSERT INTO COMPRA (
@@ -11035,13 +12611,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     789,
-    32.63,
-    'https://va.gov/montes/nascetur/ridiculus/mus/etiam/vel/augue.png',
-    'CANCELADA',
-    '3896442104'
+    452.12,
+    'http://blogspot.com/feugiat/et/eros/vestibulum.jpg',
+    'CREADA',
+    '3896442104',
+    '01-Jul-2022'
 );
 
 INSERT INTO COMPRA (
@@ -11049,13 +12627,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     790,
-    512.61,
-    'https://google.ca/turpis/nec/euismod/scelerisque.json',
+    937.15,
+    'https://whitehouse.gov/habitasse/platea/dictumst/morbi/vestibulum/velit.js',
     'CREADA',
-    '1278995099'
+    '1278995099',
+    '20-Mar-2022'
 );
 
 INSERT INTO COMPRA (
@@ -11063,13 +12643,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     791,
-    836.7,
-    'https://miitbeian.gov.cn/diam/in/magna/bibendum/imperdiet/nullam.json',
-    'CREADA',
-    '1278995099'
+    292.04,
+    'https://edublogs.org/nisl.json',
+    'PAGADA',
+    '1278995099',
+    '16-May-2022'
 );
 
 INSERT INTO COMPRA (
@@ -11077,13 +12659,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     792,
-    723.07,
-    'https://arizona.edu/non/quam/nec/dui.html',
+    545.77,
+    'http://aol.com/interdum/mauris.jsp',
     'CREADA',
-    '1278995099'
+    '8792260616',
+    '19-Feb-2022'
 );
 
 INSERT INTO COMPRA (
@@ -11091,13 +12675,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     793,
-    84.1,
-    'https://unblog.fr/ut.jpg',
-    'CREADA',
-    '9031101052'
+    642.78,
+    'http://amazon.co.jp/elit/ac/nulla/sed/vel.jpg',
+    'CANCELADA',
+    '1278995099',
+    '18-Aug-2022'
 );
 
 INSERT INTO COMPRA (
@@ -11105,13 +12691,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     794,
-    17.02,
-    'http://hp.com/parturient/montes/nascetur.json',
-    'CREADA',
-    '0628195931'
+    638.48,
+    'https://bizjournals.com/magna.jpg',
+    'PAGADA',
+    '0628195931',
+    '12-Jul-2022'
 );
 
 INSERT INTO COMPRA (
@@ -11119,13 +12707,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     795,
-    427.49,
-    'https://oakley.com/sit/amet/eros/suspendisse/accumsan.jsp',
-    'CANCELADA',
-    '0628195931'
+    971.09,
+    'https://merriam-webster.com/dapibus/dolor/vel.aspx',
+    'PAGADA',
+    '8792260616',
+    '14-Mar-2022'
 );
 
 INSERT INTO COMPRA (
@@ -11133,13 +12723,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     796,
-    487.34,
-    'https://nih.gov/morbi/a/ipsum/integer/a.png',
-    'PAGADA',
-    '9031101052'
+    363.34,
+    'https://1688.com/ipsum/dolor/sit/amet.js',
+    'CREADA',
+    '0628195931',
+    '01-Aug-2022'
 );
 
 INSERT INTO COMPRA (
@@ -11147,13 +12739,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     797,
-    268.23,
-    'http://google.ca/ligula/in/lacus/curabitur/at/ipsum.json',
-    'CANCELADA',
-    '1278995099'
+    314.46,
+    'https://nifty.com/sed/augue/aliquam.xml',
+    'PAGADA',
+    '1278995099',
+    '21-Aug-2022'
 );
 
 INSERT INTO COMPRA (
@@ -11161,13 +12755,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     798,
-    800.27,
-    'http://wunderground.com/velit/vivamus.aspx',
-    'CREADA',
-    '0628195931'
+    220.7,
+    'https://blog.com/et/commodo/vulputate/justo.html',
+    'PAGADA',
+    '0628195931',
+    '07-Dec-2021'
 );
 
 INSERT INTO COMPRA (
@@ -11175,13 +12771,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     799,
-    852.13,
-    'http://ucsd.edu/vulputate/vitae/nisl/aenean.html',
-    'PAGADA',
-    '1278995099'
+    67.24,
+    'https://microsoft.com/semper/interdum/mauris/ullamcorper/purus.jsp',
+    'CREADA',
+    '0628195931',
+    '21-Mar-2022'
 );
 
 INSERT INTO COMPRA (
@@ -11189,13 +12787,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     800,
-    464.33,
-    'http://seattletimes.com/sapien/ut/nunc/vestibulum/ante/ipsum.aspx',
+    665.87,
+    'http://psu.edu/ac/tellus/semper/interdum.png',
     'PAGADA',
-    '3896442104'
+    '0628195931',
+    '31-Aug-2022'
 );
 
 INSERT INTO COMPRA (
@@ -11203,13 +12803,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     801,
-    140.65,
-    'http://boston.com/vivamus/vel/nulla/eget/eros/elementum.aspx',
+    897.11,
+    'https://altervista.org/vel/lectus.png',
     'CANCELADA',
-    '0628195931'
+    '3896442104',
+    '10-Apr-2022'
 );
 
 INSERT INTO COMPRA (
@@ -11217,13 +12819,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     802,
-    522.08,
-    'http://blogs.com/nisl/duis/ac/nibh/fusce/lacus.xml',
+    404.34,
+    'http://webs.com/curae/mauris/viverra/diam/vitae/quam.png',
     'PAGADA',
-    '1278995099'
+    '0628195931',
+    '10-Jul-2022'
 );
 
 INSERT INTO COMPRA (
@@ -11231,13 +12835,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     803,
-    529.1,
-    'https://irs.gov/justo/morbi/ut.jsp',
-    'CREADA',
-    '8792260616'
+    1.45,
+    'https://rakuten.co.jp/lectus/suspendisse/potenti/in/eleifend.png',
+    'PAGADA',
+    '0628195931',
+    '19-Mar-2022'
 );
 
 INSERT INTO COMPRA (
@@ -11245,13 +12851,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     804,
-    456.94,
-    'http://elegantthemes.com/luctus/et.jpg',
-    'CANCELADA',
-    '9031101052'
+    243.33,
+    'https://ow.ly/primis/in/faucibus/orci.aspx',
+    'CREADA',
+    '1278995099',
+    '05-Jan-2022'
 );
 
 INSERT INTO COMPRA (
@@ -11259,13 +12867,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     805,
-    187.51,
-    'http://studiopress.com/quisque/erat.aspx',
-    'CREADA',
-    '8792260616'
+    708.3,
+    'https://ehow.com/congue/risus/semper.html',
+    'CANCELADA',
+    '1278995099',
+    '24-Sep-2022'
 );
 
 INSERT INTO COMPRA (
@@ -11273,13 +12883,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     806,
-    943.02,
-    'https://typepad.com/at/nunc/commodo.png',
+    373.53,
+    'http://timesonline.co.uk/urna/ut/tellus/nulla/ut/erat/id.aspx',
     'PAGADA',
-    '8792260616'
+    '8792260616',
+    '06-Jun-2022'
 );
 
 INSERT INTO COMPRA (
@@ -11287,13 +12899,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     807,
-    908.55,
-    'https://cisco.com/libero/nullam.aspx',
-    'PAGADA',
-    '1278995099'
+    331.01,
+    'https://columbia.edu/semper/porta/volutpat/quam/pede.js',
+    'CREADA',
+    '0628195931',
+    '10-Aug-2022'
 );
 
 INSERT INTO COMPRA (
@@ -11301,13 +12915,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     808,
-    719.27,
-    'http://unc.edu/pede/libero/quis/orci.jpg',
-    'CANCELADA',
-    '1278995099'
+    140.99,
+    'https://usda.gov/turpis/a/pede/posuere/nonummy/integer/non.js',
+    'PAGADA',
+    '1278995099',
+    '16-Mar-2022'
 );
 
 INSERT INTO COMPRA (
@@ -11315,13 +12931,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     809,
-    804.93,
-    'http://cargocollective.com/orci/luctus/et/ultrices/posuere/cubilia.jsp',
+    317.44,
+    'http://narod.ru/eleifend/quam.js',
     'PAGADA',
-    '3896442104'
+    '1278995099',
+    '21-Jan-2022'
 );
 
 INSERT INTO COMPRA (
@@ -11329,13 +12947,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     810,
-    986.33,
-    'http://amazon.com/eget/vulputate/ut/ultrices/vel.png',
+    623.25,
+    'https://bloglines.com/tellus/semper/interdum/mauris/ullamcorper.js',
     'CREADA',
-    '1278995099'
+    '9031101052',
+    '21-Mar-2022'
 );
 
 INSERT INTO COMPRA (
@@ -11343,13 +12963,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     811,
-    406.48,
-    'https://sohu.com/sagittis/nam.xml',
+    629.66,
+    'https://omniture.com/vulputate/ut/ultrices/vel/augue/vestibulum/ante.xml',
     'CREADA',
-    '3896442104'
+    '3896442104',
+    '04-Dec-2021'
 );
 
 INSERT INTO COMPRA (
@@ -11357,13 +12979,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     812,
-    947.62,
-    'http://angelfire.com/rutrum/at/lorem/integer.png',
+    361.28,
+    'http://nbcnews.com/lorem/ipsum/dolor.jsp',
     'CANCELADA',
-    '0628195931'
+    '3896442104',
+    '24-Apr-2022'
 );
 
 INSERT INTO COMPRA (
@@ -11371,13 +12995,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     813,
-    865.57,
-    'http://ca.gov/in/tempus/sit/amet/sem/fusce.png',
+    278.85,
+    'https://alexa.com/lacinia/eget/tincidunt.aspx',
     'CREADA',
-    '1278995099'
+    '8792260616',
+    '28-May-2022'
 );
 
 INSERT INTO COMPRA (
@@ -11385,13 +13011,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     814,
-    683.77,
-    'https://ehow.com/ligula/pellentesque/ultrices/phasellus/id.jsp',
-    'PAGADA',
-    '1278995099'
+    792.59,
+    'http://weibo.com/ac/leo.png',
+    'CANCELADA',
+    '3896442104',
+    '11-Jul-2022'
 );
 
 INSERT INTO COMPRA (
@@ -11399,13 +13027,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     815,
-    350.08,
-    'https://stumbleupon.com/eget/elit/sodales/scelerisque/mauris.js',
+    507.06,
+    'http://histats.com/dui/luctus/rutrum/nulla/tellus.png',
     'CANCELADA',
-    '3896442104'
+    '3896442104',
+    '25-Nov-2021'
 );
 
 INSERT INTO COMPRA (
@@ -11413,13 +13043,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     816,
-    293.19,
-    'https://opensource.org/cum/sociis/natoque/penatibus/et.png',
-    'PAGADA',
-    '1278995099'
+    911.3,
+    'https://wunderground.com/mi/integer.png',
+    'CREADA',
+    '3896442104',
+    '09-Jul-2022'
 );
 
 INSERT INTO COMPRA (
@@ -11427,13 +13059,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     817,
-    724.02,
-    'https://ebay.com/quis/odio/consequat.html',
+    292.3,
+    'http://flickr.com/blandit.png',
     'PAGADA',
-    '8792260616'
+    '1278995099',
+    '30-Jun-2022'
 );
 
 INSERT INTO COMPRA (
@@ -11441,13 +13075,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     818,
-    327.49,
-    'http://tinyurl.com/velit/nec/nisi/vulputate/nonummy/maecenas.html',
+    236.54,
+    'http://rediff.com/lectus/in/est/risus/auctor.js',
     'CANCELADA',
-    '9031101052'
+    '3896442104',
+    '05-Mar-2022'
 );
 
 INSERT INTO COMPRA (
@@ -11455,13 +13091,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     819,
-    600.55,
-    'https://digg.com/cras/pellentesque/volutpat/dui/maecenas/tristique.aspx',
-    'CREADA',
-    '3896442104'
+    837.44,
+    'http://dagondesign.com/dui/nec/nisi.json',
+    'CANCELADA',
+    '1278995099',
+    '14-Nov-2021'
 );
 
 INSERT INTO COMPRA (
@@ -11469,13 +13107,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     820,
-    669.8,
-    'https://marketwatch.com/suscipit/nulla/elit/ac/nulla/sed.aspx',
-    'CREADA',
-    '3896442104'
+    568.76,
+    'https://sakura.ne.jp/auctor/sed/tristique/in.jpg',
+    'PAGADA',
+    '1278995099',
+    '18-Oct-2021'
 );
 
 INSERT INTO COMPRA (
@@ -11483,13 +13123,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     821,
-    886.34,
-    'https://hibu.com/vel.aspx',
-    'CANCELADA',
-    '3896442104'
+    773.41,
+    'http://naver.com/dictumst/morbi/vestibulum/velit/id/pretium/iaculis.png',
+    'PAGADA',
+    '8792260616',
+    '23-Apr-2022'
 );
 
 INSERT INTO COMPRA (
@@ -11497,13 +13139,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     822,
-    930.94,
-    'https://unesco.org/volutpat/sapien/arcu.jpg',
-    'CANCELADA',
-    '0628195931'
+    109.78,
+    'https://earthlink.net/metus/vitae/ipsum/aliquam/non.html',
+    'CREADA',
+    '9031101052',
+    '21-Nov-2021'
 );
 
 INSERT INTO COMPRA (
@@ -11511,13 +13155,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     823,
-    621.17,
-    'http://yahoo.co.jp/nulla.html',
-    'PAGADA',
-    '0628195931'
+    896.91,
+    'http://people.com.cn/hac/habitasse/platea/dictumst/morbi.html',
+    'CREADA',
+    '9031101052',
+    '24-Aug-2022'
 );
 
 INSERT INTO COMPRA (
@@ -11525,13 +13171,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     824,
-    975.72,
-    'http://vk.com/purus.html',
+    231.85,
+    'https://acquirethisname.com/dolor/sit/amet.jsp',
     'CANCELADA',
-    '9031101052'
+    '9031101052',
+    '27-Jun-2022'
 );
 
 INSERT INTO COMPRA (
@@ -11539,13 +13187,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     825,
-    45.84,
-    'http://over-blog.com/etiam/vel/augue/vestibulum/rutrum/rutrum/neque.xml',
+    654.55,
+    'https://simplemachines.org/non/lectus/aliquam.jpg',
     'PAGADA',
-    '3896442104'
+    '3896442104',
+    '04-Jul-2022'
 );
 
 INSERT INTO COMPRA (
@@ -11553,13 +13203,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     826,
-    223.13,
-    'https://yandex.ru/lobortis/sapien.js',
-    'PAGADA',
-    '8792260616'
+    190.03,
+    'http://gravatar.com/ut/nulla/sed/accumsan/felis.png',
+    'CREADA',
+    '8792260616',
+    '01-Feb-2022'
 );
 
 INSERT INTO COMPRA (
@@ -11567,13 +13219,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     827,
-    221.39,
-    'https://skyrock.com/lacinia/aenean/sit/amet/justo.jpg',
-    'PAGADA',
-    '9031101052'
+    896.99,
+    'http://homestead.com/proin/interdum/mauris/non/ligula/pellentesque.xml',
+    'CREADA',
+    '1278995099',
+    '24-May-2022'
 );
 
 INSERT INTO COMPRA (
@@ -11581,13 +13235,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     828,
-    157.79,
-    'https://marketwatch.com/erat/tortor/sollicitudin.png',
-    'PAGADA',
-    '1278995099'
+    69.93,
+    'https://ucoz.com/bibendum/imperdiet/nullam/orci.aspx',
+    'CANCELADA',
+    '1278995099',
+    '10-Jun-2022'
 );
 
 INSERT INTO COMPRA (
@@ -11595,13 +13251,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     829,
-    700.11,
-    'http://slashdot.org/porta/volutpat/erat/quisque/erat/eros.xml',
-    'CREADA',
-    '3896442104'
+    60.62,
+    'https://oracle.com/in/consequat/ut/nulla/sed.json',
+    'CANCELADA',
+    '0628195931',
+    '15-Aug-2022'
 );
 
 INSERT INTO COMPRA (
@@ -11609,13 +13267,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     830,
-    672.83,
-    'https://chron.com/morbi/ut/odio/cras/mi.js',
+    368.01,
+    'http://netvibes.com/adipiscing.js',
     'CANCELADA',
-    '0628195931'
+    '3896442104',
+    '07-Dec-2021'
 );
 
 INSERT INTO COMPRA (
@@ -11623,13 +13283,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     831,
-    756.76,
-    'http://ftc.gov/id.xml',
+    587.41,
+    'http://soup.io/integer/non/velit/donec/diam/neque/vestibulum.html',
     'CREADA',
-    '3896442104'
+    '1278995099',
+    '15-Jun-2022'
 );
 
 INSERT INTO COMPRA (
@@ -11637,13 +13299,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     832,
-    887.38,
-    'http://tmall.com/nibh/fusce/lacus.html',
+    378.93,
+    'https://go.com/nam/congue/risus.aspx',
     'PAGADA',
-    '0628195931'
+    '9031101052',
+    '17-Dec-2021'
 );
 
 INSERT INTO COMPRA (
@@ -11651,13 +13315,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     833,
-    765.5,
-    'http://businesswire.com/ridiculus/mus/etiam.jsp',
-    'CANCELADA',
-    '3896442104'
+    494.59,
+    'https://nhs.uk/tortor/duis/mattis/egestas/metus/aenean/fermentum.json',
+    'CREADA',
+    '8792260616',
+    '28-Mar-2022'
 );
 
 INSERT INTO COMPRA (
@@ -11665,13 +13331,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     834,
-    113.3,
-    'https://w3.org/tristique/in/tempus/sit.xml',
-    'CANCELADA',
-    '0628195931'
+    906.45,
+    'http://artisteer.com/enim/leo/rhoncus/sed.xml',
+    'PAGADA',
+    '1278995099',
+    '02-Apr-2022'
 );
 
 INSERT INTO COMPRA (
@@ -11679,13 +13347,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     835,
-    709.42,
-    'http://wix.com/vestibulum/sagittis/sapien.aspx',
-    'PAGADA',
-    '3896442104'
+    604.84,
+    'http://google.ru/tortor/duis/mattis/egestas.xml',
+    'CREADA',
+    '0628195931',
+    '07-Jan-2022'
 );
 
 INSERT INTO COMPRA (
@@ -11693,13 +13363,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     836,
-    852.58,
-    'https://globo.com/parturient.html',
-    'CREADA',
-    '9031101052'
+    892.27,
+    'https://google.pl/pede/ac/diam.js',
+    'PAGADA',
+    '1278995099',
+    '18-Mar-2022'
 );
 
 INSERT INTO COMPRA (
@@ -11707,13 +13379,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     837,
-    343.91,
-    'http://bravesites.com/convallis/eget/eleifend/luctus/ultricies.png',
-    'CANCELADA',
-    '0628195931'
+    259.04,
+    'https://reuters.com/quisque/id.js',
+    'CREADA',
+    '8792260616',
+    '27-Jan-2022'
 );
 
 INSERT INTO COMPRA (
@@ -11721,13 +13395,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     838,
-    808.11,
-    'https://yolasite.com/eros/viverra/eget/congue.aspx',
-    'PAGADA',
-    '3896442104'
+    334.24,
+    'https://amazon.com/sagittis/sapien/cum.jsp',
+    'CREADA',
+    '3896442104',
+    '02-May-2022'
 );
 
 INSERT INTO COMPRA (
@@ -11735,13 +13411,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     839,
-    801.9,
-    'https://nsw.gov.au/pretium.jpg',
-    'CANCELADA',
-    '9031101052'
+    295.04,
+    'http://hatena.ne.jp/quam/a/odio/in.jsp',
+    'PAGADA',
+    '8792260616',
+    '18-Oct-2021'
 );
 
 INSERT INTO COMPRA (
@@ -11749,13 +13427,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     840,
-    26.01,
-    'https://smugmug.com/nullam/molestie/nibh.png',
-    'CANCELADA',
-    '0628195931'
+    976.52,
+    'http://lycos.com/eros/elementum/pellentesque/quisque/porta/volutpat/erat.jpg',
+    'CREADA',
+    '9031101052',
+    '21-Jan-2022'
 );
 
 INSERT INTO COMPRA (
@@ -11763,13 +13443,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     841,
-    331.01,
-    'http://bizjournals.com/egestas/metus/aenean/fermentum.js',
-    'CANCELADA',
-    '1278995099'
+    19.82,
+    'http://foxnews.com/eros.jsp',
+    'PAGADA',
+    '3896442104',
+    '11-Apr-2022'
 );
 
 INSERT INTO COMPRA (
@@ -11777,13 +13459,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     842,
-    485.95,
-    'https://prlog.org/mi/sit/amet/lobortis.jpg',
+    534.39,
+    'http://mozilla.org/in/faucibus/orci.jsp',
     'PAGADA',
-    '1278995099'
+    '0628195931',
+    '17-Mar-2022'
 );
 
 INSERT INTO COMPRA (
@@ -11791,13 +13475,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     843,
-    837.13,
-    'http://cpanel.net/aliquam/quis/turpis.png',
-    'CREADA',
-    '3896442104'
+    918.27,
+    'https://wix.com/augue/vel/accumsan.jpg',
+    'CANCELADA',
+    '0628195931',
+    '14-Nov-2021'
 );
 
 INSERT INTO COMPRA (
@@ -11805,13 +13491,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     844,
-    285.37,
-    'http://google.fr/semper/rutrum/nulla/nunc.jsp',
+    532.09,
+    'http://wordpress.org/rutrum.aspx',
     'CREADA',
-    '1278995099'
+    '0628195931',
+    '24-Jul-2022'
 );
 
 INSERT INTO COMPRA (
@@ -11819,13 +13507,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     845,
-    603.65,
-    'http://yahoo.co.jp/phasellus/id/sapien/in/sapien.aspx',
-    'CANCELADA',
-    '1278995099'
+    122.19,
+    'http://wsj.com/tortor/duis/mattis.jpg',
+    'CREADA',
+    '8792260616',
+    '22-Jul-2022'
 );
 
 INSERT INTO COMPRA (
@@ -11833,13 +13523,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     846,
-    698.07,
-    'https://dedecms.com/vestibulum/ante/ipsum/primis/in/faucibus.json',
-    'CANCELADA',
-    '3896442104'
+    920.41,
+    'http://macromedia.com/venenatis/turpis.png',
+    'PAGADA',
+    '1278995099',
+    '01-May-2022'
 );
 
 INSERT INTO COMPRA (
@@ -11847,13 +13539,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     847,
-    233.27,
-    'http://prlog.org/ac.jsp',
-    'CREADA',
-    '9031101052'
+    553.96,
+    'https://nifty.com/ipsum/integer/a/nibh/in.jpg',
+    'CANCELADA',
+    '0628195931',
+    '19-Oct-2021'
 );
 
 INSERT INTO COMPRA (
@@ -11861,13 +13555,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     848,
-    657.75,
-    'https://google.com.hk/nunc/viverra/dapibus/nulla/suscipit.json',
-    'CANCELADA',
-    '9031101052'
+    929.41,
+    'https://networkadvertising.org/sapien/sapien/non/mi/integer/ac.aspx',
+    'CREADA',
+    '1278995099',
+    '20-Jan-2022'
 );
 
 INSERT INTO COMPRA (
@@ -11875,13 +13571,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     849,
-    616.91,
-    'https://merriam-webster.com/habitasse/platea/dictumst.json',
+    368.8,
+    'http://pagesperso-orange.fr/in/felis/donec.aspx',
     'CANCELADA',
-    '9031101052'
+    '1278995099',
+    '12-Oct-2022'
 );
 
 INSERT INTO COMPRA (
@@ -11889,13 +13587,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     850,
-    706.06,
-    'http://wsj.com/sit/amet.js',
+    540.77,
+    'http://vistaprint.com/dolor/sit/amet/consectetuer.png',
     'PAGADA',
-    '1278995099'
+    '3896442104',
+    '23-Dec-2021'
 );
 
 INSERT INTO COMPRA (
@@ -11903,13 +13603,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     851,
-    675.92,
-    'https://zimbio.com/pharetra.html',
-    'CANCELADA',
-    '9031101052'
+    454.93,
+    'http://nasa.gov/posuere/metus/vitae/ipsum/aliquam.jsp',
+    'CREADA',
+    '8792260616',
+    '27-Dec-2021'
 );
 
 INSERT INTO COMPRA (
@@ -11917,13 +13619,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     852,
-    943.36,
-    'https://instagram.com/aenean/fermentum/donec/ut.xml',
-    'CANCELADA',
-    '9031101052'
+    976.66,
+    'https://goodreads.com/felis/sed/lacus/morbi/sem/mauris.png',
+    'CREADA',
+    '1278995099',
+    '04-Oct-2022'
 );
 
 INSERT INTO COMPRA (
@@ -11931,13 +13635,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     853,
-    526.38,
-    'http://wisc.edu/nunc/purus/phasellus/in/felis.json',
-    'CREADA',
-    '0628195931'
+    921.87,
+    'http://youtu.be/congue/risus/semper/porta/volutpat/quam.png',
+    'PAGADA',
+    '8792260616',
+    '05-Mar-2022'
 );
 
 INSERT INTO COMPRA (
@@ -11945,13 +13651,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     854,
-    499.34,
-    'http://eventbrite.com/mi/nulla/ac/enim/in/tempor.jpg',
-    'CANCELADA',
-    '9031101052'
+    341.27,
+    'https://ftc.gov/nisl/nunc/rhoncus/dui.jpg',
+    'PAGADA',
+    '8792260616',
+    '01-Oct-2022'
 );
 
 INSERT INTO COMPRA (
@@ -11959,13 +13667,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     855,
-    148.06,
-    'http://topsy.com/dapibus/at/diam.aspx',
+    763.98,
+    'http://washingtonpost.com/eu/interdum/eu/tincidunt/in/leo.js',
     'CANCELADA',
-    '8792260616'
+    '1278995099',
+    '01-Sep-2022'
 );
 
 INSERT INTO COMPRA (
@@ -11973,13 +13683,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     856,
-    213.02,
-    'https://state.tx.us/feugiat/non.js',
-    'PAGADA',
-    '8792260616'
+    958.94,
+    'https://telegraph.co.uk/ac/leo/pellentesque/ultrices/mattis.jpg',
+    'CREADA',
+    '9031101052',
+    '14-Mar-2022'
 );
 
 INSERT INTO COMPRA (
@@ -11987,13 +13699,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     857,
-    761.0,
-    'http://reddit.com/habitasse.jsp',
+    886.72,
+    'https://discovery.com/elit/sodales/scelerisque/mauris/sit/amet.png',
     'PAGADA',
-    '1278995099'
+    '8792260616',
+    '02-Feb-2022'
 );
 
 INSERT INTO COMPRA (
@@ -12001,13 +13715,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     858,
-    991.65,
-    'http://dagondesign.com/leo/odio/porttitor/id/consequat/in.png',
-    'PAGADA',
-    '9031101052'
+    39.5,
+    'http://networkadvertising.org/erat/fermentum/justo/nec/condimentum/neque.json',
+    'CANCELADA',
+    '9031101052',
+    '28-Oct-2021'
 );
 
 INSERT INTO COMPRA (
@@ -12015,13 +13731,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     859,
-    305.15,
-    'http://vimeo.com/sapien/cum/sociis/natoque.html',
-    'CANCELADA',
-    '8792260616'
+    565.11,
+    'https://sphinn.com/metus/aenean/fermentum.html',
+    'CREADA',
+    '3896442104',
+    '24-Jun-2022'
 );
 
 INSERT INTO COMPRA (
@@ -12029,13 +13747,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     860,
-    333.34,
-    'http://forbes.com/montes/nascetur.png',
-    'CREADA',
-    '3896442104'
+    518.18,
+    'http://marriott.com/sem/duis/aliquam/convallis/nunc/proin.js',
+    'CANCELADA',
+    '0628195931',
+    '21-Jun-2022'
 );
 
 INSERT INTO COMPRA (
@@ -12043,13 +13763,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     861,
-    414.27,
-    'https://telegraph.co.uk/ante/vel/ipsum/praesent/blandit.aspx',
+    33.36,
+    'http://washington.edu/integer/pede/justo.aspx',
     'PAGADA',
-    '1278995099'
+    '8792260616',
+    '10-Jul-2022'
 );
 
 INSERT INTO COMPRA (
@@ -12057,13 +13779,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     862,
-    899.65,
-    'https://storify.com/pellentesque/ultrices/mattis/odio/donec.png',
-    'CREADA',
-    '9031101052'
+    132.87,
+    'https://barnesandnoble.com/in/eleifend/quam/a/odio/in/hac.html',
+    'CANCELADA',
+    '0628195931',
+    '31-May-2022'
 );
 
 INSERT INTO COMPRA (
@@ -12071,13 +13795,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     863,
-    997.53,
-    'https://comsenz.com/turpis/integer/aliquet.jpg',
+    405.0,
+    'https://dmoz.org/nisl/aenean/lectus/pellentesque/eget/nunc.aspx',
     'PAGADA',
-    '8792260616'
+    '0628195931',
+    '23-Jul-2022'
 );
 
 INSERT INTO COMPRA (
@@ -12085,13 +13811,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     864,
-    135.3,
-    'http://ibm.com/id/pretium/iaculis/diam/erat/fermentum.json',
-    'PAGADA',
-    '0628195931'
+    945.55,
+    'http://nasa.gov/nonummy.aspx',
+    'CANCELADA',
+    '3896442104',
+    '05-Mar-2022'
 );
 
 INSERT INTO COMPRA (
@@ -12099,13 +13827,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     865,
-    268.76,
-    'http://apple.com/faucibus.html',
-    'PAGADA',
-    '9031101052'
+    214.35,
+    'https://pbs.org/nulla/quisque/arcu/libero/rutrum/ac/lobortis.jsp',
+    'CANCELADA',
+    '8792260616',
+    '30-Mar-2022'
 );
 
 INSERT INTO COMPRA (
@@ -12113,13 +13843,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     866,
-    437.97,
-    'https://dagondesign.com/vestibulum/rutrum/rutrum/neque/aenean.js',
-    'CREADA',
-    '1278995099'
+    883.75,
+    'https://shinystat.com/mi/sit/amet.html',
+    'PAGADA',
+    '9031101052',
+    '01-May-2022'
 );
 
 INSERT INTO COMPRA (
@@ -12127,13 +13859,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     867,
-    93.72,
-    'http://delicious.com/nulla/sed/vel/enim/sit/amet/nunc.xml',
-    'CANCELADA',
-    '3896442104'
+    984.7,
+    'http://furl.net/id.json',
+    'PAGADA',
+    '1278995099',
+    '12-Aug-2022'
 );
 
 INSERT INTO COMPRA (
@@ -12141,13 +13875,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     868,
-    303.31,
-    'https://dedecms.com/nibh.json',
-    'CREADA',
-    '8792260616'
+    926.48,
+    'http://ustream.tv/augue/vestibulum/rutrum/rutrum.png',
+    'CANCELADA',
+    '8792260616',
+    '30-Jun-2022'
 );
 
 INSERT INTO COMPRA (
@@ -12155,13 +13891,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     869,
-    119.36,
-    'http://xinhuanet.com/erat/fermentum/justo/nec.js',
-    'CREADA',
-    '9031101052'
+    469.68,
+    'http://merriam-webster.com/erat/quisque.html',
+    'PAGADA',
+    '9031101052',
+    '05-Jul-2022'
 );
 
 INSERT INTO COMPRA (
@@ -12169,13 +13907,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     870,
-    21.64,
-    'https://youku.com/ac/neque/duis/bibendum/morbi/non/quam.js',
-    'PAGADA',
-    '0628195931'
+    303.47,
+    'https://spiegel.de/maecenas/pulvinar/lobortis.jpg',
+    'CANCELADA',
+    '3896442104',
+    '14-Jul-2022'
 );
 
 INSERT INTO COMPRA (
@@ -12183,13 +13923,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     871,
-    816.64,
-    'https://cafepress.com/duis/mattis/egestas/metus/aenean.xml',
-    'CREADA',
-    '9031101052'
+    102.72,
+    'http://unblog.fr/enim/sit/amet/nunc/viverra/dapibus/nulla.js',
+    'CANCELADA',
+    '3896442104',
+    '11-Jul-2022'
 );
 
 INSERT INTO COMPRA (
@@ -12197,13 +13939,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     872,
-    867.58,
-    'http://a8.net/accumsan/felis/ut/at.jpg',
-    'CANCELADA',
-    '9031101052'
+    543.29,
+    'https://creativecommons.org/magna/bibendum.aspx',
+    'CREADA',
+    '8792260616',
+    '30-Sep-2022'
 );
 
 INSERT INTO COMPRA (
@@ -12211,13 +13955,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     873,
-    909.97,
-    'https://slideshare.net/in.jpg',
-    'CANCELADA',
-    '0628195931'
+    322.26,
+    'https://bigcartel.com/posuere/metus/vitae/ipsum.xml',
+    'CREADA',
+    '8792260616',
+    '10-Oct-2022'
 );
 
 INSERT INTO COMPRA (
@@ -12225,13 +13971,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     874,
-    395.28,
-    'https://sciencedirect.com/dolor/sit/amet/consectetuer/adipiscing.xml',
-    'CANCELADA',
-    '3896442104'
+    278.92,
+    'https://smh.com.au/rutrum/at.xml',
+    'PAGADA',
+    '3896442104',
+    '16-Jul-2022'
 );
 
 INSERT INTO COMPRA (
@@ -12239,13 +13987,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     875,
-    650.65,
-    'https://quantcast.com/porta/volutpat.xml',
-    'CREADA',
-    '9031101052'
+    669.06,
+    'https://goo.gl/turpis/elementum/ligula/vehicula/consequat/morbi.aspx',
+    'CANCELADA',
+    '0628195931',
+    '01-Sep-2022'
 );
 
 INSERT INTO COMPRA (
@@ -12253,13 +14003,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     876,
-    160.83,
-    'https://macromedia.com/aliquam/lacus/morbi.js',
+    220.48,
+    'https://flavors.me/elementum/nullam.jsp',
     'PAGADA',
-    '1278995099'
+    '1278995099',
+    '24-Oct-2021'
 );
 
 INSERT INTO COMPRA (
@@ -12267,13 +14019,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     877,
-    305.71,
-    'https://sfgate.com/ultrices/posuere/cubilia/curae/donec/pharetra.xml',
+    482.34,
+    'http://github.com/consequat/ut/nulla/sed/accumsan/felis.xml',
     'CREADA',
-    '1278995099'
+    '3896442104',
+    '04-Sep-2022'
 );
 
 INSERT INTO COMPRA (
@@ -12281,13 +14035,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     878,
-    767.9,
-    'http://technorati.com/ipsum/aliquam/non/mauris/morbi/non/lectus.jsp',
-    'CREADA',
-    '3896442104'
+    293.65,
+    'https://java.com/libero/ut/massa/volutpat/convallis.js',
+    'PAGADA',
+    '0628195931',
+    '29-May-2022'
 );
 
 INSERT INTO COMPRA (
@@ -12295,13 +14051,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     879,
-    281.66,
-    'https://surveymonkey.com/praesent/blandit/lacinia/erat/vestibulum/sed/magna.xml',
-    'PAGADA',
-    '0628195931'
+    743.87,
+    'https://timesonline.co.uk/scelerisque/mauris/sit/amet.jpg',
+    'CREADA',
+    '1278995099',
+    '18-Apr-2022'
 );
 
 INSERT INTO COMPRA (
@@ -12309,13 +14067,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     880,
-    837.56,
-    'http://zimbio.com/integer.html',
+    741.14,
+    'http://sogou.com/metus/sapien/ut/nunc.jpg',
     'PAGADA',
-    '0628195931'
+    '3896442104',
+    '03-Mar-2022'
 );
 
 INSERT INTO COMPRA (
@@ -12323,13 +14083,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     881,
-    530.39,
-    'http://economist.com/consectetuer/adipiscing/elit/proin/risus/praesent/lectus.png',
-    'PAGADA',
-    '3896442104'
+    174.98,
+    'http://sfgate.com/et/ultrices/posuere/cubilia/curae/duis/faucibus.jpg',
+    'CREADA',
+    '3896442104',
+    '31-Dec-2021'
 );
 
 INSERT INTO COMPRA (
@@ -12337,13 +14099,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     882,
-    347.99,
-    'https://gmpg.org/leo/odio/condimentum.aspx',
-    'PAGADA',
-    '8792260616'
+    874.74,
+    'https://ihg.com/et/ultrices/posuere/cubilia/curae/donec/pharetra.jpg',
+    'CREADA',
+    '9031101052',
+    '13-Jan-2022'
 );
 
 INSERT INTO COMPRA (
@@ -12351,13 +14115,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     883,
-    304.64,
-    'https://simplemachines.org/luctus.jpg',
+    667.74,
+    'https://mapquest.com/dolor/sit/amet.aspx',
     'CANCELADA',
-    '8792260616'
+    '1278995099',
+    '26-Nov-2021'
 );
 
 INSERT INTO COMPRA (
@@ -12365,13 +14131,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     884,
-    639.1,
-    'https://marketwatch.com/lorem/ipsum.xml',
+    919.65,
+    'https://diigo.com/tempus/sit/amet/sem/fusce.png',
     'CANCELADA',
-    '0628195931'
+    '1278995099',
+    '25-Sep-2022'
 );
 
 INSERT INTO COMPRA (
@@ -12379,13 +14147,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     885,
-    583.44,
-    'https://youtube.com/mattis.aspx',
-    'CANCELADA',
-    '3896442104'
+    249.11,
+    'https://comcast.net/ac/neque/duis/bibendum/morbi/non/quam.html',
+    'CREADA',
+    '1278995099',
+    '30-Aug-2022'
 );
 
 INSERT INTO COMPRA (
@@ -12393,13 +14163,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     886,
-    872.08,
-    'http://forbes.com/in/sapien/iaculis/congue/vivamus.jpg',
-    'CANCELADA',
-    '1278995099'
+    758.27,
+    'https://google.ru/lacus/at/velit.jpg',
+    'PAGADA',
+    '3896442104',
+    '17-Jun-2022'
 );
 
 INSERT INTO COMPRA (
@@ -12407,13 +14179,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     887,
-    655.9,
-    'http://gov.uk/massa/tempor/convallis.png',
-    'CANCELADA',
-    '1278995099'
+    768.58,
+    'http://flavors.me/amet.aspx',
+    'PAGADA',
+    '0628195931',
+    '04-Aug-2022'
 );
 
 INSERT INTO COMPRA (
@@ -12421,13 +14195,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     888,
-    56.2,
-    'https://w3.org/vitae.jsp',
-    'CREADA',
-    '8792260616'
+    409.86,
+    'https://list-manage.com/a/feugiat/et/eros.json',
+    'PAGADA',
+    '1278995099',
+    '19-Aug-2022'
 );
 
 INSERT INTO COMPRA (
@@ -12435,13 +14211,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     889,
-    346.7,
-    'https://cnet.com/sapien/urna/pretium/nisl/ut/volutpat.jsp',
+    941.28,
+    'http://gravatar.com/velit/eu/est/congue/elementum.png',
     'PAGADA',
-    '8792260616'
+    '8792260616',
+    '04-Feb-2022'
 );
 
 INSERT INTO COMPRA (
@@ -12449,13 +14227,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     890,
-    200.75,
-    'http://stanford.edu/aliquet/maecenas/leo/odio.html',
+    174.4,
+    'https://pcworld.com/mattis.json',
     'CANCELADA',
-    '8792260616'
+    '3896442104',
+    '10-Sep-2022'
 );
 
 INSERT INTO COMPRA (
@@ -12463,13 +14243,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     891,
-    516.99,
-    'http://dailymail.co.uk/lacus/at/turpis/donec/posuere/metus.aspx',
+    836.27,
+    'https://deviantart.com/pede/libero/quis/orci/nullam/molestie.png',
     'PAGADA',
-    '1278995099'
+    '9031101052',
+    '29-Jul-2022'
 );
 
 INSERT INTO COMPRA (
@@ -12477,13 +14259,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     892,
-    883.67,
-    'http://mapy.cz/morbi.png',
-    'PAGADA',
-    '0628195931'
+    818.21,
+    'https://nhs.uk/sit/amet/sem/fusce/consequat/nulla.json',
+    'CANCELADA',
+    '8792260616',
+    '11-Sep-2022'
 );
 
 INSERT INTO COMPRA (
@@ -12491,13 +14275,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     893,
-    925.87,
-    'https://ucla.edu/varius/integer/ac/leo/pellentesque/ultrices.png',
-    'CANCELADA',
-    '1278995099'
+    696.45,
+    'http://washingtonpost.com/ipsum/aliquam/non/mauris/morbi.png',
+    'CREADA',
+    '0628195931',
+    '11-Mar-2022'
 );
 
 INSERT INTO COMPRA (
@@ -12505,13 +14291,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     894,
-    429.48,
-    'http://techcrunch.com/dui/nec/nisi.json',
-    'CREADA',
-    '9031101052'
+    884.32,
+    'http://slate.com/vestibulum/quam/sapien/varius.js',
+    'CANCELADA',
+    '8792260616',
+    '06-May-2022'
 );
 
 INSERT INTO COMPRA (
@@ -12519,13 +14307,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     895,
-    327.12,
-    'http://blinklist.com/justo/pellentesque/viverra.png',
-    'CANCELADA',
-    '3896442104'
+    762.74,
+    'https://naver.com/at/nunc/commodo/placerat/praesent.js',
+    'PAGADA',
+    '8792260616',
+    '26-Apr-2022'
 );
 
 INSERT INTO COMPRA (
@@ -12533,13 +14323,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     896,
-    947.25,
-    'https://si.edu/tortor/sollicitudin/mi.jsp',
+    689.0,
+    'http://utexas.edu/enim/in.js',
     'PAGADA',
-    '1278995099'
+    '8792260616',
+    '12-May-2022'
 );
 
 INSERT INTO COMPRA (
@@ -12547,13 +14339,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     897,
-    904.59,
-    'https://jigsy.com/proin/interdum/mauris/non/ligula.png',
+    534.7,
+    'https://discuz.net/accumsan.json',
     'PAGADA',
-    '1278995099'
+    '3896442104',
+    '17-Oct-2021'
 );
 
 INSERT INTO COMPRA (
@@ -12561,13 +14355,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     898,
-    390.24,
-    'https://msu.edu/in/magna/bibendum/imperdiet/nullam/orci.json',
+    869.7,
+    'https://washington.edu/aliquet/massa/id/lobortis.js',
     'CREADA',
-    '0628195931'
+    '8792260616',
+    '09-Oct-2022'
 );
 
 INSERT INTO COMPRA (
@@ -12575,13 +14371,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     899,
-    548.65,
-    'http://homestead.com/mi/nulla/ac/enim.xml',
+    79.44,
+    'https://issuu.com/nisi/nam/ultrices/libero/non.xml',
     'PAGADA',
-    '1278995099'
+    '9031101052',
+    '10-Nov-2021'
 );
 
 INSERT INTO COMPRA (
@@ -12589,13 +14387,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     900,
-    493.26,
-    'http://livejournal.com/pellentesque/ultrices/phasellus/id.png',
-    'CREADA',
-    '9031101052'
+    899.68,
+    'https://homestead.com/nunc/commodo/placerat/praesent/blandit/nam/nulla.js',
+    'PAGADA',
+    '0628195931',
+    '11-Jan-2022'
 );
 
 INSERT INTO COMPRA (
@@ -12603,13 +14403,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     901,
-    936.56,
-    'https://alibaba.com/magna/vulputate/luctus.xml',
-    'PAGADA',
-    '3896442104'
+    490.53,
+    'http://walmart.com/non/pretium/quis/lectus/suspendisse.html',
+    'CANCELADA',
+    '8792260616',
+    '29-Sep-2022'
 );
 
 INSERT INTO COMPRA (
@@ -12617,13 +14419,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     902,
-    576.98,
-    'http://over-blog.com/justo/lacinia/eget.jpg',
+    693.12,
+    'http://godaddy.com/rhoncus.html',
     'CANCELADA',
-    '0628195931'
+    '0628195931',
+    '08-Oct-2022'
 );
 
 INSERT INTO COMPRA (
@@ -12631,13 +14435,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     903,
-    482.77,
-    'https://twitter.com/augue/vestibulum/ante/ipsum/primis.xml',
-    'CANCELADA',
-    '0628195931'
+    854.23,
+    'https://wikipedia.org/quisque/arcu/libero/rutrum.html',
+    'CREADA',
+    '9031101052',
+    '22-Jun-2022'
 );
 
 INSERT INTO COMPRA (
@@ -12645,13 +14451,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     904,
-    463.88,
-    'http://china.com.cn/etiam/pretium/iaculis/justo.jsp',
+    91.34,
+    'http://webnode.com/in/faucibus/orci/luctus/et.jpg',
     'PAGADA',
-    '1278995099'
+    '0628195931',
+    '29-May-2022'
 );
 
 INSERT INTO COMPRA (
@@ -12659,13 +14467,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     905,
-    509.22,
-    'https://ucoz.com/justo/aliquam/quis/turpis/eget.xml',
+    387.27,
+    'https://google.co.uk/etiam/vel/augue.json',
     'PAGADA',
-    '1278995099'
+    '8792260616',
+    '18-Mar-2022'
 );
 
 INSERT INTO COMPRA (
@@ -12673,13 +14483,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     906,
-    791.35,
-    'https://youtu.be/in/sagittis/dui/vel/nisl/duis/ac.aspx',
-    'CREADA',
-    '3896442104'
+    787.26,
+    'http://apple.com/at/diam/nam/tristique.html',
+    'CANCELADA',
+    '3896442104',
+    '09-Feb-2022'
 );
 
 INSERT INTO COMPRA (
@@ -12687,13 +14499,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     907,
-    474.58,
-    'http://un.org/mauris/lacinia/sapien.js',
-    'PAGADA',
-    '9031101052'
+    461.61,
+    'https://home.pl/diam/cras/pellentesque.jsp',
+    'CANCELADA',
+    '9031101052',
+    '20-Oct-2021'
 );
 
 INSERT INTO COMPRA (
@@ -12701,13 +14515,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     908,
-    328.3,
-    'https://bizjournals.com/tempus/semper/est/quam/pharetra/magna.jpg',
+    999.36,
+    'http://weather.com/vulputate/justo.jpg',
     'CREADA',
-    '1278995099'
+    '0628195931',
+    '15-Jan-2022'
 );
 
 INSERT INTO COMPRA (
@@ -12715,13 +14531,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     909,
-    601.44,
-    'http://xrea.com/morbi/non/quam.png',
-    'PAGADA',
-    '1278995099'
+    498.36,
+    'http://sitemeter.com/blandit/nam/nulla/integer/pede.aspx',
+    'CANCELADA',
+    '9031101052',
+    '31-May-2022'
 );
 
 INSERT INTO COMPRA (
@@ -12729,13 +14547,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     910,
-    759.93,
-    'http://dedecms.com/erat/tortor/sollicitudin/mi/sit/amet.js',
-    'CANCELADA',
-    '9031101052'
+    137.23,
+    'http://wisc.edu/duis/mattis/egestas/metus/aenean/fermentum/donec.png',
+    'PAGADA',
+    '0628195931',
+    '13-May-2022'
 );
 
 INSERT INTO COMPRA (
@@ -12743,13 +14563,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     911,
-    646.13,
-    'http://hhs.gov/ut/odio/cras/mi/pede.jpg',
-    'CREADA',
-    '0628195931'
+    432.01,
+    'http://amazon.com/quis/turpis/sed/ante/vivamus/tortor.json',
+    'PAGADA',
+    '9031101052',
+    '25-Jul-2022'
 );
 
 INSERT INTO COMPRA (
@@ -12757,13 +14579,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     912,
-    50.27,
-    'http://cdbaby.com/dui/vel/nisl/duis.aspx',
-    'CREADA',
-    '8792260616'
+    960.96,
+    'http://digg.com/congue/elementum/in/hac/habitasse/platea.png',
+    'PAGADA',
+    '9031101052',
+    '30-Sep-2022'
 );
 
 INSERT INTO COMPRA (
@@ -12771,13 +14595,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     913,
-    105.5,
-    'https://sitemeter.com/ipsum/integer/a/nibh.jsp',
-    'CANCELADA',
-    '8792260616'
+    944.0,
+    'http://china.com.cn/pede/justo.js',
+    'CREADA',
+    '0628195931',
+    '23-Sep-2022'
 );
 
 INSERT INTO COMPRA (
@@ -12785,13 +14611,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     914,
-    565.03,
-    'https://abc.net.au/venenatis.jpg',
+    216.32,
+    'http://theglobeandmail.com/diam/neque/vestibulum.jpg',
     'PAGADA',
-    '9031101052'
+    '9031101052',
+    '27-May-2022'
 );
 
 INSERT INTO COMPRA (
@@ -12799,13 +14627,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     915,
-    536.74,
-    'https://globo.com/curae/mauris/viverra/diam/vitae/quam.png',
-    'CANCELADA',
-    '0628195931'
+    529.81,
+    'https://naver.com/ipsum/ac/tellus/semper/interdum/mauris/ullamcorper.aspx',
+    'CREADA',
+    '9031101052',
+    '23-Jun-2022'
 );
 
 INSERT INTO COMPRA (
@@ -12813,13 +14643,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     916,
-    307.32,
-    'http://epa.gov/id.jpg',
-    'PAGADA',
-    '0628195931'
+    966.73,
+    'http://umich.edu/aliquet/at/feugiat/non/pretium/quis.json',
+    'CANCELADA',
+    '8792260616',
+    '18-Apr-2022'
 );
 
 INSERT INTO COMPRA (
@@ -12827,13 +14659,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     917,
-    979.62,
-    'http://patch.com/leo/rhoncus/sed/vestibulum.aspx',
-    'CANCELADA',
-    '3896442104'
+    258.12,
+    'https://army.mil/lectus/pellentesque/eget/nunc/donec.html',
+    'CREADA',
+    '0628195931',
+    '06-Nov-2021'
 );
 
 INSERT INTO COMPRA (
@@ -12841,13 +14675,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     918,
-    335.63,
-    'https://posterous.com/sed/accumsan/felis.aspx',
-    'CREADA',
-    '0628195931'
+    737.86,
+    'https://sciencedaily.com/dui/luctus/rutrum.jsp',
+    'PAGADA',
+    '1278995099',
+    '11-Jun-2022'
 );
 
 INSERT INTO COMPRA (
@@ -12855,13 +14691,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     919,
-    16.56,
-    'http://wordpress.org/vestibulum/velit/id/pretium/iaculis/diam/erat.html',
-    'CREADA',
-    '1278995099'
+    726.32,
+    'http://over-blog.com/quam/pede/lobortis/ligula/sit/amet.png',
+    'PAGADA',
+    '8792260616',
+    '15-Mar-2022'
 );
 
 INSERT INTO COMPRA (
@@ -12869,13 +14707,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     920,
-    683.8,
-    'https://is.gd/enim/in/tempor/turpis.jsp',
+    427.97,
+    'https://microsoft.com/magna/vulputate/luctus/cum.jpg',
     'CANCELADA',
-    '9031101052'
+    '1278995099',
+    '22-Nov-2021'
 );
 
 INSERT INTO COMPRA (
@@ -12883,13 +14723,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     921,
-    747.2,
-    'https://ebay.com/quam/a/odio/in/hac.jpg',
-    'CREADA',
-    '1278995099'
+    91.51,
+    'http://webmd.com/habitasse/platea/dictumst/morbi/vestibulum/velit/id.png',
+    'CANCELADA',
+    '8792260616',
+    '16-May-2022'
 );
 
 INSERT INTO COMPRA (
@@ -12897,13 +14739,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     922,
-    11.03,
-    'https://barnesandnoble.com/eget/rutrum/at.json',
-    'CREADA',
-    '8792260616'
+    2.28,
+    'http://aboutads.info/aliquet.jpg',
+    'PAGADA',
+    '0628195931',
+    '15-Jan-2022'
 );
 
 INSERT INTO COMPRA (
@@ -12911,13 +14755,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     923,
-    120.68,
-    'https://scribd.com/blandit/non/interdum/in/ante/vestibulum.jsp',
-    'CREADA',
-    '9031101052'
+    741.14,
+    'https://washington.edu/rhoncus/dui/vel.aspx',
+    'CANCELADA',
+    '3896442104',
+    '30-Apr-2022'
 );
 
 INSERT INTO COMPRA (
@@ -12925,13 +14771,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     924,
-    876.08,
-    'http://over-blog.com/elementum/in.json',
+    692.47,
+    'https://yahoo.co.jp/phasellus/in.aspx',
     'CREADA',
-    '1278995099'
+    '3896442104',
+    '10-Jan-2022'
 );
 
 INSERT INTO COMPRA (
@@ -12939,13 +14787,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     925,
-    579.79,
-    'http://indiatimes.com/nibh/quisque/id/justo.jpg',
-    'PAGADA',
-    '1278995099'
+    521.22,
+    'https://google.cn/erat/curabitur/gravida/nisi/at.jpg',
+    'CANCELADA',
+    '8792260616',
+    '11-Nov-2021'
 );
 
 INSERT INTO COMPRA (
@@ -12953,13 +14803,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     926,
-    432.37,
-    'https://baidu.com/volutpat.js',
-    'PAGADA',
-    '3896442104'
+    2.1,
+    'http://wunderground.com/ante/vivamus.jpg',
+    'CREADA',
+    '1278995099',
+    '24-Jul-2022'
 );
 
 INSERT INTO COMPRA (
@@ -12967,13 +14819,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     927,
-    745.29,
-    'http://delicious.com/nulla.xml',
-    'PAGADA',
-    '9031101052'
+    503.67,
+    'http://dion.ne.jp/aliquet.html',
+    'CANCELADA',
+    '0628195931',
+    '04-Feb-2022'
 );
 
 INSERT INTO COMPRA (
@@ -12981,13 +14835,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     928,
-    957.24,
-    'https://mtv.com/commodo/placerat/praesent/blandit/nam.js',
-    'PAGADA',
-    '8792260616'
+    71.29,
+    'http://google.com.br/amet/nulla/quisque/arcu/libero/rutrum.xml',
+    'CREADA',
+    '9031101052',
+    '20-Jul-2022'
 );
 
 INSERT INTO COMPRA (
@@ -12995,13 +14851,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     929,
-    924.1,
-    'http://usa.gov/adipiscing/lorem/vitae.js',
-    'CREADA',
-    '1278995099'
+    266.46,
+    'http://cdbaby.com/lobortis/vel.jsp',
+    'CANCELADA',
+    '8792260616',
+    '17-Mar-2022'
 );
 
 INSERT INTO COMPRA (
@@ -13009,13 +14867,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     930,
-    562.41,
-    'http://smh.com.au/tortor/sollicitudin/mi.jpg',
+    262.17,
+    'https://sitemeter.com/in/purus/eu/magna/vulputate/luctus.html',
     'PAGADA',
-    '3896442104'
+    '8792260616',
+    '12-Jun-2022'
 );
 
 INSERT INTO COMPRA (
@@ -13023,13 +14883,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     931,
-    940.99,
-    'http://google.es/consequat/in.html',
-    'CANCELADA',
-    '8792260616'
+    408.74,
+    'http://ihg.com/rutrum/at.html',
+    'PAGADA',
+    '9031101052',
+    '25-Aug-2022'
 );
 
 INSERT INTO COMPRA (
@@ -13037,13 +14899,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     932,
-    885.98,
-    'http://zimbio.com/orci/luctus/et/ultrices.jsp',
-    'CREADA',
-    '9031101052'
+    860.94,
+    'https://theatlantic.com/eu/orci/mauris/lacinia.aspx',
+    'PAGADA',
+    '9031101052',
+    '24-Jan-2022'
 );
 
 INSERT INTO COMPRA (
@@ -13051,13 +14915,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     933,
-    148.1,
-    'https://cpanel.net/sed.js',
+    234.8,
+    'http://apache.org/tellus/nisi/eu/orci/mauris.json',
     'PAGADA',
-    '0628195931'
+    '3896442104',
+    '16-Mar-2022'
 );
 
 INSERT INTO COMPRA (
@@ -13065,13 +14931,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     934,
-    627.05,
-    'https://miitbeian.gov.cn/odio.aspx',
-    'CANCELADA',
-    '8792260616'
+    653.25,
+    'https://pagesperso-orange.fr/est/quam/pharetra.json',
+    'PAGADA',
+    '1278995099',
+    '04-Oct-2022'
 );
 
 INSERT INTO COMPRA (
@@ -13079,13 +14947,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     935,
-    997.42,
-    'http://shop-pro.jp/primis/in/faucibus/orci/luctus/et.aspx',
-    'CREADA',
-    '1278995099'
+    43.9,
+    'https://nsw.gov.au/lobortis.jsp',
+    'PAGADA',
+    '8792260616',
+    '25-Feb-2022'
 );
 
 INSERT INTO COMPRA (
@@ -13093,13 +14963,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     936,
-    763.64,
-    'https://va.gov/nulla/ac/enim/in/tempor/turpis/nec.jsp',
-    'CREADA',
-    '8792260616'
+    913.5,
+    'http://sun.com/quam/nec/dui/luctus/rutrum.png',
+    'CANCELADA',
+    '9031101052',
+    '04-Mar-2022'
 );
 
 INSERT INTO COMPRA (
@@ -13107,13 +14979,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     937,
-    18.54,
-    'https://google.com.au/lorem/vitae/mattis/nibh.png',
-    'CANCELADA',
-    '8792260616'
+    304.46,
+    'https://buzzfeed.com/duis/at/velit/eu/est/congue.json',
+    'CREADA',
+    '8792260616',
+    '18-Feb-2022'
 );
 
 INSERT INTO COMPRA (
@@ -13121,13 +14995,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     938,
-    543.0,
-    'https://blogs.com/dapibus/dolor/vel/est.js',
-    'CANCELADA',
-    '3896442104'
+    947.95,
+    'http://wikispaces.com/bibendum.html',
+    'CREADA',
+    '8792260616',
+    '30-Dec-2021'
 );
 
 INSERT INTO COMPRA (
@@ -13135,13 +15011,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     939,
-    534.09,
-    'http://netvibes.com/aliquet.xml',
-    'CANCELADA',
-    '9031101052'
+    197.97,
+    'http://virginia.edu/donec/quis/orci/eget.html',
+    'CREADA',
+    '9031101052',
+    '19-Sep-2022'
 );
 
 INSERT INTO COMPRA (
@@ -13149,13 +15027,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     940,
-    765.59,
-    'http://ucsd.edu/justo/etiam.js',
-    'CREADA',
-    '0628195931'
+    664.31,
+    'https://yahoo.com/tortor/eu.jsp',
+    'CANCELADA',
+    '9031101052',
+    '18-Oct-2021'
 );
 
 INSERT INTO COMPRA (
@@ -13163,13 +15043,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     941,
-    247.44,
-    'http://addtoany.com/vestibulum/aliquet/ultrices/erat.html',
-    'CREADA',
-    '1278995099'
+    547.61,
+    'https://networkadvertising.org/in/blandit/ultrices/enim/lorem.xml',
+    'PAGADA',
+    '9031101052',
+    '14-Oct-2022'
 );
 
 INSERT INTO COMPRA (
@@ -13177,13 +15059,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     942,
-    119.45,
-    'https://tinyurl.com/erat/volutpat/in/congue/etiam/justo/etiam.json',
-    'CREADA',
-    '3896442104'
+    381.25,
+    'http://ca.gov/eu/nibh/quisque/id/justo/sit/amet.aspx',
+    'PAGADA',
+    '1278995099',
+    '01-Feb-2022'
 );
 
 INSERT INTO COMPRA (
@@ -13191,13 +15075,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     943,
-    842.31,
-    'http://hostgator.com/eu/nibh/quisque/id/justo/sit.jsp',
+    504.75,
+    'https://storify.com/justo/morbi/ut/odio/cras.jsp',
     'CREADA',
-    '9031101052'
+    '9031101052',
+    '05-Sep-2022'
 );
 
 INSERT INTO COMPRA (
@@ -13205,13 +15091,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     944,
-    390.69,
-    'http://shop-pro.jp/mauris.jpg',
-    'CREADA',
-    '0628195931'
+    295.42,
+    'https://theglobeandmail.com/imperdiet/nullam/orci.js',
+    'PAGADA',
+    '8792260616',
+    '10-Jul-2022'
 );
 
 INSERT INTO COMPRA (
@@ -13219,13 +15107,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     945,
-    369.95,
-    'http://webnode.com/in/sagittis/dui/vel/nisl/duis.aspx',
+    165.87,
+    'http://shareasale.com/sed/ante/vivamus/tortor/duis/mattis.aspx',
     'CREADA',
-    '8792260616'
+    '1278995099',
+    '20-Feb-2022'
 );
 
 INSERT INTO COMPRA (
@@ -13233,13 +15123,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     946,
-    703.41,
-    'http://zdnet.com/feugiat/et/eros/vestibulum.html',
-    'CANCELADA',
-    '0628195931'
+    450.46,
+    'https://abc.net.au/lacus/curabitur/at/ipsum/ac/tellus.html',
+    'PAGADA',
+    '9031101052',
+    '02-May-2022'
 );
 
 INSERT INTO COMPRA (
@@ -13247,13 +15139,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     947,
-    52.14,
-    'http://networkadvertising.org/aliquam/erat/volutpat/in/congue/etiam.jsp',
-    'CANCELADA',
-    '9031101052'
+    244.74,
+    'http://google.it/eros/vestibulum/ac/est/lacinia/nisi/venenatis.html',
+    'PAGADA',
+    '9031101052',
+    '03-Feb-2022'
 );
 
 INSERT INTO COMPRA (
@@ -13261,13 +15155,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     948,
-    973.06,
-    'http://rambler.ru/neque/aenean.jsp',
-    'PAGADA',
-    '9031101052'
+    34.86,
+    'http://friendfeed.com/aliquam/convallis.aspx',
+    'CANCELADA',
+    '3896442104',
+    '19-Aug-2022'
 );
 
 INSERT INTO COMPRA (
@@ -13275,13 +15171,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     949,
-    109.47,
-    'http://spiegel.de/accumsan/tortor/quis/turpis/sed/ante/vivamus.xml',
-    'CREADA',
-    '1278995099'
+    280.37,
+    'https://creativecommons.org/vulputate/ut.png',
+    'PAGADA',
+    '9031101052',
+    '02-Aug-2022'
 );
 
 INSERT INTO COMPRA (
@@ -13289,13 +15187,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     950,
-    569.45,
-    'https://nasa.gov/cubilia/curae/mauris.png',
+    652.13,
+    'http://webnode.com/luctus/ultricies/eu/nibh/quisque/id.png',
     'CREADA',
-    '0628195931'
+    '0628195931',
+    '19-Aug-2022'
 );
 
 INSERT INTO COMPRA (
@@ -13303,13 +15203,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     951,
-    436.96,
-    'http://cdbaby.com/at/turpis.xml',
-    'CANCELADA',
-    '1278995099'
+    741.14,
+    'http://blogspot.com/nullam/molestie/nibh/in/lectus.html',
+    'CREADA',
+    '8792260616',
+    '05-Feb-2022'
 );
 
 INSERT INTO COMPRA (
@@ -13317,13 +15219,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     952,
-    570.37,
-    'http://rambler.ru/dui/vel/nisl/duis/ac/nibh.jsp',
-    'CANCELADA',
-    '3896442104'
+    710.58,
+    'https://blogs.com/rhoncus/mauris/enim/leo/rhoncus/sed/vestibulum.aspx',
+    'CREADA',
+    '3896442104',
+    '17-Jul-2022'
 );
 
 INSERT INTO COMPRA (
@@ -13331,13 +15235,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     953,
-    958.75,
-    'https://salon.com/arcu/sed/augue/aliquam.xml',
+    119.06,
+    'https://twitter.com/lectus.png',
     'PAGADA',
-    '3896442104'
+    '1278995099',
+    '20-Aug-2022'
 );
 
 INSERT INTO COMPRA (
@@ -13345,13 +15251,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     954,
-    549.62,
-    'http://netlog.com/ultrices/aliquet/maecenas/leo.png',
-    'CANCELADA',
-    '3896442104'
+    205.93,
+    'https://lulu.com/rutrum.xml',
+    'CREADA',
+    '9031101052',
+    '05-Apr-2022'
 );
 
 INSERT INTO COMPRA (
@@ -13359,13 +15267,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     955,
-    207.72,
-    'http://1und1.de/quis/odio/consequat/varius/integer/ac.jsp',
-    'CREADA',
-    '1278995099'
+    416.02,
+    'http://godaddy.com/volutpat/erat/quisque/erat/eros/viverra.png',
+    'PAGADA',
+    '0628195931',
+    '28-Feb-2022'
 );
 
 INSERT INTO COMPRA (
@@ -13373,13 +15283,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     956,
-    175.26,
-    'http://tinypic.com/cras/mi/pede/malesuada/in/imperdiet.json',
-    'CANCELADA',
-    '0628195931'
+    537.5,
+    'https://yellowbook.com/tempus/vivamus.html',
+    'PAGADA',
+    '9031101052',
+    '14-Feb-2022'
 );
 
 INSERT INTO COMPRA (
@@ -13387,13 +15299,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     957,
-    738.49,
-    'http://prnewswire.com/dictumst/maecenas/ut.jsp',
-    'CANCELADA',
-    '8792260616'
+    738.56,
+    'https://usatoday.com/enim.png',
+    'PAGADA',
+    '8792260616',
+    '15-Jun-2022'
 );
 
 INSERT INTO COMPRA (
@@ -13401,13 +15315,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     958,
-    266.84,
-    'https://google.cn/ipsum.png',
+    940.61,
+    'https://i2i.jp/vel/dapibus/at.xml',
     'CANCELADA',
-    '1278995099'
+    '1278995099',
+    '30-Mar-2022'
 );
 
 INSERT INTO COMPRA (
@@ -13415,13 +15331,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     959,
-    974.73,
-    'http://dell.com/aliquam/erat/volutpat.js',
+    366.39,
+    'http://cafepress.com/magna/vestibulum.jsp',
     'CANCELADA',
-    '0628195931'
+    '3896442104',
+    '07-Jul-2022'
 );
 
 INSERT INTO COMPRA (
@@ -13429,13 +15347,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     960,
-    766.43,
-    'http://de.vu/sed/interdum/venenatis/turpis/enim.png',
+    641.64,
+    'https://wix.com/porttitor/id/consequat/in.xml',
     'PAGADA',
-    '3896442104'
+    '0628195931',
+    '24-Nov-2021'
 );
 
 INSERT INTO COMPRA (
@@ -13443,13 +15363,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     961,
-    635.7,
-    'https://is.gd/lobortis/vel/dapibus/at/diam/nam.xml',
-    'CREADA',
-    '1278995099'
+    962.96,
+    'https://ucoz.ru/eget/eleifend.html',
+    'CANCELADA',
+    '8792260616',
+    '16-May-2022'
 );
 
 INSERT INTO COMPRA (
@@ -13457,13 +15379,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     962,
-    890.47,
-    'https://squarespace.com/lacus.aspx',
+    919.35,
+    'http://dyndns.org/felis/donec.png',
     'CREADA',
-    '1278995099'
+    '1278995099',
+    '19-Jan-2022'
 );
 
 INSERT INTO COMPRA (
@@ -13471,13 +15395,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     963,
-    46.95,
-    'https://php.net/rhoncus/dui/vel/sem.aspx',
-    'PAGADA',
-    '9031101052'
+    60.95,
+    'http://google.com.au/lorem/ipsum/dolor/sit/amet/consectetuer.html',
+    'CREADA',
+    '1278995099',
+    '13-Mar-2022'
 );
 
 INSERT INTO COMPRA (
@@ -13485,13 +15411,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     964,
-    41.84,
-    'http://discovery.com/quam.html',
+    420.91,
+    'http://arstechnica.com/augue/quam/sollicitudin/vitae/consectetuer.jsp',
     'CANCELADA',
-    '9031101052'
+    '8792260616',
+    '24-Mar-2022'
 );
 
 INSERT INTO COMPRA (
@@ -13499,13 +15427,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     965,
-    964.45,
-    'http://mtv.com/vel/nulla/eget.json',
-    'PAGADA',
-    '9031101052'
+    647.51,
+    'https://state.tx.us/volutpat/erat/quisque/erat/eros/viverra/eget.xml',
+    'CREADA',
+    '9031101052',
+    '08-May-2022'
 );
 
 INSERT INTO COMPRA (
@@ -13513,13 +15443,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     966,
-    718.35,
-    'http://nba.com/eu/tincidunt/in.aspx',
-    'CANCELADA',
-    '1278995099'
+    196.39,
+    'https://1688.com/mi.png',
+    'CREADA',
+    '9031101052',
+    '02-Mar-2022'
 );
 
 INSERT INTO COMPRA (
@@ -13527,13 +15459,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     967,
-    770.05,
-    'https://odnoklassniki.ru/arcu/libero/rutrum/ac/lobortis/vel/dapibus.png',
+    820.09,
+    'http://engadget.com/lectus/pellentesque/at/nulla/suspendisse.jsp',
     'PAGADA',
-    '0628195931'
+    '1278995099',
+    '14-Jun-2022'
 );
 
 INSERT INTO COMPRA (
@@ -13541,13 +15475,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     968,
-    249.76,
-    'http://mysql.com/elementum/pellentesque/quisque/porta/volutpat/erat.png',
-    'CANCELADA',
-    '1278995099'
+    780.15,
+    'http://rakuten.co.jp/non/velit/donec/diam/neque.json',
+    'CREADA',
+    '0628195931',
+    '24-Oct-2021'
 );
 
 INSERT INTO COMPRA (
@@ -13555,13 +15491,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     969,
-    712.27,
-    'https://youku.com/magna.json',
-    'CANCELADA',
-    '3896442104'
+    972.76,
+    'http://flavors.me/metus/vitae/ipsum/aliquam/non/mauris/morbi.aspx',
+    'PAGADA',
+    '3896442104',
+    '16-Mar-2022'
 );
 
 INSERT INTO COMPRA (
@@ -13569,13 +15507,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     970,
-    239.79,
-    'http://squarespace.com/nibh/in/quis.json',
+    92.74,
+    'https://nationalgeographic.com/nunc/proin/at.json',
     'PAGADA',
-    '0628195931'
+    '3896442104',
+    '15-Oct-2022'
 );
 
 INSERT INTO COMPRA (
@@ -13583,13 +15523,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     971,
-    780.1,
-    'https://arstechnica.com/cras.jpg',
-    'PAGADA',
-    '8792260616'
+    80.22,
+    'https://tinyurl.com/erat/id/mauris/vulputate/elementum/nullam/varius.png',
+    'CREADA',
+    '9031101052',
+    '04-Feb-2022'
 );
 
 INSERT INTO COMPRA (
@@ -13597,13 +15539,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     972,
-    973.54,
-    'https://hao123.com/diam/id/ornare/imperdiet/sapien/urna/pretium.js',
+    165.51,
+    'https://intel.com/sollicitudin.aspx',
     'PAGADA',
-    '1278995099'
+    '8792260616',
+    '20-Jan-2022'
 );
 
 INSERT INTO COMPRA (
@@ -13611,13 +15555,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     973,
-    311.77,
-    'http://mail.ru/lobortis/ligula/sit/amet/eleifend/pede.png',
-    'CREADA',
-    '8792260616'
+    234.04,
+    'http://nature.com/in/lectus/pellentesque/at/nulla/suspendisse.xml',
+    'CANCELADA',
+    '0628195931',
+    '12-Mar-2022'
 );
 
 INSERT INTO COMPRA (
@@ -13625,13 +15571,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     974,
-    143.66,
-    'https://telegraph.co.uk/maecenas/tristique/est/et.jsp',
+    530.41,
+    'http://facebook.com/duis/bibendum.xml',
     'PAGADA',
-    '8792260616'
+    '8792260616',
+    '20-Mar-2022'
 );
 
 INSERT INTO COMPRA (
@@ -13639,13 +15587,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     975,
-    233.28,
-    'https://photobucket.com/congue/etiam/justo/etiam/pretium/iaculis/justo.png',
-    'CANCELADA',
-    '8792260616'
+    210.78,
+    'http://example.com/mauris/non/ligula/pellentesque/ultrices/phasellus.aspx',
+    'CREADA',
+    '9031101052',
+    '22-Aug-2022'
 );
 
 INSERT INTO COMPRA (
@@ -13653,13 +15603,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     976,
-    390.82,
-    'http://aol.com/cras/in/purus.jsp',
-    'CREADA',
-    '8792260616'
+    365.08,
+    'https://ameblo.jp/molestie/nibh/in/lectus.xml',
+    'PAGADA',
+    '0628195931',
+    '20-May-2022'
 );
 
 INSERT INTO COMPRA (
@@ -13667,13 +15619,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     977,
-    714.41,
-    'https://dell.com/in/hac/habitasse/platea/dictumst/aliquam.js',
-    'CANCELADA',
-    '8792260616'
+    336.89,
+    'http://reuters.com/dapibus.json',
+    'CREADA',
+    '9031101052',
+    '24-Mar-2022'
 );
 
 INSERT INTO COMPRA (
@@ -13681,13 +15635,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     978,
-    132.82,
-    'http://netscape.com/elementum/in/hac/habitasse/platea.json',
-    'CANCELADA',
-    '1278995099'
+    595.12,
+    'https://apple.com/nisi/venenatis/tristique/fusce/congue.jsp',
+    'CREADA',
+    '8792260616',
+    '28-Nov-2021'
 );
 
 INSERT INTO COMPRA (
@@ -13695,13 +15651,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     979,
-    658.34,
-    'http://nytimes.com/tortor/sollicitudin/mi/sit/amet/lobortis.js',
-    'CANCELADA',
-    '3896442104'
+    349.48,
+    'http://webs.com/sed.jpg',
+    'PAGADA',
+    '9031101052',
+    '19-Mar-2022'
 );
 
 INSERT INTO COMPRA (
@@ -13709,13 +15667,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     980,
-    734.63,
-    'http://vistaprint.com/eu.jsp',
+    439.71,
+    'http://kickstarter.com/lacinia/nisi/venenatis/tristique/fusce/congue.js',
     'CANCELADA',
-    '0628195931'
+    '8792260616',
+    '20-Aug-2022'
 );
 
 INSERT INTO COMPRA (
@@ -13723,13 +15683,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     981,
-    582.9,
-    'http://mtv.com/amet/eros/suspendisse/accumsan/tortor/quis.jsp',
-    'PAGADA',
-    '8792260616'
+    75.0,
+    'https://smugmug.com/ac/neque/duis/bibendum/morbi/non.png',
+    'CREADA',
+    '3896442104',
+    '07-May-2022'
 );
 
 INSERT INTO COMPRA (
@@ -13737,13 +15699,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     982,
-    565.72,
-    'http://list-manage.com/semper/interdum/mauris.jpg',
-    'CREADA',
-    '9031101052'
+    997.51,
+    'https://indiatimes.com/in/faucibus/orci/luctus/et/ultrices.js',
+    'CANCELADA',
+    '1278995099',
+    '26-Aug-2022'
 );
 
 INSERT INTO COMPRA (
@@ -13751,13 +15715,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     983,
-    745.46,
-    'http://prlog.org/tempor/convallis/nulla/neque/libero.xml',
-    'PAGADA',
-    '8792260616'
+    257.95,
+    'https://mail.ru/id/pretium/iaculis.jsp',
+    'CANCELADA',
+    '1278995099',
+    '16-Oct-2022'
 );
 
 INSERT INTO COMPRA (
@@ -13765,13 +15731,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     984,
-    455.42,
-    'https://stumbleupon.com/vestibulum/eget/vulputate/ut.xml',
-    'PAGADA',
-    '0628195931'
+    556.39,
+    'https://google.cn/primis/in.png',
+    'CREADA',
+    '1278995099',
+    '06-Oct-2022'
 );
 
 INSERT INTO COMPRA (
@@ -13779,13 +15747,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     985,
-    88.97,
-    'https://sohu.com/eget.aspx',
+    797.43,
+    'https://dell.com/etiam/pretium/iaculis/justo/in.jpg',
     'CANCELADA',
-    '1278995099'
+    '0628195931',
+    '31-Jul-2022'
 );
 
 INSERT INTO COMPRA (
@@ -13793,13 +15763,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     986,
-    745.6,
-    'http://a8.net/eget/vulputate.js',
-    'CREADA',
-    '8792260616'
+    210.3,
+    'https://wix.com/vel.xml',
+    'PAGADA',
+    '3896442104',
+    '05-Jul-2022'
 );
 
 INSERT INTO COMPRA (
@@ -13807,13 +15779,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     987,
-    133.48,
-    'http://nhs.uk/augue/a.json',
-    'PAGADA',
-    '0628195931'
+    355.73,
+    'https://yale.edu/eu/felis/fusce/posuere.aspx',
+    'CREADA',
+    '3896442104',
+    '31-Mar-2022'
 );
 
 INSERT INTO COMPRA (
@@ -13821,13 +15795,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     988,
-    730.77,
-    'https://discuz.net/semper/rutrum/nulla/nunc/purus/phasellus.png',
+    734.59,
+    'http://dedecms.com/libero/nam/dui/proin.json',
     'CANCELADA',
-    '9031101052'
+    '1278995099',
+    '14-May-2022'
 );
 
 INSERT INTO COMPRA (
@@ -13835,13 +15811,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     989,
-    413.74,
-    'https://live.com/lacinia/aenean/sit/amet/justo.jsp',
-    'CREADA',
-    '1278995099'
+    398.9,
+    'http://bloomberg.com/vehicula.json',
+    'CANCELADA',
+    '3896442104',
+    '28-Mar-2022'
 );
 
 INSERT INTO COMPRA (
@@ -13849,13 +15827,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     990,
-    863.2,
-    'http://amazonaws.com/consectetuer/adipiscing.json',
-    'CANCELADA',
-    '1278995099'
+    948.16,
+    'https://sogou.com/amet/eleifend/pede.jsp',
+    'CREADA',
+    '0628195931',
+    '14-Jan-2022'
 );
 
 INSERT INTO COMPRA (
@@ -13863,13 +15843,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     991,
-    144.91,
-    'http://yahoo.com/mauris/laoreet/ut/rhoncus.png',
+    705.46,
+    'https://wufoo.com/ac/neque/duis/bibendum.jpg',
     'CREADA',
-    '0628195931'
+    '9031101052',
+    '24-Jun-2022'
 );
 
 INSERT INTO COMPRA (
@@ -13877,13 +15859,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     992,
-    48.63,
-    'https://ask.com/vel/enim.png',
+    130.47,
+    'http://jalbum.net/hac/habitasse/platea.jsp',
     'CREADA',
-    '0628195931'
+    '1278995099',
+    '10-Jun-2022'
 );
 
 INSERT INTO COMPRA (
@@ -13891,13 +15875,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     993,
-    933.88,
-    'http://sciencedirect.com/vel/sem/sed.html',
-    'CREADA',
-    '9031101052'
+    671.76,
+    'http://shareasale.com/dictumst/morbi/vestibulum.js',
+    'CANCELADA',
+    '8792260616',
+    '26-Sep-2022'
 );
 
 INSERT INTO COMPRA (
@@ -13905,13 +15891,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     994,
-    56.44,
-    'https://facebook.com/faucibus/cursus/urna/ut/tellus/nulla/ut.jpg',
+    105.06,
+    'http://cnn.com/sed/magna/at.aspx',
     'CREADA',
-    '9031101052'
+    '8792260616',
+    '16-Nov-2021'
 );
 
 INSERT INTO COMPRA (
@@ -13919,13 +15907,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     995,
-    115.87,
-    'https://uol.com.br/cum/sociis/natoque/penatibus/et/magnis.xml',
-    'CANCELADA',
-    '0628195931'
+    750.06,
+    'http://nbcnews.com/pulvinar/lobortis/est/phasellus.png',
+    'PAGADA',
+    '9031101052',
+    '10-Oct-2022'
 );
 
 INSERT INTO COMPRA (
@@ -13933,13 +15923,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     996,
-    172.74,
-    'https://indiegogo.com/cursus/urna/ut.jsp',
+    407.23,
+    'https://elegantthemes.com/fusce.jsp',
     'PAGADA',
-    '8792260616'
+    '9031101052',
+    '26-Dec-2021'
 );
 
 INSERT INTO COMPRA (
@@ -13947,13 +15939,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     997,
-    16.96,
-    'http://google.cn/volutpat/convallis/morbi/odio/odio.aspx',
-    'CANCELADA',
-    '1278995099'
+    952.36,
+    'http://artisteer.com/nisl/duis/ac/nibh.jpg',
+    'PAGADA',
+    '9031101052',
+    '15-Jul-2022'
 );
 
 INSERT INTO COMPRA (
@@ -13961,13 +15955,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     998,
-    464.46,
-    'http://uiuc.edu/mauris/eget/massa/tempor/convallis/nulla.json',
-    'CREADA',
-    '1278995099'
+    774.95,
+    'http://amazon.com/adipiscing/elit/proin/risus/praesent/lectus.js',
+    'CANCELADA',
+    '9031101052',
+    '10-Jan-2022'
 );
 
 INSERT INTO COMPRA (
@@ -13975,13 +15971,15 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     999,
-    377.81,
-    'http://shop-pro.jp/ipsum/dolor/sit/amet.png',
-    'CANCELADA',
-    '8792260616'
+    644.95,
+    'http://last.fm/dictumst/etiam/faucibus/cursus/urna.xml',
+    'CREADA',
+    '8792260616',
+    '29-Nov-2021'
 );
 
 INSERT INTO COMPRA (
@@ -13989,11 +15987,13 @@ INSERT INTO COMPRA (
     VALOR_COMPRA_TOTAL,
     URL_FACTURA_ELECTRONICA,
     ESTADO_COMPRA,
-    COMPRADOR
+    COMPRADOR,
+    FECHA_COMPRA
 ) VALUES (
     1000,
-    796.41,
-    'https://1688.com/a/ipsum.html',
+    848.31,
+    'https://csmonitor.com/luctus/rutrum/nulla/tellus/in.xml',
     'CANCELADA',
-    '8792260616'
+    '9031101052',
+    '13-Jan-2022'
 );
