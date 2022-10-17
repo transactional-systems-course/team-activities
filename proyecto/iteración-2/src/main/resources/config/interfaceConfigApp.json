@@ -5,23 +5,42 @@
   "bannerPath": "./src/main/resources/config/logo.png",
   "menuBar": [
     {
-      "menuTitle": "TipoBebida",
+      "menuTitle": "Promocion",
       "options": [
         {
-          "label": "Adicionar",
-          "event": "adicionarTipoBebida"
+          "label": "Registrar",
+          "event": "registrarPromocion"
+        }
+      ]
+    },
+    {
+      "menuTitle": "Pedido",
+      "options": [
+        {
+          "label": "CrearPedido",
+          "event": "crearPedido"
         },
         {
-          "label": "Listar",
-          "event": "listarTipoBebida"
-        },
+          "label": "RegistrarLlegadaPedido",
+          "event": "registrarLlegadaPedido"
+        }
+      ]
+    },
+    {
+      "menuTitle": "Estante",
+      "options": [
         {
-          "label": "Borrar por Id",
-          "event": "eliminarTipoBebidaPorId"
-        },
+          "label": "AprovisionarEstante",
+          "event": "aprovisionarEstante"
+        }
+      ]
+    },
+    {
+      "menuTitle": "Venta",
+      "options": [
         {
-          "label": "Buscar por Nombre",
-          "event": "buscarTipoBebidaPorNombre"
+          "label": "registrarVenta",
+          "event": "registrarVenta"
         }
       ]
     },
