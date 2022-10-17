@@ -1,18 +1,3 @@
-/**~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
- * Universidad	de	los	Andes	(Bogotá	- Colombia)
- * Departamento	de	Ingeniería	de	Sistemas	y	Computación
- * Licenciado	bajo	el	esquema	Academic Free License versión 2.1
- *
- * Curso: isis2304 - Sistemas Transaccionales
- * Proyecto: Parranderos Uniandes
- * @version 1.0
- * @author Germán Bravo
- * Julio de 2018
- *
- * Revisado por: Claudia Jiménez, Christian Ariza
- * ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
- */
-
 package uniandes.isis2304.superandes.test;
 
 import static org.junit.Assert.assertEquals;
@@ -29,8 +14,8 @@ import com.google.gson.Gson;
 import com.google.gson.JsonObject;
 import com.google.gson.stream.JsonReader;
 
-import uniandes.isis2304.superandes.negocio.Parranderos;
-import uniandes.isis2304.superandes.negocio.VOTipoBebida;
+import uniandes.isis2304.superandes.negocio.SuperAndes;
+import uniandes.isis2304.superandes.negocio.AlmacenamientoProducto;
 
 /**
  * Clase con métodos de prueba de conexión a la base de datos
@@ -86,7 +71,7 @@ public class ConexionTest {
 	/**
 	 * La clase que se quiere probar
 	 */
-	private Parranderos parranderos;
+	private SuperAndes superandes;
 
 	/*
 	 * ****************************************************************
@@ -99,11 +84,11 @@ public class ConexionTest {
 	public void normalAccessTest() {
 		try {
 			log.info("Probando el acceso a la base de datos con datos válidos (BD, credenciales, esquema");
-			parranderos = new Parranderos(openConfig(CONFIG_TABLAS_A));
+			superandes = new SuperAndes(openConfig(CONFIG_TABLAS_A));
 			log.info("Conexión realizada correstamente");
 			log.info("Cerrando la conexión");
 
-			parranderos.cerrarUnidadPersistencia();
+			superandes.cerrarUnidadPersistencia();
 			log.info("Conexión cerrada");
 		} catch (Exception e) {
 			// e.printStackTrace();
@@ -111,7 +96,7 @@ public class ConexionTest {
 			log.info("La causa es: " + e.getCause().toString());
 
 			String msg = "Prueba de acceso normal a la base de datos falló !! Revise persistence.xml.\n";
-			msg += "Revise el log de parranderos y el de datanucleus para conocer el detalle de la excepción";
+			msg += "Revise el log de superandes y el de datanucleus para conocer el detalle de la excepción";
 			// System.out.println (msg);
 			fail(msg);
 		}
@@ -127,7 +112,7 @@ public class ConexionTest {
 	public void baseDatosInaccesible() {
 		try {
 			log.info("Probando el acceso a la base de datos con una base de datos que no existe");
-			parranderos = new Parranderos(openConfig(CONFIG_TABLAS_ERR_DS));
+			superandes = new SuperAndes(openConfig(CONFIG_TABLAS_ERR_DS));
 			fail("Debería fallar. La base de datos no existe !!");
 		} catch (Exception e) {
 			// e.printStackTrace();
@@ -135,7 +120,7 @@ public class ConexionTest {
 			log.info("La causa es: " + e.getCause().toString());
 
 			String msg = "Prueba de base de datos inaccesible correcta.\n";
-			msg += "Revise el log de parranderos y el de datanucleus para conocer el detalle de la excepción";
+			msg += "Revise el log de superandes y el de datanucleus para conocer el detalle de la excepción";
 			System.out.println(msg);
 		}
 	}
@@ -149,7 +134,7 @@ public class ConexionTest {
 	public void usuarioInvalidoTest() {
 		try {
 			log.info("Probando el acceso a la base de datos con datos de usuario incorrectos");
-			parranderos = new Parranderos(openConfig(CONFIG_TABLAS_ERR_USER));
+			superandes = new SuperAndes(openConfig(CONFIG_TABLAS_ERR_USER));
 			fail("Debería fallar. Las credenciales del usuario no son válidas");
 		} catch (Exception e) {
 			// e.printStackTrace();
@@ -157,51 +142,8 @@ public class ConexionTest {
 			log.info("La causa es: " + e.getCause().toString());
 
 			String msg = "Prueba de credenciales incorrectas correcta.\n";
-			msg += "Revise el log de parranderos y el de datanucleus para conocer el detalle de la excepción";
+			msg += "Revise el log de superandes y el de datanucleus para conocer el detalle de la excepción";
 			System.out.println(msg);
-		}
-	}
-
-	/**
-	 * Método que prueba el intento de acceso a una base de datos inaccesible, por
-	 * causa:
-	 * 1. El esquema no ha sido creado o es erróneo - Intentar acceder a una tabla
-	 * inexistente
-	 */
-	@Test
-	public void tablaInexistenteTest() {
-		// Probar primero la conexión a la base de datos
-		try {
-			log.info("Probando el acceso a la base de datos con datos de usuario correctos, pero sin crear el esquema");
-			parranderos = new Parranderos(openConfig(CONFIG_TABLAS_B));
-		} catch (Exception e) {
-			// e.printStackTrace();
-			log.info(
-					"Prueba de tabla inexistente incompleta. No se pudo conectar a la base de datos !!. La excepción generada es: "
-							+ e.getClass().getName());
-			log.info("La causa es: " + e.getCause().toString());
-
-			String msg = "Prueba de tabla inexistente incompleta. No se pudo conectar a la base de datos !!.\n";
-			msg += "Revise el log de parranderos y el de datanucleus para conocer el detalle de la excepción";
-			System.out.println(msg);
-			fail(msg);
-		}
-
-		// Ahora si se puede probar si la tabla existe o no...
-		try {
-			parranderos.darTiposBebida();
-			fail("Debería fallar. La tabla consultada no existe en la BD");
-		} catch (Exception e) {
-			// e.printStackTrace();
-			log.info("Prueba de tabla inexistente correcta. La excepción generada es: " + e.getClass().getName());
-			log.info("La causa es: " + e.getCause().toString());
-
-			String msg = "Prueba de tabla inexistente correcta.\n";
-			msg += "Revise el log de parranderos y el de datanucleus para conocer el detalle de la excepción";
-			System.out.println(msg);
-		} finally {
-			parranderos.limpiarParranderos();
-			parranderos.cerrarUnidadPersistencia();
 		}
 	}
 
@@ -212,7 +154,7 @@ public class ConexionTest {
 	/**
 	 * Lee datos de configuración para la aplicación, a partir de un archivo JSON o
 	 * con valores por defecto si hay errores.
-	 * 
+	 *
 	 * @param tipo       - El tipo de configuración deseada
 	 * @param archConfig - Archivo Json que contiene la configuración
 	 * @return Un objeto JSON con la configuración del tipo especificado
