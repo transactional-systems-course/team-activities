@@ -1,8 +1,14 @@
 -- Show sales of SuperAndes to a given customer, in a range of dates
+SELECT *
+FROM COMPRA
+WHERE FECHA_COMPRA BETWEEN '28-NOV-21' AND '27-MAY-22'
+AND COMPRADOR = '3896442104';
 
-Esta operación es realizada por los gerentes de sucursal y por el gerente general del supermercado.
-Por razones de privacidad, un gerente de sucursal sólo puede ver la información de su sucursal, y de los
-clientes de su sucursal, mientras que el gerente general puede ver la información de todas las sucursales. 
-6
-También puede ser solicitada por el cliente. En ese caso, un cliente sólo puede ver su propia información.
-
+-- Show sales by products of SuperAndes to a given customer, in a range of dates
+SELECT *
+FROM COMPRA
+INNER JOIN PRODUCTOS_COMPRA ON ID_COMPRA = ID
+INNER JOIN PRODUCTO ON ID_PRODUCTO = PRODUCTO.CODIGO_BARRAS
+INNER JOIN DETALLES_PRODUCTO ON DETALLES_PRODUCTO.ID = INFO_DETALLES
+WHERE FECHA_COMPRA BETWEEN '28-NOV-21' AND '27-MAY-22'
+AND COMPRADOR = '3896442104';
