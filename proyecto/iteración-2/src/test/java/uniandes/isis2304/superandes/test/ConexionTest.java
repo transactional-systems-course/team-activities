@@ -34,7 +34,7 @@ import uniandes.isis2304.superandes.negocio.VOTipoBebida;
 
 /**
  * Clase con métodos de prueba de conexión a la base de datos
- * 
+ *
  * @author Germán Bravo
  *
  */
