@@ -5,11 +5,24 @@
   "bannerPath": "./src/main/resources/config/logo.png",
   "menuBar": [
     {
+      "menuTitle": "Producto",
+      "options": [
+        {
+          "label": "ConsultarPorCaracteristica",
+          "event": "consultarCaracteristicaProductos"
+        }
+      ]
+    },
+    {
       "menuTitle": "Promocion",
       "options": [
         {
           "label": "Registrar",
           "event": "registrarPromocion"
+        },
+        {
+          "label": "ConsultarPromosPopulares",
+          "event": "consultarPromosPopulares"
         }
       ]
     },
@@ -32,6 +45,10 @@
         {
           "label": "AprovisionarEstante",
           "event": "aprovisionarEstante"
+        },
+        {
+          "label": "ConsultarIndiceOcupacion",
+          "event": "consultarIndiceOcupacionEstante"
         }
       ]
     },
@@ -39,8 +56,39 @@
       "menuTitle": "Venta",
       "options": [
         {
-          "label": "registrarVenta",
+          "label": "RegistrarVenta",
           "event": "registrarVenta"
+        },
+        {
+          "label": "ConsultarVentasPorCliente",
+          "event": "consultarVentasPorCliente"
+        }
+      ]
+    },
+    {
+      "menuTitle": "Sucursal",
+      "options": [
+        {
+          "label": "ConsultarDineroRecolectado",
+          "event": "consultarDineroRecolectado"
+        }
+      ]
+    },
+    {
+      "menuTitle": "Bodega",
+      "options": [
+        {
+          "label": "ConsultarIndiceOcupacion",
+          "event": "consultarIndiceOcupacionBodega"
+        }
+      ]
+    },
+    {
+      "menuTitle": "Proveedor",
+      "options": [
+        {
+          "label": "ConsultarPedidos",
+          "event": "consultarPedidosProveedor"
         }
       ]
     },
