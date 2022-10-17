@@ -56,7 +56,7 @@ public class InterfazSuperAndesApp extends JFrame implements ActionListener {
 	/**
 	 * Ruta al archivo de configuración de los nombres de tablas de la base de datos
 	 */
-	private static final String CONFIG_TABLAS = "./src/main/resources/config/TablasBD_A.json";
+	private static final String CONFIG_TABLAS = "./src/main/resources/config/TablasBD.json";
 
 	/*
 	 * ****************************************************************
@@ -298,21 +298,21 @@ public class InterfazSuperAndesApp extends JFrame implements ActionListener {
 	 * Muestra el modelo conceptual de Parranderos
 	 */
 	public void mostrarModeloConceptual() {
-		mostrarArchivo("docs/modelo-conceptual.pdf");
+		mostrarArchivo("docs/modelos/modelo-conceptual.pdf");
 	}
 
 	/**
 	 * Muestra el esquema de la base de datos de Parranderos
 	 */
 	public void mostrarEsquemaBD() {
-		mostrarArchivo("docs/modelo-relacional.pdf");
+		mostrarArchivo("docs/modelos/modelo-relacional.pdf");
 	}
 
 	/**
 	 * Muestra el script de creación de la base de datos
 	 */
 	public void mostrarScriptBD() {
-		mostrarArchivo("docs/data/EsquemaSuperAndes.sql");
+		mostrarArchivo("docs/sql/data/EsquemaSuperAndes.sql");
 	}
 
 	/**
