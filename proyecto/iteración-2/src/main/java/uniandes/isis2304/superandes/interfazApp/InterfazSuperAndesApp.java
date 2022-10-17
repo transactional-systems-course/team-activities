@@ -220,8 +220,72 @@ public class InterfazSuperAndesApp extends JFrame implements ActionListener {
 	/*
 	 * ****************************************************************
 	 * CRUD de PRODUCTO
-	 * consultarCaracteristicaProductos
 	 *****************************************************************/
+	/**
+	 * Consulta productos por característica
+	 */
+	public void consultarCaracteristicaProductos() {
+		try {
+			String tipoBusqueda = JOptionPane.showInputDialog(this,
+					"¿Tipo de búsqueda? (Número de 0 a 7 de acuerdo al tipo)",
+					"Consultar productos por característica (Precio, fecha expiración posterior, Rango Peso o volumen, Proveedor, Disponible en ciudad, Disponible en sucursal, Por tipo o categoria, Ventas mayores a valor en ciertas fechas)",
+					JOptionPane.QUESTION_MESSAGE);
+			String precio = JOptionPane.showInputDialog(this, "¿Precio? (dejar en blanco, sí no es de interés)",
+					"Consultar productos por característica",
+					JOptionPane.QUESTION_MESSAGE);
+			String fechaExpPos = JOptionPane.showInputDialog(this,
+					"¿Fecha expiración mínima? (dejar en blanco, sí no es de interés)",
+					"Consultar productos por característica",
+					JOptionPane.QUESTION_MESSAGE);
+			String pesoVolInf = JOptionPane.showInputDialog(this,
+					"¿Peso o volumen mínimo? (dejar en blanco, sí no es de interés)",
+					"Consultar productos por característica",
+					JOptionPane.QUESTION_MESSAGE);
+			String pesoVolSup = JOptionPane.showInputDialog(this,
+					"¿Peso o volumen máximo? (dejar en blanco, sí no es de interés)",
+					"Consultar productos por característica",
+					JOptionPane.QUESTION_MESSAGE);
+			String proveedor = JOptionPane.showInputDialog(this, "¿Proveedor? (dejar en blanco, sí no es de interés)",
+					"Consultar productos por característica",
+					JOptionPane.QUESTION_MESSAGE);
+			String ciudad = JOptionPane.showInputDialog(this, "¿Ciudad? (dejar en blanco, sí no es de interés)",
+					"Consultar productos por característica",
+					JOptionPane.QUESTION_MESSAGE);
+			String tipo = JOptionPane.showInputDialog(this, "¿Tipo producto? (dejar en blanco, sí no es de interés)",
+					"Consultar productos por característica",
+					JOptionPane.QUESTION_MESSAGE);
+			String categoria = JOptionPane.showInputDialog(this,
+					"¿Categoria producto? (dejar en blanco, sí no es de interés)",
+					"Consultar productos por característica",
+					JOptionPane.QUESTION_MESSAGE);
+			String precioInf = JOptionPane.showInputDialog(this,
+					"Límite inferior de precio de venta? (dejar en blanco, sí no es de interés)",
+					"Consultar productos por característica",
+					JOptionPane.QUESTION_MESSAGE);
+			String fechaInf = JOptionPane.showInputDialog(this,
+					"Fecha de venta mínima? (dejar en blanco, sí no es de interés)",
+					"Consultar productos por característica",
+					JOptionPane.QUESTION_MESSAGE);
+			String fechaSup = JOptionPane.showInputDialog(this,
+					"Fecha de venta máxima? (dejar en blanco, sí no es de interés)",
+					"Consultar productos por característica",
+					JOptionPane.QUESTION_MESSAGE);
+			if (tipoBusqueda != null) {
+				String resultado = "En consultar productos por característica\n\n";
+				resultado += "\n" + superandes.consultarCaracteristicaProductos(tipoBusqueda, precio, fechaExpPos,
+						pesoVolInf, pesoVolSup, proveedor, ciudad, tipo, categoria, precioInf, fechaInf, fechaSup);
+				resultado += "\n Operación terminada";
+				panelDatos.actualizarInterfaz(resultado);
+
+			} else {
+				panelDatos.actualizarInterfaz("Operación cancelada por el usuario");
+			}
+		} catch (Exception e) {
+			// e.printStackTrace();
+			String resultado = generarMensajeError(e);
+			panelDatos.actualizarInterfaz(resultado);
+		}
+	}
 
 	/*
 	 * ****************************************************************
@@ -229,6 +293,52 @@ public class InterfazSuperAndesApp extends JFrame implements ActionListener {
 	 * registrarPromocion
 	 * consultarPromosPopulares
 	 *****************************************************************/
+	public void adicionarTipoBebida() {
+		try {
+			String nombreTipo = JOptionPane.showInputDialog(this, "Nombre del tipo de bedida?",
+					"Adicionar tipo de bebida", JOptionPane.QUESTION_MESSAGE);
+			if (nombreTipo != null) {
+				VOTipoBebida tb = parranderos.adicionarTipoBebida(nombreTipo);
+				if (tb == null) {
+					throw new Exception("No se pudo crear un tipo de bebida con nombre: " + nombreTipo);
+				}
+				String resultado = "En adicionarTipoBebida\n\n";
+				resultado += "Tipo de bebida adicionado exitosamente: " + tb;
+				resultado += "\n Operación terminada";
+				panelDatos.actualizarInterfaz(resultado);
+			} else {
+				panelDatos.actualizarInterfaz("Operación cancelada por el usuario");
+			}
+		} catch (Exception e) {
+			// e.printStackTrace();
+			String resultado = generarMensajeError(e);
+			panelDatos.actualizarInterfaz(resultado);
+		}
+	}
+
+	public void buscarTipoBebidaPorNombre() {
+		try {
+			String nombreTb = JOptionPane.showInputDialog(this, "Nombre del tipo de bedida?",
+					"Buscar tipo de bebida por nombre", JOptionPane.QUESTION_MESSAGE);
+			if (nombreTb != null) {
+				VOTipoBebida tipoBebida = parranderos.darTipoBebidaPorNombre(nombreTb);
+				String resultado = "En buscar Tipo Bebida por nombre\n\n";
+				if (tipoBebida != null) {
+					resultado += "El tipo de bebida es: " + tipoBebida;
+				} else {
+					resultado += "Un tipo de bebida con nombre: " + nombreTb + " NO EXISTE\n";
+				}
+				resultado += "\n Operación terminada";
+				panelDatos.actualizarInterfaz(resultado);
+			} else {
+				panelDatos.actualizarInterfaz("Operación cancelada por el usuario");
+			}
+		} catch (Exception e) {
+			// e.printStackTrace();
+			String resultado = generarMensajeError(e);
+			panelDatos.actualizarInterfaz(resultado);
+		}
+	}
 
 	/*
 	 * ****************************************************************
@@ -236,6 +346,52 @@ public class InterfazSuperAndesApp extends JFrame implements ActionListener {
 	 * crearPedido
 	 * registrarLlegadaPedido
 	 *****************************************************************/
+	public void adicionarTipoBebida() {
+		try {
+			String nombreTipo = JOptionPane.showInputDialog(this, "Nombre del tipo de bedida?",
+					"Adicionar tipo de bebida", JOptionPane.QUESTION_MESSAGE);
+			if (nombreTipo != null) {
+				VOTipoBebida tb = parranderos.adicionarTipoBebida(nombreTipo);
+				if (tb == null) {
+					throw new Exception("No se pudo crear un tipo de bebida con nombre: " + nombreTipo);
+				}
+				String resultado = "En adicionarTipoBebida\n\n";
+				resultado += "Tipo de bebida adicionado exitosamente: " + tb;
+				resultado += "\n Operación terminada";
+				panelDatos.actualizarInterfaz(resultado);
+			} else {
+				panelDatos.actualizarInterfaz("Operación cancelada por el usuario");
+			}
+		} catch (Exception e) {
+			// e.printStackTrace();
+			String resultado = generarMensajeError(e);
+			panelDatos.actualizarInterfaz(resultado);
+		}
+	}
+
+	public void buscarTipoBebidaPorNombre() {
+		try {
+			String nombreTb = JOptionPane.showInputDialog(this, "Nombre del tipo de bedida?",
+					"Buscar tipo de bebida por nombre", JOptionPane.QUESTION_MESSAGE);
+			if (nombreTb != null) {
+				VOTipoBebida tipoBebida = parranderos.darTipoBebidaPorNombre(nombreTb);
+				String resultado = "En buscar Tipo Bebida por nombre\n\n";
+				if (tipoBebida != null) {
+					resultado += "El tipo de bebida es: " + tipoBebida;
+				} else {
+					resultado += "Un tipo de bebida con nombre: " + nombreTb + " NO EXISTE\n";
+				}
+				resultado += "\n Operación terminada";
+				panelDatos.actualizarInterfaz(resultado);
+			} else {
+				panelDatos.actualizarInterfaz("Operación cancelada por el usuario");
+			}
+		} catch (Exception e) {
+			// e.printStackTrace();
+			String resultado = generarMensajeError(e);
+			panelDatos.actualizarInterfaz(resultado);
+		}
+	}
 
 	/*
 	 * ****************************************************************
@@ -243,6 +399,52 @@ public class InterfazSuperAndesApp extends JFrame implements ActionListener {
 	 * aprovisionarEstante
 	 * consultarIndiceOcupacionEstante
 	 *****************************************************************/
+	public void adicionarTipoBebida() {
+		try {
+			String nombreTipo = JOptionPane.showInputDialog(this, "Nombre del tipo de bedida?",
+					"Adicionar tipo de bebida", JOptionPane.QUESTION_MESSAGE);
+			if (nombreTipo != null) {
+				VOTipoBebida tb = parranderos.adicionarTipoBebida(nombreTipo);
+				if (tb == null) {
+					throw new Exception("No se pudo crear un tipo de bebida con nombre: " + nombreTipo);
+				}
+				String resultado = "En adicionarTipoBebida\n\n";
+				resultado += "Tipo de bebida adicionado exitosamente: " + tb;
+				resultado += "\n Operación terminada";
+				panelDatos.actualizarInterfaz(resultado);
+			} else {
+				panelDatos.actualizarInterfaz("Operación cancelada por el usuario");
+			}
+		} catch (Exception e) {
+			// e.printStackTrace();
+			String resultado = generarMensajeError(e);
+			panelDatos.actualizarInterfaz(resultado);
+		}
+	}
+
+	public void buscarTipoBebidaPorNombre() {
+		try {
+			String nombreTb = JOptionPane.showInputDialog(this, "Nombre del tipo de bedida?",
+					"Buscar tipo de bebida por nombre", JOptionPane.QUESTION_MESSAGE);
+			if (nombreTb != null) {
+				VOTipoBebida tipoBebida = parranderos.darTipoBebidaPorNombre(nombreTb);
+				String resultado = "En buscar Tipo Bebida por nombre\n\n";
+				if (tipoBebida != null) {
+					resultado += "El tipo de bebida es: " + tipoBebida;
+				} else {
+					resultado += "Un tipo de bebida con nombre: " + nombreTb + " NO EXISTE\n";
+				}
+				resultado += "\n Operación terminada";
+				panelDatos.actualizarInterfaz(resultado);
+			} else {
+				panelDatos.actualizarInterfaz("Operación cancelada por el usuario");
+			}
+		} catch (Exception e) {
+			// e.printStackTrace();
+			String resultado = generarMensajeError(e);
+			panelDatos.actualizarInterfaz(resultado);
+		}
+	}
 
 	/*
 	 * ****************************************************************
@@ -250,18 +452,106 @@ public class InterfazSuperAndesApp extends JFrame implements ActionListener {
 	 * registrarVenta
 	 * consultarVentasPorCliente
 	 *****************************************************************/
+	public void adicionarTipoBebida() {
+		try {
+			String nombreTipo = JOptionPane.showInputDialog(this, "Nombre del tipo de bedida?",
+					"Adicionar tipo de bebida", JOptionPane.QUESTION_MESSAGE);
+			if (nombreTipo != null) {
+				VOTipoBebida tb = parranderos.adicionarTipoBebida(nombreTipo);
+				if (tb == null) {
+					throw new Exception("No se pudo crear un tipo de bebida con nombre: " + nombreTipo);
+				}
+				String resultado = "En adicionarTipoBebida\n\n";
+				resultado += "Tipo de bebida adicionado exitosamente: " + tb;
+				resultado += "\n Operación terminada";
+				panelDatos.actualizarInterfaz(resultado);
+			} else {
+				panelDatos.actualizarInterfaz("Operación cancelada por el usuario");
+			}
+		} catch (Exception e) {
+			// e.printStackTrace();
+			String resultado = generarMensajeError(e);
+			panelDatos.actualizarInterfaz(resultado);
+		}
+	}
+
+	public void consultarPedidosProveedor() {
+		try {
+			String nombreProveedor = JOptionPane.showInputDialog(this, "¿Nombre del proveedor?",
+					"Consultar compras a un proveedor", JOptionPane.QUESTION_MESSAGE);
+			if (nombreProveedor != null) {
+				String resultado = "En compras a un proveedor por nombre\n\n";
+				resultado += "\n" + superandes.consultarPedidosProveedor(nombreProveedor);
+				resultado += "\n Operación terminada";
+				panelDatos.actualizarInterfaz(resultado);
+
+			} else {
+				panelDatos.actualizarInterfaz("Operación cancelada por el usuario");
+			}
+		} catch (Exception e) {
+			// e.printStackTrace();
+			String resultado = generarMensajeError(e);
+			panelDatos.actualizarInterfaz(resultado);
+		}
+	}
 
 	/*
 	 * ****************************************************************
 	 * CRUD de SUCURSAL
 	 * consultarDineroRecolectado
 	 *****************************************************************/
+	public void buscarTipoBebidaPorNombre() {
+		try {
+			String nombreTb = JOptionPane.showInputDialog(this, "Nombre del tipo de bedida?",
+					"Buscar tipo de bebida por nombre", JOptionPane.QUESTION_MESSAGE);
+			if (nombreTb != null) {
+				VOTipoBebida tipoBebida = parranderos.darTipoBebidaPorNombre(nombreTb);
+				String resultado = "En buscar Tipo Bebida por nombre\n\n";
+				if (tipoBebida != null) {
+					resultado += "El tipo de bebida es: " + tipoBebida;
+				} else {
+					resultado += "Un tipo de bebida con nombre: " + nombreTb + " NO EXISTE\n";
+				}
+				resultado += "\n Operación terminada";
+				panelDatos.actualizarInterfaz(resultado);
+			} else {
+				panelDatos.actualizarInterfaz("Operación cancelada por el usuario");
+			}
+		} catch (Exception e) {
+			// e.printStackTrace();
+			String resultado = generarMensajeError(e);
+			panelDatos.actualizarInterfaz(resultado);
+		}
+	}
 
 	/*
 	 * ****************************************************************
 	 * CRUD de BODEGA
 	 * consultarIndiceOcupacionBodega
 	 *****************************************************************/
+	public void buscarTipoBebidaPorNombre() {
+		try {
+			String nombreTb = JOptionPane.showInputDialog(this, "Nombre del tipo de bedida?",
+					"Buscar tipo de bebida por nombre", JOptionPane.QUESTION_MESSAGE);
+			if (nombreTb != null) {
+				VOTipoBebida tipoBebida = parranderos.darTipoBebidaPorNombre(nombreTb);
+				String resultado = "En buscar Tipo Bebida por nombre\n\n";
+				if (tipoBebida != null) {
+					resultado += "El tipo de bebida es: " + tipoBebida;
+				} else {
+					resultado += "Un tipo de bebida con nombre: " + nombreTb + " NO EXISTE\n";
+				}
+				resultado += "\n Operación terminada";
+				panelDatos.actualizarInterfaz(resultado);
+			} else {
+				panelDatos.actualizarInterfaz("Operación cancelada por el usuario");
+			}
+		} catch (Exception e) {
+			// e.printStackTrace();
+			String resultado = generarMensajeError(e);
+			panelDatos.actualizarInterfaz(resultado);
+		}
+	}
 
 	/*
 	 * ****************************************************************
