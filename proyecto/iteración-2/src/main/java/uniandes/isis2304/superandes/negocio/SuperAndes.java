@@ -44,8 +44,8 @@ public class SuperAndes {
 	}
 
 	/**
-	 * El constructor qye recibe los nombres de las tablas en tableConfig
-	 * 
+	 * El constructor que recibe los nombres de las tablas en tableConfig
+	 *
 	 * @param tableConfig - Objeto Json con los nombres de las tablas y de la unidad
 	 *                    de persistencia
 	 */

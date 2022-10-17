@@ -31,6 +31,7 @@ import com.google.gson.JsonElement;
 import com.google.gson.JsonObject;
 import com.google.gson.stream.JsonReader;
 
+import uniandes.isis2304.superandes.negocio.Proveedor;
 import uniandes.isis2304.superandes.negocio.SuperAndes;
 
 /**
@@ -219,42 +220,75 @@ public class InterfazSuperAndesApp extends JFrame implements ActionListener {
 	/*
 	 * ****************************************************************
 	 * CRUD de PRODUCTO
+	 * consultarCaracteristicaProductos
 	 *****************************************************************/
 
 	/*
 	 * ****************************************************************
 	 * CRUD de PROMOCION
+	 * registrarPromocion
+	 * consultarPromosPopulares
 	 *****************************************************************/
 
 	/*
 	 * ****************************************************************
 	 * CRUD de PEDIDO
+	 * crearPedido
+	 * registrarLlegadaPedido
 	 *****************************************************************/
 
 	/*
 	 * ****************************************************************
 	 * CRUD de ESTANTE
+	 * aprovisionarEstante
+	 * consultarIndiceOcupacionEstante
 	 *****************************************************************/
 
 	/*
 	 * ****************************************************************
 	 * CRUD de VENTA
+	 * registrarVenta
+	 * consultarVentasPorCliente
 	 *****************************************************************/
 
 	/*
 	 * ****************************************************************
 	 * CRUD de SUCURSAL
+	 * consultarDineroRecolectado
 	 *****************************************************************/
 
 	/*
 	 * ****************************************************************
 	 * CRUD de BODEGA
+	 * consultarIndiceOcupacionBodega
 	 *****************************************************************/
 
 	/*
 	 * ****************************************************************
 	 * CRUD de PROVEEDOR
 	 *****************************************************************/
+	/**
+	 * Consulta las compras realizadas por SuperAndes a un proveedor
+	 */
+	public void consultarPedidosProveedor() {
+		try {
+			String nombreProveedor = JOptionPane.showInputDialog(this, "¿Nombre del proveedor?",
+					"Consultar compras a un proveedor", JOptionPane.QUESTION_MESSAGE);
+			if (nombreProveedor != null) {
+				String resultado = "En compras a un proveedor por nombre\n\n";
+				resultado += "\n" + superandes.consultarPedidosProveedor(nombreProveedor);
+				resultado += "\n Operación terminada";
+				panelDatos.actualizarInterfaz(resultado);
+
+			} else {
+				panelDatos.actualizarInterfaz("Operación cancelada por el usuario");
+			}
+		} catch (Exception e) {
+			// e.printStackTrace();
+			String resultado = generarMensajeError(e);
+			panelDatos.actualizarInterfaz(resultado);
+		}
+	}
 
 	/*
 	 * ****************************************************************
