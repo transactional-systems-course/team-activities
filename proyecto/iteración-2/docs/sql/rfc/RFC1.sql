@@ -1,26 +1,17 @@
-SELECT
-    ID_SUCURSAL,
+SELECT ID_SUCURSAL,
     NOMBRE,
     SUM(VALOR_COMPRA_TOTAL) AS SUMA_VALORES
-FROM
-    (
-        SELECT
-            *
-        FROM
-            SUCURSAL
-        INNER JOIN
-        (
-            SELECT
-            NUMERO_DOCUMENTO,
-            ID_SUCURSAL
-            FROM USUARIO) USUARIO
+FROM (
+        SELECT *
+        FROM SUCURSAL
+            INNER JOIN (
+                SELECT NUMERO_DOCUMENTO,
+                    ID_SUCURSAL
+                FROM USUARIO
+            ) USUARIO
             ON USUARIO.ID_SUCURSAL = SUCURSAL.ID
-        INNER JOIN
-        (
-            SELECT *
-            FROM COMPRA
-        ) COMPRA
-        ON USUARIO.NUMERO_DOCUMENTO = COMPRA.COMPRADOR
+            INNER JOIN COMPRA
+            ON USUARIO.NUMERO_DOCUMENTO = COMPRA.COMPRADOR
     )
 GROUP BY ID_SUCURSAL, NOMBRE
 ORDER BY SUMA_VALORES DESC;
