@@ -1,18 +1,3 @@
-/**~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
- * Universidad	de	los	Andes	(Bogotá	- Colombia)
- * Departamento	de	Ingeniería	de	Sistemas	y	Computación
- * Licenciado	bajo	el	esquema	Academic Free License versión 2.1
- *
- * Curso: isis2304 - Sistemas Transaccionales
- * Proyecto: Parranderos Uniandes
- * @version 1.0
- * @author Germán Bravo
- * Julio de 2018
- *
- * Revisado por: Claudia Jiménez, Christian Ariza
- * ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
- */
-
 package uniandes.isis2304.superandes.interfazApp;
 
 import java.awt.BorderLayout;
@@ -24,8 +9,6 @@ import javax.swing.border.TitledBorder;
 /**
  * Clase de interfaz para mostrar los resultados de la ejecución de las
  * operaciones realizadas por el usuario
- * 
- * @author Germán Bravo
  */
 @SuppressWarnings("serial")
 public class PanelDatos extends JPanel {
@@ -47,7 +30,7 @@ public class PanelDatos extends JPanel {
 
     /**
      * Construye el panel
-     * 
+     *
      */
     public PanelDatos() {
         setBorder(new TitledBorder("Panel de información"));
@@ -70,5 +53,4 @@ public class PanelDatos extends JPanel {
     public void actualizarInterfaz(String texto) {
         textArea.setText(texto);
     }
-
 }

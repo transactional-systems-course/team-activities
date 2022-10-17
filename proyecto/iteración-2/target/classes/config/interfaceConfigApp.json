@@ -1,5 +1,5 @@
 {
-  "title": "Aplicación transaccional de Parranderos Uniandes",
+  "title": "Aplicación transaccional de SuperAndes Uniandes",
   "frameH": 600,
   "frameW": 800,
   "bannerPath": "./src/main/resources/config/logo.png",
@@ -29,16 +29,16 @@
       "menuTitle": "Mantenimiento",
       "options": [
         {
-          "label": "Mostrar log Parranderos",
-          "event": "mostrarLogParranderos"
+          "label": "Mostrar log SuperAndes",
+          "event": "mostrarLogSuperAndes"
         },
         {
           "label": "Mostrar log datanucleus",
           "event": "mostrarLogDatanuecleus"
         },
         {
-          "label": "Limpiar log de parranderos",
-          "event": "limpiarLogParranderos"
+          "label": "Limpiar log de superAndes",
+          "event": "limpiarLogSuperAndes"
         },
         {
           "label": "Limpiar log de datanucleus",
@@ -54,10 +54,6 @@
       "menuTitle": "Documentación",
       "options": [
         {
-          "label": "Presentación general",
-          "event": "mostrarPresentacionGeneral"
-        },
-        {
           "label": "Modelo conceptual",
           "event": "mostrarModeloConceptual"
         },
@@ -70,11 +66,7 @@
           "event": "mostrarScriptBD"
         },
         {
-          "label": "Arquitectura de referencia",
-          "event": "mostrarArqRef"
-        },
-        {
-          "label": "Javadoc Parranderos",
+          "label": "Javadoc SuperAndes",
           "event": "mostrarJavadoc"
         }
       ]
