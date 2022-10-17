@@ -2,13 +2,13 @@
  * Universidad	de	los	Andes	(Bogotá	- Colombia)
  * Departamento	de	Ingeniería	de	Sistemas	y	Computación
  * Licenciado	bajo	el	esquema	Academic Free License versión 2.1
- * 		
+ *
  * Curso: isis2304 - Sistemas Transaccionales
  * Proyecto: Parranderos Uniandes
  * @version 1.0
  * @author Germán Bravo
  * Julio de 2018
- * 
+ *
  * Revisado por: Claudia Jiménez, Christian Ariza
  * ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
  */
@@ -64,7 +64,7 @@ public class PanelDatos extends JPanel {
 
     /**
      * Actualiza el panel con la información recibida por parámetro.
-     * 
+     *
      * @param texto El texto con el que actualiza el área
      */
     public void actualizarInterfaz(String texto) {

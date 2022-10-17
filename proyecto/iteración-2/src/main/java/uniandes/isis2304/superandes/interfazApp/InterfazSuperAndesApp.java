@@ -1,18 +1,3 @@
-/**~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
- * Universidad	de	los	Andes	(Bogotá	- Colombia)
- * Departamento	de	Ingeniería	de	Sistemas	y	Computación
- * Licenciado	bajo	el	esquema	Academic Free License versión 2.1
- * 		
- * Curso: isis2304 - Sistemas Transaccionales
- * Proyecto: Parranderos Uniandes
- * @version 1.0
- * @author Germán Bravo
- * Julio de 2018
- * 
- * Revisado por: Claudia Jiménez, Christian Ariza
- * ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
- */
-
 package uniandes.isis2304.superandes.interfazApp;
 
 import java.awt.BorderLayout;
@@ -46,13 +31,10 @@ import com.google.gson.JsonElement;
 import com.google.gson.JsonObject;
 import com.google.gson.stream.JsonReader;
 
-import uniandes.isis2304.superandes.negocio.Parranderos;
-import uniandes.isis2304.superandes.negocio.VOTipoBebida;
+import uniandes.isis2304.superandes.negocio.SuperAndes;
 
 /**
  * Clase principal de la interfaz
- * 
- * @author Germán Bravo
  */
 @SuppressWarnings("serial")
 
@@ -89,7 +71,7 @@ public class InterfazSuperAndesApp extends JFrame implements ActionListener {
 	/**
 	 * Asociación a la clase principal del negocio.
 	 */
-	private Parranderos parranderos;
+	private SuperAndes superandes;
 
 	/*
 	 * ****************************************************************
@@ -129,7 +111,7 @@ public class InterfazSuperAndesApp extends JFrame implements ActionListener {
 		}
 
 		tableConfig = openConfig("Tablas BD", CONFIG_TABLAS);
-		parranderos = new Parranderos(tableConfig);
+		superandes = new SuperAndes(tableConfig);
 
 		String path = guiConfig.get("bannerPath").getAsString();
 		panelDatos = new PanelDatos();
@@ -146,7 +128,7 @@ public class InterfazSuperAndesApp extends JFrame implements ActionListener {
 	/**
 	 * Lee datos de configuración para la aplicació, a partir de un archivo JSON o
 	 * con valores por defecto si hay errores.
-	 * 
+	 *
 	 * @param tipo       - El tipo de configuración deseada
 	 * @param archConfig - Archivo Json que contiene la configuración
 	 * @return Un objeto JSON con la configuración del tipo especificado
@@ -164,7 +146,7 @@ public class InterfazSuperAndesApp extends JFrame implements ActionListener {
 			// e.printStackTrace ();
 			log.info("NO se encontró un archivo de configuración válido");
 			JOptionPane.showMessageDialog(null,
-					"No se encontró un archivo de configuración de interfaz válido: " + tipo, "Parranderos App",
+					"No se encontró un archivo de configuración de interfaz válido: " + tipo, "SuperAndes App",
 					JOptionPane.ERROR_MESSAGE);
 		}
 		return config;
@@ -180,7 +162,7 @@ public class InterfazSuperAndesApp extends JFrame implements ActionListener {
 
 		if (guiConfig == null) {
 			log.info("Se aplica configuración por defecto");
-			titulo = "Parranderos APP Default";
+			titulo = "Super Andes APP Default";
 			alto = 300;
 			ancho = 500;
 		} else {
@@ -202,7 +184,7 @@ public class InterfazSuperAndesApp extends JFrame implements ActionListener {
 	/**
 	 * Método para crear el menú de la aplicación con base em el objeto JSON leído
 	 * Genera una barra de menú y los menús con sus respectivas opciones
-	 * 
+	 *
 	 * @param jsonMenu - Arreglo Json con los menùs deseados
 	 */
 	private void crearMenu(JsonArray jsonMenu) {
@@ -236,120 +218,19 @@ public class InterfazSuperAndesApp extends JFrame implements ActionListener {
 
 	/*
 	 * ****************************************************************
-	 * CRUD de TipoBebida
+	 * CRUD de TODO
 	 *****************************************************************/
-	/**
-	 * Adiciona un tipo de bebida con la información dada por el usuario
-	 * Se crea una nueva tupla de tipoBebida en la base de datos, si un tipo de
-	 * bebida con ese nombre no existía
-	 */
-	public void adicionarTipoBebida() {
-		try {
-			String nombreTipo = JOptionPane.showInputDialog(this, "Nombre del tipo de bedida?",
-					"Adicionar tipo de bebida", JOptionPane.QUESTION_MESSAGE);
-			if (nombreTipo != null) {
-				VOTipoBebida tb = parranderos.adicionarTipoBebida(nombreTipo);
-				if (tb == null) {
-					throw new Exception("No se pudo crear un tipo de bebida con nombre: " + nombreTipo);
-				}
-				String resultado = "En adicionarTipoBebida\n\n";
-				resultado += "Tipo de bebida adicionado exitosamente: " + tb;
-				resultado += "\n Operación terminada";
-				panelDatos.actualizarInterfaz(resultado);
-			} else {
-				panelDatos.actualizarInterfaz("Operación cancelada por el usuario");
-			}
-		} catch (Exception e) {
-			// e.printStackTrace();
-			String resultado = generarMensajeError(e);
-			panelDatos.actualizarInterfaz(resultado);
-		}
-	}
 
-	/**
-	 * Consulta en la base de datos los tipos de bebida existentes y los muestra en
-	 * el panel de datos de la aplicación
-	 */
-	public void listarTipoBebida() {
-		try {
-			List<VOTipoBebida> lista = parranderos.darVOTiposBebida();
-
-			String resultado = "En listarTipoBebida";
-			resultado += "\n" + listarTiposBebida(lista);
-			panelDatos.actualizarInterfaz(resultado);
-			resultado += "\n Operación terminada";
-		} catch (Exception e) {
-			// e.printStackTrace();
-			String resultado = generarMensajeError(e);
-			panelDatos.actualizarInterfaz(resultado);
-		}
-	}
-
-	/**
-	 * Borra de la base de datos el tipo de bebida con el identificador dado po el
-	 * usuario
-	 * Cuando dicho tipo de bebida no existe, se indica que se borraron 0 registros
-	 * de la base de datos
-	 */
-	public void eliminarTipoBebidaPorId() {
-		try {
-			String idTipoStr = JOptionPane.showInputDialog(this, "Id del tipo de bedida?",
-					"Borrar tipo de bebida por Id", JOptionPane.QUESTION_MESSAGE);
-			if (idTipoStr != null) {
-				long idTipo = Long.valueOf(idTipoStr);
-				long tbEliminados = parranderos.eliminarTipoBebidaPorId(idTipo);
-
-				String resultado = "En eliminar TipoBebida\n\n";
-				resultado += tbEliminados + " Tipos de bebida eliminados\n";
-				resultado += "\n Operación terminada";
-				panelDatos.actualizarInterfaz(resultado);
-			} else {
-				panelDatos.actualizarInterfaz("Operación cancelada por el usuario");
-			}
-		} catch (Exception e) {
-			// e.printStackTrace();
-			String resultado = generarMensajeError(e);
-			panelDatos.actualizarInterfaz(resultado);
-		}
-	}
-
-	/**
-	 * Busca el tipo de bebida con el nombre indicado por el usuario y lo muestra en
-	 * el panel de datos
-	 */
-	public void buscarTipoBebidaPorNombre() {
-		try {
-			String nombreTb = JOptionPane.showInputDialog(this, "Nombre del tipo de bedida?",
-					"Buscar tipo de bebida por nombre", JOptionPane.QUESTION_MESSAGE);
-			if (nombreTb != null) {
-				VOTipoBebida tipoBebida = parranderos.darTipoBebidaPorNombre(nombreTb);
-				String resultado = "En buscar Tipo Bebida por nombre\n\n";
-				if (tipoBebida != null) {
-					resultado += "El tipo de bebida es: " + tipoBebida;
-				} else {
-					resultado += "Un tipo de bebida con nombre: " + nombreTb + " NO EXISTE\n";
-				}
-				resultado += "\n Operación terminada";
-				panelDatos.actualizarInterfaz(resultado);
-			} else {
-				panelDatos.actualizarInterfaz("Operación cancelada por el usuario");
-			}
-		} catch (Exception e) {
-			// e.printStackTrace();
-			String resultado = generarMensajeError(e);
-			panelDatos.actualizarInterfaz(resultado);
-		}
-	}
 
 	/*
 	 * ****************************************************************
 	 * Métodos administrativos
 	 *****************************************************************/
 	/**
-	 * Muestra el log de Parranderos
+	 * Muestra el log de SuperAndes
 	 */
-	public void mostrarLogParranderos() {
-		mostrarArchivo("parranderos.log");
+	public void mostrarLogSuperAndes() {
+		mostrarArchivo("superandes.log");
 	}
 
 	/**
@@ -363,9 +244,9 @@ public class InterfazSuperAndesApp extends JFrame implements ActionListener {
 	 * Limpia el contenido del log de parranderos
 	 * Muestra en el panel de datos la traza de la ejecución
 	 */
-	public void limpiarLogParranderos() {
+	public void limpiarLogSuperAndes() {
 		// Ejecución de la operación y recolección de los resultados
-		boolean resp = limpiarArchivo("parranderos.log");
+		boolean resp = limpiarArchivo("superandes.log");
 
 		// Generación de la cadena de caracteres con la traza de la ejecución de la demo
 		String resultado = "\n\n************ Limpiando el log de parranderos ************ \n";
@@ -399,17 +280,10 @@ public class InterfazSuperAndesApp extends JFrame implements ActionListener {
 	public void limpiarBD() {
 		try {
 			// Ejecución de la demo y recolección de los resultados
-			long eliminados[] = parranderos.limpiarParranderos();
+			long eliminados[] = superandes.limpiarSuperAndes();
 
-			// Generación de la cadena de caracteres con la traza de la ejecución de la demo
+			// Generación de la cadena de caracteres con la traza de la ejecución
 			String resultado = "\n\n************ Limpiando la base de datos ************ \n";
-			resultado += eliminados[0] + " Gustan eliminados\n";
-			resultado += eliminados[1] + " Sirven eliminados\n";
-			resultado += eliminados[2] + " Visitan eliminados\n";
-			resultado += eliminados[3] + " Bebidas eliminadas\n";
-			resultado += eliminados[4] + " Tipos de bebida eliminados\n";
-			resultado += eliminados[5] + " Bebedores eliminados\n";
-			resultado += eliminados[6] + " Bares eliminados\n";
 			resultado += "\nLimpieza terminada";
 
 			panelDatos.actualizarInterfaz(resultado);
@@ -421,38 +295,24 @@ public class InterfazSuperAndesApp extends JFrame implements ActionListener {
 	}
 
 	/**
-	 * Muestra la presentación general del proyecto
-	 */
-	public void mostrarPresentacionGeneral() {
-		mostrarArchivo("data/00-ST-ParranderosJDO.pdf");
-	}
-
-	/**
 	 * Muestra el modelo conceptual de Parranderos
 	 */
 	public void mostrarModeloConceptual() {
-		mostrarArchivo("data/Modelo Conceptual Parranderos.pdf");
+		mostrarArchivo("docs/modelo-conceptual.pdf");
 	}
 
 	/**
 	 * Muestra el esquema de la base de datos de Parranderos
 	 */
 	public void mostrarEsquemaBD() {
-		mostrarArchivo("data/Esquema BD Parranderos.pdf");
+		mostrarArchivo("docs/modelo-relacional.pdf");
 	}
 
 	/**
 	 * Muestra el script de creación de la base de datos
 	 */
 	public void mostrarScriptBD() {
-		mostrarArchivo("data/EsquemaParranderos.sql");
-	}
-
-	/**
-	 * Muestra la arquitectura de referencia para Parranderos
-	 */
-	public void mostrarArqRef() {
-		mostrarArchivo("data/ArquitecturaReferencia.pdf");
+		mostrarArchivo("docs/data/EsquemaSuperAndes.sql");
 	}
 
 	/**
@@ -467,17 +327,13 @@ public class InterfazSuperAndesApp extends JFrame implements ActionListener {
 	 */
 	public void acercaDe() {
 		String resultado = "\n\n ************************************\n\n";
-		resultado += " * Universidad	de	los	Andes	(Bogotá	- Colombia)\n";
-		resultado += " * Departamento	de	Ingeniería	de	Sistemas	y	Computación\n";
-		resultado += " * Licenciado	bajo	el	esquema	Academic Free License versión 2.1\n";
+		resultado += " * Universidad de	los	Andes (Bogotá	- Colombia)\n";
+		resultado += " * Departamento de	Ingeniería	de	Sistemas y Computación\n";
 		resultado += " * \n";
-		resultado += " * Curso: isis2304 - Sistemas Transaccionales\n";
-		resultado += " * Proyecto: Parranderos Uniandes\n";
+		resultado += " * Curso: ISIS2304 - Sistemas Transaccionales\n";
+		resultado += " * Proyecto: SuperAndes Uniandes\n";
 		resultado += " * @version 1.0\n";
-		resultado += " * @author Germán Bravo\n";
-		resultado += " * Julio de 2018\n";
-		resultado += " * \n";
-		resultado += " * Revisado por: Claudia Jiménez, Christian Ariza\n";
+		resultado += " * @author B-03\n";
 		resultado += "\n ************************************\n\n";
 
 		panelDatos.actualizarInterfaz(resultado);
@@ -488,25 +344,9 @@ public class InterfazSuperAndesApp extends JFrame implements ActionListener {
 	 * Métodos privados para la presentación de resultados y otras operaciones
 	 *****************************************************************/
 	/**
-	 * Genera una cadena de caracteres con la lista de los tipos de bebida recibida:
-	 * una línea por cada tipo de bebida
-	 * 
-	 * @param lista - La lista con los tipos de bebida
-	 * @return La cadena con una líea para cada tipo de bebida recibido
-	 */
-	private String listarTiposBebida(List<VOTipoBebida> lista) {
-		String resp = "Los tipos de bebida existentes son:\n";
-		int i = 1;
-		for (VOTipoBebida tb : lista) {
-			resp += i++ + ". " + tb.toString() + "\n";
-		}
-		return resp;
-	}
-
-	/**
 	 * Genera una cadena de caracteres con la descripción de la excepcion e,
 	 * haciendo énfasis en las excepcionsde JDO
-	 * 
+	 *
 	 * @param e - La excepción recibida
 	 * @return La descripción de la excepción, cuando es
 	 *         javax.jdo.JDODataStoreException, "" de lo contrario
@@ -522,7 +362,7 @@ public class InterfazSuperAndesApp extends JFrame implements ActionListener {
 
 	/**
 	 * Genera una cadena para indicar al usuario que hubo un error en la aplicación
-	 * 
+	 *
 	 * @param e - La excepción generada
 	 * @return La cadena con la información de la excepción y detalles adicionales
 	 */
@@ -535,7 +375,7 @@ public class InterfazSuperAndesApp extends JFrame implements ActionListener {
 
 	/**
 	 * Limpia el contenido de un archivo dado su nombre
-	 * 
+	 *
 	 * @param nombreArchivo - El nombre del archivo que se quiere borrar
 	 * @return true si se pudo limpiar
 	 */
@@ -554,14 +394,13 @@ public class InterfazSuperAndesApp extends JFrame implements ActionListener {
 
 	/**
 	 * Abre el archivo dado como parámetro con la aplicación por defecto del sistema
-	 * 
+	 *
 	 * @param nombreArchivo - El nombre del archivo que se quiere mostrar
 	 */
 	private void mostrarArchivo(String nombreArchivo) {
 		try {
 			Desktop.getDesktop().open(new File(nombreArchivo));
 		} catch (IOException e) {
-			// TODO Auto-generated catch block
 			e.printStackTrace();
 		}
 	}
@@ -574,7 +413,7 @@ public class InterfazSuperAndesApp extends JFrame implements ActionListener {
 	 * Método para la ejecución de los eventos que enlazan el menú con los métodos
 	 * de negocio
 	 * Invoca al método correspondiente según el evento recibido
-	 * 
+	 *
 	 * @param pEvento - El evento del usuario
 	 */
 	@Override
@@ -594,7 +433,7 @@ public class InterfazSuperAndesApp extends JFrame implements ActionListener {
 	 *****************************************************************/
 	/**
 	 * Este método ejecuta la aplicación, creando una nueva interfaz
-	 * 
+	 *
 	 * @param args Arreglo de argumentos que se recibe por línea de comandos
 	 */
 	public static void main(String[] args) {
