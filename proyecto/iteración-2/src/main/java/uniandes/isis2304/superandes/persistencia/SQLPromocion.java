@@ -49,13 +49,22 @@ public class SQLPromocion {
     
 
     /**
-     * TODO: CRUD
+     * Registra una promoción nueva en la base de datos.
+     * 
+     * @param rebajaEnPrecio
+     * @param tipoPromocion
+     * @param fechaInicio
+     * @param fechaFin
+     * @param idProducto
+     * @param cantUnidadesDisponibles
+     * @param totalUnidadesOfrecidas
+     * @return
      */
     
-    public long registrarPromocion(String rebajaEnPrecio, String tipoPromocion, String fechaInicio, String fechaFin,
+    public String registrarPromocion(PersistenceManager pm, String rebajaEnPrecio, String tipoPromocion, String fechaInicio, String fechaFin,
             String idProducto, String cantUnidadesDisponibles, String totalUnidadesOfrecidas) {
         String ret = null;
-        Query q = ps.newQuery(SQL, "INSERT INTO PROMOCION (\r\n"
+        Query q = pm.newQuery(SQL, "INSERT INTO PROMOCION (\r\n"
                 + "    ID,\r\n"
                 + "    REBAJA_EN_PRECIO,\r\n"
                 + "    TIPO_PROMOCION,\r\n"
@@ -65,7 +74,7 @@ public class SQLPromocion {
                 + "    CANT_UNIDADES_DISPONIBLES,\r\n"
                 + "    TOTAL_UNIDADES_OFRECIDAS\r\n"
                 + ") VALUES (\r\n"
-                + "    1,"
+                + " 1,"
                 + rebajaEnPrecio + ","
                 + tipoPromocion  + ","
                 + fechaInicio + ","
@@ -75,7 +84,22 @@ public class SQLPromocion {
                 + totalUnidadesOfrecidas + ","
                 + ");");
         
-        
-        return (long) q.executeUnique();
+        return (String) q.executeUnique();
     }
+    public String consultarPromosPopulares(PersistenceManager pm) {
+        Query q = pm.newQuery(SQL, "SELECT ID                                                 AS ID_PROMOCION,\r\n"
+                + "    ID_PRODUCTO,\r\n"
+                + "    NOMBRE,\r\n"
+                + "    TOTAL_UNIDADES_OFRECIDAS-CANT_UNIDADES_DISPONIBLES AS CANTIDADES_VENDIDAS\r\n"
+                + "FROM (\r\n"
+                + "        SELECT *\r\n"
+                + "        FROM PROMOCION\r\n"
+                + "            INNER JOIN PRODUCTO\r\n"
+                + "            ON PRODUCTO.CODIGO_BARRAS = PROMOCION.ID_PRODUCTO\r\n"
+                + "    )\r\n"
+                + "ORDER BY CANTIDADES_VENDIDAS DESC FETCH FIRST 20 ROWS ONLY;");
+        return (String) q.executeUnique();
+    }   
 }
+
+

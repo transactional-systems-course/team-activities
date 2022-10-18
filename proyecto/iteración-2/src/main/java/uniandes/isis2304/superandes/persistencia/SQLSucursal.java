@@ -50,4 +50,26 @@ public class SQLSucursal {
     /**
      * TODO: CRUD
      */
+    public long consultarDineroRecolectado(PersistenceManager pm, String idSucursal) {
+        Query q = pm.newQuery(SQL, 
+                "SELECT ID_SUCURSAL,\r\n"
+                + "    NOMBRE,\r\n"
+                + "    SUM(VALOR_COMPRA_TOTAL) AS SUMA_VALORES\r\n"
+                + "FROM (\r\n"
+                + "        SELECT *\r\n"
+                + "        FROM SUCURSAL\r\n"
+                + "            INNER JOIN (\r\n"
+                + "                SELECT NUMERO_DOCUMENTO,\r\n"
+                + "                    ID_SUCURSAL\r\n"
+                + "                FROM USUARIO\r\n"
+                + "            ) USUARIO\r\n"
+                + "            ON USUARIO.ID_SUCURSAL = SUCURSAL.ID\r\n"
+                + "            INNER JOIN COMPRA\r\n"
+                + "            ON USUARIO.NUMERO_DOCUMENTO = COMPRA.COMPRADOR\r\n"
+                + "    )\r\n"
+                + "WHERE ID_SUCURSAL = ?"
+                + "GROUP BY ID_SUCURSAL, NOMBRE\r\n"
+                + "ORDER BY SUMA_VALORES DESC;");
+        return (long) q.executeUnique();
+    }
 }
