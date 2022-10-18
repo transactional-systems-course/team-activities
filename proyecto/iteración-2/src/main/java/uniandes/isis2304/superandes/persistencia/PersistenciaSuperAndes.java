@@ -466,22 +466,30 @@ public class PersistenciaSuperAndes {
      * ****************************************************************
      * Métodos para manejar PROVEEDOR
      *****************************************************************/
-	/**
-	 * Método que consulta todas las tuplas en la tabla Pedidos con un
-	 * identificador dado
-	 *
-	 * @param nombreProveedor - El identificador del proveedor
-	 * @return la lista de objetos Pedidos
-	 */
-	public List<Pedido> consultarPedidosProveedor(String nombreProveedor) {
-		return sqlPedido.consultarPedidosProveedor(pmf.getPersistenceManager(), nombreProveedor);
-	}
+    /**
+     * Método que consulta todas las tuplas en la tabla Pedidos con un
+     * identificador dado
+     *
+     * @param nombreProveedor - El nombre del proveedor
+     * @return la lista de objetos Pedidos
+     */
+    public List<Pedido> consultarPedidosProveedor(String nombreProveedor) {
+        return sqlPedido.consultarPedidosProveedor(pmf.getPersistenceManager(), nombreProveedor);
+    }
 
     /*
      * ****************************************************************
      * Métodos para manejar BODEGA
-     * consultarIndiceOcupacionBodega
      *****************************************************************/
+    /**
+     * Método que consulta el índice de ocupación de una bodega
+     *
+     * @param idBodega - El identificador de la bódega
+     * @return el índice de ocupación de la bodega
+     */
+    public Long consultarIndiceOcupacionBodega(String idBodega) {
+        return sqlContenedor.consultarIndiceOcupacionBodega(pmf.getPersistenceManager(), idBodega);
+    }
 
     /*
      * ****************************************************************
