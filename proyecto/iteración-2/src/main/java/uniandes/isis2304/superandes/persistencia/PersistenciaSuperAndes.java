@@ -17,6 +17,7 @@ import com.google.gson.JsonElement;
 import com.google.gson.JsonObject;
 
 import uniandes.isis2304.superandes.negocio.Bar;
+import uniandes.isis2304.superandes.negocio.Pedido;
 
 /**
  * Clase para el manejador de persistencia del proyecto SuperAndes
@@ -464,9 +465,18 @@ public class PersistenciaSuperAndes {
     /*
      * ****************************************************************
      * Métodos para manejar PROVEEDOR
-     * consultarPedidosProveedor
      *****************************************************************/
-    
+	/**
+	 * Método que consulta todas las tuplas en la tabla Pedidos con un
+	 * identificador dado
+	 *
+	 * @param nombreProveedor - El identificador del proveedor
+	 * @return la lista de objetos Pedidos
+	 */
+	public List<Pedido> consultarPedidosProveedor(String nombreProveedor) {
+		return sqlPedido.consultarPedidosProveedor(pmf.getPersistenceManager(), nombreProveedor);
+	}
+
     /*
      * ****************************************************************
      * Métodos para manejar BODEGA
