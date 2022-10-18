@@ -298,7 +298,7 @@ public class PersistenciaSuperAndes {
      * @return La cadena de caracteres con el nombre del secuenciador de SuperAndes
      */
     public String darSeqSuperAndes() {
-        return tablas.get(0);
+        return tablas.get(1);
     }
 
     /**
@@ -307,7 +307,7 @@ public class PersistenciaSuperAndes {
      *         SuperAndes
      */
     public String darTablaAlmacenamientoProducto() {
-        return tablas.get(1);
+        return tablas.get(2);
     }
 
     /**
@@ -315,7 +315,7 @@ public class PersistenciaSuperAndes {
      *         SuperAndes
      */
     public String darTablaCompra() {
-        return tablas.get(2);
+        return tablas.get(3);
     }
 
     /**
@@ -323,7 +323,7 @@ public class PersistenciaSuperAndes {
      *         SuperAndes
      */
     public String darTablaContenedor() {
-        return tablas.get(3);
+        return tablas.get(4);
     }
 
     /**
@@ -332,7 +332,7 @@ public class PersistenciaSuperAndes {
      *         SuperAndes
      */
     public String darTablaDetallesProducto() {
-        return tablas.get(4);
+        return tablas.get(5);
     }
 
     /**
@@ -341,7 +341,7 @@ public class PersistenciaSuperAndes {
      *         SuperAndes
      */
     public String darTablaMedicionProducto() {
-        return tablas.get(5);
+        return tablas.get(6);
     }
 
     /**
@@ -349,7 +349,7 @@ public class PersistenciaSuperAndes {
      *         SuperAndes
      */
     public String darTablaPedido() {
-        return tablas.get(6);
+        return tablas.get(7);
     }
 
     /**
@@ -358,7 +358,7 @@ public class PersistenciaSuperAndes {
      *         SuperAndes
      */
     public String darTablaPedidosProveedor() {
-        return tablas.get(7);
+        return tablas.get(8);
     }
 
     /**
@@ -366,7 +366,7 @@ public class PersistenciaSuperAndes {
      *         SuperAndes
      */
     public String darTablaProducto() {
-        return tablas.get(8);
+        return tablas.get(9);
     }
 
     /**
@@ -375,7 +375,7 @@ public class PersistenciaSuperAndes {
      *         SuperAndes
      */
     public String darTablaProductosCompra() {
-        return tablas.get(9);
+        return tablas.get(10);
     }
 
     /**
@@ -384,7 +384,7 @@ public class PersistenciaSuperAndes {
      *         SuperAndes
      */
     public String darTablaProductosProvistos() {
-        return tablas.get(10);
+        return tablas.get(11);
     }
 
     /**
@@ -392,7 +392,7 @@ public class PersistenciaSuperAndes {
      *         SuperAndes
      */
     public String darTablaPromocion() {
-        return tablas.get(11);
+        return tablas.get(12);
     }
 
     /**
@@ -400,7 +400,7 @@ public class PersistenciaSuperAndes {
      *         SuperAndes
      */
     public String darTablaProveedor() {
-        return tablas.get(12);
+        return tablas.get(13);
     }
 
     /**
@@ -408,7 +408,7 @@ public class PersistenciaSuperAndes {
      *         SuperAndes
      */
     public String darTablaReviewPedido() {
-        return tablas.get(13);
+        return tablas.get(14);
     }
 
     /**
@@ -416,7 +416,7 @@ public class PersistenciaSuperAndes {
      *         SuperAndes
      */
     public String darTablaRol() {
-        return tablas.get(14);
+        return tablas.get(15);
     }
 
     /**
@@ -424,7 +424,7 @@ public class PersistenciaSuperAndes {
      *         SuperAndes
      */
     public String darTablaSucursal() {
-        return tablas.get(15);
+        return tablas.get(16);
     }
 
     /**
@@ -432,7 +432,7 @@ public class PersistenciaSuperAndes {
      *         SuperAndes
      */
     public String darTablaUsuario() {
-        return tablas.get(16);
+        return tablas.get(17);
     }
 
     /**

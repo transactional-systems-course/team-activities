@@ -1,6 +1,7 @@
 package uniandes.isis2304.superandes.persistencia;
 
 import java.util.List;
+import java.math.BigDecimal;
 
 import javax.jdo.PersistenceManager;
 import javax.jdo.Query;
@@ -48,25 +49,27 @@ public class SQLContenedor {
     }
 
     /**
-     * TODO: CRUD
+     * Crea y ejecuta la sentencia SQL para encontrar la información del
+     * índice de ocupación de las bodegas en la base de datos de SuperAndes.
+     *
+     * @param pm - El manejador de persistencia
+     * @return Indice de ocupación de bodega
      */
-    public long consultarIndiceOcupacionBodega(String idBodega) {
-        Query q = ps.newQuery(SQL, ""
-                + "SELECT ID, TIPO_CONTENEDOR, "
-                + "(SUM(MEDIDA)/CAPACIDAD_MAXIMA_PESO)*100 AS PORCENTAJE_ALMACENAMIENTO\r\n"
-                + "FROM (\r\n"
-                + "    SELECT * FROM CONTENEDOR\r\n"
-                + "    INNER JOIN\r\n"
-                + "    (SELECT * FROM ALMACENAMIENTO_PRODUCTO) ALM\r\n"
-                + "    ON CONTENEDOR.ID = ALM.ID_CONTENEDOR_ACTUAL\r\n"
-                + "    INNER JOIN\r\n"
-                + "    (SELECT * FROM MEDICION_PRODUCTO) MED \r\n"
-                + "    ON MED.ID = ALM.ID\r\n"
-                + ")\r\n"
-                + "WHERE (ID_SUCURSAL = ?)\r\n"
-                + "GROUP BY ID, TIPO_CONTENEDOR, CAPACIDAD_MAXIMA_PESO;");
-        return(long) q.executeUnique();
+    public long consultarIndiceOcupacionBodega(PersistenceManager pm, String idBodega) {
+        Query q = pm.newQuery(SQL, ""
+                + " SELECT ID, TIPO_CONTENEDOR, "
+                + " (SUM(MEDIDA)/CAPACIDAD_MAXIMA_PESO)*100 AS PORCENTAJE_ALMACENAMIENTO "
+                + " FROM ( "
+                + "    SELECT * FROM CONTENEDOR "
+                + "    INNER JOIN "
+                + "    (SELECT * FROM ALMACENAMIENTO_PRODUCTO ) ALM "
+                + "    ON CONTENEDOR.ID = ALM.ID_CONTENEDOR_ACTUAL "
+                + "    INNER JOIN"
+                + "    (SELECT * FROM MEDICION_PRODUCTO) MED "
+                + "    ON MED.ID = ALM.ID "
+                + " ) "
+                + " WHERE (ID_SUCURSAL = '" + '1' + "') "
+                + " GROUP BY ID, TIPO_CONTENEDOR, CAPACIDAD_MAXIMA_PESO; ");
+        return (long) ((BigDecimal) q.executeUnique()).longValue();
     }
-    
-    
 }
