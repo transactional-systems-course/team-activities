@@ -18,6 +18,7 @@ import com.google.gson.JsonObject;
 
 import uniandes.isis2304.superandes.negocio.Compra;
 import uniandes.isis2304.superandes.negocio.Pedido;
+import uniandes.isis2304.superandes.negocio.Promocion;
 
 /**
  * Clase para el manejador de persistencia del proyecto SuperAndes
@@ -588,21 +589,69 @@ public class PersistenciaSuperAndes {
     /*
      * ****************************************************************
      * Métodos para manejar PEDIDO
-     * crearPedido
-     * registrarLlegadaPedido
+     * TODO: crearPedido
+     * TODO: registrarLlegadaPedido
      *****************************************************************/
 
     /*
      * ****************************************************************
      * Métodos para manejar PROMOCION
-     * registrarPromocion
-     * consultarPromosPopulares
      *****************************************************************/
+    /**
+     * Método que inserta, de manera transaccional, una tupla en la tabla PROMOCION
+     * Adiciona entradas al log de la aplicación
+     *
+     * @param rebajaEnPrecio          - El valor de la compra
+     * @param tipoPromocion           - La url de compra
+     * @param fechaInicio             - El estado de la compra
+     * @param fechaFin                - El identificador de comprador
+     * @param idProducto              - La fecha de la compra
+     * @param cantUnidadesDisponibles - El identificador de comprador
+     * @param totalUnidadesOfrecidas  - La fecha de la compra
+     * @return El objeto Promocion adicionado. null si ocurre alguna Excepción
+     */
+    public Promocion registrarPromocion(String rebajaEnPrecio, String tipoPromocion, String fechaInicio,
+            String fechaFin, String idProducto, String cantUnidadesDisponibles, String totalUnidadesOfrecidas) {
+        PersistenceManager pm = pmf.getPersistenceManager();
+        Transaction tx = pm.currentTransaction();
+        try {
+            tx.begin();
+            int idPromocion = (int) nextval();
+            long tuplasInsertadas = sqlCompra.registrarVenta(pm, idPromocion, rebajaEnPrecio, tipoPromocion,
+                    fechaInicio, fechaFin,
+                    idProducto, cantUnidadesDisponibles, totalUnidadesOfrecidas);
+            tx.commit();
+
+            log.trace("Inserción de Promocion: " + idPromocion + ": " + tuplasInsertadas + " tuplas insertadas");
+
+            return new Promocion(idPromocion, Long.parseLong(rebajaEnPrecio), tipoPromocion, fechaInicio, fechaFin,
+                    Integer.parseInt(idProducto), Integer.parseInt(cantUnidadesDisponibles),
+                    Integer.parseInt(totalUnidadesOfrecidas));
+        } catch (Exception e) {
+            // e.printStackTrace();
+            log.error("Exception : " + e.getMessage() + "\n" + darDetalleException(e));
+            return null;
+        } finally {
+            if (tx.isActive()) {
+                tx.rollback();
+            }
+            pm.close();
+        }
+    }
+
+    /**
+     * Método que consulta las promociones más populares
+     *
+     * @return la lista de las 20 promociones más populares
+     */
+    public List<Promocion> consultarPromosPopulares(String idEstante) {
+        return sqlPromocion.consultarPromosPopulares(pmf.getPersistenceManager());
+    }
 
     /*
      * ****************************************************************
-     * Métodos para manejar PRODUCTO
-     * consultarCaracteristicaProductos
+     * TODO: Métodos para manejar PRODUCTO
+     * TODO: consultarCaracteristicaProductos
      *****************************************************************/
 
     /**
