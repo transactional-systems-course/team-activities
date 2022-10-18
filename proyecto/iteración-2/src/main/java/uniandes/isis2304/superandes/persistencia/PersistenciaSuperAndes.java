@@ -474,7 +474,7 @@ public class PersistenciaSuperAndes {
      * @return la lista de objetos Pedidos
      */
     public List<Pedido> consultarPedidosProveedor(String nombreProveedor) {
-        return sqlPedido.consultarPedidosProveedor(pmf.getPersistenceManager(), nombreProveedor);
+        return sqlProveedor.consultarPedidosProveedor(pmf.getPersistenceManager(), nombreProveedor);
     }
 
     /*
@@ -487,7 +487,7 @@ public class PersistenciaSuperAndes {
      * @param idBodega - El identificador de la bódega
      * @return el índice de ocupación de la bodega
      */
-    public Long consultarIndiceOcupacionBodega(String idBodega) {
+    public long consultarIndiceOcupacionBodega(String idBodega) {
         return sqlContenedor.consultarIndiceOcupacionBodega(pmf.getPersistenceManager(), idBodega);
     }
 
@@ -507,9 +507,27 @@ public class PersistenciaSuperAndes {
     /*
      * ****************************************************************
      * Métodos para manejar ESTANTE
-     * aprovisionarEstante
-     * consultarIndiceOcupacionEstante
      *****************************************************************/
+    /**
+     * Método que aprovisiona un estante de productos
+     *
+     * @param idEstante  - El identificador del estante
+     * @param idProducto - El identificador del producto a colocar
+     * @return El número de tuplas modificadas
+     */
+    public long aprovisionarEstante(String idEstante, String idProducto) {
+        return sqlContenedor.aprovisionarEstante(pmf.getPersistenceManager(), idEstante, idProducto);
+    }
+
+    /**
+     * Método que consulta el índice de ocupación de un estante
+     *
+     * @param idEstante - El identificador del estante
+     * @return el índice de ocupación del estante
+     */
+    public long consultarIndiceOcupacionEstante(String idEstante) {
+        return sqlContenedor.consultarIndiceOcupacionEstante(pmf.getPersistenceManager(), idEstante);
+    }
 
     /*
      * ****************************************************************
