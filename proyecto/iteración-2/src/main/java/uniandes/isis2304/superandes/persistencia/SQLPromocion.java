@@ -61,7 +61,7 @@ public class SQLPromocion {
      * @return
      */
     
-    public long registrarPromocion(PersistenceManager pm, String rebajaEnPrecio, String tipoPromocion, String fechaInicio, String fechaFin,
+    public String registrarPromocion(PersistenceManager pm, String rebajaEnPrecio, String tipoPromocion, String fechaInicio, String fechaFin,
             String idProducto, String cantUnidadesDisponibles, String totalUnidadesOfrecidas) {
         String ret = null;
         Query q = pm.newQuery(SQL, "INSERT INTO PROMOCION (\r\n"
@@ -84,9 +84,9 @@ public class SQLPromocion {
                 + totalUnidadesOfrecidas + ","
                 + ");");
         
-        return (long) q.executeUnique();
+        return (String) q.executeUnique();
     }
-    public long consultarPromosPopulares(PersistenceManager pm) {
+    public String consultarPromosPopulares(PersistenceManager pm) {
         Query q = pm.newQuery(SQL, "SELECT ID                                                 AS ID_PROMOCION,\r\n"
                 + "    ID_PRODUCTO,\r\n"
                 + "    NOMBRE,\r\n"
@@ -98,8 +98,8 @@ public class SQLPromocion {
                 + "            ON PRODUCTO.CODIGO_BARRAS = PROMOCION.ID_PRODUCTO\r\n"
                 + "    )\r\n"
                 + "ORDER BY CANTIDADES_VENDIDAS DESC FETCH FIRST 20 ROWS ONLY;");
-        return (long) q.executeUnique();
-    }
+        return (String) q.executeUnique();
+    }   
 }
 
 
