@@ -523,6 +523,7 @@ public class InterfazSuperAndesApp extends JFrame implements ActionListener {
 			String resultado = "En indice de ocupación de bodega\n\n";
 			resultado += "\n" + superandes.consultarIndiceOcupacionBodega(idBodega);
 			resultado += "\n Operación terminada";
+			panelDatos.actualizarInterfaz(resultado);
 		} catch (Exception e) {
 			// e.printStackTrace();
 			String resultado = generarMensajeError(e);

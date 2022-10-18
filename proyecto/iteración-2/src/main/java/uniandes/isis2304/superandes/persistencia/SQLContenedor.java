@@ -55,21 +55,30 @@ public class SQLContenedor {
      * @param pm - El manejador de persistencia
      * @return Indice de ocupación de bodega
      */
-    public long consultarIndiceOcupacionBodega(PersistenceManager pm, String idBodega) {
-        Query q = pm.newQuery(SQL, ""
-                + " SELECT ID, TIPO_CONTENEDOR, "
-                + " (SUM(MEDIDA)/CAPACIDAD_MAXIMA_PESO)*100 AS PORCENTAJE_ALMACENAMIENTO "
-                + " FROM ( "
-                + "    SELECT * FROM CONTENEDOR "
-                + "    INNER JOIN "
-                + "    (SELECT * FROM ALMACENAMIENTO_PRODUCTO ) ALM "
-                + "    ON CONTENEDOR.ID = ALM.ID_CONTENEDOR_ACTUAL "
-                + "    INNER JOIN"
-                + "    (SELECT * FROM MEDICION_PRODUCTO) MED "
-                + "    ON MED.ID = ALM.ID "
-                + " ) "
-                + " WHERE (ID_SUCURSAL = '" + '1' + "') "
-                + " GROUP BY ID, TIPO_CONTENEDOR, CAPACIDAD_MAXIMA_PESO; ");
-        return (long) ((BigDecimal) q.executeUnique()).longValue();
+    public String consultarIndiceOcupacionBodega(PersistenceManager pm, String idBodega) {
+        String strQ = "SELECT ID,\n" +
+                "TIPO_CONTENEDOR,\n" +
+                "(SUM(MEDIDA)/CAPACIDAD_MAXIMA_PESO)*100 AS PORCENTAJE_ALMACENAMIENTO\n" +
+                "FROM (\n" +
+                "SELECT *\n" +
+                "FROM CONTENEDOR\n" +
+                "INNER JOIN (\n" +
+                "SELECT *\n" +
+                "FROM ALMACENAMIENTO_PRODUCTO\n" +
+                ") ALM\n" +
+                "ON CONTENEDOR.ID = ALM.ID_CONTENEDOR_ACTUAL\n" +
+                "INNER JOIN (\n" +
+                "SELECT *\n" +
+                "FROM MEDICION_PRODUCTO\n" +
+                ") MED\n" +
+                "ON MED.ID = ALM.ID\n" +
+                ")\n" +
+                "WHERE (ID_SUCURSAL = '1')\n" +
+                "GROUP BY ID,\n" +
+                "TIPO_CONTENEDOR,\n" +
+                "CAPACIDAD_MAXIMA_PESO";
+        Query q = pm.newQuery(SQL, strQ);
+        String result = q.executeList().toString();
+        return result;
     }
 }

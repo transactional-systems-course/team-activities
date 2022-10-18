@@ -488,7 +488,7 @@ public class PersistenciaSuperAndes {
      * @param idBodega - El identificador de la bódega
      * @return el índice de ocupación de la bodega
      */
-    public long consultarIndiceOcupacionBodega(String idBodega) {
+    public String consultarIndiceOcupacionBodega(String idBodega) {
         return sqlContenedor.consultarIndiceOcupacionBodega(pmf.getPersistenceManager(), idBodega);
     }
 
