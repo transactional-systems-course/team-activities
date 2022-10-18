@@ -16,7 +16,9 @@ import com.google.gson.JsonArray;
 import com.google.gson.JsonElement;
 import com.google.gson.JsonObject;
 
-import uniandes.isis2304.superandes.negocio.Bar;
+import uniandes.isis2304.superandes.negocio.Compra;
+import uniandes.isis2304.superandes.negocio.Pedido;
+import uniandes.isis2304.superandes.negocio.Promocion;
 
 /**
  * Clase para el manejador de persistencia del proyecto SuperAndes
@@ -464,53 +466,192 @@ public class PersistenciaSuperAndes {
     /*
      * ****************************************************************
      * Métodos para manejar PROVEEDOR
-     * consultarPedidosProveedor
      *****************************************************************/
-    
+    /**
+     * Método que consulta todas las tuplas en la tabla Pedidos con un
+     * identificador dado
+     *
+     * @param nombreProveedor - El nombre del proveedor
+     * @return la lista de objetos Pedidos
+     */
+    public List<Pedido> consultarPedidosProveedor(String nombreProveedor) {
+        return sqlProveedor.consultarPedidosProveedor(pmf.getPersistenceManager(), nombreProveedor);
+    }
+
     /*
      * ****************************************************************
      * Métodos para manejar BODEGA
-     * consultarIndiceOcupacionBodega
      *****************************************************************/
+    /**
+     * Método que consulta el índice de ocupación de una bodega
+     *
+     * @param idBodega - El identificador de la bódega
+     * @return el índice de ocupación de la bodega
+     */
+    public long consultarIndiceOcupacionBodega(String idBodega) {
+        return sqlContenedor.consultarIndiceOcupacionBodega(pmf.getPersistenceManager(), idBodega);
+    }
 
     /*
      * ****************************************************************
      * Métodos para manejar SUCURSAL
-     * consultarDineroRecolectado
      *****************************************************************/
+    /**
+     * Método que consulta el dinero recolectado en una sucursal
+     *
+     * @param idSucursal - El identificador de la bódega
+     * @return el dinero recolectado
+     */
+    public long consultarDineroRecolectado(String idSucursal) {
+        return sqlSucursal.consultarDineroRecolectado(pmf.getPersistenceManager(), idSucursal);
+    }
 
     /*
      * ****************************************************************
-     * Métodos para manejar VENTA
-     * registrarVenta
-     * consultarVentasPorCliente
+     * Métodos para manejar COMPRA
      *****************************************************************/
+    /**
+     * Método que inserta, de manera transaccional, una tupla en la tabla COMPRA
+     * Adiciona entradas al log de la aplicación
+     *
+     * @param valorCompraTotal      - El valor de la compra
+     * @param urlFacturaElectronica - La url de compra
+     * @param estadoCompra          - El estado de la compra
+     * @param comprador             - El identificador de comprador
+     * @param fechaCompra           - La fecha de la compra
+     * @return El objeto Compra adicionado. null si ocurre alguna Excepción
+     */
+    public Compra registrarVenta(String valorCompraTotal, String urlFacturaElectronica, String estadoCompra,
+            String comprador,
+            String fechaCompra) {
+        PersistenceManager pm = pmf.getPersistenceManager();
+        Transaction tx = pm.currentTransaction();
+        try {
+            tx.begin();
+            int idCompra = (int) nextval();
+            long tuplasInsertadas = sqlCompra.registrarVenta(pm, idCompra, valorCompraTotal, urlFacturaElectronica,
+                    estadoCompra, comprador,
+                    fechaCompra);
+            tx.commit();
+
+            log.trace("Inserción de Compra: " + idCompra + ": " + tuplasInsertadas + " tuplas insertadas");
+
+            return new Compra(idCompra, Long.parseLong(valorCompraTotal), urlFacturaElectronica, estadoCompra,
+                    comprador,
+                    fechaCompra);
+        } catch (Exception e) {
+            // e.printStackTrace();
+            log.error("Exception : " + e.getMessage() + "\n" + darDetalleException(e));
+            return null;
+        } finally {
+            if (tx.isActive()) {
+                tx.rollback();
+            }
+            pm.close();
+        }
+    }
+
+    /**
+     * Método que consulta las ventas a un cliente
+     *
+     * @param idCliente - El identificador del cliente
+     * @return la lista de ventas a ese cliente
+     */
+    public Compra consultarVentasPorCliente(String idCliente) {
+        return sqlCompra.consultarVentasPorCliente(pmf.getPersistenceManager(), idCliente);
+    }
 
     /*
      * ****************************************************************
      * Métodos para manejar ESTANTE
-     * aprovisionarEstante
-     * consultarIndiceOcupacionEstante
      *****************************************************************/
+    /**
+     * Método que aprovisiona un estante de productos
+     *
+     * @param idEstante  - El identificador del estante
+     * @param idProducto - El identificador del producto a colocar
+     * @return El número de tuplas modificadas
+     */
+    public long aprovisionarEstante(String idEstante, String idProducto) {
+        return sqlContenedor.aprovisionarEstante(pmf.getPersistenceManager(), idEstante, idProducto);
+    }
+
+    /**
+     * Método que consulta el índice de ocupación de un estante
+     *
+     * @param idEstante - El identificador del estante
+     * @return el índice de ocupación del estante
+     */
+    public long consultarIndiceOcupacionEstante(String idEstante) {
+        return sqlContenedor.consultarIndiceOcupacionEstante(pmf.getPersistenceManager(), idEstante);
+    }
 
     /*
      * ****************************************************************
      * Métodos para manejar PEDIDO
-     * crearPedido
-     * registrarLlegadaPedido
+     * TODO: crearPedido
+     * TODO: registrarLlegadaPedido
      *****************************************************************/
 
     /*
      * ****************************************************************
      * Métodos para manejar PROMOCION
-     * registrarPromocion
-     * consultarPromosPopulares
      *****************************************************************/
+    /**
+     * Método que inserta, de manera transaccional, una tupla en la tabla PROMOCION
+     * Adiciona entradas al log de la aplicación
+     *
+     * @param rebajaEnPrecio          - El valor de la compra
+     * @param tipoPromocion           - La url de compra
+     * @param fechaInicio             - El estado de la compra
+     * @param fechaFin                - El identificador de comprador
+     * @param idProducto              - La fecha de la compra
+     * @param cantUnidadesDisponibles - El identificador de comprador
+     * @param totalUnidadesOfrecidas  - La fecha de la compra
+     * @return El objeto Promocion adicionado. null si ocurre alguna Excepción
+     */
+    public Promocion registrarPromocion(String rebajaEnPrecio, String tipoPromocion, String fechaInicio,
+            String fechaFin, String idProducto, String cantUnidadesDisponibles, String totalUnidadesOfrecidas) {
+        PersistenceManager pm = pmf.getPersistenceManager();
+        Transaction tx = pm.currentTransaction();
+        try {
+            tx.begin();
+            int idPromocion = (int) nextval();
+            long tuplasInsertadas = sqlCompra.registrarVenta(pm, idPromocion, rebajaEnPrecio, tipoPromocion,
+                    fechaInicio, fechaFin,
+                    idProducto, cantUnidadesDisponibles, totalUnidadesOfrecidas);
+            tx.commit();
+
+            log.trace("Inserción de Promocion: " + idPromocion + ": " + tuplasInsertadas + " tuplas insertadas");
+
+            return new Promocion(idPromocion, Long.parseLong(rebajaEnPrecio), tipoPromocion, fechaInicio, fechaFin,
+                    Integer.parseInt(idProducto), Integer.parseInt(cantUnidadesDisponibles),
+                    Integer.parseInt(totalUnidadesOfrecidas));
+        } catch (Exception e) {
+            // e.printStackTrace();
+            log.error("Exception : " + e.getMessage() + "\n" + darDetalleException(e));
+            return null;
+        } finally {
+            if (tx.isActive()) {
+                tx.rollback();
+            }
+            pm.close();
+        }
+    }
+
+    /**
+     * Método que consulta las promociones más populares
+     *
+     * @return la lista de las 20 promociones más populares
+     */
+    public List<Promocion> consultarPromosPopulares(String idEstante) {
+        return sqlPromocion.consultarPromosPopulares(pmf.getPersistenceManager());
+    }
 
     /*
      * ****************************************************************
-     * Métodos para manejar PRODUCTO
-     * consultarCaracteristicaProductos
+     * TODO: Métodos para manejar PRODUCTO
+     * TODO: consultarCaracteristicaProductos
      *****************************************************************/
 
     /**
