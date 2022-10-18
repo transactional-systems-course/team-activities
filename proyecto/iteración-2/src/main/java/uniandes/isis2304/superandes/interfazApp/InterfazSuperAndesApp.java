@@ -436,25 +436,26 @@ public class InterfazSuperAndesApp extends JFrame implements ActionListener {
 	/*
 	 * ****************************************************************
 	 * CRUD de VENTA
-	 * registrarVenta
-	 * consultarVentasPorCliente
 	 *****************************************************************/
-	public void adicionarTipoBebida() {
+	/*
+	 * Registra una nueva venta
+	 */
+	public void registrarVenta() {
 		try {
-			String nombreTipo = JOptionPane.showInputDialog(this, "Nombre del tipo de bedida?",
-					"Adicionar tipo de bebida", JOptionPane.QUESTION_MESSAGE);
-			if (nombreTipo != null) {
-				VOTipoBebida tb = parranderos.adicionarTipoBebida(nombreTipo);
-				if (tb == null) {
-					throw new Exception("No se pudo crear un tipo de bebida con nombre: " + nombreTipo);
-				}
-				String resultado = "En adicionarTipoBebida\n\n";
-				resultado += "Tipo de bebida adicionado exitosamente: " + tb;
-				resultado += "\n Operación terminada";
-				panelDatos.actualizarInterfaz(resultado);
-			} else {
-				panelDatos.actualizarInterfaz("Operación cancelada por el usuario");
-			}
+			String valorCompraTotal = JOptionPane.showInputDialog(this, "¿Valor compra total?",
+					"Registrar nueva venta", JOptionPane.QUESTION_MESSAGE);
+			String urlFacturaElectronica = JOptionPane.showInputDialog(this, "¿URL e-factura?",
+					"Registrar nueva venta", JOptionPane.QUESTION_MESSAGE);
+			String estadoCompra = "PAGADA";
+			String comprador = JOptionPane.showInputDialog(this, "¿ID comprador?",
+					"Registrar nueva venta", JOptionPane.QUESTION_MESSAGE);
+			String fechaCompra = JOptionPane.showInputDialog(this, "¿Fecha compra?",
+					"Registrar nueva venta", JOptionPane.QUESTION_MESSAGE);
+			String resultado = "En crear pedido\n\n";
+			resultado += "\n" + superandes.crearPedido(valorCompraTotal, urlFacturaElectronica, estadoCompra, comprador,
+					fechaCompra);
+			resultado += "\n Operación terminada";
+			panelDatos.actualizarInterfaz(resultado);
 		} catch (Exception e) {
 			// e.printStackTrace();
 			String resultado = generarMensajeError(e);
@@ -462,19 +463,18 @@ public class InterfazSuperAndesApp extends JFrame implements ActionListener {
 		}
 	}
 
-	public void consultarPedidosProveedor() {
+	/*
+	 * Consulta las ventas de un solo cliente
+	 */
+	public void consultarVentasPorCliente() {
 		try {
-			String nombreProveedor = JOptionPane.showInputDialog(this, "¿Nombre del proveedor?",
-					"Consultar compras a un proveedor", JOptionPane.QUESTION_MESSAGE);
-			if (nombreProveedor != null) {
-				String resultado = "En compras a un proveedor por nombre\n\n";
-				resultado += "\n" + superandes.consultarPedidosProveedor(nombreProveedor);
-				resultado += "\n Operación terminada";
-				panelDatos.actualizarInterfaz(resultado);
+			String idCliente = JOptionPane.showInputDialog(this, "¿ID cliente?",
+					"Consultar ventas de cliente", JOptionPane.QUESTION_MESSAGE);
 
-			} else {
-				panelDatos.actualizarInterfaz("Operación cancelada por el usuario");
-			}
+			String resultado = "En consultar ventas de cliente\n\n";
+			resultado += "\n" + superandes.consultarVentasPorCliente(idCliente);
+			resultado += "\n Operación terminada";
+			panelDatos.actualizarInterfaz(resultado);
 		} catch (Exception e) {
 			// e.printStackTrace();
 			String resultado = generarMensajeError(e);
@@ -485,12 +485,11 @@ public class InterfazSuperAndesApp extends JFrame implements ActionListener {
 	/*
 	 * ****************************************************************
 	 * CRUD de SUCURSAL
-	 * consultarDineroRecolectado
 	 *****************************************************************/
-	public void buscarTipoBebidaPorNombre() {
+	public void consultarDineroRecolectado() {
 		try {
 			String nombreTb = JOptionPane.showInputDialog(this, "Nombre del tipo de bedida?",
-					"Buscar tipo de bebida por nombre", JOptionPane.QUESTION_MESSAGE);
+					"Consultar dinero recolectado", JOptionPane.QUESTION_MESSAGE);
 			if (nombreTb != null) {
 				VOTipoBebida tipoBebida = parranderos.darTipoBebidaPorNombre(nombreTb);
 				String resultado = "En buscar Tipo Bebida por nombre\n\n";
