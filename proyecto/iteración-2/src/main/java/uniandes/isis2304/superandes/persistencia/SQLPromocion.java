@@ -49,13 +49,22 @@ public class SQLPromocion {
     
 
     /**
-     * TODO: CRUD
+     * Registra una promoción nueva en la base de datos.
+     * 
+     * @param rebajaEnPrecio
+     * @param tipoPromocion
+     * @param fechaInicio
+     * @param fechaFin
+     * @param idProducto
+     * @param cantUnidadesDisponibles
+     * @param totalUnidadesOfrecidas
+     * @return
      */
     
-    public long registrarPromocion(String rebajaEnPrecio, String tipoPromocion, String fechaInicio, String fechaFin,
+    public long registrarPromocion(PersistenceManager pm, String rebajaEnPrecio, String tipoPromocion, String fechaInicio, String fechaFin,
             String idProducto, String cantUnidadesDisponibles, String totalUnidadesOfrecidas) {
         String ret = null;
-        Query q = ps.newQuery(SQL, "INSERT INTO PROMOCION (\r\n"
+        Query q = pm.newQuery(SQL, "INSERT INTO PROMOCION (\r\n"
                 + "    ID,\r\n"
                 + "    REBAJA_EN_PRECIO,\r\n"
                 + "    TIPO_PROMOCION,\r\n"
@@ -65,7 +74,7 @@ public class SQLPromocion {
                 + "    CANT_UNIDADES_DISPONIBLES,\r\n"
                 + "    TOTAL_UNIDADES_OFRECIDAS\r\n"
                 + ") VALUES (\r\n"
-                + "    1,"
+                + " 1,"
                 + rebajaEnPrecio + ","
                 + tipoPromocion  + ","
                 + fechaInicio + ","
@@ -75,7 +84,9 @@ public class SQLPromocion {
                 + totalUnidadesOfrecidas + ","
                 + ");");
         
-        
         return (long) q.executeUnique();
     }
+    
 }
+
+
