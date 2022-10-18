@@ -106,6 +106,12 @@ public class SuperAndes {
         return promocion;
     }
 
+    /**
+     * Consulta las promociones populares.
+     *
+     * @Input: null
+     * @return String promos
+     */
     public String consultarPromosPopulares() {
         // TODO Auto-generated method stub
         log.info("Consultando promos populares...");
@@ -114,6 +120,17 @@ public class SuperAndes {
         return promos;
     }
 
+    /**
+     * Crea un pedido.
+     * @param cantidadRecompra
+     * @param precioCompraProducto
+     * @param precioTotalPedido
+     * @param fechaEsperadaEntrega
+     * @param fechaEntrega
+     * @param estado
+     * @param idSucursal
+     * @return
+     */
     public String crearPedido(String cantidadRecompra, String precioCompraProducto, String precioTotalPedido,
             String fechaEsperadaEntrega, String fechaEntrega, String estado, String idSucursal) {
         // TODO Auto-generated method stub
@@ -124,6 +141,10 @@ public class SuperAndes {
         return pedido;
     }
 
+    /**
+     * Registra la llegada de un pedido por id
+     * @param idPedido
+     */
     public void registrarLlegadaPedido(String idPedido) {
         // TODO Auto-generated method stub
         log.info("registrando llegada de pedido "+idPedido);
@@ -132,6 +153,12 @@ public class SuperAndes {
         
     }
 
+    /**
+     * aprovisiona un estante con un producto.
+     * @param idEstante
+     * @param idProducto
+     * @return
+     */
     public String aprovisionarEstante(String idEstante, String idProducto) {
         // TODO Auto-generated method stub
         log.info("Aprovisionando estante "+idEstante);
@@ -140,6 +167,11 @@ public class SuperAndes {
         return aprov;
     }
 
+    /**
+     * Consulta el indice de ocupación de un estante.
+     * @param idEstante
+     * @return
+     */
     public String consultarIndiceOcupacionEstante(String idEstante) {
         // TODO Auto-generated method stub
         log.info("consultando indice de ocupación...");
@@ -148,6 +180,15 @@ public class SuperAndes {
         return consulta;
     }
 
+    /**
+     * registra una venta.
+     * @param valorCompraTotal
+     * @param urlFacturaElectronica
+     * @param estadoCompra
+     * @param comprador
+     * @param fechaCompra
+     * @return
+     */
     public String registrarVenta(String valorCompraTotal, String urlFacturaElectronica, String estadoCompra,
             String comprador, String fechaCompra) {
         // TODO Auto-generated method stub
@@ -157,6 +198,11 @@ public class SuperAndes {
         return venta;
     }
 
+    /**
+     * consulta las ventas asociadas a un cliente
+     * @param idCliente
+     * @return cliente
+     */
     public String consultarVentasPorCliente(String idCliente) {
         // TODO Auto-generated method stub
         
