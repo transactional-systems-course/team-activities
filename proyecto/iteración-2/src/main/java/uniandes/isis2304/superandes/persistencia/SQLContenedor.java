@@ -78,7 +78,8 @@ public class SQLContenedor {
                 "TIPO_CONTENEDOR,\n" +
                 "CAPACIDAD_MAXIMA_PESO";
         Query q = pm.newQuery(SQL, strQ);
-        String result = q.executeList().toString();
-        return result;
+        List<Object[]> results = q.executeList();
+        // TODO: create for in interface.
+        return results.get(0)[2].toString() + "%";
     }
 }
