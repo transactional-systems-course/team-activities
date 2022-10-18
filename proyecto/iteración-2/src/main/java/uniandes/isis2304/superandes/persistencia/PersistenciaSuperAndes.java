@@ -494,8 +494,16 @@ public class PersistenciaSuperAndes {
     /*
      * ****************************************************************
      * Métodos para manejar SUCURSAL
-     * consultarDineroRecolectado
      *****************************************************************/
+    /**
+     * Método que consulta el dinero recolectado en una sucursal
+     *
+     * @param idSucursal - El identificador de la bódega
+     * @return el dinero recolectado
+     */
+    public long consultarDineroRecolectado(String idSucursal) {
+        return sqlSucursal.consultarDineroRecolectado(pmf.getPersistenceManager(), idSucursal);
+    }
 
     /*
      * ****************************************************************
