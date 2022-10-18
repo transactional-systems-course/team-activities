@@ -220,22 +220,176 @@ public class InterfazSuperAndesApp extends JFrame implements ActionListener {
 	/*
 	 * ****************************************************************
 	 * CRUD de PRODUCTO
-	 * consultarCaracteristicaProductos
 	 *****************************************************************/
+	/**
+	 * Consulta productos por característica
+	 */
+	public void consultarCaracteristicaProductos() {
+		try {
+			String tipoBusqueda = JOptionPane.showInputDialog(this,
+					"¿Tipo de búsqueda? (Número de 0 a 7 de acuerdo al tipo)",
+					"Consultar productos por característica (Precio, fecha expiración posterior, Rango Peso o volumen, Proveedor, Disponible en ciudad, Disponible en sucursal, Por tipo o categoria, Ventas mayores a valor en ciertas fechas)",
+					JOptionPane.QUESTION_MESSAGE);
+			String precio = JOptionPane.showInputDialog(this, "¿Precio? (dejar en blanco, sí no es de interés)",
+					"Consultar productos por característica",
+					JOptionPane.QUESTION_MESSAGE);
+			String fechaExpPos = JOptionPane.showInputDialog(this,
+					"¿Fecha expiración mínima? (dejar en blanco, sí no es de interés)",
+					"Consultar productos por característica",
+					JOptionPane.QUESTION_MESSAGE);
+			String pesoVolInf = JOptionPane.showInputDialog(this,
+					"¿Peso o volumen mínimo? (dejar en blanco, sí no es de interés)",
+					"Consultar productos por característica",
+					JOptionPane.QUESTION_MESSAGE);
+			String pesoVolSup = JOptionPane.showInputDialog(this,
+					"¿Peso o volumen máximo? (dejar en blanco, sí no es de interés)",
+					"Consultar productos por característica",
+					JOptionPane.QUESTION_MESSAGE);
+			String proveedor = JOptionPane.showInputDialog(this, "¿Proveedor? (dejar en blanco, sí no es de interés)",
+					"Consultar productos por característica",
+					JOptionPane.QUESTION_MESSAGE);
+			String ciudad = JOptionPane.showInputDialog(this, "¿Ciudad? (dejar en blanco, sí no es de interés)",
+					"Consultar productos por característica",
+					JOptionPane.QUESTION_MESSAGE);
+			String tipo = JOptionPane.showInputDialog(this, "¿Tipo producto? (dejar en blanco, sí no es de interés)",
+					"Consultar productos por característica",
+					JOptionPane.QUESTION_MESSAGE);
+			String categoria = JOptionPane.showInputDialog(this,
+					"¿Categoria producto? (dejar en blanco, sí no es de interés)",
+					"Consultar productos por característica",
+					JOptionPane.QUESTION_MESSAGE);
+			String precioInf = JOptionPane.showInputDialog(this,
+					"Límite inferior de precio de venta? (dejar en blanco, sí no es de interés)",
+					"Consultar productos por característica",
+					JOptionPane.QUESTION_MESSAGE);
+			String fechaInf = JOptionPane.showInputDialog(this,
+					"Fecha de venta mínima? (dejar en blanco, sí no es de interés)",
+					"Consultar productos por característica",
+					JOptionPane.QUESTION_MESSAGE);
+			String fechaSup = JOptionPane.showInputDialog(this,
+					"Fecha de venta máxima? (dejar en blanco, sí no es de interés)",
+					"Consultar productos por característica",
+					JOptionPane.QUESTION_MESSAGE);
+			if (tipoBusqueda != null) {
+				String resultado = "En consultar productos por característica\n\n";
+				resultado += "\n" + superandes.consultarCaracteristicaProductos(tipoBusqueda, precio, fechaExpPos,
+						pesoVolInf, pesoVolSup, proveedor, ciudad, tipo, categoria, precioInf, fechaInf, fechaSup);
+				resultado += "\n Operación terminada";
+				panelDatos.actualizarInterfaz(resultado);
+
+			} else {
+				panelDatos.actualizarInterfaz("Operación cancelada por el usuario");
+			}
+		} catch (Exception e) {
+			// e.printStackTrace();
+			String resultado = generarMensajeError(e);
+			panelDatos.actualizarInterfaz(resultado);
+		}
+	}
 
 	/*
 	 * ****************************************************************
 	 * CRUD de PROMOCION
-	 * registrarPromocion
-	 * consultarPromosPopulares
 	 *****************************************************************/
+	/*
+	 * Registrar nueva promoción
+	 */
+	public void registrarPromocion() {
+		try {
+			String rebajaEnPrecio = JOptionPane.showInputDialog(this, "¿Precio de rebaja?",
+					"Registrar promoción", JOptionPane.QUESTION_MESSAGE);
+			String tipoPromocion = JOptionPane.showInputDialog(this, "¿Tipo promocion?",
+					"Registrar promoción", JOptionPane.QUESTION_MESSAGE);
+			String fechaInicio = JOptionPane.showInputDialog(this, "¿Fecha inicio?",
+					"Registrar promoción", JOptionPane.QUESTION_MESSAGE);
+			String fechaFin = JOptionPane.showInputDialog(this, "¿Fecha fin?",
+					"Registrar promoción", JOptionPane.QUESTION_MESSAGE);
+			String idProducto = JOptionPane.showInputDialog(this, "¿ID producto?",
+					"Registrar promoción", JOptionPane.QUESTION_MESSAGE);
+			String cantUnidadesDisponibles = JOptionPane.showInputDialog(this, "¿Cantidades disponibles?",
+					"Registrar promoción", JOptionPane.QUESTION_MESSAGE);
+			String totalUnidadesOfrecidas = JOptionPane.showInputDialog(this, "¿Total unidades ofrecidas?",
+					"Registrar promoción", JOptionPane.QUESTION_MESSAGE);
+
+			String resultado = "En registrar promocion\n\n";
+			resultado += "\n" + superandes.registrarPromocion(rebajaEnPrecio, tipoPromocion, fechaInicio, fechaFin,
+					idProducto, cantUnidadesDisponibles, totalUnidadesOfrecidas);
+			resultado += "\n Operación terminada";
+			panelDatos.actualizarInterfaz(resultado);
+
+		} catch (Exception e) {
+			// e.printStackTrace();
+			String resultado = generarMensajeError(e);
+			panelDatos.actualizarInterfaz(resultado);
+		}
+	}
+
+	/*
+	 * Consulta las 20 promociones más populares
+	 */
+	public void consultarPromosPopulares() {
+		try {
+			String resultado = "En consultar promociones populares\n\n";
+			resultado += "\n" + superandes.consultarPromosPopulares();
+			resultado += "\n Operación terminada";
+			panelDatos.actualizarInterfaz(resultado);
+		} catch (Exception e) {
+			// e.printStackTrace();
+			String resultado = generarMensajeError(e);
+			panelDatos.actualizarInterfaz(resultado);
+		}
+	}
 
 	/*
 	 * ****************************************************************
 	 * CRUD de PEDIDO
-	 * crearPedido
-	 * registrarLlegadaPedido
 	 *****************************************************************/
+	/*
+	 * Crea una nueva orden de pedido
+	 */
+	public void crearPedido() {
+		try {
+			String cantidadRecompra = JOptionPane.showInputDialog(this, "¿Cantidad recompra?",
+					"Crear nuevo pedido", JOptionPane.QUESTION_MESSAGE);
+			String precioCompraProducto = JOptionPane.showInputDialog(this, "¿Precio compra producto?",
+					"Crear nuevo pedido", JOptionPane.QUESTION_MESSAGE);
+			String precioTotalPedido = JOptionPane.showInputDialog(this, "¿Precio total?",
+					"Crear nuevo pedido", JOptionPane.QUESTION_MESSAGE);
+			String fechaEsperadaEntrega = JOptionPane.showInputDialog(this, "¿FECHA ENTREGA? (dd-Mon-yyyy)",
+					"Crear nuevo pedido", JOptionPane.QUESTION_MESSAGE);
+			String FechaEntrega = "NULL";
+			String estado = "CREADO";
+			String idSucursal = JOptionPane.showInputDialog(this, "¿ID Sucursal?",
+					"Crear nuevo pedido", JOptionPane.QUESTION_MESSAGE);
+
+			String resultado = "En crear pedido\n\n";
+			resultado += "\n" + superandes.crearPedido(cantidadRecompra, precioCompraProducto, precioTotalPedido,
+					fechaEsperadaEntrega, FechaEntrega, estado, idSucursal);
+			resultado += "\n Operación terminada";
+			panelDatos.actualizarInterfaz(resultado);
+		} catch (Exception e) {
+			// e.printStackTrace();
+			String resultado = generarMensajeError(e);
+			panelDatos.actualizarInterfaz(resultado);
+		}
+	}
+
+	/*
+	 * Registra la llegada de un pedido, al cambiar el estado a "ENTREGADO"
+	 */
+	public void registrarLlegadaPedido() {
+		try {
+			String idPedido = JOptionPane.showInputDialog(this, "¿ID del pedido?",
+					"Registrar llegada de un pedido", JOptionPane.QUESTION_MESSAGE);
+			superandes.registrarLlegadaPedido(idPedido);
+			String resultado = "\n Operación terminada";
+			panelDatos.actualizarInterfaz(resultado);
+		} catch (Exception e) {
+			// e.printStackTrace();
+			String resultado = generarMensajeError(e);
+			panelDatos.actualizarInterfaz(resultado);
+		}
+	}
 
 	/*
 	 * ****************************************************************
@@ -243,6 +397,52 @@ public class InterfazSuperAndesApp extends JFrame implements ActionListener {
 	 * aprovisionarEstante
 	 * consultarIndiceOcupacionEstante
 	 *****************************************************************/
+	public void adicionarTipoBebida() {
+		try {
+			String nombreTipo = JOptionPane.showInputDialog(this, "Nombre del tipo de bedida?",
+					"Adicionar tipo de bebida", JOptionPane.QUESTION_MESSAGE);
+			if (nombreTipo != null) {
+				VOTipoBebida tb = parranderos.adicionarTipoBebida(nombreTipo);
+				if (tb == null) {
+					throw new Exception("No se pudo crear un tipo de bebida con nombre: " + nombreTipo);
+				}
+				String resultado = "En adicionarTipoBebida\n\n";
+				resultado += "Tipo de bebida adicionado exitosamente: " + tb;
+				resultado += "\n Operación terminada";
+				panelDatos.actualizarInterfaz(resultado);
+			} else {
+				panelDatos.actualizarInterfaz("Operación cancelada por el usuario");
+			}
+		} catch (Exception e) {
+			// e.printStackTrace();
+			String resultado = generarMensajeError(e);
+			panelDatos.actualizarInterfaz(resultado);
+		}
+	}
+
+	public void buscarTipoBebidaPorNombre() {
+		try {
+			String nombreTb = JOptionPane.showInputDialog(this, "Nombre del tipo de bedida?",
+					"Buscar tipo de bebida por nombre", JOptionPane.QUESTION_MESSAGE);
+			if (nombreTb != null) {
+				VOTipoBebida tipoBebida = parranderos.darTipoBebidaPorNombre(nombreTb);
+				String resultado = "En buscar Tipo Bebida por nombre\n\n";
+				if (tipoBebida != null) {
+					resultado += "El tipo de bebida es: " + tipoBebida;
+				} else {
+					resultado += "Un tipo de bebida con nombre: " + nombreTb + " NO EXISTE\n";
+				}
+				resultado += "\n Operación terminada";
+				panelDatos.actualizarInterfaz(resultado);
+			} else {
+				panelDatos.actualizarInterfaz("Operación cancelada por el usuario");
+			}
+		} catch (Exception e) {
+			// e.printStackTrace();
+			String resultado = generarMensajeError(e);
+			panelDatos.actualizarInterfaz(resultado);
+		}
+	}
 
 	/*
 	 * ****************************************************************
@@ -250,18 +450,106 @@ public class InterfazSuperAndesApp extends JFrame implements ActionListener {
 	 * registrarVenta
 	 * consultarVentasPorCliente
 	 *****************************************************************/
+	public void adicionarTipoBebida() {
+		try {
+			String nombreTipo = JOptionPane.showInputDialog(this, "Nombre del tipo de bedida?",
+					"Adicionar tipo de bebida", JOptionPane.QUESTION_MESSAGE);
+			if (nombreTipo != null) {
+				VOTipoBebida tb = parranderos.adicionarTipoBebida(nombreTipo);
+				if (tb == null) {
+					throw new Exception("No se pudo crear un tipo de bebida con nombre: " + nombreTipo);
+				}
+				String resultado = "En adicionarTipoBebida\n\n";
+				resultado += "Tipo de bebida adicionado exitosamente: " + tb;
+				resultado += "\n Operación terminada";
+				panelDatos.actualizarInterfaz(resultado);
+			} else {
+				panelDatos.actualizarInterfaz("Operación cancelada por el usuario");
+			}
+		} catch (Exception e) {
+			// e.printStackTrace();
+			String resultado = generarMensajeError(e);
+			panelDatos.actualizarInterfaz(resultado);
+		}
+	}
+
+	public void consultarPedidosProveedor() {
+		try {
+			String nombreProveedor = JOptionPane.showInputDialog(this, "¿Nombre del proveedor?",
+					"Consultar compras a un proveedor", JOptionPane.QUESTION_MESSAGE);
+			if (nombreProveedor != null) {
+				String resultado = "En compras a un proveedor por nombre\n\n";
+				resultado += "\n" + superandes.consultarPedidosProveedor(nombreProveedor);
+				resultado += "\n Operación terminada";
+				panelDatos.actualizarInterfaz(resultado);
+
+			} else {
+				panelDatos.actualizarInterfaz("Operación cancelada por el usuario");
+			}
+		} catch (Exception e) {
+			// e.printStackTrace();
+			String resultado = generarMensajeError(e);
+			panelDatos.actualizarInterfaz(resultado);
+		}
+	}
 
 	/*
 	 * ****************************************************************
 	 * CRUD de SUCURSAL
 	 * consultarDineroRecolectado
 	 *****************************************************************/
+	public void buscarTipoBebidaPorNombre() {
+		try {
+			String nombreTb = JOptionPane.showInputDialog(this, "Nombre del tipo de bedida?",
+					"Buscar tipo de bebida por nombre", JOptionPane.QUESTION_MESSAGE);
+			if (nombreTb != null) {
+				VOTipoBebida tipoBebida = parranderos.darTipoBebidaPorNombre(nombreTb);
+				String resultado = "En buscar Tipo Bebida por nombre\n\n";
+				if (tipoBebida != null) {
+					resultado += "El tipo de bebida es: " + tipoBebida;
+				} else {
+					resultado += "Un tipo de bebida con nombre: " + nombreTb + " NO EXISTE\n";
+				}
+				resultado += "\n Operación terminada";
+				panelDatos.actualizarInterfaz(resultado);
+			} else {
+				panelDatos.actualizarInterfaz("Operación cancelada por el usuario");
+			}
+		} catch (Exception e) {
+			// e.printStackTrace();
+			String resultado = generarMensajeError(e);
+			panelDatos.actualizarInterfaz(resultado);
+		}
+	}
 
 	/*
 	 * ****************************************************************
 	 * CRUD de BODEGA
 	 * consultarIndiceOcupacionBodega
 	 *****************************************************************/
+	public void buscarTipoBebidaPorNombre() {
+		try {
+			String nombreTb = JOptionPane.showInputDialog(this, "Nombre del tipo de bedida?",
+					"Buscar tipo de bebida por nombre", JOptionPane.QUESTION_MESSAGE);
+			if (nombreTb != null) {
+				VOTipoBebida tipoBebida = parranderos.darTipoBebidaPorNombre(nombreTb);
+				String resultado = "En buscar Tipo Bebida por nombre\n\n";
+				if (tipoBebida != null) {
+					resultado += "El tipo de bebida es: " + tipoBebida;
+				} else {
+					resultado += "Un tipo de bebida con nombre: " + nombreTb + " NO EXISTE\n";
+				}
+				resultado += "\n Operación terminada";
+				panelDatos.actualizarInterfaz(resultado);
+			} else {
+				panelDatos.actualizarInterfaz("Operación cancelada por el usuario");
+			}
+		} catch (Exception e) {
+			// e.printStackTrace();
+			String resultado = generarMensajeError(e);
+			panelDatos.actualizarInterfaz(resultado);
+		}
+	}
 
 	/*
 	 * ****************************************************************

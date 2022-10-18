@@ -13,9 +13,8 @@ Este proyecto es una aplicación informática de mediana complejidad que involuc
 
 ## Instrucciones de uso
 
-TODO
-
-1. TODO
+1. Asegúrese de que todas las rutas de configuración sean correctas, de acuerdo a su sistema operativo.
+2. Ejecute el siguiente archivo:`src/main/java/uniandes/isis2304/superandes/interfazApp/InterfazSuperAndesApp.java`
 
 ## License
 
