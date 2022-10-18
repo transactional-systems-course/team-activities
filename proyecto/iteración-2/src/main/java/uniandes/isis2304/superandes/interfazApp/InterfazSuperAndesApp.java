@@ -420,7 +420,7 @@ public class InterfazSuperAndesApp extends JFrame implements ActionListener {
 	 */
 	public void consultarIndiceOcupacionEstante() {
 		try {
-			String id = JOptionPane.showInputDialog(this, "¿ID estante?",
+			String idEstante = JOptionPane.showInputDialog(this, "¿ID estante?",
 					"Consultar índice ocupación estante", JOptionPane.QUESTION_MESSAGE);
 
 			String resultado = "En indice de ocupación de estante\n\n";
@@ -514,25 +514,18 @@ public class InterfazSuperAndesApp extends JFrame implements ActionListener {
 	/*
 	 * ****************************************************************
 	 * CRUD de BODEGA
-	 * consultarIndiceOcupacionBodega
 	 *****************************************************************/
-	public void buscarTipoBebidaPorNombre() {
+	/*
+	 * Informa el índice de ocupación de una bodega por ID
+	 */
+	public void consultarIndiceOcupacionBodega() {
 		try {
-			String nombreTb = JOptionPane.showInputDialog(this, "Nombre del tipo de bedida?",
-					"Buscar tipo de bebida por nombre", JOptionPane.QUESTION_MESSAGE);
-			if (nombreTb != null) {
-				VOTipoBebida tipoBebida = parranderos.darTipoBebidaPorNombre(nombreTb);
-				String resultado = "En buscar Tipo Bebida por nombre\n\n";
-				if (tipoBebida != null) {
-					resultado += "El tipo de bebida es: " + tipoBebida;
-				} else {
-					resultado += "Un tipo de bebida con nombre: " + nombreTb + " NO EXISTE\n";
-				}
-				resultado += "\n Operación terminada";
-				panelDatos.actualizarInterfaz(resultado);
-			} else {
-				panelDatos.actualizarInterfaz("Operación cancelada por el usuario");
-			}
+			String idBodega = JOptionPane.showInputDialog(this, "¿ID bodega?",
+					"Consultar índice ocupación bodega", JOptionPane.QUESTION_MESSAGE);
+
+			String resultado = "En indice de ocupación de bodega\n\n";
+			resultado += "\n" + superandes.consultarIndiceOcupacionBodega(idBodega);
+			resultado += "\n Operación terminada";
 		} catch (Exception e) {
 			// e.printStackTrace();
 			String resultado = generarMensajeError(e);
