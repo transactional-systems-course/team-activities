@@ -290,25 +290,33 @@ public class InterfazSuperAndesApp extends JFrame implements ActionListener {
 	/*
 	 * ****************************************************************
 	 * CRUD de PROMOCION
-	 * registrarPromocion
-	 * consultarPromosPopulares
 	 *****************************************************************/
-	public void adicionarTipoBebida() {
+	/*
+	 * Registrar nueva promoción
+	 */
+	public void registrarPromocion() {
 		try {
-			String nombreTipo = JOptionPane.showInputDialog(this, "Nombre del tipo de bedida?",
-					"Adicionar tipo de bebida", JOptionPane.QUESTION_MESSAGE);
-			if (nombreTipo != null) {
-				VOTipoBebida tb = parranderos.adicionarTipoBebida(nombreTipo);
-				if (tb == null) {
-					throw new Exception("No se pudo crear un tipo de bebida con nombre: " + nombreTipo);
-				}
-				String resultado = "En adicionarTipoBebida\n\n";
-				resultado += "Tipo de bebida adicionado exitosamente: " + tb;
-				resultado += "\n Operación terminada";
-				panelDatos.actualizarInterfaz(resultado);
-			} else {
-				panelDatos.actualizarInterfaz("Operación cancelada por el usuario");
-			}
+			String rebajaEnPrecio = JOptionPane.showInputDialog(this, "¿Precio de rebaja?",
+					"Registrar promoción", JOptionPane.QUESTION_MESSAGE);
+			String tipoPromocion = JOptionPane.showInputDialog(this, "¿Tipo promocion?",
+					"Registrar promoción", JOptionPane.QUESTION_MESSAGE);
+			String fechaInicio = JOptionPane.showInputDialog(this, "¿Fecha inicio?",
+					"Registrar promoción", JOptionPane.QUESTION_MESSAGE);
+			String fechaFin = JOptionPane.showInputDialog(this, "¿Fecha fin?",
+					"Registrar promoción", JOptionPane.QUESTION_MESSAGE);
+			String idProducto = JOptionPane.showInputDialog(this, "¿ID producto?",
+					"Registrar promoción", JOptionPane.QUESTION_MESSAGE);
+			String cantUnidadesDisponibles = JOptionPane.showInputDialog(this, "¿Cantidades disponibles?",
+					"Registrar promoción", JOptionPane.QUESTION_MESSAGE);
+			String totalUnidadesOfrecidas = JOptionPane.showInputDialog(this, "¿Total unidades ofrecidas?",
+					"Registrar promoción", JOptionPane.QUESTION_MESSAGE);
+
+			String resultado = "En registrar promocion\n\n";
+			resultado += "\n" + superandes.registrarPromocion(rebajaEnPrecio, tipoPromocion, fechaInicio, fechaFin,
+					idProducto, cantUnidadesDisponibles, totalUnidadesOfrecidas);
+			resultado += "\n Operación terminada";
+			panelDatos.actualizarInterfaz(resultado);
+
 		} catch (Exception e) {
 			// e.printStackTrace();
 			String resultado = generarMensajeError(e);
@@ -316,23 +324,15 @@ public class InterfazSuperAndesApp extends JFrame implements ActionListener {
 		}
 	}
 
-	public void buscarTipoBebidaPorNombre() {
+	/*
+	 * Consulta las 20 promociones más populares
+	 */
+	public void consultarPromosPopulares() {
 		try {
-			String nombreTb = JOptionPane.showInputDialog(this, "Nombre del tipo de bedida?",
-					"Buscar tipo de bebida por nombre", JOptionPane.QUESTION_MESSAGE);
-			if (nombreTb != null) {
-				VOTipoBebida tipoBebida = parranderos.darTipoBebidaPorNombre(nombreTb);
-				String resultado = "En buscar Tipo Bebida por nombre\n\n";
-				if (tipoBebida != null) {
-					resultado += "El tipo de bebida es: " + tipoBebida;
-				} else {
-					resultado += "Un tipo de bebida con nombre: " + nombreTb + " NO EXISTE\n";
-				}
-				resultado += "\n Operación terminada";
-				panelDatos.actualizarInterfaz(resultado);
-			} else {
-				panelDatos.actualizarInterfaz("Operación cancelada por el usuario");
-			}
+			String resultado = "En consultar promociones populares\n\n";
+			resultado += "\n" + superandes.consultarPromosPopulares();
+			resultado += "\n Operación terminada";
+			panelDatos.actualizarInterfaz(resultado);
 		} catch (Exception e) {
 			// e.printStackTrace();
 			String resultado = generarMensajeError(e);
