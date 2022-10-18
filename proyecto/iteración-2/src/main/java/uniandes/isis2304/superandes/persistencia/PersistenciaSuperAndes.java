@@ -16,7 +16,7 @@ import com.google.gson.JsonArray;
 import com.google.gson.JsonElement;
 import com.google.gson.JsonObject;
 
-import uniandes.isis2304.superandes.negocio.Bar;
+import uniandes.isis2304.superandes.negocio.Compra;
 import uniandes.isis2304.superandes.negocio.Pedido;
 
 /**
@@ -507,10 +507,58 @@ public class PersistenciaSuperAndes {
 
     /*
      * ****************************************************************
-     * Métodos para manejar VENTA
-     * registrarVenta
-     * consultarVentasPorCliente
+     * Métodos para manejar COMPRA
      *****************************************************************/
+    /**
+     * Método que inserta, de manera transaccional, una tupla en la tabla COMPRA
+     * Adiciona entradas al log de la aplicación
+     *
+     * @param valorCompraTotal      - El valor de la compra
+     * @param urlFacturaElectronica - La url de compra
+     * @param estadoCompra          - El estado de la compra
+     * @param comprador             - El identificador de comprador
+     * @param fechaCompra           - La fecha de la compra
+     * @return El objeto Compra adicionado. null si ocurre alguna Excepción
+     */
+    public Compra registrarVenta(String valorCompraTotal, String urlFacturaElectronica, String estadoCompra,
+            String comprador,
+            String fechaCompra) {
+        PersistenceManager pm = pmf.getPersistenceManager();
+        Transaction tx = pm.currentTransaction();
+        try {
+            tx.begin();
+            int idCompra = (int) nextval();
+            long tuplasInsertadas = sqlCompra.registrarVenta(pm, idCompra, valorCompraTotal, urlFacturaElectronica,
+                    estadoCompra, comprador,
+                    fechaCompra);
+            tx.commit();
+
+            log.trace("Inserción de Compra: " + idCompra + ": " + tuplasInsertadas + " tuplas insertadas");
+
+            return new Compra(idCompra, Long.parseLong(valorCompraTotal), urlFacturaElectronica, estadoCompra,
+                    comprador,
+                    fechaCompra);
+        } catch (Exception e) {
+            // e.printStackTrace();
+            log.error("Exception : " + e.getMessage() + "\n" + darDetalleException(e));
+            return null;
+        } finally {
+            if (tx.isActive()) {
+                tx.rollback();
+            }
+            pm.close();
+        }
+    }
+
+    /**
+     * Método que consulta las ventas a un cliente
+     *
+     * @param idCliente - El identificador del cliente
+     * @return la lista de ventas a ese cliente
+     */
+    public Compra consultarVentasPorCliente(String idCliente) {
+        return sqlCompra.consultarVentasPorCliente(pmf.getPersistenceManager(), idCliente);
+    }
 
     /*
      * ****************************************************************
