@@ -4,6 +4,7 @@ Este proyecto es una aplicación informática de mediana complejidad que involuc
 
 ## Estructura del proyecto
 
+- En `docs/javadocs/` podrá encontrar la documentación autogenerada del proyecto JDO.
 - En `docs/modelos/` podrá encontrar el modelo relacional y conceptual utilizado para este proyecto.
 - En `docs/sql/create-tables/` podrá encontrar todas las sentencias de creación de tablas.
 - En `docs/sql/data` podrá encontrar sentencias de limpieza de base de datos y scripts de creación del esquema completo.
