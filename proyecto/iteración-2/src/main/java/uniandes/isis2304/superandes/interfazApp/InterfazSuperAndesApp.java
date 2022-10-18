@@ -452,8 +452,9 @@ public class InterfazSuperAndesApp extends JFrame implements ActionListener {
 			String fechaCompra = JOptionPane.showInputDialog(this, "¿Fecha compra?",
 					"Registrar nueva venta", JOptionPane.QUESTION_MESSAGE);
 			String resultado = "En crear pedido\n\n";
-			resultado += "\n" + superandes.crearPedido(valorCompraTotal, urlFacturaElectronica, estadoCompra, comprador,
-					fechaCompra);
+			resultado += "\n"
+					+ superandes.registrarVenta(valorCompraTotal, urlFacturaElectronica, estadoCompra, comprador,
+							fechaCompra);
 			resultado += "\n Operación terminada";
 			panelDatos.actualizarInterfaz(resultado);
 		} catch (Exception e) {
@@ -486,23 +487,18 @@ public class InterfazSuperAndesApp extends JFrame implements ActionListener {
 	 * ****************************************************************
 	 * CRUD de SUCURSAL
 	 *****************************************************************/
+	/*
+	 * Consulta el dinero recolectado en una sucursal
+	 */
 	public void consultarDineroRecolectado() {
 		try {
-			String nombreTb = JOptionPane.showInputDialog(this, "Nombre del tipo de bedida?",
+			String idSucursal = JOptionPane.showInputDialog(this, "¿ID sucursal?",
 					"Consultar dinero recolectado", JOptionPane.QUESTION_MESSAGE);
-			if (nombreTb != null) {
-				VOTipoBebida tipoBebida = parranderos.darTipoBebidaPorNombre(nombreTb);
-				String resultado = "En buscar Tipo Bebida por nombre\n\n";
-				if (tipoBebida != null) {
-					resultado += "El tipo de bebida es: " + tipoBebida;
-				} else {
-					resultado += "Un tipo de bebida con nombre: " + nombreTb + " NO EXISTE\n";
-				}
-				resultado += "\n Operación terminada";
-				panelDatos.actualizarInterfaz(resultado);
-			} else {
-				panelDatos.actualizarInterfaz("Operación cancelada por el usuario");
-			}
+
+			String resultado = "En consultar dinero recolectado por sucursal\n\n";
+			resultado += "\n" + superandes.consultarDineroRecolectado(idSucursal);
+			resultado += "\n Operación terminada";
+			panelDatos.actualizarInterfaz(resultado);
 		} catch (Exception e) {
 			// e.printStackTrace();
 			String resultado = generarMensajeError(e);
