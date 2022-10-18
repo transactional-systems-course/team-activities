@@ -86,7 +86,20 @@ public class SQLPromocion {
         
         return (long) q.executeUnique();
     }
-    
+    public long consultarPromosPopulares(PersistenceManager pm) {
+        Query q = pm.newQuery(SQL, "SELECT ID                                                 AS ID_PROMOCION,\r\n"
+                + "    ID_PRODUCTO,\r\n"
+                + "    NOMBRE,\r\n"
+                + "    TOTAL_UNIDADES_OFRECIDAS-CANT_UNIDADES_DISPONIBLES AS CANTIDADES_VENDIDAS\r\n"
+                + "FROM (\r\n"
+                + "        SELECT *\r\n"
+                + "        FROM PROMOCION\r\n"
+                + "            INNER JOIN PRODUCTO\r\n"
+                + "            ON PRODUCTO.CODIGO_BARRAS = PROMOCION.ID_PRODUCTO\r\n"
+                + "    )\r\n"
+                + "ORDER BY CANTIDADES_VENDIDAS DESC FETCH FIRST 20 ROWS ONLY;");
+        return (long) q.executeUnique();
+    }
 }
 
 
