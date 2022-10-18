@@ -46,8 +46,36 @@ public class SQLPromocion {
     public SQLPromocion(PersistenciaSuperAndes ps) {
         this.ps = ps;
     }
+    
 
     /**
      * TODO: CRUD
      */
+    
+    public long registrarPromocion(String rebajaEnPrecio, String tipoPromocion, String fechaInicio, String fechaFin,
+            String idProducto, String cantUnidadesDisponibles, String totalUnidadesOfrecidas) {
+        String ret = null;
+        Query q = ps.newQuery(SQL, "INSERT INTO PROMOCION (\r\n"
+                + "    ID,\r\n"
+                + "    REBAJA_EN_PRECIO,\r\n"
+                + "    TIPO_PROMOCION,\r\n"
+                + "    FECHA_INICIO,\r\n"
+                + "    FECHA_FIN,\r\n"
+                + "    ID_PRODUCTO,\r\n"
+                + "    CANT_UNIDADES_DISPONIBLES,\r\n"
+                + "    TOTAL_UNIDADES_OFRECIDAS\r\n"
+                + ") VALUES (\r\n"
+                + "    1,"
+                + rebajaEnPrecio + ","
+                + tipoPromocion  + ","
+                + fechaInicio + ","
+                + fechaFin + ","
+                + idProducto + ","
+                + cantUnidadesDisponibles + ","
+                + totalUnidadesOfrecidas + ","
+                + ");");
+        
+        
+        return (long) q.executeUnique();
+    }
 }
