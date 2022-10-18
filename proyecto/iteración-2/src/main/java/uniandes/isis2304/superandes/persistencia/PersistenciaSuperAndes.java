@@ -463,7 +463,54 @@ public class PersistenciaSuperAndes {
 
     /*
      * ****************************************************************
-     * Métodos para manejar los TODO
+     * Métodos para manejar PROVEEDOR
+     * consultarPedidosProveedor
+     *****************************************************************/
+    
+    /*
+     * ****************************************************************
+     * Métodos para manejar BODEGA
+     * consultarIndiceOcupacionBodega
+     *****************************************************************/
+
+    /*
+     * ****************************************************************
+     * Métodos para manejar SUCURSAL
+     * consultarDineroRecolectado
+     *****************************************************************/
+
+    /*
+     * ****************************************************************
+     * Métodos para manejar VENTA
+     * registrarVenta
+     * consultarVentasPorCliente
+     *****************************************************************/
+
+    /*
+     * ****************************************************************
+     * Métodos para manejar ESTANTE
+     * aprovisionarEstante
+     * consultarIndiceOcupacionEstante
+     *****************************************************************/
+
+    /*
+     * ****************************************************************
+     * Métodos para manejar PEDIDO
+     * crearPedido
+     * registrarLlegadaPedido
+     *****************************************************************/
+
+    /*
+     * ****************************************************************
+     * Métodos para manejar PROMOCION
+     * registrarPromocion
+     * consultarPromosPopulares
+     *****************************************************************/
+
+    /*
+     * ****************************************************************
+     * Métodos para manejar PRODUCTO
+     * consultarCaracteristicaProductos
      *****************************************************************/
 
     /**
@@ -471,7 +518,7 @@ public class PersistenciaSuperAndes {
      * SuperAndes
      * Crea y ejecuta las sentencias SQL para cada tabla de la base de datos - EL
      * ORDEN ES IMPORTANTE
-     * 
+     *
      * @return Un arreglo con 7 números que indican el número de tuplas borradas en
      *         las tablas GUSTAN, SIRVEN, VISITAN, BEBIDA,
      *         TIPOBEBIDA, BEBEDOR y BAR, respectivamente
