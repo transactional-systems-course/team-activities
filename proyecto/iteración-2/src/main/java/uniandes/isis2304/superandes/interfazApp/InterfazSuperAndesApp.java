@@ -343,25 +343,30 @@ public class InterfazSuperAndesApp extends JFrame implements ActionListener {
 	/*
 	 * ****************************************************************
 	 * CRUD de PEDIDO
-	 * crearPedido
-	 * registrarLlegadaPedido
 	 *****************************************************************/
-	public void adicionarTipoBebida() {
+	/*
+	 * Crea una nueva orden de pedido
+	 */
+	public void crearPedido() {
 		try {
-			String nombreTipo = JOptionPane.showInputDialog(this, "Nombre del tipo de bedida?",
-					"Adicionar tipo de bebida", JOptionPane.QUESTION_MESSAGE);
-			if (nombreTipo != null) {
-				VOTipoBebida tb = parranderos.adicionarTipoBebida(nombreTipo);
-				if (tb == null) {
-					throw new Exception("No se pudo crear un tipo de bebida con nombre: " + nombreTipo);
-				}
-				String resultado = "En adicionarTipoBebida\n\n";
-				resultado += "Tipo de bebida adicionado exitosamente: " + tb;
-				resultado += "\n Operación terminada";
-				panelDatos.actualizarInterfaz(resultado);
-			} else {
-				panelDatos.actualizarInterfaz("Operación cancelada por el usuario");
-			}
+			String cantidadRecompra = JOptionPane.showInputDialog(this, "¿Cantidad recompra?",
+					"Crear nuevo pedido", JOptionPane.QUESTION_MESSAGE);
+			String precioCompraProducto = JOptionPane.showInputDialog(this, "¿Precio compra producto?",
+					"Crear nuevo pedido", JOptionPane.QUESTION_MESSAGE);
+			String precioTotalPedido = JOptionPane.showInputDialog(this, "¿Precio total?",
+					"Crear nuevo pedido", JOptionPane.QUESTION_MESSAGE);
+			String fechaEsperadaEntrega = JOptionPane.showInputDialog(this, "¿FECHA ENTREGA? (dd-Mon-yyyy)",
+					"Crear nuevo pedido", JOptionPane.QUESTION_MESSAGE);
+			String FechaEntrega = "NULL";
+			String estado = "CREADO";
+			String idSucursal = JOptionPane.showInputDialog(this, "¿ID Sucursal?",
+					"Crear nuevo pedido", JOptionPane.QUESTION_MESSAGE);
+
+			String resultado = "En crear pedido\n\n";
+			resultado += "\n" + superandes.crearPedido(cantidadRecompra, precioCompraProducto, precioTotalPedido,
+					fechaEsperadaEntrega, FechaEntrega, estado, idSucursal);
+			resultado += "\n Operación terminada";
+			panelDatos.actualizarInterfaz(resultado);
 		} catch (Exception e) {
 			// e.printStackTrace();
 			String resultado = generarMensajeError(e);
@@ -369,23 +374,16 @@ public class InterfazSuperAndesApp extends JFrame implements ActionListener {
 		}
 	}
 
-	public void buscarTipoBebidaPorNombre() {
+	/*
+	 * Registra la llegada de un pedido, al cambiar el estado a "ENTREGADO"
+	 */
+	public void registrarLlegadaPedido() {
 		try {
-			String nombreTb = JOptionPane.showInputDialog(this, "Nombre del tipo de bedida?",
-					"Buscar tipo de bebida por nombre", JOptionPane.QUESTION_MESSAGE);
-			if (nombreTb != null) {
-				VOTipoBebida tipoBebida = parranderos.darTipoBebidaPorNombre(nombreTb);
-				String resultado = "En buscar Tipo Bebida por nombre\n\n";
-				if (tipoBebida != null) {
-					resultado += "El tipo de bebida es: " + tipoBebida;
-				} else {
-					resultado += "Un tipo de bebida con nombre: " + nombreTb + " NO EXISTE\n";
-				}
-				resultado += "\n Operación terminada";
-				panelDatos.actualizarInterfaz(resultado);
-			} else {
-				panelDatos.actualizarInterfaz("Operación cancelada por el usuario");
-			}
+			String idPedido = JOptionPane.showInputDialog(this, "¿ID del pedido?",
+					"Registrar llegada de un pedido", JOptionPane.QUESTION_MESSAGE);
+			superandes.registrarLlegadaPedido(idPedido);
+			String resultado = "\n Operación terminada";
+			panelDatos.actualizarInterfaz(resultado);
 		} catch (Exception e) {
 			// e.printStackTrace();
 			String resultado = generarMensajeError(e);
