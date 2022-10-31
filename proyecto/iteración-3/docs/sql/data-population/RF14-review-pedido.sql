@@ -1,0 +1,13999 @@
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    1,
+    88,
+    'Cross-group needs-based policy',
+    1,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    2,
+    58,
+    'User-friendly 6th generation productivity',
+    2,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    3,
+    6,
+    'Ameliorated 24/7 knowledge user',
+    3,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    4,
+    31,
+    'Multi-lateral encompassing frame',
+    4,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    5,
+    18,
+    'Total logistical matrices',
+    5,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    6,
+    1,
+    'Decentralized context-sensitive paradigm',
+    6,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    7,
+    79,
+    'Distributed maximized hub',
+    7,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    8,
+    27,
+    'Extended real-time policy',
+    8,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    9,
+    14,
+    'Profound solution-oriented analyzer',
+    9,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    10,
+    53,
+    'Progressive clear-thinking attitude',
+    10,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    11,
+    48,
+    'Multi-lateral zero defect software',
+    11,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    12,
+    2,
+    'Cross-group web-enabled pricing structure',
+    12,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    13,
+    7,
+    'Assimilated holistic database',
+    13,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    14,
+    64,
+    'Cross-group asymmetric protocol',
+    14,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    15,
+    58,
+    'Implemented multimedia firmware',
+    15,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    16,
+    72,
+    'Optimized context-sensitive core',
+    16,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    17,
+    10,
+    'Face to face tangible throughput',
+    17,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    18,
+    97,
+    'Balanced exuding initiative',
+    18,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    19,
+    48,
+    'Multi-tiered empowering product',
+    19,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    20,
+    99,
+    'Organic tangible leverage',
+    20,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    21,
+    27,
+    'Robust mission-critical parallelism',
+    21,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    22,
+    2,
+    'Progressive background utilisation',
+    22,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    23,
+    26,
+    'Advanced bi-directional initiative',
+    23,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    24,
+    24,
+    'Realigned zero administration parallelism',
+    24,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    25,
+    89,
+    'Fully-configurable even-keeled application',
+    25,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    26,
+    60,
+    'Adaptive global complexity',
+    26,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    27,
+    8,
+    'Implemented background collaboration',
+    27,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    28,
+    15,
+    'De-engineered modular alliance',
+    28,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    29,
+    59,
+    'Virtual logistical concept',
+    29,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    30,
+    47,
+    'Seamless systemic capacity',
+    30,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    31,
+    86,
+    'Down-sized system-worthy time-frame',
+    31,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    32,
+    32,
+    'Down-sized web-enabled hub',
+    32,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    33,
+    92,
+    'Virtual stable hub',
+    33,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    34,
+    29,
+    'De-engineered coherent internet solution',
+    34,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    35,
+    35,
+    'Reduced modular secured line',
+    35,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    36,
+    14,
+    'Optimized bifurcated projection',
+    36,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    37,
+    55,
+    'Innovative discrete customer loyalty',
+    37,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    38,
+    73,
+    'De-engineered explicit leverage',
+    38,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    39,
+    30,
+    'Open-architected responsive project',
+    39,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    40,
+    9,
+    'Function-based real-time data-warehouse',
+    40,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    41,
+    58,
+    'Cross-group multi-tasking installation',
+    41,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    42,
+    96,
+    'User-friendly bifurcated model',
+    42,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    43,
+    98,
+    'Future-proofed 5th generation budgetary management',
+    43,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    44,
+    50,
+    'Persevering intermediate matrix',
+    44,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    45,
+    52,
+    'Organic holistic extranet',
+    45,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    46,
+    93,
+    'Fully-configurable multi-state policy',
+    46,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    47,
+    35,
+    'Public-key modular implementation',
+    47,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    48,
+    79,
+    'Ameliorated clear-thinking framework',
+    48,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    49,
+    37,
+    'Balanced cohesive challenge',
+    49,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    50,
+    65,
+    'Future-proofed demand-driven budgetary management',
+    50,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    51,
+    42,
+    'Enhanced client-driven intranet',
+    51,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    52,
+    87,
+    'Organic 24/7 paradigm',
+    52,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    53,
+    32,
+    'Compatible upward-trending task-force',
+    53,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    54,
+    79,
+    'Organized system-worthy process improvement',
+    54,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    55,
+    64,
+    'Profound local methodology',
+    55,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    56,
+    55,
+    'Total fault-tolerant adapter',
+    56,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    57,
+    51,
+    'Ergonomic reciprocal artificial intelligence',
+    57,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    58,
+    57,
+    'Realigned multi-tasking solution',
+    58,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    59,
+    97,
+    'Self-enabling executive Graphical User Interface',
+    59,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    60,
+    36,
+    'Upgradable real-time architecture',
+    60,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    61,
+    40,
+    'Customizable asynchronous software',
+    61,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    62,
+    21,
+    'Versatile leading edge pricing structure',
+    62,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    63,
+    9,
+    'Reactive directional adapter',
+    63,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    64,
+    14,
+    'Right-sized zero administration orchestration',
+    64,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    65,
+    75,
+    'Total scalable hub',
+    65,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    66,
+    33,
+    'User-friendly even-keeled installation',
+    66,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    67,
+    43,
+    'Exclusive attitude-oriented parallelism',
+    67,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    68,
+    1,
+    'Reduced global hardware',
+    68,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    69,
+    75,
+    'Vision-oriented transitional workforce',
+    69,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    70,
+    24,
+    'Devolved non-volatile hardware',
+    70,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    71,
+    54,
+    'Upgradable national task-force',
+    71,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    72,
+    69,
+    'Open-architected human-resource knowledge user',
+    72,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    73,
+    72,
+    'Phased static middleware',
+    73,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    74,
+    9,
+    'Compatible leading edge alliance',
+    74,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    75,
+    82,
+    'Future-proofed optimizing help-desk',
+    75,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    76,
+    60,
+    'Robust local help-desk',
+    76,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    77,
+    34,
+    'Synergized responsive customer loyalty',
+    77,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    78,
+    78,
+    'Triple-buffered maximized functionalities',
+    78,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    79,
+    47,
+    'Customer-focused multi-state synergy',
+    79,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    80,
+    94,
+    'Ergonomic directional moderator',
+    80,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    81,
+    38,
+    'Right-sized 4th generation success',
+    81,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    82,
+    26,
+    'Versatile intangible functionalities',
+    82,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    83,
+    40,
+    'Operative bottom-line adapter',
+    83,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    84,
+    27,
+    'Ergonomic exuding infrastructure',
+    84,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    85,
+    62,
+    'Synergized fresh-thinking help-desk',
+    85,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    86,
+    29,
+    'Programmable high-level intranet',
+    86,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    87,
+    41,
+    'Synergized web-enabled local area network',
+    87,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    88,
+    45,
+    'Automated next generation definition',
+    88,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    89,
+    39,
+    'Down-sized stable groupware',
+    89,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    90,
+    68,
+    'Fundamental mobile budgetary management',
+    90,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    91,
+    13,
+    'Expanded uniform productivity',
+    91,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    92,
+    87,
+    'Enhanced zero tolerance project',
+    92,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    93,
+    86,
+    'Streamlined optimal database',
+    93,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    94,
+    41,
+    'Balanced value-added migration',
+    94,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    95,
+    49,
+    'Down-sized intermediate methodology',
+    95,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    96,
+    60,
+    'Distributed directional Graphic Interface',
+    96,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    97,
+    9,
+    'Sharable dedicated definition',
+    97,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    98,
+    88,
+    'Monitored optimizing time-frame',
+    98,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    99,
+    34,
+    'Optimized interactive focus group',
+    99,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    100,
+    61,
+    'Configurable context-sensitive superstructure',
+    100,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    101,
+    87,
+    'Decentralized web-enabled knowledge user',
+    101,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    102,
+    10,
+    'Multi-lateral attitude-oriented initiative',
+    102,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    103,
+    28,
+    'Front-line bandwidth-monitored focus group',
+    103,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    104,
+    30,
+    'Adaptive secondary infrastructure',
+    104,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    105,
+    92,
+    'Face to face didactic strategy',
+    105,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    106,
+    15,
+    'Multi-tiered didactic moderator',
+    106,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    107,
+    44,
+    'Public-key non-volatile synergy',
+    107,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    108,
+    54,
+    'Horizontal motivating alliance',
+    108,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    109,
+    61,
+    'Versatile mobile website',
+    109,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    110,
+    63,
+    'Managed even-keeled workforce',
+    110,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    111,
+    99,
+    'Quality-focused grid-enabled leverage',
+    111,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    112,
+    24,
+    'Sharable content-based methodology',
+    112,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    113,
+    95,
+    'Total user-facing conglomeration',
+    113,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    114,
+    72,
+    'Optimized even-keeled flexibility',
+    114,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    115,
+    40,
+    'Operative non-volatile archive',
+    115,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    116,
+    92,
+    'Open-source methodical migration',
+    116,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    117,
+    25,
+    'Persevering fresh-thinking methodology',
+    117,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    118,
+    7,
+    'Horizontal fault-tolerant architecture',
+    118,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    119,
+    78,
+    'Ergonomic solution-oriented emulation',
+    119,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    120,
+    5,
+    'Digitized interactive info-mediaries',
+    120,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    121,
+    3,
+    'Customizable optimizing collaboration',
+    121,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    122,
+    71,
+    'Optimized 24/7 challenge',
+    122,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    123,
+    7,
+    'Future-proofed exuding function',
+    123,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    124,
+    87,
+    'Universal tangible support',
+    124,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    125,
+    55,
+    'Virtual context-sensitive definition',
+    125,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    126,
+    57,
+    'User-friendly user-facing functionalities',
+    126,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    127,
+    50,
+    'Profit-focused next generation alliance',
+    127,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    128,
+    100,
+    'User-centric mobile workforce',
+    128,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    129,
+    97,
+    'Organized foreground policy',
+    129,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    130,
+    44,
+    'Operative asynchronous capacity',
+    130,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    131,
+    6,
+    'Profit-focused interactive extranet',
+    131,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    132,
+    81,
+    'Business-focused 5th generation ability',
+    132,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    133,
+    22,
+    'Upgradable client-server ability',
+    133,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    134,
+    92,
+    'Optimized exuding challenge',
+    134,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    135,
+    68,
+    'Configurable context-sensitive forecast',
+    135,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    136,
+    61,
+    'Cross-platform 4th generation support',
+    136,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    137,
+    37,
+    'Upgradable multi-state frame',
+    137,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    138,
+    30,
+    'Automated dynamic architecture',
+    138,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    139,
+    88,
+    'Virtual regional leverage',
+    139,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    140,
+    61,
+    'Synergized human-resource customer loyalty',
+    140,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    141,
+    1,
+    'Operative stable productivity',
+    141,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    142,
+    10,
+    'De-engineered explicit function',
+    142,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    143,
+    57,
+    'Exclusive grid-enabled Graphic Interface',
+    143,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    144,
+    16,
+    'Organized 6th generation secured line',
+    144,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    145,
+    73,
+    'Reactive intermediate product',
+    145,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    146,
+    17,
+    'Virtual demand-driven capability',
+    146,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    147,
+    39,
+    'Compatible discrete internet solution',
+    147,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    148,
+    25,
+    'Multi-channelled modular project',
+    148,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    149,
+    2,
+    'User-friendly well-modulated functionalities',
+    149,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    150,
+    67,
+    'Networked dedicated encoding',
+    150,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    151,
+    79,
+    'Horizontal analyzing circuit',
+    151,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    152,
+    58,
+    'Cross-platform didactic protocol',
+    152,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    153,
+    42,
+    'Diverse zero defect task-force',
+    153,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    154,
+    11,
+    'Realigned multimedia collaboration',
+    154,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    155,
+    26,
+    'Implemented multi-tasking hierarchy',
+    155,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    156,
+    68,
+    'Profound directional emulation',
+    156,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    157,
+    25,
+    'Organic optimal knowledge base',
+    157,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    158,
+    66,
+    'Adaptive web-enabled core',
+    158,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    159,
+    52,
+    'Streamlined neutral hub',
+    159,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    160,
+    90,
+    'Assimilated upward-trending solution',
+    160,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    161,
+    34,
+    'Focused optimizing task-force',
+    161,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    162,
+    74,
+    'Vision-oriented intangible hierarchy',
+    162,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    163,
+    29,
+    'Decentralized high-level moderator',
+    163,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    164,
+    64,
+    'Switchable 5th generation conglomeration',
+    164,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    165,
+    44,
+    'Enterprise-wide zero tolerance throughput',
+    165,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    166,
+    55,
+    'Seamless optimal encoding',
+    166,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    167,
+    93,
+    'Reactive global parallelism',
+    167,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    168,
+    98,
+    'Reverse-engineered directional frame',
+    168,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    169,
+    26,
+    'Persevering neutral migration',
+    169,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    170,
+    74,
+    'Distributed neutral secured line',
+    170,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    171,
+    34,
+    'Self-enabling uniform policy',
+    171,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    172,
+    91,
+    'Switchable optimizing neural-net',
+    172,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    173,
+    60,
+    'Customizable composite contingency',
+    173,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    174,
+    92,
+    'De-engineered object-oriented frame',
+    174,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    175,
+    95,
+    'Enterprise-wide actuating archive',
+    175,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    176,
+    91,
+    'Automated uniform conglomeration',
+    176,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    177,
+    94,
+    'Multi-lateral grid-enabled workforce',
+    177,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    178,
+    3,
+    'Balanced dedicated implementation',
+    178,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    179,
+    83,
+    'Ergonomic asynchronous analyzer',
+    179,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    180,
+    45,
+    'Inverse bandwidth-monitored middleware',
+    180,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    181,
+    18,
+    'Face to face bi-directional encryption',
+    181,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    182,
+    77,
+    'Universal homogeneous forecast',
+    182,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    183,
+    86,
+    'Implemented executive intranet',
+    183,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    184,
+    32,
+    'Cross-group full-range alliance',
+    184,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    185,
+    93,
+    'Inverse impactful extranet',
+    185,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    186,
+    71,
+    'Phased high-level definition',
+    186,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    187,
+    59,
+    'Up-sized composite challenge',
+    187,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    188,
+    81,
+    'Optimized context-sensitive project',
+    188,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    189,
+    44,
+    'Inverse systemic support',
+    189,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    190,
+    14,
+    'Multi-tiered scalable Graphical User Interface',
+    190,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    191,
+    29,
+    'Programmable reciprocal architecture',
+    191,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    192,
+    38,
+    'Integrated impactful success',
+    192,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    193,
+    5,
+    'Versatile dynamic success',
+    193,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    194,
+    82,
+    'Fundamental uniform time-frame',
+    194,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    195,
+    52,
+    'Object-based mission-critical model',
+    195,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    196,
+    84,
+    'Reduced user-facing capability',
+    196,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    197,
+    79,
+    'Synergized interactive support',
+    197,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    198,
+    22,
+    'User-friendly solution-oriented synergy',
+    198,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    199,
+    21,
+    'Universal hybrid instruction set',
+    199,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    200,
+    54,
+    'Centralized real-time secured line',
+    200,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    201,
+    71,
+    'Assimilated exuding collaboration',
+    201,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    202,
+    29,
+    'User-centric motivating contingency',
+    202,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    203,
+    14,
+    'Fully-configurable modular emulation',
+    203,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    204,
+    61,
+    'Seamless actuating initiative',
+    204,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    205,
+    32,
+    'Innovative non-volatile hierarchy',
+    205,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    206,
+    31,
+    'Organized maximized open system',
+    206,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    207,
+    73,
+    'Profit-focused didactic knowledge user',
+    207,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    208,
+    65,
+    'Enterprise-wide grid-enabled projection',
+    208,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    209,
+    24,
+    'Secured zero administration support',
+    209,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    210,
+    89,
+    'Vision-oriented client-driven software',
+    210,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    211,
+    37,
+    'Total solution-oriented adapter',
+    211,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    212,
+    26,
+    'Total dedicated definition',
+    212,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    213,
+    99,
+    'User-centric empowering contingency',
+    213,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    214,
+    49,
+    'Front-line secondary paradigm',
+    214,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    215,
+    70,
+    'Progressive analyzing strategy',
+    215,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    216,
+    42,
+    'Ameliorated static strategy',
+    216,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    217,
+    46,
+    'Assimilated human-resource pricing structure',
+    217,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    218,
+    55,
+    'Horizontal composite application',
+    218,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    219,
+    73,
+    'Stand-alone attitude-oriented protocol',
+    219,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    220,
+    89,
+    'Adaptive systemic website',
+    220,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    221,
+    55,
+    'Customer-focused scalable moratorium',
+    221,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    222,
+    24,
+    'Multi-channelled grid-enabled projection',
+    222,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    223,
+    80,
+    'Integrated multimedia framework',
+    223,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    224,
+    2,
+    'De-engineered systematic methodology',
+    224,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    225,
+    28,
+    'Optimized systematic protocol',
+    225,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    226,
+    39,
+    'Team-oriented multi-state knowledge base',
+    226,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    227,
+    2,
+    'Stand-alone system-worthy frame',
+    227,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    228,
+    71,
+    'Optimized secondary contingency',
+    228,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    229,
+    98,
+    'Synergized intermediate model',
+    229,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    230,
+    55,
+    'Up-sized bandwidth-monitored open system',
+    230,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    231,
+    75,
+    'Public-key incremental extranet',
+    231,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    232,
+    76,
+    'Networked solution-oriented policy',
+    232,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    233,
+    51,
+    'Sharable secondary installation',
+    233,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    234,
+    83,
+    'Pre-emptive human-resource toolset',
+    234,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    235,
+    89,
+    'Networked fresh-thinking extranet',
+    235,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    236,
+    97,
+    'Operative object-oriented matrices',
+    236,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    237,
+    61,
+    'Extended transitional framework',
+    237,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    238,
+    55,
+    'Up-sized methodical knowledge base',
+    238,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    239,
+    37,
+    'Networked optimal policy',
+    239,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    240,
+    44,
+    'Universal solution-oriented architecture',
+    240,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    241,
+    59,
+    'Vision-oriented asynchronous projection',
+    241,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    242,
+    71,
+    'Open-architected tertiary function',
+    242,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    243,
+    15,
+    'Profound zero administration matrix',
+    243,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    244,
+    2,
+    'Mandatory fault-tolerant conglomeration',
+    244,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    245,
+    94,
+    'Enhanced foreground productivity',
+    245,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    246,
+    96,
+    'Open-architected next generation artificial intelligence',
+    246,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    247,
+    53,
+    'Realigned web-enabled budgetary management',
+    247,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    248,
+    20,
+    'Programmable maximized methodology',
+    248,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    249,
+    10,
+    'Synchronised 3rd generation projection',
+    249,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    250,
+    81,
+    'Total secondary contingency',
+    250,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    251,
+    90,
+    'Re-contextualized real-time portal',
+    251,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    252,
+    100,
+    'Team-oriented discrete functionalities',
+    252,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    253,
+    8,
+    'Cross-platform dynamic structure',
+    253,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    254,
+    49,
+    'Assimilated neutral monitoring',
+    254,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    255,
+    12,
+    'Cloned holistic infrastructure',
+    255,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    256,
+    42,
+    'Upgradable 5th generation matrices',
+    256,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    257,
+    94,
+    'Advanced high-level extranet',
+    257,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    258,
+    93,
+    'Devolved stable Graphical User Interface',
+    258,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    259,
+    76,
+    'Visionary 24 hour data-warehouse',
+    259,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    260,
+    68,
+    'Mandatory 3rd generation project',
+    260,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    261,
+    16,
+    'Organic global access',
+    261,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    262,
+    76,
+    'Advanced maximized attitude',
+    262,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    263,
+    75,
+    'Seamless fault-tolerant open architecture',
+    263,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    264,
+    32,
+    'Cross-platform cohesive help-desk',
+    264,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    265,
+    90,
+    'Visionary optimal customer loyalty',
+    265,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    266,
+    26,
+    'Reverse-engineered scalable implementation',
+    266,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    267,
+    21,
+    'Quality-focused 4th generation toolset',
+    267,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    268,
+    19,
+    'Triple-buffered national structure',
+    268,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    269,
+    14,
+    'Right-sized fault-tolerant middleware',
+    269,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    270,
+    70,
+    'Open-source solution-oriented matrices',
+    270,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    271,
+    75,
+    'Balanced dedicated contingency',
+    271,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    272,
+    89,
+    'Self-enabling static contingency',
+    272,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    273,
+    19,
+    'Organized 24/7 implementation',
+    273,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    274,
+    11,
+    'Organized scalable structure',
+    274,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    275,
+    60,
+    'Reverse-engineered well-modulated leverage',
+    275,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    276,
+    56,
+    'Upgradable composite firmware',
+    276,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    277,
+    70,
+    'Configurable homogeneous core',
+    277,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    278,
+    4,
+    'Face to face neutral firmware',
+    278,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    279,
+    91,
+    'Customer-focused 6th generation implementation',
+    279,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    280,
+    38,
+    'Focused high-level product',
+    280,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    281,
+    23,
+    'Multi-channelled analyzing projection',
+    281,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    282,
+    26,
+    'Team-oriented optimal conglomeration',
+    282,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    283,
+    33,
+    'Integrated web-enabled workforce',
+    283,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    284,
+    29,
+    'Re-engineered encompassing contingency',
+    284,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    285,
+    64,
+    'Business-focused composite projection',
+    285,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    286,
+    54,
+    'Networked 6th generation concept',
+    286,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    287,
+    82,
+    'Polarised zero defect knowledge base',
+    287,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    288,
+    46,
+    'Intuitive high-level Graphical User Interface',
+    288,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    289,
+    65,
+    'Automated leading edge orchestration',
+    289,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    290,
+    26,
+    'Monitored 3rd generation architecture',
+    290,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    291,
+    81,
+    'Innovative solution-oriented frame',
+    291,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    292,
+    13,
+    'Self-enabling system-worthy methodology',
+    292,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    293,
+    13,
+    'Optimized eco-centric algorithm',
+    293,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    294,
+    7,
+    'Expanded composite productivity',
+    294,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    295,
+    63,
+    'Multi-lateral composite complexity',
+    295,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    296,
+    53,
+    'Innovative actuating architecture',
+    296,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    297,
+    66,
+    'Function-based multimedia moratorium',
+    297,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    298,
+    10,
+    'Optional object-oriented forecast',
+    298,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    299,
+    0,
+    'Visionary encompassing approach',
+    299,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    300,
+    42,
+    'Networked empowering middleware',
+    300,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    301,
+    72,
+    'User-friendly bi-directional orchestration',
+    301,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    302,
+    77,
+    'Multi-tiered 5th generation function',
+    302,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    303,
+    49,
+    'Persevering modular policy',
+    303,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    304,
+    64,
+    'Total intangible synergy',
+    304,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    305,
+    8,
+    'Managed executive paradigm',
+    305,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    306,
+    80,
+    'User-centric logistical groupware',
+    306,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    307,
+    53,
+    'De-engineered object-oriented frame',
+    307,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    308,
+    67,
+    'Right-sized optimizing hub',
+    308,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    309,
+    87,
+    'Enterprise-wide 4th generation time-frame',
+    309,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    310,
+    26,
+    'Compatible 6th generation leverage',
+    310,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    311,
+    74,
+    'Persevering homogeneous Graphical User Interface',
+    311,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    312,
+    4,
+    'Fully-configurable incremental projection',
+    312,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    313,
+    31,
+    'Optimized zero administration superstructure',
+    313,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    314,
+    20,
+    'Networked clear-thinking website',
+    314,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    315,
+    55,
+    'Inverse coherent moderator',
+    315,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    316,
+    90,
+    'Monitored 3rd generation project',
+    316,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    317,
+    19,
+    'Enterprise-wide real-time product',
+    317,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    318,
+    22,
+    'Upgradable didactic installation',
+    318,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    319,
+    6,
+    'Open-source explicit analyzer',
+    319,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    320,
+    59,
+    'Persevering composite architecture',
+    320,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    321,
+    75,
+    'Persistent optimizing methodology',
+    321,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    322,
+    6,
+    'Visionary fresh-thinking neural-net',
+    322,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    323,
+    61,
+    'Universal reciprocal database',
+    323,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    324,
+    80,
+    'Future-proofed executive collaboration',
+    324,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    325,
+    26,
+    'Cross-platform radical attitude',
+    325,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    326,
+    47,
+    'Exclusive bi-directional definition',
+    326,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    327,
+    98,
+    'Fundamental object-oriented projection',
+    327,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    328,
+    51,
+    'Multi-lateral eco-centric migration',
+    328,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    329,
+    11,
+    'Robust zero tolerance function',
+    329,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    330,
+    67,
+    'Progressive client-driven open system',
+    330,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    331,
+    77,
+    'Focused bifurcated instruction set',
+    331,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    332,
+    49,
+    'Balanced non-volatile utilisation',
+    332,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    333,
+    83,
+    'Monitored composite encryption',
+    333,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    334,
+    43,
+    'Synergistic 24 hour structure',
+    334,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    335,
+    62,
+    'Business-focused scalable hardware',
+    335,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    336,
+    86,
+    'Reduced optimizing customer loyalty',
+    336,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    337,
+    27,
+    'Networked asynchronous data-warehouse',
+    337,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    338,
+    58,
+    'Multi-channelled user-facing archive',
+    338,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    339,
+    9,
+    'Reverse-engineered impactful software',
+    339,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    340,
+    18,
+    'Integrated content-based hub',
+    340,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    341,
+    73,
+    'Automated client-server intranet',
+    341,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    342,
+    64,
+    'Self-enabling stable extranet',
+    342,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    343,
+    71,
+    'De-engineered content-based leverage',
+    343,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    344,
+    71,
+    'Down-sized multi-state implementation',
+    344,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    345,
+    99,
+    'Enhanced tertiary portal',
+    345,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    346,
+    17,
+    'Profound zero defect leverage',
+    346,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    347,
+    93,
+    'Customer-focused even-keeled local area network',
+    347,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    348,
+    25,
+    'Sharable solution-oriented attitude',
+    348,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    349,
+    22,
+    'Multi-lateral bifurcated open system',
+    349,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    350,
+    8,
+    'Ameliorated intangible budgetary management',
+    350,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    351,
+    50,
+    'Organic analyzing definition',
+    351,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    352,
+    20,
+    'Innovative systemic info-mediaries',
+    352,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    353,
+    88,
+    'Switchable explicit Graphic Interface',
+    353,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    354,
+    94,
+    'Synchronised fresh-thinking conglomeration',
+    354,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    355,
+    41,
+    'Reverse-engineered bifurcated application',
+    355,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    356,
+    50,
+    'Down-sized heuristic algorithm',
+    356,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    357,
+    86,
+    'Optional neutral budgetary management',
+    357,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    358,
+    57,
+    'Integrated static local area network',
+    358,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    359,
+    57,
+    'Down-sized holistic installation',
+    359,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    360,
+    9,
+    'Sharable client-driven capacity',
+    360,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    361,
+    94,
+    'Re-engineered non-volatile monitoring',
+    361,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    362,
+    54,
+    'Organized systemic flexibility',
+    362,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    363,
+    41,
+    'Pre-emptive neutral protocol',
+    363,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    364,
+    11,
+    'Fundamental interactive pricing structure',
+    364,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    365,
+    91,
+    'Extended real-time methodology',
+    365,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    366,
+    10,
+    'Front-line bottom-line utilisation',
+    366,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    367,
+    81,
+    'Switchable empowering task-force',
+    367,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    368,
+    46,
+    'Programmable object-oriented time-frame',
+    368,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    369,
+    19,
+    'Focused disintermediate interface',
+    369,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    370,
+    43,
+    'De-engineered intangible database',
+    370,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    371,
+    70,
+    'Realigned content-based Graphic Interface',
+    371,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    372,
+    17,
+    'Ergonomic 5th generation secured line',
+    372,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    373,
+    64,
+    'Intuitive upward-trending open architecture',
+    373,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    374,
+    69,
+    'Stand-alone maximized website',
+    374,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    375,
+    18,
+    'Up-sized solution-oriented parallelism',
+    375,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    376,
+    37,
+    'Diverse heuristic emulation',
+    376,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    377,
+    18,
+    'Configurable cohesive process improvement',
+    377,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    378,
+    61,
+    'Intuitive national pricing structure',
+    378,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    379,
+    28,
+    'Business-focused uniform task-force',
+    379,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    380,
+    89,
+    'Monitored motivating initiative',
+    380,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    381,
+    68,
+    'Open-architected encompassing process improvement',
+    381,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    382,
+    47,
+    'Profit-focused hybrid framework',
+    382,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    383,
+    58,
+    'Organic analyzing contingency',
+    383,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    384,
+    79,
+    'Visionary asynchronous intranet',
+    384,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    385,
+    95,
+    'Advanced intermediate success',
+    385,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    386,
+    9,
+    'Programmable mobile hub',
+    386,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    387,
+    19,
+    'Expanded 6th generation architecture',
+    387,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    388,
+    61,
+    'Total systematic collaboration',
+    388,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    389,
+    24,
+    'Up-sized client-server hardware',
+    389,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    390,
+    100,
+    'Focused exuding hierarchy',
+    390,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    391,
+    33,
+    'Innovative uniform middleware',
+    391,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    392,
+    99,
+    'Object-based reciprocal contingency',
+    392,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    393,
+    31,
+    'Intuitive heuristic standardization',
+    393,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    394,
+    59,
+    'Future-proofed logistical portal',
+    394,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    395,
+    0,
+    'Cloned multi-state algorithm',
+    395,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    396,
+    9,
+    'Business-focused tertiary paradigm',
+    396,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    397,
+    49,
+    'Balanced dedicated moratorium',
+    397,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    398,
+    48,
+    'Triple-buffered multimedia matrix',
+    398,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    399,
+    76,
+    'Focused reciprocal internet solution',
+    399,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    400,
+    23,
+    'Decentralized intermediate service-desk',
+    400,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    401,
+    27,
+    'Business-focused clear-thinking middleware',
+    401,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    402,
+    4,
+    'Public-key needs-based firmware',
+    402,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    403,
+    55,
+    'Re-engineered fresh-thinking process improvement',
+    403,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    404,
+    78,
+    'Monitored mission-critical portal',
+    404,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    405,
+    72,
+    'Open-source high-level infrastructure',
+    405,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    406,
+    34,
+    'Diverse non-volatile alliance',
+    406,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    407,
+    79,
+    'Operative contextually-based product',
+    407,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    408,
+    38,
+    'Multi-channelled scalable hardware',
+    408,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    409,
+    63,
+    'Fundamental tangible framework',
+    409,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    410,
+    71,
+    'Focused dynamic ability',
+    410,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    411,
+    57,
+    'Devolved 4th generation throughput',
+    411,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    412,
+    39,
+    'Monitored 5th generation encoding',
+    412,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    413,
+    13,
+    'Re-engineered analyzing database',
+    413,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    414,
+    82,
+    'Synchronised composite knowledge user',
+    414,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    415,
+    29,
+    'Business-focused neutral complexity',
+    415,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    416,
+    19,
+    'Digitized 5th generation array',
+    416,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    417,
+    85,
+    'Operative interactive product',
+    417,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    418,
+    27,
+    'Total 24 hour superstructure',
+    418,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    419,
+    96,
+    'User-centric zero tolerance toolset',
+    419,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    420,
+    70,
+    'Decentralized demand-driven neural-net',
+    420,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    421,
+    97,
+    'Devolved hybrid info-mediaries',
+    421,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    422,
+    61,
+    'Profit-focused even-keeled productivity',
+    422,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    423,
+    96,
+    'Persevering value-added array',
+    423,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    424,
+    51,
+    'Configurable impactful attitude',
+    424,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    425,
+    28,
+    'Organic 24 hour model',
+    425,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    426,
+    31,
+    'Horizontal actuating neural-net',
+    426,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    427,
+    89,
+    'Seamless attitude-oriented alliance',
+    427,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    428,
+    70,
+    'Integrated needs-based encoding',
+    428,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    429,
+    56,
+    'Operative logistical throughput',
+    429,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    430,
+    47,
+    'Sharable human-resource instruction set',
+    430,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    431,
+    0,
+    'Universal systematic complexity',
+    431,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    432,
+    92,
+    'Stand-alone methodical Graphic Interface',
+    432,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    433,
+    5,
+    'Managed logistical database',
+    433,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    434,
+    98,
+    'Intuitive uniform middleware',
+    434,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    435,
+    99,
+    'Multi-channelled zero administration circuit',
+    435,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    436,
+    55,
+    'Face to face analyzing migration',
+    436,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    437,
+    92,
+    'User-centric incremental open architecture',
+    437,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    438,
+    66,
+    'Persevering uniform projection',
+    438,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    439,
+    99,
+    'Automated global function',
+    439,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    440,
+    30,
+    'Horizontal interactive workforce',
+    440,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    441,
+    17,
+    'Right-sized holistic open architecture',
+    441,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    442,
+    5,
+    'Operative zero defect flexibility',
+    442,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    443,
+    54,
+    'Inverse solution-oriented knowledge base',
+    443,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    444,
+    91,
+    'User-friendly reciprocal product',
+    444,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    445,
+    69,
+    'Mandatory eco-centric model',
+    445,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    446,
+    55,
+    'Public-key 5th generation migration',
+    446,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    447,
+    52,
+    'Pre-emptive client-driven capability',
+    447,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    448,
+    92,
+    'Integrated grid-enabled orchestration',
+    448,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    449,
+    66,
+    'Implemented user-facing application',
+    449,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    450,
+    90,
+    'Digitized bifurcated knowledge user',
+    450,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    451,
+    74,
+    'User-friendly optimal methodology',
+    451,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    452,
+    3,
+    'Re-contextualized mobile help-desk',
+    452,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    453,
+    8,
+    'Pre-emptive 4th generation core',
+    453,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    454,
+    45,
+    'Virtual optimizing database',
+    454,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    455,
+    30,
+    'Implemented local infrastructure',
+    455,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    456,
+    57,
+    'Adaptive impactful solution',
+    456,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    457,
+    47,
+    'Managed next generation internet solution',
+    457,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    458,
+    20,
+    'Diverse multi-state solution',
+    458,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    459,
+    57,
+    'Extended hybrid migration',
+    459,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    460,
+    69,
+    'User-centric secondary protocol',
+    460,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    461,
+    86,
+    'Up-sized coherent algorithm',
+    461,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    462,
+    98,
+    'Optional impactful attitude',
+    462,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    463,
+    85,
+    'Proactive non-volatile productivity',
+    463,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    464,
+    53,
+    'Networked maximized conglomeration',
+    464,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    465,
+    15,
+    'Quality-focused grid-enabled model',
+    465,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    466,
+    60,
+    'De-engineered holistic monitoring',
+    466,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    467,
+    82,
+    'Integrated encompassing intranet',
+    467,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    468,
+    33,
+    'Organic bottom-line alliance',
+    468,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    469,
+    37,
+    'Automated well-modulated internet solution',
+    469,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    470,
+    77,
+    'Visionary mobile adapter',
+    470,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    471,
+    17,
+    'Team-oriented coherent artificial intelligence',
+    471,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    472,
+    48,
+    'Expanded attitude-oriented superstructure',
+    472,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    473,
+    79,
+    'Right-sized leading edge software',
+    473,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    474,
+    81,
+    'Intuitive eco-centric project',
+    474,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    475,
+    13,
+    'Proactive fresh-thinking attitude',
+    475,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    476,
+    6,
+    'Persevering 24/7 contingency',
+    476,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    477,
+    57,
+    'Visionary 24/7 architecture',
+    477,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    478,
+    4,
+    'Re-contextualized asymmetric initiative',
+    478,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    479,
+    88,
+    'Distributed 5th generation throughput',
+    479,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    480,
+    51,
+    'Robust logistical open system',
+    480,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    481,
+    35,
+    'Cross-group global help-desk',
+    481,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    482,
+    44,
+    'Sharable real-time orchestration',
+    482,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    483,
+    50,
+    'De-engineered optimizing matrix',
+    483,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    484,
+    17,
+    'Face to face holistic focus group',
+    484,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    485,
+    50,
+    'Organic mission-critical product',
+    485,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    486,
+    12,
+    'Synergistic 4th generation alliance',
+    486,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    487,
+    3,
+    'Pre-emptive tertiary moderator',
+    487,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    488,
+    57,
+    'Profound asynchronous implementation',
+    488,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    489,
+    25,
+    'Sharable actuating throughput',
+    489,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    490,
+    60,
+    'Automated maximized workforce',
+    490,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    491,
+    33,
+    'Function-based discrete open system',
+    491,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    492,
+    24,
+    'Centralized intermediate adapter',
+    492,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    493,
+    35,
+    'Expanded radical standardization',
+    493,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    494,
+    77,
+    'Switchable real-time function',
+    494,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    495,
+    2,
+    'Innovative 6th generation firmware',
+    495,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    496,
+    54,
+    'Quality-focused optimal emulation',
+    496,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    497,
+    62,
+    'Grass-roots responsive application',
+    497,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    498,
+    18,
+    'Multi-lateral interactive success',
+    498,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    499,
+    32,
+    'Optional national firmware',
+    499,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    500,
+    87,
+    'Face to face high-level concept',
+    500,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    501,
+    53,
+    'Fundamental global superstructure',
+    501,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    502,
+    63,
+    'Enhanced even-keeled monitoring',
+    502,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    503,
+    17,
+    'Phased contextually-based installation',
+    503,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    504,
+    43,
+    'Operative content-based definition',
+    504,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    505,
+    78,
+    'Right-sized high-level structure',
+    505,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    506,
+    56,
+    'Organic holistic function',
+    506,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    507,
+    7,
+    'Configurable full-range product',
+    507,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    508,
+    58,
+    'Devolved web-enabled definition',
+    508,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    509,
+    85,
+    'Digitized grid-enabled hardware',
+    509,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    510,
+    99,
+    'Multi-channelled leading edge projection',
+    510,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    511,
+    37,
+    'Vision-oriented client-driven help-desk',
+    511,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    512,
+    99,
+    'Versatile transitional analyzer',
+    512,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    513,
+    11,
+    'Team-oriented heuristic hardware',
+    513,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    514,
+    88,
+    'Expanded attitude-oriented standardization',
+    514,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    515,
+    48,
+    'Virtual actuating orchestration',
+    515,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    516,
+    67,
+    'Right-sized heuristic artificial intelligence',
+    516,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    517,
+    25,
+    'Decentralized neutral support',
+    517,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    518,
+    20,
+    'Configurable attitude-oriented synergy',
+    518,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    519,
+    21,
+    'Team-oriented hybrid productivity',
+    519,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    520,
+    27,
+    'Fundamental mobile throughput',
+    520,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    521,
+    10,
+    'Secured background neural-net',
+    521,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    522,
+    2,
+    'Object-based background info-mediaries',
+    522,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    523,
+    90,
+    'Open-architected zero defect service-desk',
+    523,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    524,
+    64,
+    'Open-source local functionalities',
+    524,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    525,
+    67,
+    'Function-based dynamic capacity',
+    525,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    526,
+    81,
+    'Synergistic multi-state access',
+    526,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    527,
+    64,
+    'Switchable optimizing hierarchy',
+    527,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    528,
+    80,
+    'Compatible multi-tasking strategy',
+    528,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    529,
+    59,
+    'Monitored didactic task-force',
+    529,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    530,
+    72,
+    'Business-focused 5th generation attitude',
+    530,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    531,
+    31,
+    'Fully-configurable disintermediate parallelism',
+    531,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    532,
+    13,
+    'Business-focused composite website',
+    532,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    533,
+    16,
+    'Managed 5th generation utilisation',
+    533,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    534,
+    25,
+    'Face to face systematic open system',
+    534,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    535,
+    24,
+    'Cloned logistical interface',
+    535,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    536,
+    59,
+    'Triple-buffered national website',
+    536,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    537,
+    45,
+    'Customizable heuristic challenge',
+    537,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    538,
+    23,
+    'Optional responsive Graphical User Interface',
+    538,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    539,
+    28,
+    'Optional non-volatile throughput',
+    539,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    540,
+    98,
+    'Operative radical info-mediaries',
+    540,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    541,
+    3,
+    'Open-architected disintermediate application',
+    541,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    542,
+    97,
+    'Organic fresh-thinking hierarchy',
+    542,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    543,
+    79,
+    'Persistent even-keeled solution',
+    543,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    544,
+    9,
+    'Mandatory heuristic complexity',
+    544,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    545,
+    46,
+    'Seamless logistical algorithm',
+    545,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    546,
+    17,
+    'Public-key fault-tolerant project',
+    546,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    547,
+    27,
+    'Progressive regional infrastructure',
+    547,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    548,
+    12,
+    'Assimilated executive utilisation',
+    548,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    549,
+    2,
+    'Streamlined client-server encryption',
+    549,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    550,
+    8,
+    'Universal 5th generation interface',
+    550,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    551,
+    25,
+    'Sharable uniform access',
+    551,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    552,
+    9,
+    'Reduced tertiary protocol',
+    552,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    553,
+    49,
+    'Realigned 5th generation portal',
+    553,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    554,
+    54,
+    'Synchronised global throughput',
+    554,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    555,
+    33,
+    'Right-sized content-based moratorium',
+    555,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    556,
+    63,
+    'Vision-oriented secondary middleware',
+    556,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    557,
+    54,
+    'Reduced human-resource policy',
+    557,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    558,
+    56,
+    'Networked 3rd generation capacity',
+    558,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    559,
+    75,
+    'De-engineered maximized emulation',
+    559,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    560,
+    25,
+    'Innovative bifurcated complexity',
+    560,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    561,
+    58,
+    'Advanced mobile Graphic Interface',
+    561,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    562,
+    82,
+    'Fundamental multi-tasking help-desk',
+    562,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    563,
+    48,
+    'Team-oriented 24/7 algorithm',
+    563,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    564,
+    49,
+    'Open-architected asynchronous internet solution',
+    564,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    565,
+    53,
+    'Innovative human-resource protocol',
+    565,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    566,
+    24,
+    'Automated interactive internet solution',
+    566,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    567,
+    34,
+    'Stand-alone modular infrastructure',
+    567,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    568,
+    99,
+    'Realigned real-time array',
+    568,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    569,
+    84,
+    'Customer-focused dedicated matrix',
+    569,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    570,
+    64,
+    'Distributed transitional utilisation',
+    570,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    571,
+    20,
+    'Multi-tiered context-sensitive extranet',
+    571,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    572,
+    65,
+    'Up-sized clear-thinking complexity',
+    572,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    573,
+    100,
+    'Enhanced static collaboration',
+    573,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    574,
+    44,
+    'Integrated stable challenge',
+    574,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    575,
+    22,
+    'Open-architected transitional matrices',
+    575,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    576,
+    52,
+    'Right-sized needs-based instruction set',
+    576,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    577,
+    49,
+    'Operative empowering alliance',
+    577,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    578,
+    1,
+    'De-engineered directional conglomeration',
+    578,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    579,
+    45,
+    'Vision-oriented scalable software',
+    579,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    580,
+    65,
+    'Quality-focused modular benchmark',
+    580,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    581,
+    50,
+    'Customizable client-server synergy',
+    581,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    582,
+    72,
+    'User-friendly radical array',
+    582,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    583,
+    98,
+    'Configurable web-enabled firmware',
+    583,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    584,
+    42,
+    'Organized tangible flexibility',
+    584,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    585,
+    66,
+    'Focused methodical throughput',
+    585,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    586,
+    72,
+    'Progressive leading edge throughput',
+    586,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    587,
+    41,
+    'Proactive discrete initiative',
+    587,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    588,
+    40,
+    'Organic asynchronous hub',
+    588,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    589,
+    97,
+    'Stand-alone non-volatile project',
+    589,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    590,
+    62,
+    'Expanded systematic contingency',
+    590,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    591,
+    79,
+    'Optional zero tolerance open system',
+    591,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    592,
+    97,
+    'Right-sized homogeneous utilisation',
+    592,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    593,
+    33,
+    'Assimilated encompassing moderator',
+    593,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    594,
+    1,
+    'Cross-platform needs-based synergy',
+    594,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    595,
+    57,
+    'Configurable human-resource ability',
+    595,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    596,
+    72,
+    'Face to face zero tolerance standardization',
+    596,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    597,
+    55,
+    'Enhanced system-worthy knowledge user',
+    597,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    598,
+    99,
+    'Multi-layered homogeneous secured line',
+    598,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    599,
+    13,
+    'Cloned executive project',
+    599,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    600,
+    80,
+    'Compatible fault-tolerant info-mediaries',
+    600,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    601,
+    46,
+    'Function-based analyzing product',
+    601,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    602,
+    27,
+    'Re-engineered systemic concept',
+    602,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    603,
+    90,
+    'Streamlined foreground customer loyalty',
+    603,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    604,
+    69,
+    'Managed empowering leverage',
+    604,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    605,
+    15,
+    'Team-oriented 3rd generation complexity',
+    605,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    606,
+    10,
+    'Front-line clear-thinking capability',
+    606,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    607,
+    57,
+    'Mandatory maximized utilisation',
+    607,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    608,
+    85,
+    'Automated next generation matrix',
+    608,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    609,
+    76,
+    'Assimilated 24 hour benchmark',
+    609,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    610,
+    82,
+    'Monitored reciprocal firmware',
+    610,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    611,
+    96,
+    'Secured multi-tasking encryption',
+    611,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    612,
+    87,
+    'Synergistic 24 hour throughput',
+    612,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    613,
+    14,
+    'Streamlined bottom-line capacity',
+    613,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    614,
+    94,
+    'Total asynchronous open architecture',
+    614,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    615,
+    10,
+    'Optimized zero defect collaboration',
+    615,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    616,
+    100,
+    'Upgradable well-modulated neural-net',
+    616,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    617,
+    48,
+    'Versatile heuristic local area network',
+    617,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    618,
+    96,
+    'Expanded directional service-desk',
+    618,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    619,
+    4,
+    'Cloned hybrid projection',
+    619,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    620,
+    27,
+    'User-centric grid-enabled toolset',
+    620,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    621,
+    48,
+    'Synchronised systemic moratorium',
+    621,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    622,
+    70,
+    'Reverse-engineered directional help-desk',
+    622,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    623,
+    48,
+    'Extended cohesive parallelism',
+    623,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    624,
+    88,
+    'Future-proofed systematic functionalities',
+    624,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    625,
+    60,
+    'Quality-focused exuding customer loyalty',
+    625,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    626,
+    66,
+    'Secured bottom-line project',
+    626,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    627,
+    69,
+    'Face to face transitional groupware',
+    627,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    628,
+    13,
+    'Streamlined responsive collaboration',
+    628,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    629,
+    70,
+    'Universal transitional protocol',
+    629,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    630,
+    36,
+    'Reduced radical instruction set',
+    630,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    631,
+    54,
+    'Right-sized radical access',
+    631,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    632,
+    10,
+    'Open-source dedicated matrices',
+    632,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    633,
+    51,
+    'Object-based upward-trending policy',
+    633,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    634,
+    83,
+    'Innovative disintermediate info-mediaries',
+    634,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    635,
+    97,
+    'Inverse reciprocal encryption',
+    635,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    636,
+    62,
+    'De-engineered client-server Graphical User Interface',
+    636,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    637,
+    83,
+    'Front-line responsive internet solution',
+    637,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    638,
+    8,
+    'Realigned 5th generation local area network',
+    638,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    639,
+    88,
+    'Sharable next generation moderator',
+    639,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    640,
+    5,
+    'Stand-alone radical budgetary management',
+    640,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    641,
+    73,
+    'User-centric mobile core',
+    641,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    642,
+    15,
+    'Streamlined uniform ability',
+    642,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    643,
+    93,
+    'Robust web-enabled task-force',
+    643,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    644,
+    5,
+    'Focused tangible access',
+    644,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    645,
+    9,
+    'Switchable motivating synergy',
+    645,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    646,
+    58,
+    'Object-based heuristic database',
+    646,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    647,
+    73,
+    'Fully-configurable impactful attitude',
+    647,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    648,
+    91,
+    'Reverse-engineered stable alliance',
+    648,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    649,
+    67,
+    'Compatible directional service-desk',
+    649,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    650,
+    19,
+    'Open-architected 5th generation parallelism',
+    650,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    651,
+    97,
+    'Fully-configurable reciprocal workforce',
+    651,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    652,
+    27,
+    'Organic tangible service-desk',
+    652,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    653,
+    83,
+    'Grass-roots dedicated synergy',
+    653,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    654,
+    33,
+    'Realigned full-range challenge',
+    654,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    655,
+    75,
+    'Triple-buffered incremental success',
+    655,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    656,
+    50,
+    'Synchronised context-sensitive installation',
+    656,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    657,
+    7,
+    'Innovative demand-driven function',
+    657,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    658,
+    68,
+    'Ergonomic clear-thinking hierarchy',
+    658,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    659,
+    64,
+    'Devolved fault-tolerant knowledge base',
+    659,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    660,
+    100,
+    'Compatible tangible task-force',
+    660,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    661,
+    35,
+    'Grass-roots disintermediate middleware',
+    661,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    662,
+    43,
+    'Visionary reciprocal pricing structure',
+    662,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    663,
+    12,
+    'Exclusive systematic core',
+    663,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    664,
+    3,
+    'Cross-platform clear-thinking array',
+    664,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    665,
+    97,
+    'Ameliorated web-enabled analyzer',
+    665,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    666,
+    36,
+    'Assimilated homogeneous open system',
+    666,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    667,
+    85,
+    'Fully-configurable composite productivity',
+    667,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    668,
+    23,
+    'Cloned scalable focus group',
+    668,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    669,
+    76,
+    'Cross-group maximized internet solution',
+    669,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    670,
+    41,
+    'Enhanced global flexibility',
+    670,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    671,
+    74,
+    'Realigned real-time challenge',
+    671,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    672,
+    91,
+    'Decentralized coherent hub',
+    672,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    673,
+    43,
+    'Cross-group 24 hour neural-net',
+    673,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    674,
+    85,
+    'User-centric exuding methodology',
+    674,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    675,
+    65,
+    'Reactive responsive budgetary management',
+    675,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    676,
+    37,
+    'Multi-tiered didactic neural-net',
+    676,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    677,
+    89,
+    'Decentralized national synergy',
+    677,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    678,
+    13,
+    'Implemented optimal task-force',
+    678,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    679,
+    48,
+    'Multi-tiered logistical productivity',
+    679,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    680,
+    60,
+    'User-centric motivating product',
+    680,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    681,
+    11,
+    'Reactive tertiary migration',
+    681,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    682,
+    2,
+    'Synchronised global hierarchy',
+    682,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    683,
+    75,
+    'Seamless content-based secured line',
+    683,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    684,
+    55,
+    'Advanced zero tolerance infrastructure',
+    684,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    685,
+    80,
+    'Inverse interactive neural-net',
+    685,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    686,
+    82,
+    'Managed attitude-oriented pricing structure',
+    686,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    687,
+    61,
+    'Organized explicit policy',
+    687,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    688,
+    66,
+    'Function-based impactful open architecture',
+    688,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    689,
+    28,
+    'Progressive national open architecture',
+    689,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    690,
+    85,
+    'Implemented demand-driven local area network',
+    690,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    691,
+    97,
+    'Triple-buffered tangible data-warehouse',
+    691,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    692,
+    74,
+    'Multi-channelled tertiary support',
+    692,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    693,
+    86,
+    'Total 3rd generation intranet',
+    693,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    694,
+    98,
+    'Progressive bifurcated hierarchy',
+    694,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    695,
+    75,
+    'Mandatory mobile secured line',
+    695,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    696,
+    65,
+    'Fundamental system-worthy flexibility',
+    696,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    697,
+    22,
+    'Versatile modular approach',
+    697,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    698,
+    38,
+    'Universal attitude-oriented website',
+    698,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    699,
+    10,
+    'Virtual discrete architecture',
+    699,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    700,
+    43,
+    'Profound scalable moratorium',
+    700,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    701,
+    0,
+    'Upgradable disintermediate conglomeration',
+    701,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    702,
+    4,
+    'Future-proofed disintermediate array',
+    702,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    703,
+    90,
+    'Pre-emptive maximized concept',
+    703,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    704,
+    48,
+    'Monitored national service-desk',
+    704,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    705,
+    88,
+    'User-centric bi-directional circuit',
+    705,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    706,
+    49,
+    'Innovative high-level superstructure',
+    706,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    707,
+    20,
+    'Adaptive secondary open system',
+    707,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    708,
+    18,
+    'Public-key 24 hour framework',
+    708,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    709,
+    14,
+    'Re-engineered real-time protocol',
+    709,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    710,
+    62,
+    'Versatile 4th generation neural-net',
+    710,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    711,
+    40,
+    'Organized motivating collaboration',
+    711,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    712,
+    15,
+    'Devolved foreground emulation',
+    712,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    713,
+    32,
+    'Virtual composite migration',
+    713,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    714,
+    5,
+    'Programmable motivating system engine',
+    714,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    715,
+    34,
+    'Persistent composite moratorium',
+    715,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    716,
+    63,
+    'Visionary demand-driven model',
+    716,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    717,
+    41,
+    'Fundamental empowering toolset',
+    717,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    718,
+    36,
+    'Face to face cohesive functionalities',
+    718,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    719,
+    13,
+    'Secured regional orchestration',
+    719,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    720,
+    94,
+    'Public-key reciprocal project',
+    720,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    721,
+    98,
+    'Synchronised 24/7 pricing structure',
+    721,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    722,
+    44,
+    'Robust impactful array',
+    722,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    723,
+    26,
+    'Pre-emptive client-server attitude',
+    723,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    724,
+    13,
+    'Cloned actuating help-desk',
+    724,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    725,
+    84,
+    'Organic zero tolerance benchmark',
+    725,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    726,
+    11,
+    'Intuitive even-keeled customer loyalty',
+    726,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    727,
+    90,
+    'Integrated fresh-thinking emulation',
+    727,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    728,
+    68,
+    'Integrated asymmetric parallelism',
+    728,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    729,
+    2,
+    'Visionary demand-driven access',
+    729,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    730,
+    63,
+    'De-engineered fresh-thinking system engine',
+    730,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    731,
+    27,
+    'Programmable context-sensitive forecast',
+    731,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    732,
+    80,
+    'Synergized fault-tolerant internet solution',
+    732,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    733,
+    64,
+    'Visionary exuding capacity',
+    733,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    734,
+    44,
+    'Configurable dedicated data-warehouse',
+    734,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    735,
+    36,
+    'Grass-roots contextually-based synergy',
+    735,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    736,
+    23,
+    'Up-sized homogeneous solution',
+    736,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    737,
+    1,
+    'Re-engineered full-range ability',
+    737,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    738,
+    59,
+    'Cross-platform logistical access',
+    738,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    739,
+    99,
+    'Enhanced well-modulated task-force',
+    739,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    740,
+    74,
+    'Public-key attitude-oriented success',
+    740,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    741,
+    11,
+    'Pre-emptive background forecast',
+    741,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    742,
+    38,
+    'Re-contextualized 24/7 adapter',
+    742,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    743,
+    99,
+    'Automated grid-enabled infrastructure',
+    743,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    744,
+    30,
+    'Polarised next generation paradigm',
+    744,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    745,
+    39,
+    'Up-sized full-range knowledge user',
+    745,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    746,
+    56,
+    'Adaptive disintermediate collaboration',
+    746,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    747,
+    40,
+    'Secured bottom-line website',
+    747,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    748,
+    54,
+    'Re-engineered encompassing database',
+    748,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    749,
+    20,
+    'Multi-tiered didactic time-frame',
+    749,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    750,
+    39,
+    'Focused coherent info-mediaries',
+    750,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    751,
+    34,
+    'Open-architected actuating portal',
+    751,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    752,
+    17,
+    'Versatile analyzing Graphical User Interface',
+    752,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    753,
+    23,
+    'Object-based methodical local area network',
+    753,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    754,
+    34,
+    'Team-oriented grid-enabled website',
+    754,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    755,
+    51,
+    'Profit-focused tertiary knowledge base',
+    755,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    756,
+    26,
+    'Distributed grid-enabled info-mediaries',
+    756,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    757,
+    24,
+    'Team-oriented modular structure',
+    757,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    758,
+    67,
+    'Automated eco-centric initiative',
+    758,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    759,
+    5,
+    'Synergistic analyzing knowledge user',
+    759,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    760,
+    5,
+    'Cross-platform global internet solution',
+    760,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    761,
+    92,
+    'Object-based upward-trending support',
+    761,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    762,
+    69,
+    'Multi-channelled user-facing superstructure',
+    762,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    763,
+    54,
+    'Object-based didactic hardware',
+    763,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    764,
+    16,
+    'Triple-buffered dynamic methodology',
+    764,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    765,
+    94,
+    'Self-enabling high-level hardware',
+    765,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    766,
+    3,
+    'Exclusive maximized migration',
+    766,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    767,
+    87,
+    'User-friendly full-range middleware',
+    767,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    768,
+    85,
+    'Visionary well-modulated infrastructure',
+    768,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    769,
+    14,
+    'Managed 24/7 support',
+    769,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    770,
+    61,
+    'Future-proofed hybrid frame',
+    770,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    771,
+    67,
+    'Customer-focused scalable application',
+    771,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    772,
+    83,
+    'Open-source cohesive success',
+    772,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    773,
+    42,
+    'Right-sized incremental array',
+    773,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    774,
+    33,
+    'Enhanced 24/7 architecture',
+    774,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    775,
+    73,
+    'Up-sized neutral time-frame',
+    775,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    776,
+    94,
+    'Extended content-based instruction set',
+    776,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    777,
+    45,
+    'Focused clear-thinking instruction set',
+    777,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    778,
+    89,
+    'Integrated real-time extranet',
+    778,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    779,
+    57,
+    'Polarised multi-tasking archive',
+    779,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    780,
+    46,
+    'Team-oriented solution-oriented intranet',
+    780,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    781,
+    60,
+    'Monitored encompassing intranet',
+    781,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    782,
+    1,
+    'Customizable zero administration pricing structure',
+    782,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    783,
+    73,
+    'Intuitive grid-enabled concept',
+    783,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    784,
+    44,
+    'Enterprise-wide contextually-based approach',
+    784,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    785,
+    69,
+    'Multi-layered methodical encoding',
+    785,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    786,
+    78,
+    'Exclusive local installation',
+    786,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    787,
+    85,
+    'Organic cohesive moderator',
+    787,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    788,
+    20,
+    'Cloned executive paradigm',
+    788,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    789,
+    95,
+    'Team-oriented foreground success',
+    789,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    790,
+    95,
+    'Versatile asynchronous benchmark',
+    790,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    791,
+    70,
+    'Organic dynamic encryption',
+    791,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    792,
+    50,
+    'Quality-focused user-facing strategy',
+    792,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    793,
+    56,
+    'Exclusive didactic model',
+    793,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    794,
+    22,
+    'Profit-focused 4th generation local area network',
+    794,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    795,
+    17,
+    'Balanced global project',
+    795,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    796,
+    13,
+    'Assimilated disintermediate service-desk',
+    796,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    797,
+    98,
+    'Assimilated executive migration',
+    797,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    798,
+    71,
+    'Seamless reciprocal interface',
+    798,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    799,
+    55,
+    'Expanded foreground emulation',
+    799,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    800,
+    5,
+    'Synergistic maximized capacity',
+    800,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    801,
+    40,
+    'Up-sized static framework',
+    801,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    802,
+    34,
+    'Multi-tiered web-enabled interface',
+    802,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    803,
+    60,
+    'Innovative didactic service-desk',
+    803,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    804,
+    91,
+    'Monitored executive toolset',
+    804,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    805,
+    4,
+    'Reactive uniform open architecture',
+    805,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    806,
+    6,
+    'Exclusive dedicated approach',
+    806,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    807,
+    82,
+    'Adaptive responsive project',
+    807,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    808,
+    81,
+    'Focused systematic secured line',
+    808,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    809,
+    60,
+    'Organic logistical software',
+    809,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    810,
+    92,
+    'Object-based zero tolerance model',
+    810,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    811,
+    42,
+    'Seamless global pricing structure',
+    811,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    812,
+    27,
+    'Customizable interactive analyzer',
+    812,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    813,
+    81,
+    'Configurable global neural-net',
+    813,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    814,
+    60,
+    'Assimilated grid-enabled synergy',
+    814,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    815,
+    1,
+    'Compatible 5th generation analyzer',
+    815,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    816,
+    12,
+    'Reactive incremental hardware',
+    816,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    817,
+    68,
+    'Cross-platform fresh-thinking complexity',
+    817,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    818,
+    48,
+    'Streamlined fresh-thinking leverage',
+    818,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    819,
+    50,
+    'De-engineered tertiary secured line',
+    819,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    820,
+    52,
+    'Function-based leading edge paradigm',
+    820,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    821,
+    31,
+    'Realigned mission-critical application',
+    821,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    822,
+    1,
+    'Grass-roots full-range workforce',
+    822,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    823,
+    95,
+    'Upgradable dynamic pricing structure',
+    823,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    824,
+    90,
+    'Networked responsive function',
+    824,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    825,
+    21,
+    'Right-sized national time-frame',
+    825,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    826,
+    41,
+    'Up-sized uniform capability',
+    826,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    827,
+    73,
+    'Re-contextualized zero defect capability',
+    827,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    828,
+    68,
+    'Networked clear-thinking Graphic Interface',
+    828,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    829,
+    41,
+    'Centralized user-facing moderator',
+    829,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    830,
+    0,
+    'Cloned contextually-based knowledge base',
+    830,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    831,
+    84,
+    'Extended client-server matrix',
+    831,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    832,
+    11,
+    'User-friendly 4th generation moderator',
+    832,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    833,
+    51,
+    'Mandatory multi-state hardware',
+    833,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    834,
+    23,
+    'Organized systematic projection',
+    834,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    835,
+    10,
+    'Secured intangible artificial intelligence',
+    835,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    836,
+    100,
+    'Quality-focused foreground encryption',
+    836,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    837,
+    79,
+    'Enterprise-wide 4th generation portal',
+    837,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    838,
+    32,
+    'Open-architected homogeneous forecast',
+    838,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    839,
+    70,
+    'Polarised dedicated protocol',
+    839,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    840,
+    46,
+    'Team-oriented optimizing circuit',
+    840,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    841,
+    6,
+    'Customer-focused leading edge flexibility',
+    841,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    842,
+    1,
+    'Quality-focused bottom-line budgetary management',
+    842,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    843,
+    67,
+    'Self-enabling directional artificial intelligence',
+    843,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    844,
+    32,
+    'Diverse cohesive process improvement',
+    844,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    845,
+    23,
+    'Reactive heuristic approach',
+    845,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    846,
+    77,
+    'Monitored mobile alliance',
+    846,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    847,
+    15,
+    'Operative local Graphical User Interface',
+    847,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    848,
+    85,
+    'Customer-focused bottom-line pricing structure',
+    848,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    849,
+    56,
+    'Seamless tangible project',
+    849,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    850,
+    72,
+    'Progressive grid-enabled initiative',
+    850,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    851,
+    99,
+    'Synergized 24/7 local area network',
+    851,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    852,
+    9,
+    'Open-source holistic strategy',
+    852,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    853,
+    52,
+    'Reverse-engineered background secured line',
+    853,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    854,
+    83,
+    'Multi-lateral tangible capability',
+    854,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    855,
+    39,
+    'Streamlined secondary database',
+    855,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    856,
+    48,
+    'Business-focused even-keeled database',
+    856,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    857,
+    15,
+    'Adaptive upward-trending structure',
+    857,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    858,
+    37,
+    'Team-oriented incremental secured line',
+    858,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    859,
+    94,
+    'Fundamental object-oriented intranet',
+    859,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    860,
+    6,
+    'Horizontal upward-trending matrices',
+    860,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    861,
+    36,
+    'Innovative contextually-based process improvement',
+    861,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    862,
+    90,
+    'Reverse-engineered solution-oriented website',
+    862,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    863,
+    17,
+    'Automated bandwidth-monitored orchestration',
+    863,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    864,
+    67,
+    'Networked regional instruction set',
+    864,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    865,
+    67,
+    'Enterprise-wide bi-directional task-force',
+    865,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    866,
+    70,
+    'Advanced discrete moderator',
+    866,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    867,
+    38,
+    'Horizontal encompassing utilisation',
+    867,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    868,
+    50,
+    'Expanded logistical access',
+    868,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    869,
+    83,
+    'Innovative user-facing standardization',
+    869,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    870,
+    0,
+    'De-engineered even-keeled policy',
+    870,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    871,
+    38,
+    'Intuitive demand-driven internet solution',
+    871,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    872,
+    95,
+    'User-friendly encompassing concept',
+    872,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    873,
+    63,
+    'Integrated object-oriented application',
+    873,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    874,
+    49,
+    'Seamless client-driven functionalities',
+    874,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    875,
+    54,
+    'Secured contextually-based local area network',
+    875,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    876,
+    84,
+    'Cross-group non-volatile orchestration',
+    876,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    877,
+    84,
+    'Cross-platform fresh-thinking Graphical User Interface',
+    877,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    878,
+    23,
+    'Visionary optimal concept',
+    878,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    879,
+    98,
+    'Expanded motivating intranet',
+    879,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    880,
+    6,
+    'Versatile bi-directional hub',
+    880,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    881,
+    89,
+    'Polarised uniform encryption',
+    881,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    882,
+    49,
+    'Diverse clear-thinking paradigm',
+    882,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    883,
+    32,
+    'Phased 4th generation solution',
+    883,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    884,
+    23,
+    'Open-source heuristic concept',
+    884,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    885,
+    99,
+    'Enterprise-wide discrete support',
+    885,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    886,
+    73,
+    'Pre-emptive demand-driven installation',
+    886,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    887,
+    93,
+    'Universal even-keeled conglomeration',
+    887,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    888,
+    48,
+    'Business-focused holistic parallelism',
+    888,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    889,
+    28,
+    'Seamless background concept',
+    889,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    890,
+    79,
+    'Re-engineered even-keeled knowledge base',
+    890,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    891,
+    63,
+    'Decentralized human-resource interface',
+    891,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    892,
+    24,
+    'Open-architected non-volatile process improvement',
+    892,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    893,
+    48,
+    'Reverse-engineered bandwidth-monitored local area network',
+    893,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    894,
+    43,
+    'Monitored modular interface',
+    894,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    895,
+    40,
+    'Networked multi-state framework',
+    895,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    896,
+    52,
+    'Customizable contextually-based neural-net',
+    896,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    897,
+    54,
+    'Re-engineered local task-force',
+    897,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    898,
+    50,
+    'Secured well-modulated implementation',
+    898,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    899,
+    53,
+    'Up-sized empowering interface',
+    899,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    900,
+    53,
+    'Object-based responsive approach',
+    900,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    901,
+    2,
+    'Adaptive even-keeled approach',
+    901,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    902,
+    13,
+    'Realigned bifurcated hub',
+    902,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    903,
+    37,
+    'Versatile explicit budgetary management',
+    903,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    904,
+    23,
+    'Synchronised zero defect website',
+    904,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    905,
+    6,
+    'De-engineered uniform local area network',
+    905,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    906,
+    70,
+    'Monitored incremental website',
+    906,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    907,
+    80,
+    'Synchronised systematic paradigm',
+    907,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    908,
+    76,
+    'Persistent transitional migration',
+    908,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    909,
+    41,
+    'Configurable local pricing structure',
+    909,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    910,
+    71,
+    'Organized executive architecture',
+    910,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    911,
+    34,
+    'Organic homogeneous access',
+    911,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    912,
+    44,
+    'Proactive motivating software',
+    912,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    913,
+    66,
+    'Realigned web-enabled complexity',
+    913,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    914,
+    23,
+    'User-centric bandwidth-monitored adapter',
+    914,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    915,
+    29,
+    'Multi-tiered impactful hub',
+    915,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    916,
+    45,
+    'Fully-configurable national knowledge base',
+    916,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    917,
+    61,
+    'Cross-group static initiative',
+    917,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    918,
+    25,
+    'Persistent empowering focus group',
+    918,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    919,
+    16,
+    'Decentralized disintermediate strategy',
+    919,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    920,
+    63,
+    'Balanced holistic productivity',
+    920,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    921,
+    34,
+    'Customer-focused cohesive customer loyalty',
+    921,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    922,
+    22,
+    'Monitored didactic knowledge base',
+    922,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    923,
+    47,
+    'Profound leading edge firmware',
+    923,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    924,
+    42,
+    'Intuitive global hierarchy',
+    924,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    925,
+    27,
+    'Optional upward-trending frame',
+    925,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    926,
+    80,
+    'Cross-platform zero tolerance paradigm',
+    926,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    927,
+    65,
+    'Persistent disintermediate installation',
+    927,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    928,
+    93,
+    'Optimized holistic portal',
+    928,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    929,
+    32,
+    'Fully-configurable neutral encoding',
+    929,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    930,
+    36,
+    'Cloned full-range protocol',
+    930,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    931,
+    52,
+    'Open-source intangible emulation',
+    931,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    932,
+    93,
+    'Grass-roots 6th generation utilisation',
+    932,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    933,
+    78,
+    'Reverse-engineered system-worthy artificial intelligence',
+    933,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    934,
+    38,
+    'Vision-oriented mission-critical functionalities',
+    934,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    935,
+    85,
+    'Innovative methodical function',
+    935,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    936,
+    91,
+    'Up-sized bifurcated functionalities',
+    936,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    937,
+    20,
+    'Diverse contextually-based open system',
+    937,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    938,
+    75,
+    'Decentralized zero defect software',
+    938,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    939,
+    29,
+    'Exclusive radical info-mediaries',
+    939,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    940,
+    16,
+    'Triple-buffered scalable budgetary management',
+    940,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    941,
+    62,
+    'Organized analyzing forecast',
+    941,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    942,
+    58,
+    'Grass-roots client-server adapter',
+    942,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    943,
+    40,
+    'Cross-platform non-volatile utilisation',
+    943,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    944,
+    31,
+    'Cross-platform fresh-thinking installation',
+    944,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    945,
+    92,
+    'Seamless leading edge encryption',
+    945,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    946,
+    80,
+    'Optimized logistical throughput',
+    946,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    947,
+    25,
+    'Operative neutral hierarchy',
+    947,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    948,
+    81,
+    'Configurable 6th generation structure',
+    948,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    949,
+    100,
+    'Adaptive needs-based intranet',
+    949,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    950,
+    68,
+    'Future-proofed multi-state installation',
+    950,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    951,
+    20,
+    'Synergistic motivating groupware',
+    951,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    952,
+    72,
+    'Multi-channelled fault-tolerant contingency',
+    952,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    953,
+    20,
+    'Compatible human-resource attitude',
+    953,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    954,
+    77,
+    'Seamless homogeneous algorithm',
+    954,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    955,
+    12,
+    'Sharable holistic website',
+    955,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    956,
+    54,
+    'Fully-configurable local knowledge user',
+    956,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    957,
+    32,
+    'Team-oriented full-range emulation',
+    957,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    958,
+    14,
+    'Visionary optimal strategy',
+    958,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    959,
+    14,
+    'Exclusive holistic encoding',
+    959,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    960,
+    19,
+    'Multi-layered 5th generation parallelism',
+    960,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    961,
+    5,
+    'Future-proofed fresh-thinking matrices',
+    961,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    962,
+    73,
+    'User-centric directional contingency',
+    962,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    963,
+    86,
+    'Configurable composite complexity',
+    963,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    964,
+    61,
+    'Managed optimal projection',
+    964,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    965,
+    2,
+    'Multi-layered intermediate superstructure',
+    965,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    966,
+    97,
+    'Distributed actuating system engine',
+    966,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    967,
+    17,
+    'User-friendly coherent database',
+    967,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    968,
+    45,
+    'Proactive homogeneous contingency',
+    968,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    969,
+    51,
+    'Inverse discrete database',
+    969,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    970,
+    99,
+    'Open-source 3rd generation archive',
+    970,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    971,
+    19,
+    'Team-oriented analyzing software',
+    971,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    972,
+    48,
+    'Front-line local secured line',
+    972,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    973,
+    42,
+    'Robust interactive software',
+    973,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    974,
+    12,
+    'Polarised 6th generation workforce',
+    974,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    975,
+    51,
+    'Monitored 6th generation focus group',
+    975,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    976,
+    95,
+    'Operative grid-enabled ability',
+    976,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    977,
+    68,
+    'Operative disintermediate utilisation',
+    977,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    978,
+    79,
+    'Proactive scalable moratorium',
+    978,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    979,
+    55,
+    'Implemented analyzing groupware',
+    979,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    980,
+    89,
+    'Optional 6th generation strategy',
+    980,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    981,
+    63,
+    'Visionary even-keeled frame',
+    981,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    982,
+    17,
+    'Switchable neutral architecture',
+    982,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    983,
+    11,
+    'Programmable 24 hour project',
+    983,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    984,
+    25,
+    'Enterprise-wide methodical parallelism',
+    984,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    985,
+    1,
+    'User-centric 3rd generation initiative',
+    985,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    986,
+    59,
+    'Versatile next generation array',
+    986,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    987,
+    82,
+    'Configurable tertiary budgetary management',
+    987,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    988,
+    68,
+    'Innovative grid-enabled productivity',
+    988,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    989,
+    60,
+    'Upgradable incremental protocol',
+    989,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    990,
+    69,
+    'Fully-configurable non-volatile task-force',
+    990,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    991,
+    83,
+    'Reactive object-oriented alliance',
+    991,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    992,
+    63,
+    'Multi-layered even-keeled matrices',
+    992,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    993,
+    39,
+    'Sharable neutral superstructure',
+    993,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    994,
+    43,
+    'Front-line 3rd generation workforce',
+    994,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    995,
+    22,
+    'User-centric impactful middleware',
+    995,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    996,
+    37,
+    'Upgradable mobile productivity',
+    996,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    997,
+    2,
+    'Total secondary success',
+    997,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    998,
+    15,
+    'Persistent systematic array',
+    998,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    999,
+    36,
+    'Assimilated tertiary moderator',
+    999,
+    6225090762
+);
+
+INSERT INTO REVIEW_PEDIDO (
+    ID,
+    PORCENTAJE_CALIFICACION_CALIDAD,
+    COMENTARIOS_CALIFICACION_CALIDAD,
+    ID_PEDIDO,
+    ID_PROVEEDOR
+) VALUES (
+    1000,
+    78,
+    'Total methodical Graphic Interface',
+    1000,
+    6225090762
+);

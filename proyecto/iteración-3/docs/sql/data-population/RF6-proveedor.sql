@@ -1,0 +1,9999 @@
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '6225090762',
+    'Kazu',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '1280637439',
+    'Meedoo',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '3569443310',
+    'Mynte',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '0184430712',
+    'Jabberbean',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '5573444212',
+    'Yambee',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '7965544377',
+    'Skyba',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '5938223881',
+    'Edgeclub',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '0007057458',
+    'Realbridge',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '4977212843',
+    'Pixonyx',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '4851416954',
+    'Photospace',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '2669302149',
+    'Buzzshare',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '5462938772',
+    'Flashdog',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '3338483244',
+    'Quinu',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '2557334677',
+    'Midel',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '3410821341',
+    'Wordware',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '7130201924',
+    'Fivechat',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '2625390344',
+    'Thoughtmix',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '3557402428',
+    'Eidel',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '0389823716',
+    'Voolia',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '3786095108',
+    'Vinder',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '9983709147',
+    'Babblestorm',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '9146872388',
+    'Oozz',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '8694222434',
+    'Skilith',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '0751780960',
+    'Innotype',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '8978850170',
+    'Skinte',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '8703287440',
+    'Jaxworks',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '4959311118',
+    'Jayo',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '7165065709',
+    'Eidel',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '4964688577',
+    'DabZ',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '1683449398',
+    'Thoughtworks',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '3485026077',
+    'LiveZ',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '0502120622',
+    'Realcube',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '6578653759',
+    'Zoombeat',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '6410786751',
+    'Fadeo',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '0255903855',
+    'Browsebug',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '8941580374',
+    'Jaxworks',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '4610580098',
+    'Browsetype',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '3862722023',
+    'Realbridge',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '1476855986',
+    'Photojam',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '0624495566',
+    'Topiczoom',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '2365132413',
+    'Jamia',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '4874576982',
+    'Vimbo',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '9129849381',
+    'BlogXS',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '2052949488',
+    'Kimia',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '9011527208',
+    'Devpoint',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '8210491180',
+    'Skyndu',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '2234135435',
+    'Eidel',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '8465712808',
+    'Trilia',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '2444445392',
+    'Eayo',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '5303719723',
+    'Twinte',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '6303441017',
+    'Zoovu',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '6783858022',
+    'Mudo',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '8130867524',
+    'Topicblab',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '9402169466',
+    'Mydeo',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '9600147027',
+    'Buzzbean',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '4304108034',
+    'Rhynyx',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '2960409256',
+    'Dabshots',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '6552037171',
+    'Meetz',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '8461935853',
+    'Skajo',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '5155010454',
+    'Quimm',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '7071160341',
+    'Thoughtmix',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '9140849627',
+    'Babbleblab',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '2693406595',
+    'Ntags',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '0161741673',
+    'Dabtype',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '7737568093',
+    'Fadeo',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '4277576656',
+    'Yombu',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '2540449603',
+    'Edgetag',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '2029125849',
+    'Bubblebox',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '1564862747',
+    'Quire',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '6390827040',
+    'Yodo',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '0717856682',
+    'Twitterworks',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '4816812989',
+    'Thoughtsphere',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '3148460944',
+    'Wordpedia',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '2536648842',
+    'Zazio',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '4832211536',
+    'Kamba',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '4637956730',
+    'Wikizz',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '2045991377',
+    'Skimia',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '0850415039',
+    'Wikido',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '0562141480',
+    'Zoonoodle',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '2158434600',
+    'Realbuzz',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '9371050497',
+    'Janyx',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '3571766865',
+    'Gabcube',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '0036988847',
+    'Eadel',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '9916171696',
+    'JumpXS',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '4479528717',
+    'Dynabox',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '2833706030',
+    'Photojam',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '2312795159',
+    'Geba',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '5437909748',
+    'Innojam',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '3737527504',
+    'Fivespan',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '6747651782',
+    'Demimbu',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '8931152205',
+    'Rooxo',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '0933261527',
+    'Tagchat',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '3752557540',
+    'Roombo',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '4980878199',
+    'Blognation',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '7515640839',
+    'Rhycero',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '8554633636',
+    'Flashdog',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '4172714870',
+    'Browsebug',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '6007816052',
+    'Thoughtstorm',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '6749408729',
+    'Quimba',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '5746531758',
+    'Tazz',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '6778413107',
+    'Agivu',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '6159401491',
+    'Zoomdog',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '2713263611',
+    'Linklinks',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '9865625490',
+    'Camimbo',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '5408755657',
+    'Pixonyx',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '7247923474',
+    'Blogtag',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '9903471394',
+    'Trudoo',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '8346060718',
+    'Livefish',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '9760351854',
+    'Topdrive',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '0020688695',
+    'Twitterbeat',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '8533913818',
+    'Oyondu',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '2299174036',
+    'Pixonyx',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '8049577244',
+    'Ainyx',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '9730741743',
+    'Oyoyo',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '9640258636',
+    'Linkbridge',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '6849383299',
+    'Dazzlesphere',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '8567420512',
+    'Edgeblab',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '0633612693',
+    'Rhyzio',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '2801621110',
+    'Meembee',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '5835379560',
+    'Fanoodle',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '8564845857',
+    'Devify',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '9624006725',
+    'Bluezoom',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '2015283307',
+    'Aibox',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '2706955635',
+    'Voolia',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '9520855866',
+    'Topicblab',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '5005680012',
+    'Zoomzone',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '1941878091',
+    'Jabbersphere',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '0042714184',
+    'Meemm',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '2146722282',
+    'Gigazoom',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '0655388664',
+    'Fadeo',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '8361098933',
+    'Yodel',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '5458886968',
+    'Rooxo',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '4086395185',
+    'Eadel',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '0269474471',
+    'Meedoo',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '5951544246',
+    'Ozu',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '7580432749',
+    'Twitterlist',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '4001435438',
+    'Tazz',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '3120190101',
+    'Mydeo',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '6418091523',
+    'Meemm',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '1328059278',
+    'Trudeo',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '9206597868',
+    'Realbuzz',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '6374041062',
+    'Buzzster',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '6854068185',
+    'Photofeed',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '0126840172',
+    'Camimbo',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '5726336763',
+    'LiveZ',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '2883131945',
+    'Fatz',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '0970944616',
+    'Vimbo',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '0494795077',
+    'Abatz',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '5034636697',
+    'Talane',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '7586683565',
+    'Realpoint',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '9982942409',
+    'Oyondu',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '8224981045',
+    'Pixoboo',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '9813019859',
+    'Fivespan',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '6233867428',
+    'Viva',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '9166357314',
+    'Skiba',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '8363201367',
+    'Oloo',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '0581720792',
+    'Mybuzz',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '6352854540',
+    'Layo',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '2015682848',
+    'Katz',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '9937416388',
+    'Yakidoo',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '4013756358',
+    'Thoughtblab',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '3973524351',
+    'Flipstorm',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '4445565164',
+    'Abata',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '3366042117',
+    'Ainyx',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '8232668490',
+    'Jazzy',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '1293602396',
+    'Rhynyx',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '1441650288',
+    'InnoZ',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '0473931184',
+    'Yotz',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '0026592932',
+    'Agimba',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '2756163066',
+    'Quaxo',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '4859077776',
+    'Fiveclub',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '2654595293',
+    'Omba',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '7603296994',
+    'Tagpad',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '4029034322',
+    'Gabtype',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '1579222501',
+    'Feedspan',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '3618160909',
+    'Vidoo',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '7337795890',
+    'Livepath',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '2855962099',
+    'Eamia',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '6077863084',
+    'Voolia',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '8599515500',
+    'Kare',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '2930283785',
+    'Skinte',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '3266287037',
+    'Linklinks',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '8291953937',
+    'Divavu',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '0606850171',
+    'Reallinks',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '1578977266',
+    'Chatterbridge',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '5459852064',
+    'Rhynyx',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '1609125673',
+    'Zoonoodle',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '8954774563',
+    'Feedspan',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '6065031844',
+    'Twinder',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '8611212983',
+    'Browsezoom',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '4581707110',
+    'Reallinks',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '0148671195',
+    'Skinix',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '3698080427',
+    'Skippad',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '9270996689',
+    'Oyope',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '9170649138',
+    'Dynabox',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '1857347692',
+    'Wikizz',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '9314710092',
+    'Tagfeed',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '0339519843',
+    'Lazz',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '8271608622',
+    'Riffpedia',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '9340860810',
+    'Miboo',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '0628484631',
+    'Ainyx',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '9378736815',
+    'Zazio',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '9988848056',
+    'Edgepulse',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '3640293843',
+    'Wordpedia',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '9001056121',
+    'Ainyx',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '2675215090',
+    'Kaymbo',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '9519473785',
+    'Babbleopia',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '0657682543',
+    'Kwimbee',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '1725157462',
+    'DabZ',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '8627391009',
+    'Browsezoom',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '1667137859',
+    'Kamba',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '7965532379',
+    'Twitterbridge',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '7161746582',
+    'Npath',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '2740322534',
+    'Quimm',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '4618702400',
+    'Devify',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '8425726697',
+    'Trilith',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '3207435726',
+    'Thoughtmix',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '2671242735',
+    'Feedbug',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '6709426807',
+    'Skippad',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '3656483019',
+    'Reallinks',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '9187475332',
+    'Youbridge',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '9855164849',
+    'Realbridge',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '2501254376',
+    'Cogilith',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '5949248880',
+    'Centizu',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '9333319379',
+    'Voonyx',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '3622902604',
+    'Blogtags',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '6175161785',
+    'Skyndu',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '6269870100',
+    'Gevee',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '9949241839',
+    'Vinte',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '6285062501',
+    'LiveZ',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '2293552675',
+    'Lazzy',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '9876644963',
+    'Fivebridge',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '5957287504',
+    'Skippad',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '1651233209',
+    'Flashdog',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '5289720944',
+    'Gabcube',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '8845258297',
+    'Zoombeat',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '2993532065',
+    'Kamba',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '6471576196',
+    'Innojam',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '4785952571',
+    'Dazzlesphere',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '8130467224',
+    'Skyble',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '9686369228',
+    'Rhynyx',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '5725486109',
+    'Meedoo',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '5938824303',
+    'Kayveo',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '5245048876',
+    'Avaveo',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '1794000836',
+    'Oyoba',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '0242584039',
+    'Skiba',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '6441056380',
+    'Jabbercube',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '9268897741',
+    'Einti',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '7911862583',
+    'Zoozzy',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '7509585252',
+    'Voonyx',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '5629779265',
+    'Lazzy',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '1414997884',
+    'Flashspan',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '6026553428',
+    'Riffwire',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '2237312966',
+    'Centizu',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '9892189744',
+    'Feedspan',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '7166093269',
+    'Tanoodle',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '0837518369',
+    'Feedmix',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '1951806859',
+    'Linkbridge',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '6563675646',
+    'Cogidoo',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '1602659648',
+    'Browsecat',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '3237374504',
+    'Flashpoint',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '0816505047',
+    'Skinder',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '1872335713',
+    'Skipstorm',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '2696699550',
+    'Flipbug',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '5812243484',
+    'Oloo',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '3175843603',
+    'Edgeblab',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '6352841627',
+    'Yacero',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '1717179509',
+    'Zoonoodle',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '2530554781',
+    'Bluejam',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '5694083970',
+    'Mita',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '0952820390',
+    'Brainlounge',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '9243198297',
+    'Devshare',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '4217654766',
+    'Centizu',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '0497674076',
+    'Aimbo',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '0100597890',
+    'Topiclounge',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '8309144075',
+    'Yombu',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '1202045650',
+    'Cogidoo',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '0559389183',
+    'Demimbu',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '2818701295',
+    'Wikivu',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '8499586228',
+    'Pixoboo',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '8796503165',
+    'Mynte',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '5097639626',
+    'Roombo',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '2750904439',
+    'Kwilith',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '0242128920',
+    'Browsecat',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '3035747105',
+    'Einti',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '4716421236',
+    'Myworks',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '0870295896',
+    'Meedoo',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '9087983999',
+    'Lazzy',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '5741981933',
+    'Zoonoodle',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '1482471507',
+    'Zoomlounge',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '5302410419',
+    'Avaveo',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '0535761473',
+    'Mydo',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '4405307903',
+    'Jaloo',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '7443760183',
+    'Chatterpoint',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '5445501523',
+    'Oba',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '8536671572',
+    'Livetube',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '5453166509',
+    'Lazzy',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '2303221889',
+    'Teklist',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '3682106928',
+    'Buzzshare',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '1708991220',
+    'Voonyx',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '6473854037',
+    'Dabtype',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '3491468701',
+    'Jetwire',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '4423735830',
+    'Jaxbean',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '2525743008',
+    'Rhynyx',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '0181106280',
+    'Demivee',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '7093926878',
+    'Wikivu',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '2657598781',
+    'Aibox',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '9324411519',
+    'Jabbersphere',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '0795003439',
+    'Voolith',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '1430130229',
+    'Skipfire',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '6398709233',
+    'Bubbletube',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '8399221015',
+    'Feedbug',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '2216746150',
+    'Tavu',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '6298942106',
+    'Kimia',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '0011124458',
+    'Skipstorm',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '9470365852',
+    'Yacero',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '8053284108',
+    'Aivee',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '5372177241',
+    'Bubblemix',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '8740163970',
+    'Meetz',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '7293862318',
+    'Dynabox',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '4433130184',
+    'Feedbug',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '1557344566',
+    'Bubblebox',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '5266358831',
+    'Bubblemix',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '5737359662',
+    'Rhyzio',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '8359971374',
+    'Rooxo',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '4402078741',
+    'Yakitri',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '5631004712',
+    'Meejo',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '0874126193',
+    'Edgepulse',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '4193064026',
+    'Tagtune',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '4812537991',
+    'Realcube',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '3118471875',
+    'Feedbug',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '4949048775',
+    'Fatz',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '9943627867',
+    'Digitube',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '8525742031',
+    'Shufflester',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '5238958005',
+    'Fivespan',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '7040649721',
+    'Twimm',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '5270077337',
+    'Avavee',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '5751974018',
+    'Devpulse',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '5291584165',
+    'Browsedrive',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '4233071451',
+    'Leenti',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '5337906615',
+    'Flipbug',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '5176581795',
+    'Rooxo',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '8228695640',
+    'Quatz',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '3369553074',
+    'Wordware',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '2241584010',
+    'Fatz',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '1594730032',
+    'Shufflester',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '3175902634',
+    'Shuffletag',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '3474454307',
+    'Topicware',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '5788076021',
+    'Browsezoom',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '3842989296',
+    'Roomm',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '4231605157',
+    'Yakitri',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '3801607283',
+    'Zazio',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '4378225492',
+    'Vitz',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '4443652833',
+    'Topdrive',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '2999597452',
+    'Feedfire',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '0864042310',
+    'Skinix',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '4695444178',
+    'Centizu',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '4468878673',
+    'Devify',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '4898612172',
+    'Roomm',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '2374782883',
+    'Thoughtsphere',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '0160560918',
+    'Thoughtbridge',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '0798092416',
+    'Jabbertype',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '7202606135',
+    'Dazzlesphere',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '9293164930',
+    'Abata',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '5379671020',
+    'Yambee',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '7493678243',
+    'Divanoodle',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '0869789708',
+    'Kayveo',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '5229551216',
+    'Twitterbeat',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '2322667978',
+    'Zoomlounge',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '5496013275',
+    'Meejo',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '3092038711',
+    'Minyx',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '8842880671',
+    'Divape',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '2398630757',
+    'Photobean',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '8033004061',
+    'Jabbersphere',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '9708506001',
+    'Eimbee',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '5571844396',
+    'Tagcat',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '8060059874',
+    'Jaxworks',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '9100902934',
+    'Jetwire',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '3301132081',
+    'Photolist',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '2260536492',
+    'Midel',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '6264234443',
+    'Browsetype',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '2714664377',
+    'Shuffletag',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '3862448878',
+    'Kare',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '1640489282',
+    'Brainsphere',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '8199810149',
+    'Abatz',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '5634565855',
+    'Edgeblab',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '5584834831',
+    'Topicware',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '0875149405',
+    'Fivespan',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '4348187762',
+    'Bluezoom',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '3596895650',
+    'Riffwire',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '6595814250',
+    'Wikizz',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '9026177259',
+    'Youtags',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '1375049623',
+    'Browsezoom',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '9312352873',
+    'Tagopia',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '7435775320',
+    'Roombo',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '9299692998',
+    'Jatri',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '2317187378',
+    'Youspan',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '4673256549',
+    'Wordtune',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '0089482506',
+    'Livefish',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '1520845308',
+    'Meevee',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '3805627750',
+    'Kwinu',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '2752596820',
+    'Kare',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '9961929683',
+    'Kare',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '3766186949',
+    'Midel',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '7874245768',
+    'Buzzdog',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '9051347189',
+    'Quimba',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '9355636768',
+    'Bluezoom',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '7133692074',
+    'Yadel',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '5813628657',
+    'Yakidoo',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '8827028552',
+    'Linkbuzz',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '5245656108',
+    'Linkbridge',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '4878439564',
+    'Oyonder',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '2175391884',
+    'Vitz',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '9590451470',
+    'Zoomzone',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '4624965213',
+    'Eare',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '2220966429',
+    'Chatterbridge',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '4809540308',
+    'Thoughtmix',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '8749515225',
+    'Yakijo',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '0595844383',
+    'Oyondu',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '8184214553',
+    'Edgeblab',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '9905786163',
+    'Voomm',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '2232852148',
+    'Digitube',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '8652384797',
+    'Cogibox',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '7867264434',
+    'Reallinks',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '8060822497',
+    'Twitterlist',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '4108669282',
+    'Brainbox',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '1161234764',
+    'Ailane',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '7530780956',
+    'Rhynoodle',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '3637281732',
+    'Meedoo',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '7807014997',
+    'Gabvine',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '2372367382',
+    'Edgeblab',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '2928117822',
+    'Photospace',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '5501880563',
+    'Dabvine',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '6476066935',
+    'Babblestorm',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '3054445062',
+    'Einti',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '2852296292',
+    'Mymm',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '1032536519',
+    'Jazzy',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '6601732133',
+    'Jabbertype',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '0152499962',
+    'Topdrive',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '4168714438',
+    'Livefish',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '0917838386',
+    'Bubblemix',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '4278551754',
+    'Linkbuzz',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '4374952489',
+    'Topiczoom',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '7295554998',
+    'Aibox',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '3703461055',
+    'Jayo',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '3666514545',
+    'Devify',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '9054412887',
+    'Gabspot',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '6596248852',
+    'Yabox',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '7097815949',
+    'Dynazzy',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '4721525230',
+    'Twinder',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '0746440006',
+    'Voomm',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '3087401714',
+    'Browseblab',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '8257795488',
+    'Vidoo',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '6219302575',
+    'Mydo',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '0051451018',
+    'Aivee',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '6494969771',
+    'Quire',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '5690135054',
+    'Rhycero',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '3728582441',
+    'Vinte',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '9584012517',
+    'Fadeo',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '8420855650',
+    'Riffwire',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '6932216337',
+    'Yoveo',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '9983460432',
+    'Lazz',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '9802988642',
+    'Jabbersphere',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '2057984400',
+    'Tazz',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '5727358817',
+    'Innotype',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '6338956250',
+    'Oyoba',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '0391410466',
+    'Realcube',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '8616467777',
+    'Yambee',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '3840338883',
+    'Yodo',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '9410459877',
+    'Jabbercube',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '8970644423',
+    'Kwimbee',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '9806386809',
+    'Chatterbridge',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '2383446297',
+    'Browsezoom',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '6044812286',
+    'Thoughtsphere',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '7665798551',
+    'Realcube',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '5307806817',
+    'Browsetype',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '7013729604',
+    'Bluezoom',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '5928519648',
+    'Blogtags',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '8145803527',
+    'Ooba',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '7385050271',
+    'Yata',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '2289763969',
+    'Eadel',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '4048074032',
+    'Kwimbee',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '9261444350',
+    'Leenti',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '7477099382',
+    'Thoughtblab',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '7753122002',
+    'Blognation',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '4856856413',
+    'Tagtune',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '1304168557',
+    'Mynte',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '1363788094',
+    'Gabtune',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '4825568211',
+    'Twinte',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '9466152157',
+    'Yodo',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '9684667302',
+    'Quinu',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '6317942730',
+    'Kwimbee',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '3841174914',
+    'Oloo',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '2655042565',
+    'Rhybox',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '7082478658',
+    'Browseblab',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '9039310904',
+    'Fatz',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '6097883048',
+    'Browseblab',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '8684349709',
+    'Meeveo',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '0970167121',
+    'Tekfly',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '5801250468',
+    'Feedfire',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '7122602575',
+    'Skippad',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '3040923919',
+    'Zava',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '0665955022',
+    'Linkbuzz',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '2899949659',
+    'Aivee',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '8365269147',
+    'Yacero',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '2215207299',
+    'Voonyx',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '7073673427',
+    'Tagchat',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '2569073970',
+    'Quatz',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '6525973228',
+    'Zoomdog',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '9929397590',
+    'Divanoodle',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '3357981491',
+    'Brainverse',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '8005134231',
+    'Twitterlist',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '6457863337',
+    'Meejo',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '6127803314',
+    'Eimbee',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '1948748800',
+    'Realbuzz',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '9297950523',
+    'Yata',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '9519138528',
+    'Thoughtblab',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '4718819059',
+    'Tazzy',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '0282467041',
+    'Gabtune',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '9689436236',
+    'Gabvine',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '3885803410',
+    'Skinix',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '4093889163',
+    'Vinder',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '6336025896',
+    'Meezzy',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '4175376127',
+    'Zava',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '4953012194',
+    'Oba',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '1423223691',
+    'Realmix',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '7151537093',
+    'Twitternation',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '9475796878',
+    'Topicware',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '9599891058',
+    'Skivee',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '3513298285',
+    'Yodoo',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '6489716739',
+    'Jaloo',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '6326439051',
+    'Pixope',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '7704977040',
+    'Rhynyx',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '7469422218',
+    'Feedmix',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '3818328811',
+    'Gigaclub',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '2955145602',
+    'Yodo',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '2542332649',
+    'Avavee',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '9022392058',
+    'Skyba',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '7049432482',
+    'Meezzy',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '2141834929',
+    'Twitterworks',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '7577697397',
+    'Zoozzy',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '1889258555',
+    'Yodo',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '8663379986',
+    'Eire',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '0141494425',
+    'Topicstorm',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '0176245111',
+    'Trunyx',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '2388276624',
+    'Wordware',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '0562702180',
+    'Cogilith',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '8849155565',
+    'Nlounge',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '4675730493',
+    'Yotz',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '2824656131',
+    'Buzzster',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '3597872123',
+    'Tambee',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '1176167448',
+    'Jetwire',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '5926480264',
+    'Zoomlounge',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '3425731718',
+    'Chatterbridge',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '8490542163',
+    'Shuffletag',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '2035710820',
+    'Babblestorm',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '8238769957',
+    'Centimia',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '7924642706',
+    'Rhynoodle',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '9144936583',
+    'Photobean',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '6603632942',
+    'Avaveo',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '1835676200',
+    'Flashpoint',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '0593714660',
+    'Browsezoom',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '8763688603',
+    'Topiczoom',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '0994751117',
+    'Cogilith',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '6143452911',
+    'Quinu',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '7854229597',
+    'Zoomdog',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '0802820859',
+    'Pixope',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '7195944050',
+    'Oyondu',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '1478143681',
+    'Jaxworks',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '5145372264',
+    'Edgetag',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '4738683411',
+    'Mudo',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '1075834813',
+    'Einti',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '5694157133',
+    'Photojam',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '5585873148',
+    'Mudo',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '8034525960',
+    'Demimbu',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '2516360029',
+    'Kamba',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '6598369983',
+    'Skippad',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '7757082153',
+    'Divape',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '2393910433',
+    'Dynabox',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '4380713652',
+    'Yombu',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '9548385422',
+    'Babbleset',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '0564354775',
+    'Kazu',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '2682719872',
+    'Jaxbean',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '5997587746',
+    'Avamm',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '1720171033',
+    'Wordware',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '5638698663',
+    'Rhyloo',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '9132511450',
+    'Oyondu',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '1913738221',
+    'Zoozzy',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '6093057054',
+    'Jayo',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '5917878366',
+    'Cogidoo',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '3332895974',
+    'Dabtype',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '0254490115',
+    'Bubbletube',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '7523050093',
+    'Twiyo',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '7878477027',
+    'Eimbee',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '2396996428',
+    'Trilia',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '1047575086',
+    'Youfeed',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '2145873945',
+    'Yamia',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '1361500883',
+    'Eamia',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '3225755559',
+    'Divavu',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '0408569492',
+    'Topicshots',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '0602803268',
+    'Jabberbean',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '6010299160',
+    'Riffwire',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '5533096868',
+    'Shuffletag',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '7837951166',
+    'Blogtag',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '3587908850',
+    'Browsebug',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '8338288349',
+    'Thoughtworks',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '6087196625',
+    'Eare',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '8764942287',
+    'Dabjam',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '4297260867',
+    'Thoughtbridge',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '0439598524',
+    'Meeveo',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '9361689355',
+    'Shuffletag',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '9097481236',
+    'Meemm',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '1076825648',
+    'Skyvu',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '6982567818',
+    'Flipstorm',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '9066874198',
+    'Skipstorm',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '5743194947',
+    'Realbuzz',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '2740153236',
+    'Voolia',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '3363019505',
+    'Jaxworks',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '6937054262',
+    'Dabtype',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '3279286859',
+    'Yozio',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '4988416356',
+    'Aimbo',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '6538422284',
+    'Teklist',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '7856516283',
+    'Skimia',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '0690967195',
+    'Twitterlist',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '0107423456',
+    'Jetwire',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '5746336025',
+    'Yoveo',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '8682422719',
+    'Jamia',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '8920251525',
+    'Yakidoo',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '1427689229',
+    'Lazzy',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '4567173791',
+    'Youspan',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '5899580747',
+    'Blogtags',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '6863693437',
+    'Vidoo',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '2024307604',
+    'Skalith',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '3869979208',
+    'Digitube',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '9819883229',
+    'Kanoodle',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '1967834210',
+    'Twitterlist',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '3184256677',
+    'Shuffletag',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '1520124902',
+    'Kimia',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '5740460336',
+    'Yata',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '7528491357',
+    'Jetpulse',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '4042328261',
+    'Chatterpoint',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '5560595411',
+    'JumpXS',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '5584842486',
+    'Trunyx',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '7195806219',
+    'Cogidoo',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '4617543074',
+    'Dabtype',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '8849052278',
+    'Twitterlist',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '0692510117',
+    'Jaxworks',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '6431151240',
+    'Meemm',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '3759661912',
+    'Rhyloo',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '6852398617',
+    'Gabtune',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '8965419735',
+    'Rhyloo',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '9015986207',
+    'Skyble',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '3903651648',
+    'Omba',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '2962503667',
+    'Eazzy',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '0509310850',
+    'Aimbu',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '2890853640',
+    'Photobug',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '8570601034',
+    'Jaxworks',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '9794013749',
+    'Dynabox',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '1644757400',
+    'Eidel',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '1816534048',
+    'Linktype',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '4911536519',
+    'Browsetype',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '9563872894',
+    'Flashset',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '5869931274',
+    'Photofeed',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '8779979548',
+    'Chatterpoint',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '5504070767',
+    'Skimia',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '9109833587',
+    'Thoughtblab',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '5415157956',
+    'Thoughtsphere',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '3020057612',
+    'Feedmix',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '4170864425',
+    'Skidoo',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '5644361608',
+    'Abatz',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '1546273859',
+    'Topiczoom',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '3402728419',
+    'Leexo',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '0894631888',
+    'Eidel',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '4625389690',
+    'Feedmix',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '6297234051',
+    'Gigashots',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '9519982221',
+    'Fivebridge',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '2315565553',
+    'InnoZ',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '1877925853',
+    'Mita',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '3137107318',
+    'Avamm',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '7904584174',
+    'Wikizz',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '3501210825',
+    'Voonte',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '0037364235',
+    'Eayo',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '5583458550',
+    'Bubblemix',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '3354969083',
+    'Aibox',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '2049698070',
+    'Realmix',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '0256009260',
+    'Yodo',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '2239760656',
+    'Yodoo',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '2842077040',
+    'Trilith',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '8793669607',
+    'Twitterlist',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '8002910656',
+    'Wikivu',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '3628073499',
+    'Quinu',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '5240941238',
+    'Meembee',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '7119896253',
+    'Oodoo',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '4613904854',
+    'Oodoo',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '9025759513',
+    'Tazzy',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '4049914883',
+    'Tagtune',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '9441961345',
+    'Twitterbridge',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '8934680342',
+    'Tazz',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '5517745717',
+    'Skipstorm',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '2950966659',
+    'Quimba',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '5805838885',
+    'Jaxnation',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '3235083332',
+    'Jaxnation',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '4072850128',
+    'Geba',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '7605939027',
+    'Rhybox',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '4494918032',
+    'Skalith',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '2214977392',
+    'Aimbo',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '0399473254',
+    'Zoovu',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '4818496197',
+    'Katz',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '1779983115',
+    'Topicstorm',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '8104444093',
+    'Riffpath',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '2137902990',
+    'Brightdog',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '6340720382',
+    'Divape',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '4768947697',
+    'Babblestorm',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '2113953617',
+    'Yoveo',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '0116839309',
+    'Youtags',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '9830758605',
+    'Divavu',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '4374890629',
+    'Skynoodle',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '8993841861',
+    'Gigabox',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '0407289127',
+    'Meemm',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '2570634190',
+    'Realblab',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '0181355418',
+    'Quatz',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '0494589760',
+    'Skibox',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '1750202417',
+    'Oyoloo',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '5584147176',
+    'Lajo',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '5780322139',
+    'Babbleblab',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '3553791624',
+    'Jayo',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '6876244199',
+    'Cogidoo',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '7280418147',
+    'Flipstorm',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '3250604194',
+    'Gigaclub',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '5171584052',
+    'Meembee',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '0302889531',
+    'Twitterbeat',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '6019743578',
+    'Bubblebox',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '9645180414',
+    'Mydo',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '8028391915',
+    'Gigaclub',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '3029232549',
+    'Fivespan',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '0159173329',
+    'Dablist',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '9898174617',
+    'Voomm',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '2204585831',
+    'Topicstorm',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '9395686839',
+    'Tagtune',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '0875284752',
+    'Katz',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '6009589525',
+    'Skimia',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '5912335801',
+    'Meemm',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '6908367096',
+    'Twiyo',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '3318492345',
+    'Miboo',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '7123968085',
+    'Livefish',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '2207012700',
+    'Rhynoodle',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '8065425887',
+    'Twitternation',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '4308945607',
+    'Tazzy',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '4310859763',
+    'Zava',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '0649117174',
+    'Nlounge',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '0879395877',
+    'Jamia',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '8767584667',
+    'Dynabox',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '0631187499',
+    'Zoombox',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '2808460139',
+    'Reallinks',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '4040114205',
+    'Zoomdog',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '5553010802',
+    'Wordtune',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '1403076324',
+    'Tagchat',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '9054854898',
+    'Voonyx',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '8728042255',
+    'Devbug',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '1551081474',
+    'Kare',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '6834836063',
+    'Youtags',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '9887952680',
+    'Oozz',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '4587081523',
+    'Aivee',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '5131636558',
+    'Ailane',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '3872676857',
+    'Babblestorm',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '2434084753',
+    'Feedspan',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '2696970203',
+    'Twitterworks',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '1039373518',
+    'Livetube',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '5733079339',
+    'Brightdog',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '2219136159',
+    'Meezzy',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '0823769372',
+    'Jetpulse',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '4306224767',
+    'Tagpad',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '6394361879',
+    'Skiptube',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '7956955939',
+    'Ainyx',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '9151510952',
+    'Abatz',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '5442497355',
+    'Gabcube',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '4477859147',
+    'Jaxnation',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '5881661346',
+    'Feedspan',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '3684530581',
+    'Skyba',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '0171643771',
+    'Riffpedia',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '0905560531',
+    'Voonix',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '9606519791',
+    'Jabberstorm',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '9603122890',
+    'Chatterpoint',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '6176151325',
+    'Rhycero',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '6023587666',
+    'Edgetag',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '3561483089',
+    'Voomm',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '3082479197',
+    'Eidel',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '1040637906',
+    'Skinte',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '6342559635',
+    'Feedmix',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '4362857559',
+    'Wordtune',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '8333481221',
+    'Feedfish',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '4955100392',
+    'Einti',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '0339933216',
+    'Skiptube',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '5237503586',
+    'Centidel',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '4888193770',
+    'Brainsphere',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '8287896231',
+    'Quinu',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '5415390375',
+    'Bubblebox',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '6191572565',
+    'Meembee',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '9715471889',
+    'Rhyzio',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '4236475413',
+    'Voolith',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '1818296004',
+    'Roombo',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '2403339792',
+    'Meedoo',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '0808818953',
+    'Dabtype',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '7595680980',
+    'Meevee',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '4471702882',
+    'Oozz',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '9336712276',
+    'Babbleblab',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '3319182862',
+    'Linktype',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '2272598730',
+    'Eire',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '6491500314',
+    'Katz',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '6915314792',
+    'Wikizz',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '7326024960',
+    'Zoonder',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '7239256286',
+    'Demimbu',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '9137766112',
+    'Skyba',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '6438084867',
+    'Photobean',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '4962862928',
+    'Talane',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '9460343422',
+    'Kwideo',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '9126889749',
+    'Agimba',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '4099672468',
+    'Zazio',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '8430618252',
+    'Quatz',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '3120944742',
+    'Aibox',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '8626226845',
+    'Devify',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '5998266161',
+    'Twitternation',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '2852670771',
+    'Zoonder',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '8356026148',
+    'Livepath',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '0421473088',
+    'Voolith',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '3491434017',
+    'Jetwire',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '7277341058',
+    'Oodoo',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '4994974071',
+    'Meevee',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '9511767704',
+    'Yodoo',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '6018058669',
+    'Izio',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '0972019235',
+    'Aimbu',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '9008825953',
+    'Voonyx',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '6725017649',
+    'DabZ',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '2343242275',
+    'Voomm',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '3600284665',
+    'Blogpad',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '4789084779',
+    'Edgeclub',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '9572303945',
+    'Oyondu',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '8401276802',
+    'Photobug',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '5876330574',
+    'Gigabox',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '1457862875',
+    'Roombo',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '2466643227',
+    'Shufflester',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '1359355340',
+    'Mita',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '0304289132',
+    'Twitternation',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '4018682859',
+    'Kazio',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '7221755094',
+    'Blogspan',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '7026526200',
+    'Skiba',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '8444823767',
+    'Quatz',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '9652328480',
+    'Einti',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '5196886052',
+    'Eire',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '3164252129',
+    'Buzzbean',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '6181379835',
+    'Topicware',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '0184281040',
+    'Pixonyx',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '4393024990',
+    'Cogibox',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '2083635779',
+    'Yadel',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '8040328306',
+    'Meejo',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '2922696138',
+    'Twitterworks',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '2501396200',
+    'Jetpulse',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '7684507419',
+    'Thoughtworks',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '5357798222',
+    'Zooveo',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '3047513929',
+    'Meetz',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '2134891807',
+    'Eidel',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '5248510562',
+    'Youspan',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '5163727060',
+    'Miboo',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '7195050831',
+    'Skimia',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '4001091038',
+    'Voonte',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '1847633676',
+    'Youspan',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '9670784425',
+    'Divavu',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '2564152090',
+    'Feedfire',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '4905813646',
+    'Geba',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '6277314092',
+    'Minyx',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '8655497088',
+    'Skajo',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '5916575262',
+    'Myworks',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '0598117881',
+    'Gabtune',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '8736253693',
+    'Jetpulse',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '7261791725',
+    'Buzzshare',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '0234725982',
+    'Eire',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '1965149901',
+    'Realpoint',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '2183441267',
+    'Voonyx',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '8785080209',
+    'Izio',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '7097981288',
+    'Topdrive',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '4539914960',
+    'LiveZ',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '3038413291',
+    'Feedfire',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '0981837204',
+    'Leexo',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '8240207790',
+    'Camimbo',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '5368728778',
+    'Katz',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '0885651650',
+    'Zoomlounge',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '0758397852',
+    'Blogspan',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '7771247423',
+    'Dabvine',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '5686266948',
+    'Zava',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '4080890265',
+    'Yacero',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '0797227539',
+    'Skibox',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '2447803826',
+    'Wordware',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '7845556289',
+    'Wordtune',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '6599581226',
+    'Oyondu',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '2918058211',
+    'Voomm',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '2992762555',
+    'Edgepulse',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '1391161238',
+    'Browsebug',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '0648531953',
+    'Buzzbean',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '6612572396',
+    'Centimia',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '0914692038',
+    'Meevee',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '5945914444',
+    'Yoveo',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '3291281373',
+    'Vipe',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '6754890398',
+    'Bluezoom',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '6149668495',
+    'Quimba',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '8066703422',
+    'Ailane',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '6358114875',
+    'Zazio',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '0717316718',
+    'Yotz',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '9552888603',
+    'Trilith',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '9171937129',
+    'Talane',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '7013776602',
+    'Realbuzz',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '9996081591',
+    'Topiczoom',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '8664218145',
+    'LiveZ',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '2348292416',
+    'Zoovu',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '1670217027',
+    'DabZ',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '4677981663',
+    'Centizu',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '1947420224',
+    'Dablist',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '8811864879',
+    'Twiyo',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '4844724371',
+    'Jazzy',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '2533174521',
+    'Dynabox',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '2670679242',
+    'Photobug',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '3906843483',
+    'Jaxspan',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '6837186086',
+    'Bubblebox',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '6442609006',
+    'Dablist',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '1142510522',
+    'Jamia',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '3278537394',
+    'Yodoo',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '8183554350',
+    'Demimbu',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '3176408986',
+    'Oyoba',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '1480766089',
+    'Thoughtbeat',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '5108697805',
+    'Ooba',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '6680222168',
+    'Meeveo',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '7367198076',
+    'Dabtype',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '5171439303',
+    'Yotz',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '2070787982',
+    'Tagpad',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '6034992451',
+    'Shuffledrive',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '3224364211',
+    'Devpulse',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '4219740805',
+    'Quimm',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '7307525437',
+    'Wordify',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '5073020820',
+    'Voolith',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '6647914579',
+    'Cogidoo',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '9200143865',
+    'Oyoyo',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '0365207918',
+    'Thoughtstorm',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '3729580809',
+    'Photobug',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '9284766419',
+    'Brightdog',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '2896209832',
+    'Flashspan',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '1681224844',
+    'Feedmix',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '6835494514',
+    'Vinder',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '7890534892',
+    'Twitterwire',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '2489420399',
+    'Zava',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '7998007265',
+    'Centimia',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '9051206216',
+    'InnoZ',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '6145509139',
+    'Janyx',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '1409570886',
+    'Wikido',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '5157985878',
+    'Fivespan',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '9398822830',
+    'Dablist',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '9048552249',
+    'Pixope',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '3517055158',
+    'Twimm',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '5431338471',
+    'Thoughtmix',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '2988388040',
+    'Photobug',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '2452548707',
+    'Tagopia',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '7384875676',
+    'Oodoo',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '9902012906',
+    'Wordify',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '4230173229',
+    'Mynte',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '2038910340',
+    'Wordware',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '6788951608',
+    'Eimbee',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '0160629101',
+    'Tanoodle',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '7462236540',
+    'Tagtune',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '3423519045',
+    'Yodoo',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '8619172808',
+    'Plajo',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '4459824361',
+    'Avaveo',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '4154879367',
+    'Twitterworks',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '0778546748',
+    'Divape',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '0867548096',
+    'Kwideo',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '1205729100',
+    'Flipbug',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '3633959971',
+    'Yotz',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '9292337025',
+    'Yacero',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '5206038024',
+    'Aimbu',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '4260637991',
+    'Mita',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '9539816726',
+    'Tekfly',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '0023329939',
+    'Pixonyx',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '8669910586',
+    'Youfeed',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '0732230667',
+    'Quimm',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '1089429894',
+    'Yabox',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '6395313436',
+    'Flashdog',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '7234446176',
+    'Shuffletag',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '3066401510',
+    'Skajo',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '4800129109',
+    'Fivespan',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '8212445933',
+    'Wikizz',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '6580098910',
+    'Mydeo',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '4089357683',
+    'Jaloo',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '5369074380',
+    'Fadeo',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '6217116057',
+    'Snaptags',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '4929644321',
+    'Zooxo',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '7375411654',
+    'Zoozzy',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '0075979675',
+    'Jabbersphere',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '7490062780',
+    'Feedfish',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '1197652361',
+    'Tagcat',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '9460397611',
+    'Oloo',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '3394043440',
+    'Brightdog',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '9523342819',
+    'Realcube',
+    5.0
+);
+
+INSERT INTO PROVEEDOR (
+    NIT,
+    NOMBRE,
+    CALIFICACION_PROMEDIO
+) VALUES (
+    '2765544344',
+    'Shufflester',
+    5.0
+);
