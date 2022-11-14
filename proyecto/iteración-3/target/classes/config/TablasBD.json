@@ -1,0 +1,22 @@
+{
+  "title": "Nombres de las tablas de SuperAndes para la aplicación",
+  "unidadPersistencia": "SuperAndes",
+  "tablas": [
+    "ALMACENAMIENTO_PRODUCTO",
+    "COMPRA",
+    "CONTENEDOR",
+    "DETALLES_PRODUCTO",
+    "MEDICION_PRODUCTO",
+    "PEDIDO",
+    "PEDIDOS_PROVEEDOR",
+    "PRODUCTO",
+    "PRODUCTOS_COMPRA",
+    "PRODUCTOS_PROVISTOS",
+    "PROMOCION",
+    "PROVEEDOR",
+    "REVIEW_PEDIDO",
+    "ROL",
+    "SUCURSAL",
+    "USUARIO"
+  ]
+}
