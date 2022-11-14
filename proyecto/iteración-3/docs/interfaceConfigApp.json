@@ -36,6 +36,10 @@
         {
           "label": "RegistrarLlegadaPedido",
           "event": "registrarLlegadaPedido"
+        },
+        {
+          "label": "darDatosProductos",
+          "event": "darDatosProductos"
         }
       ]
     },
@@ -71,6 +75,14 @@
         {
           "label": "ConsultarDineroRecolectado",
           "event": "consultarDineroRecolectado"
+        },
+        {
+          "label": "darCompradoresFrecuentes",
+          "event": "darCompradoresFrecuentes"
+        },
+        {
+          "label": "darEntregasInfrecuentes",
+          "event": "darEntregasInfrecuentes"          
         }
       ]
     },
