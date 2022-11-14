@@ -72,4 +72,36 @@ public class SQLSucursal {
                 + "ORDER BY SUMA_VALORES DESC;");
         return (long) q.executeUnique();
     }
+
+    public long darCompradoresFrecuentes(PersistenceManager pm, String idSucursal) {
+        Query q = pm.newQuery(SQL,
+        "SELECT * FROM ("+
+        "SELECT NUMERO_DOCUMENTO, NOMBRE, COUNT(NUMERO_DOCUMENTO) AS COMPRAS_REALIZADAS,"+ 
+        "ID_SUCURSAL, to_char(FECHA_COMPRA, 'YYYY-MM') FROM" +
+        "( SELECT * FROM (" +
+        "(SELECT COMPRADOR, FECHA_COMPRA FROM COMPRA)"+
+        "INNER JOIN"+
+        "(SELECT * FROM USUARIO)"+
+        "ON COMPRADOR = NUMERO_DOCUMENTO))"+
+        "WHERE ID_SUCURSAL = ?"+
+        "GROUP BY NUMERO_DOCUMENTO, NOMBRE, ID_SUCURSAL, FECHA_COMPRA"+
+        ") WHERE COMPRAS_REALIZADAS >= 2;"
+        );
+        return (long) q.executeUnique();
+    }
+
+    public long darEntregasInfrecuentes(PersistenceManager pm, String idSucursal) {
+        Query q = pm.newQuery(SQL,
+        "SELECT CODIGO_BARRAS, NOMBRE, CATEGORIA, ID_PEDIDO, SUCURSAL, fecha_entrega AS ULTIMA_ENTREGA"+
+        "FROM ULTIMOS_PEDIDOS"+
+        "INNER JOIN"+
+        "(SELECT CODIGO_BARRAS AS CBARRAS, FECHA_ENTREGA AS PENULTIMA_ENTREGA FROM PENULTIMOS_PEDIDOS)"+
+        "ON CBARRAS = ULTIMOS_PEDIDOS.CODIGO_BARRAS"+
+        "WHERE PENULTIMA_ENTREGA <= FECHA_ENTREGA - INTERVAL '60' DAY"+
+        "AND SUCURSAL = ?;"
+        );
+        return (long) q.executeUnique();
+    }
+
+    
 }
