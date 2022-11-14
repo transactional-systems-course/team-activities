@@ -447,6 +447,12 @@ public class PersistenciaSuperAndes {
         return resp;
     }
 
+    private long darCompradoresFrecuentes(String idSucursal) {
+        long resp = sqlSucursal.darCompradoresFrecuentes(pmf.getPersistenceManager(), idSucursal);
+        log.trace("buscando compradores frecuentes en: "+idSucursal);
+        return resp;
+    }
+
     /**
      * Extrae el mensaje de la exception JDODataStoreException embebido en la
      * Exception e, que da el detalle específico del problema encontrado
