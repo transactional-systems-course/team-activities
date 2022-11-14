@@ -341,6 +341,50 @@ public class InterfazSuperAndesApp extends JFrame implements ActionListener {
 	}
 
 	/*
+	 * Consulta
+	 */
+	public void darCompradoresFrecuentes() {
+		String idSucursal = JOptionPane.showInputDialog(this, "¿id Sucursal?",
+		"Dar compradores frecuentes", JOptionPane.QUESTION_MESSAGE);
+		try {
+			String resultado = superandes.darCompradoresFrecuentes(idSucursal);
+			panelDatos.actualizarInterfaz(resultado);
+		} catch (Exception e) {
+			// e.printStackTrace();
+			String resultado = generarMensajeError(e);
+			panelDatos.actualizarInterfaz(resultado);			
+		}
+	}
+
+	public void darDatosProductos() {
+		String idSucursal = JOptionPane.showInputDialog(this, "¿id Sucursal?",
+		"Dar datos de productos", JOptionPane.QUESTION_MESSAGE);
+		try {
+			String resultado = superandes.darDatosProductos(idSucursal);
+			panelDatos.actualizarInterfaz(resultado);
+		} catch (Exception e) {
+			// e.printStackTrace();
+			String resultado = generarMensajeError(e);
+			panelDatos.actualizarInterfaz(resultado);			
+		}
+	}
+
+	public void darEntregasInfrecuentes() {
+		String idSucursal = JOptionPane.showInputDialog(this, "¿id Sucursal?",
+		"Dar Entregas Infrecuentes", JOptionPane.QUESTION_MESSAGE);
+		try {
+			String resultado = superandes.darEntregasInfrecuentes(idSucursal);
+			panelDatos.actualizarInterfaz(resultado);
+		} catch (Exception e) {
+			// e.printStackTrace();
+			String resultado = generarMensajeError(e);
+			panelDatos.actualizarInterfaz(resultado);			
+		}
+	}
+
+	
+
+	/*
 	 * ****************************************************************
 	 * CRUD de PEDIDO
 	 *****************************************************************/

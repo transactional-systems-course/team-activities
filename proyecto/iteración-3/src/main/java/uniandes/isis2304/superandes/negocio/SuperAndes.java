@@ -120,6 +120,24 @@ public class SuperAndes {
 		return promos;
 	}
 
+	public String darCompradoresFrecuentes(String idSucursal) {
+		log.info("revisando compradores frecuentes...");
+		String compradores = ps.darCompradoresFrecuentes(idSucursal);
+		return compradores;
+	}
+
+	public String darDatosProductos(String idSucursal) {
+		log.info("revisando datos de productos...");
+		String datos = ps.darDatosProductos(idSucursal);
+		return datos;
+	}
+
+	public String darEntregasInfrecuentes(String idSucursal) {
+		log.info("revisando entregas infrecuentes...");
+		String entregas = ps.darEntregasInfrecuentes(idSucursal);
+		return entregas;
+	}
+
 	/**
 	 * Crea un pedido.
 	 * 
