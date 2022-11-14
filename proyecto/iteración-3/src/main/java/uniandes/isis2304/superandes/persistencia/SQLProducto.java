@@ -50,4 +50,23 @@ public class SQLProducto {
     /**
      * TODO: CRUD
      */
+
+    public long darDatosProductos(PersistanceManager pm, String idSucursal) {
+        Query q = pm.newQuery(SQL, 
+        "SELECT * FROM"+ 
+        "(((SELECT CODIGO_BARRAS, NOMBRE, SUM(VALOR_COMPRA_TOTAL) AS DINERO_ADQUIRIDO, NULL AS CANTIDADES_ADQUIRIDAS, 'MAYORES INGRESOS' AS CATEGORIA, "+
+        "ID_SUCURSAL FROM DATOS_COMPRAS"+
+        "GROUP BY CODIGO_BARRAS, NOMBRE, ID_SUCURSAL)"+
+        "UNION ALL"+
+        "(SELECT CODIGO_BARRAS, NOMBRE, NULL AS DINERO_ADQUIRIDO, SUM(CANT_UNIDADES_COMPRADAS) AS CANTIDADES_ADQUIRIDAS, 'MENOR DEMANDA' AS CATEGORIA, ID_SUCURSAL "+
+        "FROM DATOS_COMPRAS"+
+        "GROUP BY CODIGO_BARRAS, NOMBRE, ID_SUCURSAL))"+
+        "UNION"+
+        "(SELECT * FROM MAYOR_DEMANDA)"+
+        ")"+
+        "WHERE ID_SUCURSAL=?"+
+        "ORDER BY ID_SUCURSAL;"
+        );
+        return (long) q.executeUnique();
+    }
 }

@@ -73,7 +73,7 @@ public class SQLSucursal {
         return (long) q.executeUnique();
     }
 
-    public String darCompradoresFrecuentes(PersistenceManager pm, String idSucursal) {
+    public long darCompradoresFrecuentes(PersistenceManager pm, String idSucursal) {
         Query q = pm.newQuery(SQL,
         "SELECT * FROM ("+
         "SELECT NUMERO_DOCUMENTO, NOMBRE, COUNT(NUMERO_DOCUMENTO) AS COMPRAS_REALIZADAS,"+ 
@@ -89,4 +89,19 @@ public class SQLSucursal {
         );
         return (long) q.executeUnique();
     }
+
+    public long darEntregasInfrecuentes(PersistenceManager pm, String idSucursal) {
+        Query q = pm.newQuery(SQL,
+        "SELECT CODIGO_BARRAS, NOMBRE, CATEGORIA, ID_PEDIDO, SUCURSAL, fecha_entrega AS ULTIMA_ENTREGA"+
+        "FROM ULTIMOS_PEDIDOS"+
+        "INNER JOIN"+
+        "(SELECT CODIGO_BARRAS AS CBARRAS, FECHA_ENTREGA AS PENULTIMA_ENTREGA FROM PENULTIMOS_PEDIDOS)"+
+        "ON CBARRAS = ULTIMOS_PEDIDOS.CODIGO_BARRAS"+
+        "WHERE PENULTIMA_ENTREGA <= FECHA_ENTREGA - INTERVAL '60' DAY"+
+        "AND SUCURSAL = ?;"
+        );
+        return (long) q.executeUnique();
+    }
+
+    
 }
