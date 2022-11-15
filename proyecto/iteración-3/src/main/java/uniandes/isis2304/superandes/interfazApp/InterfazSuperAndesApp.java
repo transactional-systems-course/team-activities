@@ -288,6 +288,74 @@ public class InterfazSuperAndesApp extends JFrame implements ActionListener {
 
 	/*
 	 * ****************************************************************
+	 * CRUD de carrito de compras
+	 *****************************************************************/
+	/**
+	 * Crear carrito de compras
+	 */
+	public void crearCarrito() {
+		try {
+			String idCliente = JOptionPane.showInputDialog(this, "¿Documento del cliente?",
+					"Crear carrito", JOptionPane.QUESTION_MESSAGE);
+
+			String resultado = "En crear carrito\n\n";
+			resultado += "\n" + superandes.crearCarrito(idCliente);
+			resultado += "\n Operación terminada";
+			panelDatos.actualizarInterfaz(resultado);
+
+		} catch (Exception e) {
+			// e.printStackTrace();
+			String resultado = generarMensajeError(e);
+			panelDatos.actualizarInterfaz(resultado);
+		}
+	}
+
+	/**
+	 * Añadir producto a carrito de compras
+	 */
+	public void addCarrito() {
+		try {
+			String idCliente = JOptionPane.showInputDialog(this, "¿Documento del cliente?",
+					"Añadir producto a carrito", JOptionPane.QUESTION_MESSAGE);
+			String idProducto = JOptionPane.showInputDialog(this, "¿Código del producto?",
+					"Añadir producto a carrito", JOptionPane.QUESTION_MESSAGE);
+
+			String resultado = "En añadir producto a carrito\n\n";
+			resultado += "\n" + superandes.addCarrito(idCliente, idProducto);
+			resultado += "\n Operación terminada";
+			panelDatos.actualizarInterfaz(resultado);
+
+		} catch (Exception e) {
+			// e.printStackTrace();
+			String resultado = generarMensajeError(e);
+			panelDatos.actualizarInterfaz(resultado);
+		}
+	}
+
+	/**
+	 * Eliminar producto de carrito de compras
+	 */
+	public void removeCarrito() {
+		try {
+			String idCliente = JOptionPane.showInputDialog(this, "¿Documento del cliente?",
+					"Eliminar producto de carrito", JOptionPane.QUESTION_MESSAGE);
+			String idProducto = JOptionPane.showInputDialog(this, "¿Código del producto?",
+					"Eliminar producto de carrito", JOptionPane.QUESTION_MESSAGE);
+
+			String resultado = "En eliminar producto de carrito\n\n";
+			resultado += "\n" + superandes.addCarrito(idCliente, idProducto);
+			resultado += "\n Operación terminada";
+			panelDatos.actualizarInterfaz(resultado);
+
+		} catch (Exception e) {
+			// e.printStackTrace();
+			String resultado = generarMensajeError(e);
+			panelDatos.actualizarInterfaz(resultado);
+		}
+	}
+
+	/*
+	 * ****************************************************************
 	 * CRUD de PROMOCION
 	 *****************************************************************/
 	/*
@@ -344,7 +412,7 @@ public class InterfazSuperAndesApp extends JFrame implements ActionListener {
 	 */
 	public void darCompradoresFrecuentes() {
 		String idSucursal = JOptionPane.showInputDialog(this, "¿id Sucursal?",
-		"Dar compradores frecuentes", JOptionPane.QUESTION_MESSAGE);
+				"Dar compradores frecuentes", JOptionPane.QUESTION_MESSAGE);
 		try {
 			String resultado = superandes.darCompradoresFrecuentes(idSucursal);
 			panelDatos.actualizarInterfaz(resultado);
@@ -357,7 +425,7 @@ public class InterfazSuperAndesApp extends JFrame implements ActionListener {
 
 	public void darDatosProductos() {
 		String idSucursal = JOptionPane.showInputDialog(this, "¿id Sucursal?",
-		"Dar datos de productos", JOptionPane.QUESTION_MESSAGE);
+				"Dar datos de productos", JOptionPane.QUESTION_MESSAGE);
 		try {
 			String resultado = superandes.darDatosProductos(idSucursal);
 			panelDatos.actualizarInterfaz(resultado);
@@ -370,7 +438,7 @@ public class InterfazSuperAndesApp extends JFrame implements ActionListener {
 
 	public void darEntregasInfrecuentes() {
 		String idSucursal = JOptionPane.showInputDialog(this, "¿id Sucursal?",
-		"Dar Entregas Infrecuentes", JOptionPane.QUESTION_MESSAGE);
+				"Dar Entregas Infrecuentes", JOptionPane.QUESTION_MESSAGE);
 		try {
 			String resultado = superandes.darEntregasInfrecuentes(idSucursal);
 			panelDatos.actualizarInterfaz(resultado);
@@ -380,8 +448,6 @@ public class InterfazSuperAndesApp extends JFrame implements ActionListener {
 			panelDatos.actualizarInterfaz(resultado);
 		}
 	}
-
-
 
 	/*
 	 * ****************************************************************
