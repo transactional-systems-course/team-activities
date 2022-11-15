@@ -1,10 +1,7 @@
 package uniandes.isis2304.superandes.negocio;
 
-import java.sql.Timestamp;
-import java.util.LinkedList;
-import java.util.List;
-
 import org.apache.log4j.Logger;
+
 import com.google.gson.JsonObject;
 
 import uniandes.isis2304.superandes.persistencia.PersistenciaSuperAndes;
@@ -73,7 +70,7 @@ public class SuperAndes {
 	/**
 	 * Elimina todas las tuplas de todas las tablas de la base de datos de
 	 * SuperAndes
-	 * 
+	 *
 	 * @return Un arreglo con 7 números que indican el número de tuplas borradas en
 	 *         las tablas GUSTAN, SIRVEN, VISITAN, BEBIDA,
 	 *         TIPOBEBIDA, BEBEDOR y BAR, respectivamente
@@ -120,9 +117,27 @@ public class SuperAndes {
 		return promos;
 	}
 
+	public String darCompradoresFrecuentes(String idSucursal) {
+		log.info("revisando compradores frecuentes...");
+		String compradores = ps.darCompradoresFrecuentes(idSucursal);
+		return compradores;
+	}
+
+	public String darDatosProductos(String idSucursal) {
+		log.info("revisando datos de productos...");
+		String datos = ps.darDatosProductos(idSucursal);
+		return datos;
+	}
+
+	public String darEntregasInfrecuentes(String idSucursal) {
+		log.info("revisando entregas infrecuentes...");
+		String entregas = ps.darEntregasInfrecuentes(idSucursal);
+		return entregas;
+	}
+
 	/**
 	 * Crea un pedido.
-	 * 
+	 *
 	 * @param cantidadRecompra
 	 * @param precioCompraProducto
 	 * @param precioTotalPedido
@@ -144,7 +159,7 @@ public class SuperAndes {
 
 	/**
 	 * Registra la llegada de un pedido por id
-	 * 
+	 *
 	 * @param idPedido
 	 */
 	public void registrarLlegadaPedido(String idPedido) {
@@ -157,7 +172,7 @@ public class SuperAndes {
 
 	/**
 	 * aprovisiona un estante con un producto.
-	 * 
+	 *
 	 * @param idEstante
 	 * @param idProducto
 	 * @return
@@ -172,7 +187,7 @@ public class SuperAndes {
 
 	/**
 	 * Consulta el indice de ocupación de un estante.
-	 * 
+	 *
 	 * @param idEstante
 	 * @return
 	 */
@@ -186,7 +201,7 @@ public class SuperAndes {
 
 	/**
 	 * registra una venta.
-	 * 
+	 *
 	 * @param valorCompraTotal
 	 * @param urlFacturaElectronica
 	 * @param estadoCompra
@@ -205,7 +220,7 @@ public class SuperAndes {
 
 	/**
 	 * consulta las ventas asociadas a un cliente
-	 * 
+	 *
 	 * @param idCliente
 	 * @return cliente
 	 */
@@ -248,7 +263,7 @@ public class SuperAndes {
 	 * Consulta los pedidos dados al proveedor:
 	 * Input; String nombreProveedor
 	 * Output; String pedidos.
-	 * 
+	 *
 	 */
 	public String consultarPedidosProveedor(String nombreProveedor) {
 		// TODO Auto-generated method stub

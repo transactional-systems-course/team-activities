@@ -8,7 +8,7 @@ public class MedicionProducto {
     String unidadMedida;
     long especificacionEmpacado;
     String unidadEspecificacionEmpacado;
-    
+
 	public int getId() {
 		return id;
 	}
@@ -39,7 +39,7 @@ public class MedicionProducto {
 	public void setUnidadEspecificacionEmpacado(String unidadEspecificacionEmpacado) {
 		this.unidadEspecificacionEmpacado = unidadEspecificacionEmpacado;
 	}
-	
+
 	@Override
 	public String toString() {
 		return "MedicionProducto [id=" + id + ", medida=" + medida + ", unidadMedida=" + unidadMedida
@@ -54,15 +54,13 @@ public class MedicionProducto {
 	public boolean equals(Object obj) {
 		if (this == obj)
 			return true;
-		if (obj == null)
-			return false;
-		if (getClass() != obj.getClass())
+		if ((obj == null) || (getClass() != obj.getClass()))
 			return false;
 		MedicionProducto other = (MedicionProducto) obj;
 		return especificacionEmpacado == other.especificacionEmpacado && id == other.id && medida == other.medida
 				&& Objects.equals(unidadEspecificacionEmpacado, other.unidadEspecificacionEmpacado)
 				&& Objects.equals(unidadMedida, other.unidadMedida);
 	}
-	
-	
+
+
 }

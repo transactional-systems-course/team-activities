@@ -78,9 +78,7 @@ public class Contenedor {
     public boolean equals(Object obj) {
         if (this == obj)
             return true;
-        if (obj == null)
-            return false;
-        if (getClass() != obj.getClass())
+        if ((obj == null) || (getClass() != obj.getClass()))
             return false;
         Contenedor other = (Contenedor) obj;
         return capacidadMaximaPeso == other.capacidadMaximaPeso
@@ -89,5 +87,5 @@ public class Contenedor {
                 && Objects.equals(tipoContenedor, other.tipoContenedor)
                 && Objects.equals(tipoProducto, other.tipoProducto);
     }
-    
+
 }

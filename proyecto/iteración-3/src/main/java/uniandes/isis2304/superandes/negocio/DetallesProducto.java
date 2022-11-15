@@ -50,9 +50,7 @@ public class DetallesProducto {
     public boolean equals(Object obj) {
         if (this == obj)
             return true;
-        if (obj == null)
-            return false;
-        if (getClass() != obj.getClass())
+        if ((obj == null) || (getClass() != obj.getClass()))
             return false;
         DetallesProducto other = (DetallesProducto) obj;
         return Objects.equals(CantidadPresentacion, other.CantidadPresentacion) && id == other.id
