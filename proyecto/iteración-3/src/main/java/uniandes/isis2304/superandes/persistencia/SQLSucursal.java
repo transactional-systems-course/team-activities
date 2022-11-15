@@ -105,15 +105,16 @@ public class SQLSucursal {
                 "ON CBARRAS = ULTIMOS_PEDIDOS.CODIGO_BARRAS\n"+
                 "WHERE PENULTIMA_ENTREGA <= FECHA_ENTREGA - INTERVAL '60' DAY\n"+
                 "AND SUCURSAL =\n"+ idSucursal +"\n";
-        Query q = pm.newQuery(SQL,strQ);
+        Query q = pm.newQuery(SQL, strQ);
+        String strR = "";
         List<Object[]> results = q.executeList();
-        // TODO: create for in interface.
-        for (int i= 0; i < results.size(); i++) {
-            for(int j=0; i< results.get(i).length; j++) {
-                System.out.println(results.get(i)[j].toString());
+        for (int i = 0; i < results.size(); i++) {
+            Object[] r = results.get(i);
+            for (int j = 0; i < r.length; j++) {
+                strR += r[j].toString();
             }
         }
-        return results.get(0)[2].toString();
+        return strR;
     }
 
 }
