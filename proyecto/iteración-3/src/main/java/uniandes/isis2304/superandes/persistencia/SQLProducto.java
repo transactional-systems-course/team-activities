@@ -1,5 +1,8 @@
 package uniandes.isis2304.superandes.persistencia;
 
+import java.util.List;
+
+import javax.jdo.PersistenceManager;
 import javax.jdo.Query;
 
 /**
@@ -46,7 +49,7 @@ public class SQLProducto {
      * TODO: CRUD
      */
 
-    public long darDatosProductos(PersistanceManager pm, String idSucursal) {
+    public long darDatosProductos(PersistenceManager pm, String idSucursal) {
         Query q = pm.newQuery(SQL,
         "SELECT * FROM"+
         "(((SELECT CODIGO_BARRAS, NOMBRE, SUM(VALOR_COMPRA_TOTAL) AS DINERO_ADQUIRIDO, NULL AS CANTIDADES_ADQUIRIDAS, 'MAYORES INGRESOS' AS CATEGORIA, "+
