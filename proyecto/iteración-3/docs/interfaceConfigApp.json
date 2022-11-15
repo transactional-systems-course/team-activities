@@ -5,6 +5,40 @@
   "bannerPath": "./src/main/resources/config/logo.png",
   "menuBar": [
     {
+      "menuTitle": "Carrito",
+      "options": [
+        {
+          "label": "CrearCarritoCompras",
+          "event": "crearCarrito"
+        },
+        {
+          "label": "AddACarritoCompras",
+          "event": "addCarrito"
+        },
+        {
+          "label": "RemoveDeCarritoCompras",
+          "event": "removeCarrito"
+        }
+      ]
+    },
+    {
+      "menuTitle": "Compra",
+      "options": [
+        {
+          "label": "PagarCompra",
+          "event": "pagarCompra"
+        },
+        {
+          "label": "AbandonarCompra",
+          "event": "abandonarCompra"
+        },
+        {
+          "label": "RecolectarProductosAbandonados",
+          "event": "recolectarProductosAbandonados"
+        }
+      ]
+    },
+    {
       "menuTitle": "Producto",
       "options": [
         {
@@ -34,12 +68,12 @@
           "event": "crearPedido"
         },
         {
-          "label": "RegistrarLlegadaPedido",
-          "event": "registrarLlegadaPedido"
+          "label": "ConsolidarPedidos",
+          "event": "consolidarPedidos"
         },
         {
-          "label": "darDatosProductos",
-          "event": "darDatosProductos"
+          "label": "RegistrarLlegadaPedido",
+          "event": "registrarLlegadaPedido"
         }
       ]
     },
@@ -75,14 +109,6 @@
         {
           "label": "ConsultarDineroRecolectado",
           "event": "consultarDineroRecolectado"
-        },
-        {
-          "label": "darCompradoresFrecuentes",
-          "event": "darCompradoresFrecuentes"
-        },
-        {
-          "label": "darEntregasInfrecuentes",
-          "event": "darEntregasInfrecuentes"          
         }
       ]
     },
