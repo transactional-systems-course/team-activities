@@ -86,15 +86,15 @@ public class SQLSucursal {
                 "GROUP BY NUMERO_DOCUMENTO, NOMBRE, ID_SUCURSAL, FECHA_COMPRA\n"+
                 ") WHERE COMPRAS_REALIZADAS >= 2\n";
         Query q = pm.newQuery(SQL,strQ);
-        
+        String strR = "";
         List<Object[]> results = q.executeList();
-        for (int i= 0; i < results.size(); i++) {
-            for(int j=0; i< results.get(i).length; j++) {
-                System.out.println(results.get(i)[j].toString());
+        for (int i= 0; i < results.size()-1; i++) {
+            Object[] r = results.get(i);
+            for(int j=0; j < r.length-1; j++) {
+                strR += "\n" + r[j].toString();
             }
         }
-        // TODO: create for in interface.
-        return results.get(0)[2].toString() + "%";
+        return strR;
     }
 
     public String darEntregasInfrecuentes(PersistenceManager pm, String idSucursal) {
