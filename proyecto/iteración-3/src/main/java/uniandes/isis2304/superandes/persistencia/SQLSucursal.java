@@ -1,5 +1,7 @@
 package uniandes.isis2304.superandes.persistencia;
 
+import java.util.List;
+
 import javax.jdo.PersistenceManager;
 import javax.jdo.Query;
 
@@ -46,7 +48,7 @@ public class SQLSucursal {
     /**
      * TODO: CRUD
      */
-    public long consultarDineroRecolectado(PersistenceManager pm, String idSucursal) {
+    public String consultarDineroRecolectado(PersistenceManager pm, String idSucursal) {
         Query q = pm.newQuery(SQL,
                 "SELECT ID_SUCURSAL,\r\n"
                 + "    NOMBRE,\r\n"
@@ -65,39 +67,53 @@ public class SQLSucursal {
                 + "    )\r\n"
                 + "WHERE ID_SUCURSAL = ?"
                 + "GROUP BY ID_SUCURSAL, NOMBRE\r\n"
-                + "ORDER BY SUMA_VALORES DESC;");
-        return (long) q.executeUnique();
+                + "ORDER BY SUMA_VALORES DESC");
+        List<Object[]> results = q.executeList();
+        // TODO: create for in interface.
+        return results.get(0)[2].toString() + "%";
     }
 
-    public long darCompradoresFrecuentes(PersistenceManager pm, String idSucursal) {
-        Query q = pm.newQuery(SQL,
-        "SELECT * FROM ("+
-        "SELECT NUMERO_DOCUMENTO, NOMBRE, COUNT(NUMERO_DOCUMENTO) AS COMPRAS_REALIZADAS,"+
-        "ID_SUCURSAL, to_char(FECHA_COMPRA, 'YYYY-MM') FROM" +
-        "( SELECT * FROM (" +
-        "(SELECT COMPRADOR, FECHA_COMPRA FROM COMPRA)"+
-        "INNER JOIN"+
-        "(SELECT * FROM USUARIO)"+
-        "ON COMPRADOR = NUMERO_DOCUMENTO))"+
-        "WHERE ID_SUCURSAL = ?"+
-        "GROUP BY NUMERO_DOCUMENTO, NOMBRE, ID_SUCURSAL, FECHA_COMPRA"+
-        ") WHERE COMPRAS_REALIZADAS >= 2;"
-        );
-        return (long) q.executeUnique();
+    public String darCompradoresFrecuentes(PersistenceManager pm, String idSucursal) {
+        String strQ = "SELECT * FROM ("+
+                "SELECT NUMERO_DOCUMENTO, NOMBRE, COUNT(NUMERO_DOCUMENTO) AS COMPRAS_REALIZADAS,\n"+
+                "ID_SUCURSAL, to_char(FECHA_COMPRA, 'YYYY-MM') FROM\n" +
+                "( SELECT * FROM (\n" +
+                "(SELECT COMPRADOR, FECHA_COMPRA FROM COMPRA)\n"+
+                "INNER JOIN\n"+
+                "(SELECT * FROM USUARIO)\n"+
+                "ON COMPRADOR = NUMERO_DOCUMENTO))\n"+
+                "WHERE ID_SUCURSAL =\n"+ idSucursal + "\n"+
+                "GROUP BY NUMERO_DOCUMENTO, NOMBRE, ID_SUCURSAL, FECHA_COMPRA\n"+
+                ") WHERE COMPRAS_REALIZADAS >= 2\n";
+        Query q = pm.newQuery(SQL,strQ);
+        
+        List<Object[]> results = q.executeList();
+        for (int i= 0; i < results.size(); i++) {
+            for(int j=0; i< results.get(i).length; j++) {
+                System.out.println(results.get(i)[j].toString());
+            }
+        }
+        // TODO: create for in interface.
+        return results.get(0)[2].toString() + "%";
     }
 
-    public long darEntregasInfrecuentes(PersistenceManager pm, String idSucursal) {
-        Query q = pm.newQuery(SQL,
-        "SELECT CODIGO_BARRAS, NOMBRE, CATEGORIA, ID_PEDIDO, SUCURSAL, fecha_entrega AS ULTIMA_ENTREGA"+
-        "FROM ULTIMOS_PEDIDOS"+
-        "INNER JOIN"+
-        "(SELECT CODIGO_BARRAS AS CBARRAS, FECHA_ENTREGA AS PENULTIMA_ENTREGA FROM PENULTIMOS_PEDIDOS)"+
-        "ON CBARRAS = ULTIMOS_PEDIDOS.CODIGO_BARRAS"+
-        "WHERE PENULTIMA_ENTREGA <= FECHA_ENTREGA - INTERVAL '60' DAY"+
-        "AND SUCURSAL = ?;"
-        );
-        return (long) q.executeUnique();
+    public String darEntregasInfrecuentes(PersistenceManager pm, String idSucursal) {
+        String strQ = "SELECT CODIGO_BARRAS, NOMBRE, CATEGORIA, ID_PEDIDO, SUCURSAL, fecha_entrega AS ULTIMA_ENTREGA\n"+
+                "FROM ULTIMOS_PEDIDOS\n"+
+                "INNER JOIN\n"+
+                "(SELECT CODIGO_BARRAS AS CBARRAS, FECHA_ENTREGA AS PENULTIMA_ENTREGA FROM PENULTIMOS_PEDIDOS)\n"+
+                "ON CBARRAS = ULTIMOS_PEDIDOS.CODIGO_BARRAS\n"+
+                "WHERE PENULTIMA_ENTREGA <= FECHA_ENTREGA - INTERVAL '60' DAY\n"+
+                "AND SUCURSAL =\n"+ idSucursal +"\n";
+        Query q = pm.newQuery(SQL,strQ);
+        List<Object[]> results = q.executeList();
+        // TODO: create for in interface.
+        for (int i= 0; i < results.size(); i++) {
+            for(int j=0; i< results.get(i).length; j++) {
+                System.out.println(results.get(i)[j].toString());
+            }
+        }
+        return results.get(0)[2].toString();
     }
-
 
 }
