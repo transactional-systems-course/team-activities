@@ -446,20 +446,20 @@ public class PersistenciaSuperAndes {
         return resp;
     }
 
-    private long darCompradoresFrecuentes(String idSucursal) {
-        long resp = sqlSucursal.darCompradoresFrecuentes(pmf.getPersistenceManager(), idSucursal);
+    public String darCompradoresFrecuentes(String idSucursal) {
+        String resp = sqlSucursal.darCompradoresFrecuentes(pmf.getPersistenceManager(), idSucursal);
         log.trace("buscando compradores frecuentes en: "+idSucursal);
         return resp;
     }
 
-    private long darDatosProductos(String idSucursal) {
-        long resp = sqlProducto.darDatosProductos(pmf.getPersistenceManager(), idSucursal);
+    public String darDatosProductos(String idSucursal) {
+        String resp = sqlProducto.darDatosProductos(pmf.getPersistenceManager(), idSucursal);
         log.trace("buscando datos de productos en "+idSucursal);
         return resp;
     }
 
-    private long darEntregasInfrecuentes(String idSucursal) {
-        long resp = sqlProducto.darEntregasInfrecuentes(pmf.getPersistenceManager, idSucursal);
+    public String darEntregasInfrecuentes(String idSucursal) {
+        String resp = sqlSucursal.darEntregasInfrecuentes(pmf.getPersistenceManager(), idSucursal);
         log.trace("buscando productos infrecuentes en: "+idSucursal);
         return resp;
     }
