@@ -21,7 +21,7 @@ public class PanelDatos extends JPanel {
     // Atributos de interfaz
     // -----------------------------------------------------------------
     /**
-     * Área de texto con barras de deslizamiento
+     * Area de texto con barras de deslizamiento
      */
     private JTextArea textArea;
 

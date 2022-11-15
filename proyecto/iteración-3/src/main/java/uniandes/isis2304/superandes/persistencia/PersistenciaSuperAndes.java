@@ -448,7 +448,7 @@ public class PersistenciaSuperAndes {
 
     public String darCompradoresFrecuentes(String idSucursal) {
         String resp = sqlSucursal.darCompradoresFrecuentes(pmf.getPersistenceManager(), idSucursal);
-        log.trace("buscando compradores frecuentes en: "+idSucursal);
+        log.trace("buscando compradores frecuentes en: "+ idSucursal);
         return resp;
     }
 
