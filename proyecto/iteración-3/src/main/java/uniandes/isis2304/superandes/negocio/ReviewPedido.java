@@ -61,9 +61,7 @@ public class ReviewPedido {
     public boolean equals(Object obj) {
         if (this == obj)
             return true;
-        if (obj == null)
-            return false;
-        if (getClass() != obj.getClass())
+        if ((obj == null) || (getClass() != obj.getClass()))
             return false;
         ReviewPedido other = (ReviewPedido) obj;
         return Objects.equals(comentariosCalificacionCalidad, other.comentariosCalificacionCalidad) && id == other.id

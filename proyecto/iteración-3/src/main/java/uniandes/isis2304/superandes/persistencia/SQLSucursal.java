@@ -1,11 +1,7 @@
 package uniandes.isis2304.superandes.persistencia;
 
-import java.util.List;
-
 import javax.jdo.PersistenceManager;
 import javax.jdo.Query;
-
-import uniandes.isis2304.superandes.negocio.Sucursal;
 
 /**
  * Clase que encapsula los métodos que hacen acceso a la base de datos para el
@@ -51,7 +47,7 @@ public class SQLSucursal {
      * TODO: CRUD
      */
     public long consultarDineroRecolectado(PersistenceManager pm, String idSucursal) {
-        Query q = pm.newQuery(SQL, 
+        Query q = pm.newQuery(SQL,
                 "SELECT ID_SUCURSAL,\r\n"
                 + "    NOMBRE,\r\n"
                 + "    SUM(VALOR_COMPRA_TOTAL) AS SUMA_VALORES\r\n"
@@ -76,7 +72,7 @@ public class SQLSucursal {
     public long darCompradoresFrecuentes(PersistenceManager pm, String idSucursal) {
         Query q = pm.newQuery(SQL,
         "SELECT * FROM ("+
-        "SELECT NUMERO_DOCUMENTO, NOMBRE, COUNT(NUMERO_DOCUMENTO) AS COMPRAS_REALIZADAS,"+ 
+        "SELECT NUMERO_DOCUMENTO, NOMBRE, COUNT(NUMERO_DOCUMENTO) AS COMPRAS_REALIZADAS,"+
         "ID_SUCURSAL, to_char(FECHA_COMPRA, 'YYYY-MM') FROM" +
         "( SELECT * FROM (" +
         "(SELECT COMPRADOR, FECHA_COMPRA FROM COMPRA)"+
@@ -103,5 +99,5 @@ public class SQLSucursal {
         return (long) q.executeUnique();
     }
 
-    
+
 }

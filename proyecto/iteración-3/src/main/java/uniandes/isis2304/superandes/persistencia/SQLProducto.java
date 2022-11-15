@@ -1,11 +1,6 @@
 package uniandes.isis2304.superandes.persistencia;
 
-import java.util.List;
-
-import javax.jdo.PersistenceManager;
 import javax.jdo.Query;
-
-import uniandes.isis2304.superandes.negocio.Producto;
 
 /**
  * Clase que encapsula los métodos que hacen acceso a la base de datos para el
@@ -52,8 +47,8 @@ public class SQLProducto {
      */
 
     public long darDatosProductos(PersistanceManager pm, String idSucursal) {
-        Query q = pm.newQuery(SQL, 
-        "SELECT * FROM"+ 
+        Query q = pm.newQuery(SQL,
+        "SELECT * FROM"+
         "(((SELECT CODIGO_BARRAS, NOMBRE, SUM(VALOR_COMPRA_TOTAL) AS DINERO_ADQUIRIDO, NULL AS CANTIDADES_ADQUIRIDAS, 'MAYORES INGRESOS' AS CATEGORIA, "+
         "ID_SUCURSAL FROM DATOS_COMPRAS"+
         "GROUP BY CODIGO_BARRAS, NOMBRE, ID_SUCURSAL)"+

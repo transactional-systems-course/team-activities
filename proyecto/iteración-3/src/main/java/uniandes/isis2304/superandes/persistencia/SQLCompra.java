@@ -1,12 +1,5 @@
 package uniandes.isis2304.superandes.persistencia;
 
-import java.util.List;
-
-import javax.jdo.PersistenceManager;
-import javax.jdo.Query;
-
-import uniandes.isis2304.superandes.negocio.Compra;
-
 /**
  * Clase que encapsula los métodos que hacen acceso a la base de datos para el
  * concepto Compra de SuperAndes

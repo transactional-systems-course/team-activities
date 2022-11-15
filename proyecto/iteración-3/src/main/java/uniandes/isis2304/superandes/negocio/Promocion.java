@@ -80,9 +80,7 @@ public class Promocion {
     public boolean equals(Object obj) {
         if (this == obj)
             return true;
-        if (obj == null)
-            return false;
-        if (getClass() != obj.getClass())
+        if ((obj == null) || (getClass() != obj.getClass()))
             return false;
         Promocion other = (Promocion) obj;
         return cantUnidadesDisponibles == other.cantUnidadesDisponibles && Objects.equals(fechaFin, other.fechaFin)

@@ -1,11 +1,7 @@
 package uniandes.isis2304.superandes.persistencia;
 
-import java.util.List;
-
 import javax.jdo.PersistenceManager;
 import javax.jdo.Query;
-
-import uniandes.isis2304.superandes.negocio.Promocion;
 
 /**
  * Clase que encapsula los métodos que hacen acceso a la base de datos para el
@@ -46,11 +42,11 @@ public class SQLPromocion {
     public SQLPromocion(PersistenciaSuperAndes ps) {
         this.ps = ps;
     }
-    
+
 
     /**
      * Registra una promoción nueva en la base de datos.
-     * 
+     *
      * @param rebajaEnPrecio
      * @param tipoPromocion
      * @param fechaInicio
@@ -60,7 +56,7 @@ public class SQLPromocion {
      * @param totalUnidadesOfrecidas
      * @return
      */
-    
+
     public String registrarPromocion(PersistenceManager pm, String rebajaEnPrecio, String tipoPromocion, String fechaInicio, String fechaFin,
             String idProducto, String cantUnidadesDisponibles, String totalUnidadesOfrecidas) {
         String ret = null;
@@ -83,7 +79,7 @@ public class SQLPromocion {
                 + cantUnidadesDisponibles + ","
                 + totalUnidadesOfrecidas + ","
                 + ");");
-        
+
         return (String) q.executeUnique();
     }
     public String consultarPromosPopulares(PersistenceManager pm) {
@@ -99,7 +95,7 @@ public class SQLPromocion {
                 + "    )\r\n"
                 + "ORDER BY CANTIDADES_VENDIDAS DESC FETCH FIRST 20 ROWS ONLY;");
         return (String) q.executeUnique();
-    }   
+    }
 }
 
 

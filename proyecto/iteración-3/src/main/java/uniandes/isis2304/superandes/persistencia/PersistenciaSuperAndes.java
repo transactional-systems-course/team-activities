@@ -1,7 +1,5 @@
 package uniandes.isis2304.superandes.persistencia;
 
-import java.math.BigDecimal;
-import java.sql.Timestamp;
 import java.util.LinkedList;
 import java.util.List;
 
@@ -12,6 +10,7 @@ import javax.jdo.PersistenceManagerFactory;
 import javax.jdo.Transaction;
 
 import org.apache.log4j.Logger;
+
 import com.google.gson.JsonArray;
 import com.google.gson.JsonElement;
 import com.google.gson.JsonObject;
@@ -30,7 +29,7 @@ import uniandes.isis2304.superandes.negocio.Promocion;
  * Se apoya en las clases SQLBar, SQLBebedor, SQLBebida, SQLGustan, SQLSirven,
  * SQLTipoBebida y SQLVisitan, que son
  * las que realizan el acceso a la base de datos
- * 
+ *
  * @author Germán Bravo
  */
 public class PersistenciaSuperAndes {
@@ -185,7 +184,7 @@ public class PersistenciaSuperAndes {
         crearClasesSQL();
 
         // Define los nombres por defecto de las tablas de la base de datos
-        tablas = new LinkedList<String>();
+        tablas = new LinkedList<>();
         tablas.add("SuperAndes_sequence");
         tablas.add("ALMACENAMIENTO_PRODUCTO");
         tablas.add("COMPRA");
@@ -208,7 +207,7 @@ public class PersistenciaSuperAndes {
     /**
      * Constructor privado, que recibe los nombres de las tablas en un objeto Json -
      * Patrón SINGLETON
-     * 
+     *
      * @param tableConfig - Objeto Json que contiene los nombres de las tablas y de
      *                    la unidad de persistencia a manejar
      */
@@ -264,7 +263,7 @@ public class PersistenciaSuperAndes {
     private List<String> leerNombresTablas(JsonObject tableConfig) {
         JsonArray nombres = tableConfig.getAsJsonArray("tablas");
 
-        List<String> resp = new LinkedList<String>();
+        List<String> resp = new LinkedList<>();
         for (JsonElement nom : nombres) {
             resp.add(nom.getAsString());
         }

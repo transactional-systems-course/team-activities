@@ -27,9 +27,7 @@ public class Sucursal {
     public boolean equals(Object obj) {
         if (this == obj)
             return true;
-        if (obj == null)
-            return false;
-        if (getClass() != obj.getClass())
+        if ((obj == null) || (getClass() != obj.getClass()))
             return false;
         Sucursal other = (Sucursal) obj;
         return Objects.equals(ciudad, other.ciudad) && Objects.equals(direccion, other.direccion) && id == other.id

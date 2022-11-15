@@ -11,7 +11,6 @@ import java.io.FileReader;
 import java.io.FileWriter;
 import java.io.IOException;
 import java.lang.reflect.Method;
-import java.util.List;
 
 import javax.jdo.JDODataStoreException;
 import javax.swing.ImageIcon;
@@ -22,6 +21,7 @@ import javax.swing.JMenuBar;
 import javax.swing.JMenuItem;
 import javax.swing.JOptionPane;
 import javax.swing.UIManager;
+import javax.swing.WindowConstants;
 
 import org.apache.log4j.Logger;
 
@@ -31,7 +31,6 @@ import com.google.gson.JsonElement;
 import com.google.gson.JsonObject;
 import com.google.gson.stream.JsonReader;
 
-import uniandes.isis2304.superandes.negocio.Proveedor;
 import uniandes.isis2304.superandes.negocio.SuperAndes;
 
 /**
@@ -173,7 +172,7 @@ public class InterfazSuperAndesApp extends JFrame implements ActionListener {
 			ancho = guiConfig.get("frameW").getAsInt();
 		}
 
-		setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
+		setDefaultCloseOperation(WindowConstants.EXIT_ON_CLOSE);
 		setLocation(50, 50);
 		setResizable(true);
 		setBackground(Color.WHITE);
@@ -352,7 +351,7 @@ public class InterfazSuperAndesApp extends JFrame implements ActionListener {
 		} catch (Exception e) {
 			// e.printStackTrace();
 			String resultado = generarMensajeError(e);
-			panelDatos.actualizarInterfaz(resultado);			
+			panelDatos.actualizarInterfaz(resultado);
 		}
 	}
 
@@ -365,7 +364,7 @@ public class InterfazSuperAndesApp extends JFrame implements ActionListener {
 		} catch (Exception e) {
 			// e.printStackTrace();
 			String resultado = generarMensajeError(e);
-			panelDatos.actualizarInterfaz(resultado);			
+			panelDatos.actualizarInterfaz(resultado);
 		}
 	}
 
@@ -378,11 +377,11 @@ public class InterfazSuperAndesApp extends JFrame implements ActionListener {
 		} catch (Exception e) {
 			// e.printStackTrace();
 			String resultado = generarMensajeError(e);
-			panelDatos.actualizarInterfaz(resultado);			
+			panelDatos.actualizarInterfaz(resultado);
 		}
 	}
 
-	
+
 
 	/*
 	 * ****************************************************************

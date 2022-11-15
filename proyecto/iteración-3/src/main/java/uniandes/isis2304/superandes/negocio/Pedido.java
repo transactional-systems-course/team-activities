@@ -23,7 +23,7 @@ public class Pedido {
     String FechaEntrega;
     String estado;
     int idSucursal;
-    
+
     public int getId() {
         return id;
     }
@@ -88,9 +88,7 @@ public class Pedido {
     public boolean equals(Object obj) {
         if (this == obj)
             return true;
-        if (obj == null)
-            return false;
-        if (getClass() != obj.getClass())
+        if ((obj == null) || (getClass() != obj.getClass()))
             return false;
         Pedido other = (Pedido) obj;
         return Objects.equals(FechaEntrega, other.FechaEntrega) && cantidadRecompra == other.cantidadRecompra
@@ -99,5 +97,5 @@ public class Pedido {
                 && idSucursal == other.idSucursal && precioCompraProducto == other.precioCompraProducto
                 && precioTotalPedido == other.precioTotalPedido;
     }
-    
+
 }

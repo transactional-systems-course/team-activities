@@ -1,6 +1,7 @@
 package uniandes.isis2304.superandes.interfazApp;
 
 import java.awt.BorderLayout;
+
 import javax.swing.JPanel;
 import javax.swing.JScrollPane;
 import javax.swing.JTextArea;

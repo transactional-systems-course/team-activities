@@ -38,9 +38,7 @@ public class ProductosCompra {
     public boolean equals(Object obj) {
         if (this == obj)
             return true;
-        if (obj == null)
-            return false;
-        if (getClass() != obj.getClass())
+        if ((obj == null) || (getClass() != obj.getClass()))
             return false;
         ProductosCompra other = (ProductosCompra) obj;
         return cantUnidadesCompradas == other.cantUnidadesCompradas && idCompra == other.idCompra
@@ -51,5 +49,5 @@ public class ProductosCompra {
         return "ProductosCompra [idCompra=" + idCompra + ", idProducto=" + idProducto + ", cantUnidadesCompradas="
                 + cantUnidadesCompradas + "]";
     }
-    
+
 }

@@ -34,12 +34,10 @@ public class ProductosProvistos {
     public boolean equals(Object obj) {
         if (this == obj)
             return true;
-        if (obj == null)
-            return false;
-        if (getClass() != obj.getClass())
+        if ((obj == null) || (getClass() != obj.getClass()))
             return false;
         ProductosProvistos other = (ProductosProvistos) obj;
         return idProducto == other.idProducto && idProveedor == other.idProveedor;
     }
-    
+
 }
