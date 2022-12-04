@@ -11,6 +11,8 @@ Este proyecto es una aplicación informática de mediana complejidad que involuc
 - En `docs/sql/data-population` podrá encontrar sentencias de inserción de registros de prueba para poblar la base de datos y soportar los requerimientos funcionales.
 - En `docs/sql/rfc` podrá encontrar sentencias de consulta para soportar los requerimientos funcionales de consulta.
 - En `src/` podrá encontrar el código fuente del proyecto.
+- En `docs/sql-generator/src` podrá encontrar el script de generación de datos masivos.
+- En `docs/sql-generator/build` podrá encontrar archivos CSV generados para poblar la base de datos con alrededor 1 millón de datos.
 
 ## Instrucciones de uso
 
