@@ -25,7 +25,7 @@ def generate_sucursal():
         ret.append([
             str(i),
             fake.city(),
-            fake.address(),
+            fake.address().replace('\n', ''),
             fake.street_name(),
             random.choice(["Small", "Medium", "Big"]),
             fake.text(max_nb_chars=10)
@@ -56,7 +56,7 @@ def generate_usuario():
             fake.password(),
             fake.ascii_free_email(),
             str(random.randint(1, 6)),
-            fake.address(),
+            fake.address().replace('\n', ''),
             str(random.randint(1, 1000)),
             str(random.randint(1, 1000)),
         ])
@@ -245,7 +245,7 @@ def generate_cliente():
             fake.password(),
             fake.ascii_free_email(),
             str(6),
-            fake.address(),
+            fake.address().replace('\n', ''),
             str(random.randint(1, 1000)),
             str(random.randint(1, 1000)),
         ])
