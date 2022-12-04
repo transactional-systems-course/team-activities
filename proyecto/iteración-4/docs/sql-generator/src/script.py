@@ -49,7 +49,7 @@ def generate_usuario():
     ])
     for i in range(NUM_ENTRIES):
         ret.append([
-            fake.ean(length=10),
+            fake.ean(length=8),
             fake.name(),
             random.choice(['PersonaNatural', 'Empresa']),
             random.choice(['CC', 'TI', 'NIT', 'CE']),
@@ -119,7 +119,7 @@ def generate_proveedor():
         "CALIFICACION_PROMEDIO"
     ])
     for i in range(NUM_ENTRIES):
-        nit = fake.ean(length=11)
+        nit = fake.ean(length=8)
         suppliers.append(nit)
         ret.append([
             nit,
@@ -238,7 +238,7 @@ def generate_cliente():
     ])
     for i in range(NUM_ENTRIES):
         ret.append([
-            fake.ean(length=10),
+            fake.ean(length=8),
             fake.name(),
             random.choice(['PersonaNatural', 'Empresa']),
             random.choice(['CC', 'TI', 'NIT', 'CE']),
