@@ -1,0 +1,73 @@
+SELECT
+    NUMERO_DOCUMENTO,
+    NOMBRE,
+    COUNT(NOMBRE) AS COMPRAS_POR_USUARIO,
+    ID_COMPRA,
+    ID_PRODUCTO,
+    CANT_UNIDADES_COMPRADAS
+FROM
+    ( (
+        SELECT
+            *
+        FROM
+            USUARIO
+    ) INNER JOIN (
+        SELECT
+            *
+        FROM
+            COMPRA
+    ) ON NUMERO_DOCUMENTO = COMPRADOR INNER JOIN (
+        SELECT
+            *
+        FROM
+            PRODUCTOS_COMPRA
+    ) ON ID_COMPRA = ID )
+WHERE
+    FECHA_COMPRA BETWEEN '01-JAN-2020'
+    AND '01-JAN-2022'
+    AND ESTADO_COMPRA = 'PAGADA'
+GROUP BY
+    NUMERO_DOCUMENTO,
+    NOMBRE,
+    ID_COMPRA,
+    ID_PRODUCTO,
+    CANT_UNIDADES_COMPRADAS
+
+
+ /*
+SELECT
+    NUMERO_DOCUMENTO,
+    NOMBRE,
+    COUNT(NOMBRE) AS COMPRAS_POR_USUARIO,
+    ID_COMPRA,
+    ID_PRODUCTO,
+    CANT_UNIDADES_COMPRADAS
+FROM
+    ( (
+        SELECT
+            *
+        FROM
+            USUARIO
+    ) INNER JOIN (
+        SELECT
+            *
+        FROM
+            COMPRA
+    ) ON NUMERO_DOCUMENTO = COMPRADOR INNER JOIN (
+        SELECT
+            *
+        FROM
+            PRODUCTOS_COMPRA
+    ) ON ID_COMPRA = ID )
+WHERE
+    FECHA_COMPRA BETWEEN ?
+    AND ?
+    AND ESTADO_COMPRA = 'PAGADA'
+    AND CANT_UNIDADES_COMPRADAS = ?
+GROUP BY
+    NUMERO_DOCUMENTO,
+    NOMBRE,
+    ID_COMPRA,
+    ID_PRODUCTO,
+    CANT_UNIDADES_COMPRADAS
+*/
