@@ -273,4 +273,43 @@ public class SuperAndes {
 		return pedidos;
 	}
 
+	/*
+	 * Consulta el consumo en SuperAndes
+	 */
+	public String consultarConsumo(String startDate, String endDate) {
+		log.info("Consultando consumo en SuperAndes...");
+		String consumo = ps.consultarConsumo(startDate, endDate);
+		log.info("Consumo consultado.");
+		return consumo;
+	}
+
+	/*
+	 * Consulta el no consumo en SuperAndes
+	 */
+	public String consultarNoConsumo(String startDate, String endDate) {
+		log.info("Consultando NO consumo en SuperAndes...");
+		String noConsumo = ps.consultarNoConsumo(startDate, endDate);
+		log.info("No consumo consultado.");
+		return noConsumo;
+	}
+
+	/*
+	 * Consulta el funcionamiento en SuperAndes
+	 */
+	public String consultarFuncionamiento() {
+		log.info("Consultando funcionamiento en SuperAndes...");
+		String funcionamiento = ps.consultarFuncionamiento();
+		log.info("Funcionamiento consultado.");
+		return funcionamiento;
+	}
+
+	/*
+	 * Consulta buenos clientes en SuperAndes
+	 */
+	public String consultarBuenosClientes() {
+		log.info("Consultando buenos clientes en SuperAndes...");
+		String buenosClientes = ps.consultarBuenosClientes();
+		log.info("Buenos clientes consultados.");
+		return buenosClientes;
+	}
 }
