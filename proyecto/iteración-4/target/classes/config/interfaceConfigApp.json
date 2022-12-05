@@ -147,6 +147,27 @@
       ]
     },
     {
+      "menuTitle": "Estadísticas",
+      "options": [
+        {
+          "label": "ConsultarConsumo",
+          "event": "consultarConsumo"
+        },
+        {
+          "label": "ConsultarNoConsumo",
+          "event": "consultarNoConsumo"
+        },
+        {
+          "label": "ConsultarFuncionamiento",
+          "event": "consultarFuncionamiento"
+        },
+        {
+          "label": "ConsultarBuenosClientes",
+          "event": "consultarBuenosClientes"
+        }
+      ]
+    },
+    {
       "menuTitle": "Mantenimiento",
       "options": [
         {

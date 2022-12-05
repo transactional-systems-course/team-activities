@@ -143,7 +143,7 @@ public class InterfazSuperAndesApp extends JFrame implements ActionListener {
 			config = gson.fromJson(reader, JsonObject.class);
 			log.info("Se encontró un archivo de configuración válido: " + tipo);
 		} catch (Exception e) {
-			// e.printStackTrace ();
+			e.printStackTrace ();
 			log.info("NO se encontró un archivo de configuración válido");
 			JOptionPane.showMessageDialog(null,
 					"No se encontró un archivo de configuración de interfaz válido: " + tipo, "SuperAndes App",
@@ -669,6 +669,96 @@ public class InterfazSuperAndesApp extends JFrame implements ActionListener {
 
 	/*
 	 * ****************************************************************
+	 * CRUD de estadísticas
+	 *****************************************************************/
+	/**
+	 * Se quiere conocer la información de los usuarios que realizaron al menos una
+	 * compra de un determinado producto en un rango de fechas.
+	 */
+	public void consultarConsumo() {
+		try {
+			String startDate = JOptionPane.showInputDialog(this, "¿Fecha inicial?",
+					"Consultar consumo", JOptionPane.QUESTION_MESSAGE);
+			String endDate = JOptionPane.showInputDialog(this, "¿Fecha final?",
+					"Consultar consumo", JOptionPane.QUESTION_MESSAGE);
+
+			String resultado = "En consulta de consumo\n\n";
+			resultado += "\n" + superandes.consultarConsumo(startDate, endDate);
+			resultado += "\n Operación terminada";
+			panelDatos.actualizarInterfaz(resultado);
+
+		} catch (Exception e) {
+			// e.printStackTrace();
+			String resultado = generarMensajeError(e);
+			panelDatos.actualizarInterfaz(resultado);
+		}
+	}
+
+	/**
+	 * Se quiere conocer la información de los usuarios que NO realizaron al menos
+	 * una compra de un determinado producto en un rango de fechas.
+	 */
+	public void consultarNoConsumo() {
+		try {
+			String startDate = JOptionPane.showInputDialog(this, "¿Fecha inicial?",
+					"Consultar no consumo", JOptionPane.QUESTION_MESSAGE);
+			String endDate = JOptionPane.showInputDialog(this, "¿Fecha final?",
+					"Consultar no consumo", JOptionPane.QUESTION_MESSAGE);
+
+			String resultado = "En consulta de no consumo\n\n";
+			resultado += "\n" + superandes.consultarNoConsumo(startDate, endDate);
+			resultado += "\n Operación terminada";
+			panelDatos.actualizarInterfaz(resultado);
+
+		} catch (Exception e) {
+			// e.printStackTrace();
+			String resultado = generarMensajeError(e);
+			panelDatos.actualizarInterfaz(resultado);
+		}
+	}
+
+	/**
+	 * Muestra, para cada semana del año (lunes a domingo), el producto más vendido,
+	 * el producto menos vendido, los proveedores más solicitados y los proveedores
+	 * menos solicitados.
+	 */
+	public void consultarFuncionamiento() {
+		try {
+			String resultado = "En consulta de funcionamiento\n\n";
+			resultado += "\n" + superandes.consultarFuncionamiento();
+			resultado += "\n Operación terminada";
+			panelDatos.actualizarInterfaz(resultado);
+		} catch (Exception e) {
+			// e.printStackTrace();
+			String resultado = generarMensajeError(e);
+			panelDatos.actualizarInterfaz(resultado);
+		}
+	}
+
+	/**
+	 * Los buenos clientes son de tres tipos: aquellos que compran en SuperAndes al
+	 * menos una vez al mes, aquellos que siempre compran por lo menos un producto
+	 * costoso (Entiéndase como costoso, por ejemplo, con un precio mayor a
+	 * $100.000.oo) y aquellos que siempre compran productos de tecnología o
+	 * herramientas. Esta consulta retorna toda la información de
+	 * dichos clientes, incluyendo la que justifica su calificación como buenos
+	 * clientes.
+	 */
+	public void consultarBuenosClientes() {
+		try {
+			String resultado = "En consulta de buenos clientes\n\n";
+			resultado += "\n" + superandes.consultarBuenosClientes();
+			resultado += "\n Operación terminada";
+			panelDatos.actualizarInterfaz(resultado);
+		} catch (Exception e) {
+			// e.printStackTrace();
+			String resultado = generarMensajeError(e);
+			panelDatos.actualizarInterfaz(resultado);
+		}
+	}
+
+	/*
+	 * ****************************************************************
 	 * Métodos administrativos
 	 *****************************************************************/
 	/**
@@ -768,7 +858,7 @@ public class InterfazSuperAndesApp extends JFrame implements ActionListener {
 	}
 
 	/**
-	 * Muestra la información acerca del desarrollo de esta apicación
+	 * Muestra la información acerca del desarrollo de esta aplicación
 	 */
 	public void acercaDe() {
 		String resultado = "\n\n ************************************\n\n";
