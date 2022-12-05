@@ -1,1 +1,1 @@
-packageSearchIndex = [{"l":"All Packages","u":"allpackages-index.html"},{"l":"uniandes.isis2304.superandes.interfazApp"},{"l":"uniandes.isis2304.superandes.negocio"},{"l":"uniandes.isis2304.superandes.persistencia"},{"l":"uniandes.isis2304.superandes.test"}];updateSearchResults();
+packageSearchIndex = [{"l":"All Packages","u":"allpackages-index.html"},{"l":"uniandes.isis2304.superandes.interfazApp"}];updateSearchResults();

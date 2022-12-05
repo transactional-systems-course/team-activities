@@ -1,1 +1,0 @@
-typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"uniandes.isis2304.superandes.interfazApp","l":"InterfazSuperAndesApp"}];updateSearchResults();
