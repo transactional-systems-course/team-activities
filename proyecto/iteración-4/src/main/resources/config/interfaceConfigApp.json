@@ -1,0 +1,226 @@
+{
+  "title": "Aplicación transaccional de SuperAndes Uniandes",
+  "frameH": 600,
+  "frameW": 800,
+  "bannerPath": "./src/main/resources/config/logo.png",
+  "menuBar": [
+    {
+      "menuTitle": "Carrito",
+      "options": [
+        {
+          "label": "CrearCarritoCompras",
+          "event": "crearCarrito"
+        },
+        {
+          "label": "AddACarritoCompras",
+          "event": "addCarrito"
+        },
+        {
+          "label": "RemoveDeCarritoCompras",
+          "event": "removeCarrito"
+        }
+      ]
+    },
+    {
+      "menuTitle": "Compra",
+      "options": [
+        {
+          "label": "PagarCompra",
+          "event": "pagarCompra"
+        },
+        {
+          "label": "AbandonarCompra",
+          "event": "abandonarCompra"
+        },
+        {
+          "label": "RecolectarProductosAbandonados",
+          "event": "recolectarProductosAbandonados"
+        }
+      ]
+    },
+    {
+      "menuTitle": "Producto",
+      "options": [
+        {
+          "label": "ConsultarPorCaracteristica",
+          "event": "consultarCaracteristicaProductos"
+        },
+        {
+          "label": "darDatosProductos",
+          "event": "darDatosProductos"
+        }
+      ]
+    },
+    {
+      "menuTitle": "Promocion",
+      "options": [
+        {
+          "label": "Registrar",
+          "event": "registrarPromocion"
+        },
+        {
+          "label": "ConsultarPromosPopulares",
+          "event": "consultarPromosPopulares"
+        }
+      ]
+    },
+    {
+      "menuTitle": "Pedido",
+      "options": [
+        {
+          "label": "CrearPedido",
+          "event": "crearPedido"
+        },
+        {
+          "label": "ConsolidarPedidos",
+          "event": "consolidarPedidos"
+        },
+        {
+          "label": "RegistrarLlegadaPedido",
+          "event": "registrarLlegadaPedido"
+        },
+        {
+          "label": "darDatosProductos",
+          "event": "darDatosProductos"
+        }
+      ]
+    },
+    {
+      "menuTitle": "Estante",
+      "options": [
+        {
+          "label": "AprovisionarEstante",
+          "event": "aprovisionarEstante"
+        },
+        {
+          "label": "ConsultarIndiceOcupacion",
+          "event": "consultarIndiceOcupacionEstante"
+        }
+      ]
+    },
+    {
+      "menuTitle": "Venta",
+      "options": [
+        {
+          "label": "RegistrarVenta",
+          "event": "registrarVenta"
+        },
+        {
+          "label": "ConsultarVentasPorCliente",
+          "event": "consultarVentasPorCliente"
+        }
+      ]
+    },
+    {
+      "menuTitle": "Sucursal",
+      "options": [
+        {
+          "label": "ConsultarDineroRecolectado",
+          "event": "consultarDineroRecolectado"
+        },
+        {
+          "label": "darCompradoresFrecuentes",
+          "event": "darCompradoresFrecuentes"
+        },
+        {
+          "label": "darEntregasInfrecuentes",
+          "event": "darEntregasInfrecuentes"
+        }
+      ]
+    },
+    {
+      "menuTitle": "Bodega",
+      "options": [
+        {
+          "label": "ConsultarIndiceOcupacion",
+          "event": "consultarIndiceOcupacionBodega"
+        }
+      ]
+    },
+    {
+      "menuTitle": "Proveedor",
+      "options": [
+        {
+          "label": "ConsultarPedidos",
+          "event": "consultarPedidosProveedor"
+        }
+      ]
+    },
+    {
+      "menuTitle": "Estadísticas",
+      "options": [
+        {
+          "label": "ConsultarConsumo",
+          "event": "consultarConsumo"
+        },
+        {
+          "label": "ConsultarNoConsumo",
+          "event": "consultarNoConsumo"
+        },
+        {
+          "label": "ConsultarFuncionamiento",
+          "event": "consultarFuncionamiento"
+        },
+        {
+          "label": "ConsultarBuenosClientes",
+          "event": "consultarBuenosClientes"
+        }
+      ]
+    },
+    {
+      "menuTitle": "Mantenimiento",
+      "options": [
+        {
+          "label": "Mostrar log SuperAndes",
+          "event": "mostrarLogSuperAndes"
+        },
+        {
+          "label": "Mostrar log datanucleus",
+          "event": "mostrarLogDatanuecleus"
+        },
+        {
+          "label": "Limpiar log de superAndes",
+          "event": "limpiarLogSuperAndes"
+        },
+        {
+          "label": "Limpiar log de datanucleus",
+          "event": "limpiarLogDatanucleus"
+        },
+        {
+          "label": "Limpiar Base de Datos",
+          "event": "limpiarBD"
+        }
+      ]
+    },
+    {
+      "menuTitle": "Documentación",
+      "options": [
+        {
+          "label": "Modelo conceptual",
+          "event": "mostrarModeloConceptual"
+        },
+        {
+          "label": "Esquema de la BD",
+          "event": "mostrarEsquemaBD"
+        },
+        {
+          "label": "Script creación de la BD",
+          "event": "mostrarScriptBD"
+        },
+        {
+          "label": "Javadoc SuperAndes",
+          "event": "mostrarJavadoc"
+        }
+      ]
+    },
+    {
+      "menuTitle": "Acerca de ...",
+      "options": [
+        {
+          "label": "Acerca de ...",
+          "event": "acercaDe"
+        }
+      ]
+    }
+  ]
+}

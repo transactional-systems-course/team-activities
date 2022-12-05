@@ -1,0 +1,47 @@
+SELECT *
+FROM (
+        SELECT NUMERO_DOCUMENTO,
+            NOMBRE,
+            COUNT(NUMERO_DOCUMENTO) AS COMPRAS_REALIZADAS,
+            ID_SUCURSAL,
+            TO_CHAR(FECHA_COMPRA,
+            'YYYY-MM')
+        FROM (
+                SELECT *
+                FROM ( (
+                        SELECT COMPRADOR,
+                            FECHA_COMPRA
+                        FROM COMPRA
+                    ) INNER JOIN (
+                        SELECT *
+                        FROM USUARIO
+                    ) ON COMPRADOR = NUMERO_DOCUMENTO )
+            )
+        WHERE ID_SUCURSAL = 517
+        GROUP BY NUMERO_DOCUMENTO,
+            NOMBRE,
+            ID_SUCURSAL,
+            FECHA_COMPRA
+    )
+WHERE COMPRAS_REALIZADAS >= 2;
+
+SELECT *
+FROM COMPRA;
+
+/*
+SELECT * FROM (
+SELECT NUMERO_DOCUMENTO, NOMBRE, COUNT(NUMERO_DOCUMENTO) AS COMPRAS_REALIZADAS,
+ID_SUCURSAL, to_char(FECHA_COMPRA, 'YYYY-MM') FROM
+(
+SELECT * FROM
+(
+(SELECT COMPRADOR, FECHA_COMPRA FROM COMPRA)
+INNER JOIN
+(SELECT * FROM USUARIO)
+ON COMPRADOR = NUMERO_DOCUMENTO
+)
+)
+WHERE ID_SUCURSAL = ?
+GROUP BY NUMERO_DOCUMENTO, NOMBRE, ID_SUCURSAL, FECHA_COMPRA
+) WHERE COMPRAS_REALIZADAS >= 2;
+*/
