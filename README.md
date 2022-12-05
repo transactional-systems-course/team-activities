@@ -1,5 +1,9 @@
-# B-03
+# Transactional Systems - Course Activities
 
-- Jaime Andrés Torres Bermejo (j.torres16)
-- Juan Sebastián Alegría Zúñiga (j.alegria)
+Team activities made on a transactional systems course.
 
+## License
+
+[![License](http://img.shields.io/:license-mit-blue.svg?style=flat-square)](http://badges.mit-license.org)
+
+- **[MIT license](LICENSE)**
