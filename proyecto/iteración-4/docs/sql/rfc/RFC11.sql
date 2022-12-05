@@ -34,8 +34,8 @@ FROM (
         WHERE NUMERO_DOCUMENTO NOT IN (
                 SELECT NUMERO_DOCUMENTO
                 FROM USUARIOS_CON_COMPRA
-                WHERE FECHA_COMPRA BETWEEN '01-JAN-2020' AND
-                    '01-JAN-2022' AND
+                WHERE FECHA_COMPRA BETWEEN '01-01-2020' AND
+                    '01-01-2022' AND
                     ESTADO_COMPRA = 'PAGADA'
             )
     );
